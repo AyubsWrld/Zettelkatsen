@@ -107,6 +107,52 @@
             }
           },
           {
+            "id": "736221a746b07799",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Programming/Algorithms/Means of Traversal/Topological Sorting.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ebf006985879d729",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Programming/Algorithms/Means of Traversal/Shortest Path Traversal.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f1aa94fda177a6f8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Minimum Spanning Tree.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0a7eef9a864e336e",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2024-09-11 08.42.41.excalidraw.md"
+              }
+            }
+          },
+          {
             "id": "c7fb0347cdaeca6a",
             "type": "leaf",
             "state": {
@@ -119,7 +165,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 10
       }
     ],
     "direction": "vertical"
@@ -169,7 +215,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 337.5
+    "width": 200
   },
   "right": {
     "id": "3e1e8c190d75938f",
@@ -185,7 +231,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programming/Algorithms/Means of Representation/Tree/Binary Search Tree Height.md",
+                "file": "Minimum Spanning Tree.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -202,7 +248,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programming/Algorithms/Means of Representation/Tree/Binary Search Tree Height.md",
+                "file": "Minimum Spanning Tree.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -225,7 +271,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programming/Algorithms/Means of Representation/Tree/Binary Search Tree Height.md"
+                "file": "Minimum Spanning Tree.md"
               }
             }
           }
@@ -245,13 +291,24 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "card-board:CardBoard": false,
-      "obsidian-full-calendar:Open Full Calendar": false
+      "obsidian-full-calendar:Open Full Calendar": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "178d84c248630875",
+  "active": "88c133c60264fe72",
   "lastOpenFiles": [
-    "Programming/Algorithms/Means of Representation/Tree/Binary Search Tree.md",
+    "Programming/Algorithms/Means of Analysis",
+    "Programming/Algorithms/Means of Traversal/Shortest Path Traversal.md",
+    "Minimum Spanning Tree.md",
+    "Programming/Algorithms/Problem Patterns",
+    "Programming/Algorithms/Means of Traversal/Topological Sorting.md",
     "Programming/Algorithms/Means of Representation/Tree/Binary Search Tree Height.md",
+    "Programming/Algorithms/Means of Traversal",
+    "Excalidraw/Drawing 2024-09-11 08.42.41.excalidraw.md",
+    "Excalidraw/Drawing 2024-09-11 08.44.07.excalidraw.md",
+    "Excalidraw/Drawing 2024-09-11 08.42.25.excalidraw.md",
+    "Excalidraw",
+    "Programming/Algorithms/Means of Representation/Tree/Binary Search Tree.md",
     "Programming/Algorithms/Means of Representation/Graphs/Graph.md",
     "Programming/Algorithms/Means of Representation/Sets",
     "Project Planning/Keepur/Keepr Outline.canvas",
@@ -279,18 +336,8 @@
     "MATH/Linear Algebra/Complex Numbers/Complex Number Division.md",
     "MATH/Linear Algebra/Complex Numbers/Complex Number Equivalence.md",
     "MATH/Linear Algebra/Complex Numbers/Complex Number Exponential Form.md",
-    "MATH/Linear Algebra/Complex Numbers/Complex Number Example.md",
-    "MATH/Linear Algebra/Complex Numbers/Complex Number Geometric Interpretation.md",
-    "MATH/Linear Algebra/Complex Numbers/Complex Number Polar Form.md",
-    "MATH/Linear Algebra/Complex Numbers/Complex Number System.md",
-    "MATH/Linear Algebra/Complex Numbers/Complex Number Multiplicative.md",
-    "MATH/Linear Algebra/Complex Numbers/Complex Numbers.md",
-    "MATH/Linear Algebra/Complex Numbers/Complex Number Modulus.md",
     "MATH/Linear Algebra/Exponential Form",
     "MATH/Geometry/Syntax",
-    "MATH/Geometry/Primitives",
-    "MATH/Geometry/Geometric Figures",
-    "MATH/Geometry/Axioms & Postulates",
     "Programming/Computer Science/Languages/Objective-C/Program Structure.canvas",
     "Programming/Mobile Development/expo/Native Module Structure.canvas",
     "Programming/Computer Science/Theory/RBDMS/Pasted image 20240610175142.png",
