@@ -74,14 +74,35 @@
             "id": "fefacbd9ee88724c",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Project Planning/Keepur/Keepr Outline.canvas",
-                "viewState": {
-                  "x": -938.2100884876335,
-                  "y": 2109.7430209851873,
-                  "zoom": -1.3333333333333333
-                }
+                "file": "Programming/Algorithms/Means of Representation/Graphs/Graph.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1a3f7371916d103d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Programming/Algorithms/Means of Representation/Tree/Binary Search Tree.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "178d84c248630875",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Programming/Algorithms/Means of Representation/Tree/Binary Search Tree Height.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -98,7 +119,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -164,7 +185,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Project Planning/Keepur/Keepr Outline.canvas",
+                "file": "Programming/Algorithms/Means of Representation/Tree/Binary Search Tree Height.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -181,7 +202,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Project Planning/Keepur/Keepr Outline.canvas",
+                "file": "Programming/Algorithms/Means of Representation/Tree/Binary Search Tree Height.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -204,7 +225,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Project Planning/Keepur/Keepr Outline.canvas"
+                "file": "Programming/Algorithms/Means of Representation/Tree/Binary Search Tree Height.md"
               }
             }
           }
@@ -223,18 +244,23 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-full-calendar:Open Full Calendar": false,
-      "card-board:CardBoard": false
+      "card-board:CardBoard": false,
+      "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "fefacbd9ee88724c",
+  "active": "178d84c248630875",
   "lastOpenFiles": [
+    "Programming/Algorithms/Means of Representation/Tree/Binary Search Tree.md",
+    "Programming/Algorithms/Means of Representation/Tree/Binary Search Tree Height.md",
+    "Programming/Algorithms/Means of Representation/Graphs/Graph.md",
+    "Programming/Algorithms/Means of Representation/Sets",
+    "Project Planning/Keepur/Keepr Outline.canvas",
+    "Programming/Algorithms/Means of Representation/Graphs",
+    "Programming/Algorithms/Means of Representation/Tree",
     "Project Planning/Keepur/Outline.md",
     "MATH/Geometry/Primitives/Segment.md",
-    "Project Planning/Keepur/Keepr Outline.canvas",
     "Project Planning/Keepur/Abstract.md",
     "Programming/Design Patterns/Introduction/Design Patterns in Smalltalk.md",
-    "Untitled",
     "Programming/Design Patterns/Introduction/How to select a Design Pattern.md",
     "Programming/Design Patterns/Outline.canvas",
     "Programming/Design Patterns/Introduction/What is a Design Pattern.md",
@@ -248,7 +274,7 @@
     "Programming/System Design/Reliable , Scalable , and Maintainable Applications/Chaos Engineering.md",
     "Programming/System Design/Reliable , Scalable , and Maintainable Applications",
     "Programming/System Design/Reliable , Scalable , and Maintainable Applications/Debug Build.md",
-    "Programming/Algorithms/Means of Representation/Graph Traversal.md",
+    "Programming/Algorithms/Means of Representation/Graphs/Graph Traversal.md",
     "MATH/Linear Algebra/Complex Numbers/Complex Number Conjugate.md",
     "MATH/Linear Algebra/Complex Numbers/Complex Number Division.md",
     "MATH/Linear Algebra/Complex Numbers/Complex Number Equivalence.md",
@@ -260,16 +286,11 @@
     "MATH/Linear Algebra/Complex Numbers/Complex Number Multiplicative.md",
     "MATH/Linear Algebra/Complex Numbers/Complex Numbers.md",
     "MATH/Linear Algebra/Complex Numbers/Complex Number Modulus.md",
-    "MATH/Linear Algebra/Complex Numbers/Eulers Formula.md",
     "MATH/Linear Algebra/Exponential Form",
-    "Methods.md",
-    "MATH/Geometry/Primitives/Segment Length.md",
     "MATH/Geometry/Syntax",
     "MATH/Geometry/Primitives",
     "MATH/Geometry/Geometric Figures",
     "MATH/Geometry/Axioms & Postulates",
-    "Programming/Algorithms",
-    "Programming/Algorithms 1",
     "Programming/Computer Science/Languages/Objective-C/Program Structure.canvas",
     "Programming/Mobile Development/expo/Native Module Structure.canvas",
     "Programming/Computer Science/Theory/RBDMS/Pasted image 20240610175142.png",
