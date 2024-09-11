@@ -1,3 +1,5 @@
-#🗃️ Zettelkasten
-____
-Cheeky luh brain expansion , like and subscribe to the youtube channel 
+
+# 🗃️ Zettelkasten Notes
+___
+Cheeky Luh Brain Expansion 🤢🥶
+
