@@ -1,3 +1,0 @@
-Given two [[Segment]]s , if they are non-congruent and share the same origin , One must be the larger of the segments and the other the smaller of the segments . there also must exist a midpoint between these segments ( The smaller of the two segments endpoint ) . We can add two segments to get another . For example given the segments $AC$ and $CB$ we can combine the two segments to form $AB$ . $$AC + CB = AB$$
-____
-Tags : #math #geometry #syntax 

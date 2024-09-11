@@ -1,7 +1,0 @@
-- **Mobile Frontend**: React Native or Flutter
-- **Backend**: Node.js with Express or Django/Flask
-- **Database**: Firebase Firestore or PostgreSQL/MySQL
-- **Hosting**: Firebase, AWS, or Google Cloud
-- **Push Notifications**: Firebase Cloud Messaging (FCM) and Apple Push Notification Service (APNs)
-- **Authentication**: Firebase Authentication or Auth0
-- **Security**: HTTPS, database encryption, and 2FA

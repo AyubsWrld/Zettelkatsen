@@ -1,1 +1,0 @@
-Fundamental view about things 

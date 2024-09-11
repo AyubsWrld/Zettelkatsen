@@ -1,1 +1,0 @@
-- If two lines intersect : equal ? right : larger = obtuse , smaller = acute .

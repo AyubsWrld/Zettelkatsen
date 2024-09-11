@@ -1,1 +1,0 @@
-A collection of code written by another individual which addresses some form of problem . However a framework requires some concession of freedom and [[Inversion of Control]] . 

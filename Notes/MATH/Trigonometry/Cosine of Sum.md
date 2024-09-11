@@ -1,2 +1,0 @@
-___
-Tags : #trigonometry #math 

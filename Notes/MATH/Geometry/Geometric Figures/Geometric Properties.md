@@ -1,4 +1,0 @@
-
-___
-
-Tags : #geometry #math 
