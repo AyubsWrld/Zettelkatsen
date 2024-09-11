@@ -1,1 +1,5 @@
-# School-Notes
+
+# 🗃️ Zettelkasten Notes
+___
+Cheeky Luh Brain Expansion 🤢🥶
+
