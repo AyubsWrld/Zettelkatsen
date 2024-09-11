@@ -8,7 +8,7 @@
 		{"id":"b8050888b04b457e","type":"text","text":"[[How to select a Design Pattern]]","x":-1540,"y":132,"width":292,"height":60,"color":"1"},
 		{"id":"d311cebce2b06abd","type":"text","text":"[[How to use a Design Pattern]]","x":880,"y":142,"width":283,"height":60,"color":"1"},
 		{"id":"b66bbdd59f644a33","type":"text","text":"Introduction","x":-200,"y":-420,"width":155,"height":60},
-		{"id":"78bfe03c10219ae1","type":"text","text":"[[What is a Design Pattern]]","x":-1080,"y":132,"width":250,"height":60,"color":"1"}
+		{"id":"78bfe03c10219ae1","type":"text","text":"[[What is a Design Pattern]]","x":-1080,"y":132,"width":250,"height":60,"color":"2"}
 	],
 	"edges":[
 		{"id":"9dea666e6dd6af17","fromNode":"b66bbdd59f644a33","fromSide":"bottom","toNode":"78bfe03c10219ae1","toSide":"top"},

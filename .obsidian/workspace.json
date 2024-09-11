@@ -134,11 +134,14 @@
             "id": "f1aa94fda177a6f8",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Minimum Spanning Tree.md",
-                "mode": "source",
-                "source": false
+                "file": "Programming/Design Patterns/Outline.canvas",
+                "viewState": {
+                  "x": -6483.45017750572,
+                  "y": -94.32988751323637,
+                  "zoom": -1.2060096428276896
+                }
               }
             }
           },
@@ -231,7 +234,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Minimum Spanning Tree.md",
+                "file": "Programming/Design Patterns/Outline.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -248,7 +251,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Minimum Spanning Tree.md",
+                "file": "Programming/Design Patterns/Outline.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -271,7 +274,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Minimum Spanning Tree.md"
+                "file": "Programming/Design Patterns/Outline.canvas"
               }
             }
           }
@@ -295,11 +298,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "88c133c60264fe72",
+  "active": "f1aa94fda177a6f8",
   "lastOpenFiles": [
+    "Programming/Design Patterns/Introduction/What is a Design Pattern.md",
+    "Programming/Design Patterns/Outline.canvas",
+    "Programming/Algorithms/Problem Patterns/Minimum Spanning Tree.md",
     "Programming/Algorithms/Means of Analysis",
     "Programming/Algorithms/Means of Traversal/Shortest Path Traversal.md",
-    "Minimum Spanning Tree.md",
     "Programming/Algorithms/Problem Patterns",
     "Programming/Algorithms/Means of Traversal/Topological Sorting.md",
     "Programming/Algorithms/Means of Representation/Tree/Binary Search Tree Height.md",
@@ -319,8 +324,6 @@
     "Project Planning/Keepur/Abstract.md",
     "Programming/Design Patterns/Introduction/Design Patterns in Smalltalk.md",
     "Programming/Design Patterns/Introduction/How to select a Design Pattern.md",
-    "Programming/Design Patterns/Outline.canvas",
-    "Programming/Design Patterns/Introduction/What is a Design Pattern.md",
     "Programming/System Design/Overview.canvas",
     "Introduction",
     "MATH/Geometry/Axioms & Postulates/Postulates.md",
@@ -337,7 +340,6 @@
     "MATH/Linear Algebra/Complex Numbers/Complex Number Equivalence.md",
     "MATH/Linear Algebra/Complex Numbers/Complex Number Exponential Form.md",
     "MATH/Linear Algebra/Exponential Form",
-    "MATH/Geometry/Syntax",
     "Programming/Computer Science/Languages/Objective-C/Program Structure.canvas",
     "Programming/Mobile Development/expo/Native Module Structure.canvas",
     "Programming/Computer Science/Theory/RBDMS/Pasted image 20240610175142.png",
