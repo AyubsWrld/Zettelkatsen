@@ -78,9 +78,9 @@
               "state": {
                 "file": "Project Planning/Keepur/Keepr Outline.canvas",
                 "viewState": {
-                  "x": 1085,
-                  "y": 1028.5,
-                  "zoom": -1.6543993345754542
+                  "x": -938.2100884876335,
+                  "y": 2109.7430209851873,
+                  "zoom": -1.3333333333333333
                 }
               }
             }
@@ -223,8 +223,8 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "card-board:CardBoard": false,
-      "obsidian-full-calendar:Open Full Calendar": false
+      "obsidian-full-calendar:Open Full Calendar": false,
+      "card-board:CardBoard": false
     }
   },
   "active": "fefacbd9ee88724c",
