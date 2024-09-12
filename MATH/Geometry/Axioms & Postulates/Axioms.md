@@ -19,6 +19,10 @@ ___
 ##### Axiom (3)  
 ___
 **One and only one segment congruent to a given segment can be laid off a ray starting from the origin** . That is if they have the same starting point from the origin , if they are congruent it implies that they are the same segment (They have the same end and starting point ), otherwise one segment is the larger of the two and the other is the smaller of the two . 
+
+##### Axiom (4)  
+___
+The existence of some essential isometries . 
 ____
 
 Tags : #geometry #math 

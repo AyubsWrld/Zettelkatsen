@@ -134,41 +134,38 @@
             "id": "f1aa94fda177a6f8",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Programming/Design Patterns/Outline.canvas",
-                "viewState": {
-                  "x": -6483.45017750572,
-                  "y": -94.32988751323637,
-                  "zoom": -1.2060096428276896
-                }
+                "file": "MATH/Geometry/Axioms & Postulates/Axioms.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
           {
-            "id": "0a7eef9a864e336e",
+            "id": "63fade18325a6ce9",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/Drawing 2024-09-11 08.42.41.excalidraw.md"
+                "file": "Excalidraw/MATH@@%.md"
               }
             }
           },
           {
-            "id": "c7fb0347cdaeca6a",
+            "id": "b5dccb0f9e6e650d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MATH/Linear Algebra/Complex Numbers/Complex Number Modulus.md",
+                "file": "MATH/Geometry/Primitives/Angles.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 10
+        "currentTab": 12
       }
     ],
     "direction": "vertical"
@@ -234,7 +231,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programming/Design Patterns/Outline.canvas",
+                "file": "MATH/Geometry/Primitives/Angles.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -251,7 +248,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programming/Design Patterns/Outline.canvas",
+                "file": "MATH/Geometry/Primitives/Angles.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -274,7 +271,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programming/Design Patterns/Outline.canvas"
+                "file": "MATH/Geometry/Primitives/Angles.md"
               }
             }
           }
@@ -298,10 +295,28 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "f1aa94fda177a6f8",
+  "active": "b5dccb0f9e6e650d",
   "lastOpenFiles": [
-    "Programming/Design Patterns/Introduction/What is a Design Pattern.md",
+    "MATH/Geometry/Primitives/Segment Length.md",
+    "MATH/Geometry/Primitives/Segment.md",
+    "MATH/Geometry/Primitives/Point.md",
+    "MATH/Geometry/Primitives/Angles.md",
+    "MATH/Geometry/Primitives/Circles.md",
+    "MATH/Geometry/Syntax/Congruence of Segments 1.md",
+    "MATH/Geometry/Syntax/Undefined Notion.md",
+    "MATH/Geometry/Geometry.md",
+    "MATH/Geometry/Euclidiean Axioms.md",
+    "MATH/Geometry/Equivalence Equation.md",
+    "MATH/Linear Algebra/Complex Numbers/Complex Number Examples.md",
+    "MATH/Linear Algebra/Complex Numbers/Complex Number Modulus.md",
+    "MATH/Linear Algebra/Complex Numbers/Complex Number Laws.md",
+    "MATH/Linear Algebra/Complex Numbers/Complex Number Exponential Form.md",
+    "MATH/Linear Algebra/Complex Numbers/Complex Number Geometric Interpretation.md",
+    "Excalidraw/MATH@@%.md",
+    "Excalidraw/Drawing 2024-09-12 09.47.23.excalidraw.md",
+    "MATH/Geometry/Axioms & Postulates/Axioms.md",
     "Programming/Design Patterns/Outline.canvas",
+    "Programming/Design Patterns/Introduction/What is a Design Pattern.md",
     "Programming/Algorithms/Problem Patterns/Minimum Spanning Tree.md",
     "Programming/Algorithms/Means of Analysis",
     "Programming/Algorithms/Means of Traversal/Shortest Path Traversal.md",
@@ -313,32 +328,15 @@
     "Excalidraw/Drawing 2024-09-11 08.44.07.excalidraw.md",
     "Excalidraw/Drawing 2024-09-11 08.42.25.excalidraw.md",
     "Excalidraw",
-    "Programming/Algorithms/Means of Representation/Tree/Binary Search Tree.md",
-    "Programming/Algorithms/Means of Representation/Graphs/Graph.md",
     "Programming/Algorithms/Means of Representation/Sets",
     "Project Planning/Keepur/Keepr Outline.canvas",
     "Programming/Algorithms/Means of Representation/Graphs",
     "Programming/Algorithms/Means of Representation/Tree",
-    "Project Planning/Keepur/Outline.md",
-    "MATH/Geometry/Primitives/Segment.md",
-    "Project Planning/Keepur/Abstract.md",
-    "Programming/Design Patterns/Introduction/Design Patterns in Smalltalk.md",
-    "Programming/Design Patterns/Introduction/How to select a Design Pattern.md",
     "Programming/System Design/Overview.canvas",
     "Introduction",
-    "MATH/Geometry/Axioms & Postulates/Postulates.md",
     "MATH/Images/Pasted image 20240604144226.png",
     "MATH/Linear Algebra/Outline.canvas",
-    "Programming/System Design/Reliable , Scalable , and Maintainable Applications/Batch Processing System.md",
-    "README.md",
-    "Programming/System Design/Reliable , Scalable , and Maintainable Applications/Chaos Engineering.md",
     "Programming/System Design/Reliable , Scalable , and Maintainable Applications",
-    "Programming/System Design/Reliable , Scalable , and Maintainable Applications/Debug Build.md",
-    "Programming/Algorithms/Means of Representation/Graphs/Graph Traversal.md",
-    "MATH/Linear Algebra/Complex Numbers/Complex Number Conjugate.md",
-    "MATH/Linear Algebra/Complex Numbers/Complex Number Division.md",
-    "MATH/Linear Algebra/Complex Numbers/Complex Number Equivalence.md",
-    "MATH/Linear Algebra/Complex Numbers/Complex Number Exponential Form.md",
     "MATH/Linear Algebra/Exponential Form",
     "Programming/Computer Science/Languages/Objective-C/Program Structure.canvas",
     "Programming/Mobile Development/expo/Native Module Structure.canvas",
