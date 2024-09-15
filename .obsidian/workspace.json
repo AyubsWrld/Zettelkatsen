@@ -54,9 +54,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "d4b5610362648181",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MATH/Linear Algebra/Complex Numbers/Complex Number Geometrical Interpretation.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -122,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MATH/Linear Algebra/Problem Set Patterns/Converting from Rectangular Form to Exponential Form.md",
+                "file": "MATH/Linear Algebra/Complex Numbers/Complex Number Geometrical Interpretation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MATH/Linear Algebra/Problem Set Patterns/Converting from Rectangular Form to Exponential Form.md",
+                "file": "MATH/Linear Algebra/Complex Numbers/Complex Number Geometrical Interpretation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MATH/Linear Algebra/Problem Set Patterns/Converting from Rectangular Form to Exponential Form.md"
+                "file": "MATH/Linear Algebra/Complex Numbers/Complex Number Geometrical Interpretation.md"
               }
             }
           }
@@ -186,10 +198,12 @@
       "card-board:CardBoard": false
     }
   },
-  "active": "09b23aa709d3ffed",
+  "active": "d4b5610362648181",
   "lastOpenFiles": [
-    "MATH/Linear Algebra/Problem Set Patterns/Converting from Rectangular Form to Polar.md",
+    "MATH/Linear Algebra/Complex Numbers/Complex Number Geometric Interpretation.md",
+    "MATH/Linear Algebra/Complex Numbers/Complex Number Geometrical Interpretation.md",
     "MATH/Linear Algebra/Problem Set Patterns/Converting from Rectangular Form to Exponential Form.md",
+    "MATH/Linear Algebra/Problem Set Patterns/Converting from Rectangular Form to Polar.md",
     "MATH/Linear Algebra/de Moire's Formula.md",
     "MATH/Linear Algebra/Complex Numbers/Complex Number Polar Form.md",
     "MATH/Linear Algebra/Problem Set Patterns",
@@ -217,8 +231,6 @@
     "MATH/Geometry/Primitives/Segment Length.md",
     "MATH/Geometry/Primitives/Segment.md",
     "MATH/Geometry/Primitives/Point.md",
-    "MATH/Geometry/Primitives/Circles.md",
-    "MATH/Geometry/Syntax/Congruence of Segments 1.md",
     "Programming/Design Patterns/Outline.canvas",
     "Programming/Algorithms/Means of Analysis",
     "Programming/Algorithms/Problem Patterns",
