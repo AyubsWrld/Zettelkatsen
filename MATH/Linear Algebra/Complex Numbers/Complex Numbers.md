@@ -11,6 +11,25 @@ For Example , suppose $z = 5 + (-2)i$ ..
 ____
 Two complex numbers are considered `equivalent` if both their `real` and `imaginary` parts are equivalent. 
 
+##### Subtraction
+____
+$z - \bar{z} = 2(Imz)$ 
+
+##### Addition 
+____
+given two complex numbers, their sum is expressed as follows ...
+$z + w = (Rez +Rew) + (Imz+Imw)i$  
+
+##### Multiplication 
+____
+given two complex numbers, their sum is expressed as follows ...
+$z \times w = (ac - bd) + (ad+bc)i$  
+That is you simply foil 
+
+##### Inverse 
+____
+$z^{-1} = \frac{\bar{z}}{|z|}$  
+
 ____
 
 Tags : #math #linear-algebra
