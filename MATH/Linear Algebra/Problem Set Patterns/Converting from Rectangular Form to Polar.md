@@ -6,7 +6,25 @@ $\theta = tan^{-1}(\frac{b}{a})$
 
 Then we simply substitute the values respectively 
 
+### Example
+___
+*Suppose $z= 1 + i$*
 
+*Polar form :  $z = r(cos(\theta) + sin(\theta)i)$ *
+
+*Compute the magnitude*
+$z = \sqrt{a^2 +b^2}$
+$z = \sqrt{1 + 1}$
+$z = \sqrt{2}$
+
+
+*Compute the argument*
+$tan(\theta) = \frac{b}{a}$
+$\theta = tan^{-1}(\frac{1}{1})$
+$\theta = tan^{-1}(1)$
+$\theta = \frac{\pi}{4}$
+
+*Polar form :  $z = \sqrt{2}(cos(\frac{\pi}{4}) + sin(\frac{\pi}{4})i)$*
 ____
 
 Tags : #math #linear-algebra
