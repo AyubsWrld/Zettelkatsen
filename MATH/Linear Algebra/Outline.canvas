@@ -1,19 +1,19 @@
 {
 	"nodes":[
-		{"id":"3473fa4a11fcb659","x":-946,"y":-773,"width":1746,"height":808,"color":"#ff756b","type":"group","label":"Complex Numbers"},
-		{"id":"ad216bbac4740f2d","type":"text","text":"[[Complex Number Rectangular Form]]","x":-780,"y":-46,"width":313,"height":60,"color":"2"},
+		{"id":"3473fa4a11fcb659","type":"group","x":-946,"y":-773,"width":1746,"height":808,"color":"#ff756b","label":"Complex Numbers"},
+		{"id":"ad216bbac4740f2d","type":"text","text":"[[Complex Number Rectangular Form]]","x":-780,"y":-46,"width":313,"height":60,"color":"4"},
 		{"id":"6385288093abf105","type":"text","text":"[[Complex Number Exponential Form]]","x":-280,"y":-46,"width":334,"height":60,"color":"1"},
 		{"id":"b2826515aad67315","type":"text","text":"[[Complex Number Polar Form]]","x":236,"y":-45,"width":264,"height":60,"color":"1"},
 		{"id":"bb5c036eb8be601a","type":"text","text":"[[Complex Numbers]]","x":-215,"y":-500,"width":205,"height":60,"color":"2"},
 		{"id":"8f454d14545eb9ca","type":"text","text":"Forms","x":-174,"y":-300,"width":123,"height":60,"color":"6"},
 		{"id":"ef5a2f50ede4d266","type":"text","text":"[[Complex Number Argument]]","x":-926,"y":-530,"width":293,"height":60,"color":"1"},
-		{"id":"b40ccaee083294ca","type":"text","text":"[[Complex Number Arithmetic]]","x":-926,"y":-323,"width":292,"height":53,"color":"1"},
-		{"id":"1b5f4f0296763191","type":"text","text":"[[Complex Number Conjugate]]","x":-900,"y":-744,"width":393,"height":60,"color":"2"},
-		{"id":"77a7a4434a6d28c2","type":"text","text":"[[Complex Number Division]]","x":-416,"y":-746,"width":276,"height":60,"color":"2"},
+		{"id":"b40ccaee083294ca","type":"text","text":"[[Complex Number Arithmetic]]","x":-926,"y":-323,"width":292,"height":53,"color":"2"},
+		{"id":"1b5f4f0296763191","type":"text","text":"[[Complex Number Conjugate]]","x":-900,"y":-744,"width":393,"height":60,"color":"4"},
+		{"id":"77a7a4434a6d28c2","type":"text","text":"[[Complex Number Division]]","x":-416,"y":-746,"width":276,"height":60,"color":"4"},
 		{"id":"9e031f900ac599bf","type":"text","text":"Complex Number Equivalence","x":-51,"y":-744,"width":305,"height":60,"color":"4"},
-		{"id":"cbff5fda29128c59","type":"text","text":"[[Complex Number Modulus]]","x":273,"y":-604,"width":250,"height":60,"color":"2"},
+		{"id":"cbff5fda29128c59","type":"text","text":"[[Complex Number Modulus]]","x":273,"y":-604,"width":250,"height":60,"color":"4"},
 		{"id":"b5c3838d17e06b98","type":"text","text":"[[Complex Number Multiplicative]]","x":419,"y":-753,"width":281,"height":60,"color":"1"},
-		{"id":"967a8b14d2bb3ece","type":"text","text":"[[Complex Number System]]","x":503,"y":-468,"width":277,"height":60,"color":"2"}
+		{"id":"967a8b14d2bb3ece","type":"text","text":"[[Complex Number System]]","x":503,"y":-468,"width":277,"height":60,"color":"4"}
 	],
 	"edges":[
 		{"id":"80bf92cfadda29d1","fromNode":"bb5c036eb8be601a","fromSide":"bottom","toNode":"8f454d14545eb9ca","toSide":"top"},

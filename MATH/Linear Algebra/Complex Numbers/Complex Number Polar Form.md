@@ -1,3 +1,5 @@
+### $z = rcos(\theta) + rsin(\theta)i$
+
 ##### Recall
 ____
 - $cos(\theta) = \frac{a}{h}$    
@@ -10,6 +12,8 @@ ____
 
 As opposed to using regular cartesian coordinates ,  ($x , y$) , we can utilize polar coordinates which utilize $(\theta , r)$ .  We can express $z = Rez + Imz$ as $z = r(cos(\theta) + sin(\theta)i$ where $r$ is the $|z|$
 .
+
+
 
 ##### Example One
 ___

@@ -1,6 +1,9 @@
 ##### Addition 
 ____
 $$(a + bi) + (c + di) = (a+c) + (b+d)i$$
+##### Subtraction  
+____
+$$(a + bi) - (c + di) = (a-c) + (b-d)i$$
 
 ##### Multiplication  
 ___
