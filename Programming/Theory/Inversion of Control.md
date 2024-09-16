@@ -1,0 +1,2 @@
+Refers to the degree of freedom the programmer holds when writing programs and it is the differentiating factor between a [[Library]] and a [[Framework]] . A good tell is when there exists requires a concession of application-design freedom.
+#system-design 

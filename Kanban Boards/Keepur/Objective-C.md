@@ -9,5 +9,5 @@
 - [ ] Log Handling 
 - [ ] Error Handling
 - [ ] Arguments
-- [ ] [[Programming/Computer Science/Languages/Objective-C/Classes|Classes]]
+- [ ] [[Programming/Languages/Objective-C/Classes|Classes]]
  

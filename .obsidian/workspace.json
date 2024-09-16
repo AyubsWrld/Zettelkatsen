@@ -139,16 +139,91 @@
             "id": "1b79f60be10e69e8",
             "type": "leaf",
             "state": {
+              "type": "canvas",
+              "state": {
+                "file": "MATH/Geometry/Outline.canvas",
+                "viewState": {
+                  "x": 605.3934023601381,
+                  "y": 684.43275876947,
+                  "zoom": -1.1102230246251565e-16
+                }
+              }
+            }
+          },
+          {
+            "id": "ac1c678e18109dc2",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "MATH/Discrete Math/Mathematical Propositions/Logic Laws.md",
+                "file": "MATH/Geometry/Angles/Angle.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bac99ee14194bd57",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MATH/Geometry/Syntax/Congruent.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d53d9c9ebccb4787",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MATH/Geometry/Angles/Angular Congruence.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "52740595aade8205",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MATH/Geometry/Angles/Angular Adjacency.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "780620938e70b531",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MATH/Geometry/Angles/Angular Adjacency.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ebefd6cd323bf07a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MATH/Geometry/Angles/Angular Arithmetic.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 11
+        "currentTab": 17
       }
     ],
     "direction": "vertical"
@@ -214,7 +289,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MATH/Discrete Math/Mathematical Propositions/Logic Laws.md",
+                "file": "MATH/Geometry/Angles/Angular Arithmetic.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -231,7 +306,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MATH/Discrete Math/Mathematical Propositions/Logic Laws.md",
+                "file": "MATH/Geometry/Angles/Angular Arithmetic.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -254,7 +329,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MATH/Discrete Math/Mathematical Propositions/Logic Laws.md"
+                "file": "MATH/Geometry/Angles/Angular Arithmetic.md"
               }
             }
           }
@@ -278,10 +353,24 @@
       "card-board:CardBoard": false
     }
   },
-  "active": "1b79f60be10e69e8",
+  "active": "88c133c60264fe72",
   "lastOpenFiles": [
-    "Project Planning/Keepur/Ideation & Market Research/COPPA.md",
+    "MATH/Geometry/Angles/Angular Adjacency.md",
+    "MATH/Geometry/Angles/Angular Arithmetic.md",
+    "MATH/Geometry/Angles/Generalization of the notion of an angle.md",
+    "MATH/Geometry/Angles/Angle.md",
+    "MATH/Geometry/Angles/Angular Congruence.md",
+    "MATH/Geometry/Syntax/Isometry.md",
+    "MATH/Geometry/Syntax/Congruent.md",
+    "MATH/Geometry/Syntax/Congruence of Segments.md",
+    "MATH/Geometry/Syntax/Congruence of Segments 1.md",
+    "MATH/Geometry/Angles/Basic Notation.md",
+    "MATH/Geometry/Outline.canvas",
+    "MATH/Geometry/Angles",
+    "Outline.md",
     "MATH/Discrete Math/Mathematical Propositions/Logic Laws.md",
+    "MATH/Geometry/Mathematical Propositions",
+    "Project Planning/Keepur/Ideation & Market Research/COPPA.md",
     "MATH/Discrete Math/Mathematical Propositions",
     "MATH/Discrete Math",
     "Project Planning/Keepur/Ideation & Market Research/Zero Knowledge Proofs.md",
@@ -298,18 +387,7 @@
     "Project Planning/Keepur/Abstract.md",
     "Project Planning/Keepur/Outline.md",
     "Programming/Algorithms/Problem Patterns/Minimum Spanning Tree.md",
-    "Programming/Algorithms/Means of Representation/Graphs/Graph.md",
-    "Programming/Algorithms/Means of Traversal/Topological Sorting.md",
-    "Programming/Algorithms/Means of Traversal/Shortest Path Traversal.md",
-    "Programming/Algorithms/Means of Representation/Tree/Binary Search Tree Height.md",
-    "Programming/Algorithms/Means of Representation/Tree/Binary Search Tree.md",
-    "Programming/Algorithms/Means of Representation/Sets/Sets.md",
-    "MATH/Linear Algebra/Complex Numbers/Complex Number Geometric Interpretation.md",
-    "MATH/Linear Algebra/de Moire's Formula.md",
     "MATH/Linear Algebra/Problem Set Patterns",
-    "MATH/Linear Algebra/Complex Numbers/Complex Number Argument.md",
-    "MATH/Linear Algebra/Complex Numbers/Complex Number Modulus.md",
-    "Excalidraw/Drawing 2024-09-15 13.17.14.excalidraw.md",
     "MATH/Linear Algebra/Outline.canvas",
     "MATH/Linear Algebra/Outline 1.canvas",
     "Project Planning/Lucidity/Profiles",
@@ -317,14 +395,12 @@
     "Programming/Design Patterns/Outline.canvas",
     "Programming/Algorithms/Means of Analysis",
     "Programming/Algorithms/Problem Patterns",
-    "Programming/Algorithms/Means of Traversal",
-    "Excalidraw",
     "Project Planning/Keepur/Keepr Outline.canvas",
     "Programming/System Design/Overview.canvas",
     "MATH/Images/Pasted image 20240604144226.png",
-    "Programming/Computer Science/Languages/Objective-C/Program Structure.canvas",
+    "Programming/Languages/Objective-C/Program Structure.canvas",
     "Programming/Mobile Development/expo/Native Module Structure.canvas",
-    "Programming/Computer Science/Theory/RBDMS/Pasted image 20240610175142.png",
+    "Programming/Theory/RBDMS/Pasted image 20240610175142.png",
     "Untitled 1.canvas"
   ]
 }
