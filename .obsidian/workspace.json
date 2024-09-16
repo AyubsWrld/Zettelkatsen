@@ -245,9 +245,69 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "de42a190fec53763",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Programming/Algorithms/Algorithms and Data-types/Fundamental Data structures/Lists/Stack.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d226a4373de83439",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Programming/Algorithms/Algorithms and Data-types/Fundamental Data structures/Lists/Lists.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d054c2bcc57d1d20",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Programming/Algorithms/Algorithms and Data-types/Fundamental Data structures/Lists/Linked List.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5c033105a91d85cd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Programming/Algorithms/Algorithms and Data-types/Fundamental Data structures/Lists/Doubly Linked List.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8709120f33db2312",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Programming/Algorithms/Algorithms and Data-types/Fundamental Data structures/Lists/Circular Lists.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 19
+        "currentTab": 24
       }
     ],
     "direction": "vertical"
@@ -313,7 +373,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programming/Algorithms/Algorithms and Data-types/Fundamental Data structures/Lists/Lists.md",
+                "file": "Programming/Algorithms/Algorithms and Data-types/Fundamental Data structures/Lists/Circular Lists.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -330,7 +390,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programming/Algorithms/Algorithms and Data-types/Fundamental Data structures/Lists/Lists.md",
+                "file": "Programming/Algorithms/Algorithms and Data-types/Fundamental Data structures/Lists/Circular Lists.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -353,7 +413,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programming/Algorithms/Algorithms and Data-types/Fundamental Data structures/Lists/Lists.md"
+                "file": "Programming/Algorithms/Algorithms and Data-types/Fundamental Data structures/Lists/Circular Lists.md"
               }
             }
           }
@@ -379,9 +439,15 @@
   },
   "active": "88c133c60264fe72",
   "lastOpenFiles": [
+    "Programming/Algorithms/Algorithms and Data-types/Fundamental Data structures/Lists/Doubly Linked List.md",
+    "Programming/Algorithms/Algorithms and Data-types/Fundamental Data structures/Lists/Circular Lists.md",
+    "Programming/Algorithms/Algorithms and Data-types/Fundamental Data structures/Lists/Linked List.md",
+    "Programming/Algorithms/Algorithms and Data-types/Fundamental Data structures/Lists/Lists.md",
+    "Programming/Algorithms/Algorithms and Data-types/Fundamental Data structures/Lists/Queue.md",
+    "Programming/Algorithms/Algorithms and Data-types/Fundamental Data structures/Lists/Stack.md",
+    "Programming/Algorithms/Algorithms and Data-types/Fundamental Data structures/Sets/Sets.md",
     "Programming/Algorithms/Algorithms and Data-types/Fundamental Data structures/Lists",
     "Programming/Algorithms/Algorithms and Data-types/Notion of an Algorithm.md",
-    "Programming/Algorithms/Algorithms and Data-types/Fundamental Data structures/Lists/Lists.md",
     "Programming/Algorithms/Algorithms and Data-types/Pseudo Code.md",
     "Programming/Algorithms/Algorithms and Data-types/Types of Problems.md",
     "Programming/Algorithms/Algorithms and Data-types/Fundamentals of Algorithmic Problem Solving.md",
@@ -406,19 +472,13 @@
     "MATH/Discrete Math/Mathematical Propositions",
     "MATH/Discrete Math",
     "Project Planning/Keepur/Ideation & Market Research/Zero Knowledge Proofs.md",
-    "Project Planning/Keepur/My Plan.md",
     "Project Planning/Keepur/Ideation & Market Research",
-    "Project Planning/Keepur/Meantime.md",
-    "Programming/Algorithms/Problem Patterns/Algorithm (1).md",
-    "Programming/Algorithms/Problem Patterns/Sets.md",
-    "MATH/Linear Algebra/Complex Numbers/Complex Number Geometrical Interpretation.md",
     "MATH/Linear Algebra/Problem Set Patterns",
     "MATH/Linear Algebra/Outline.canvas",
     "MATH/Linear Algebra/Outline 1.canvas",
     "Project Planning/Lucidity/Profiles",
     "Project Planning/Lucidity",
     "Programming/Design Patterns/Outline.canvas",
-    "Programming/Algorithms/Means of Analysis",
     "Project Planning/Keepur/Keepr Outline.canvas",
     "Programming/System Design/Overview.canvas",
     "MATH/Images/Pasted image 20240604144226.png",
