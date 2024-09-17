@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "23a752012c6bd7ed",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MATH/Linear Algebra/Vector Spaces/Vector Spaces.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programming/Languages/C++/Datatypes.md",
+                "file": "MATH/Linear Algebra/Vector Spaces/Vector Spaces.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programming/Languages/C++/Datatypes.md",
+                "file": "MATH/Linear Algebra/Vector Spaces/Vector Spaces.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programming/Languages/C++/Datatypes.md"
+                "file": "MATH/Linear Algebra/Vector Spaces/Vector Spaces.md"
               }
             }
           }
@@ -149,8 +162,14 @@
       "card-board:CardBoard": false
     }
   },
-  "active": "88c133c60264fe72",
+  "active": "23a752012c6bd7ed",
   "lastOpenFiles": [
+    "MATH/Linear Algebra/Vector Spaces/Zero Vector.md",
+    "MATH/Linear Algebra/Vector Spaces/Vector Spaces.md",
+    "MATH/Linear Algebra/Vector Spaces/Closure.md",
+    "MATH/Linear Algebra/de Moire's Formula.md",
+    "Programming/Languages/C++/Datatypes.md",
+    "MATH/Linear Algebra/Vector Spaces",
     "Programming/Technologies/Node.js/What is Node.js.md",
     "Programming/Networking/Server.md",
     "Project Planning/Lucidity/Profiles/Tutor.md",
@@ -180,15 +199,9 @@
     "Programming/Languages/Objective-C/NSObject.md",
     "Programming/Languages/Objective-C/Loops.md",
     "Programming/Languages/Objective-C/Identifiers.md",
-    "Programming/Languages/Objective-C/Foundation Framework.md",
-    "Programming/Languages/Objective-C/Classes.md",
-    "Programming/Languages/Objective-C/Blocks.md",
-    "Programming/Languages/Objective-C/Basic Types.md",
-    "Programming/Languages/C++/Structs.md",
     "Programming/Languages/SQL",
     "Programming/Languages/Objective-C",
     "Programming/Languages/C++",
-    "Programming/Languages",
     "MATH/Geometry/Outline.canvas",
     "Programming/Design Patterns/Outline.canvas",
     "Project Planning/Keepur/Keepr Outline.canvas",
