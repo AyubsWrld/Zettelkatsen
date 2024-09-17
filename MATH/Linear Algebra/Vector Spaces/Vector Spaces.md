@@ -12,6 +12,17 @@ ____
 6) $(a + b)c = (b + c)a$ (associative prop) 
 7) $(a + b)c = cb + ca$ (Distributive Laws) 
 8) $(a + b)c = cb + ca$ (Distributive Laws) 
+
+The mapping is reserved by linear correspondence  , it is a [[Bijection]] 
+Suppose $Q^2$ = $\{a_2t^2 + a_1t + a_0\} \rightarrow R^3 =$
+$$ 
+\begin{bmatrix} 
+	a_2\\
+	a_1\\
+	a_0\\
+	\end{bmatrix}
+$$
+
 ____
 
 Tags : #math #linear-algebra
