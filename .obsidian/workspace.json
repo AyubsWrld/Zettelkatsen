@@ -25,14 +25,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MATH/Linear Algebra/Vector Spaces/Vector Spaces.md",
+                "file": "MATH/Linear Algebra/Vector Spaces/Closure.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e0689b6ebfb29ef1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MATH/Linear Algebra/Vector Spaces/Isomorphism.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MATH/Linear Algebra/Vector Spaces/Vector Spaces.md",
+                "file": "MATH/Linear Algebra/Vector Spaces/Isomorphism.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MATH/Linear Algebra/Vector Spaces/Vector Spaces.md",
+                "file": "MATH/Linear Algebra/Vector Spaces/Isomorphism.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MATH/Linear Algebra/Vector Spaces/Vector Spaces.md"
+                "file": "MATH/Linear Algebra/Vector Spaces/Isomorphism.md"
               }
             }
           }
@@ -162,11 +174,12 @@
       "card-board:CardBoard": false
     }
   },
-  "active": "23a752012c6bd7ed",
+  "active": "e0689b6ebfb29ef1",
   "lastOpenFiles": [
-    "MATH/Linear Algebra/Vector Spaces/Zero Vector.md",
     "MATH/Linear Algebra/Vector Spaces/Vector Spaces.md",
+    "MATH/Linear Algebra/Vector Spaces/Isomorphism.md",
     "MATH/Linear Algebra/Vector Spaces/Closure.md",
+    "MATH/Linear Algebra/Vector Spaces/Zero Vector.md",
     "MATH/Linear Algebra/de Moire's Formula.md",
     "Programming/Languages/C++/Datatypes.md",
     "MATH/Linear Algebra/Vector Spaces",
@@ -198,7 +211,6 @@
     "Programming/Languages/Objective-C/Overview.md",
     "Programming/Languages/Objective-C/NSObject.md",
     "Programming/Languages/Objective-C/Loops.md",
-    "Programming/Languages/Objective-C/Identifiers.md",
     "Programming/Languages/SQL",
     "Programming/Languages/Objective-C",
     "Programming/Languages/C++",
