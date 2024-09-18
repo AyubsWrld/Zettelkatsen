@@ -23,6 +23,13 @@ $$
 	\end{bmatrix}
 $$
 
+
+9) $0$ vector is unique 
+10) $-a$  is unique $\forall a$
+11) $0 \times a = 0$  , $\forall a$
+12) $0 \times \lambda = 0$  , $\forall \lambda$ , where lambda is a scalar  
+13) $-1 \times a = -a$   
+
 ____
 
 Tags : #math #linear-algebra
