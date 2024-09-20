@@ -4,7 +4,6 @@ A good mobile development stack for creating a tutoring scheduling application s
    - **Framework:** 
      - **React Native**
      - **Figma**
-        
 ### 2. **Backend (Server & API)**
    - **Node.js 
 ### 3. **Database**
