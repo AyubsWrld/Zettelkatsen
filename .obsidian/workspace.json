@@ -205,7 +205,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming/Mobile Development/react-native/react-native-reanimated/Animated Styles.md",
+                "file": "Project Planning/Lucidity/Profiles.md",
                 "mode": "source",
                 "source": false
               }
@@ -278,7 +278,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programming/Mobile Development/react-native/react-native-reanimated/Animated Styles.md",
+                "file": "Project Planning/Lucidity/Profiles.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -295,7 +295,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programming/Mobile Development/react-native/react-native-reanimated/Animated Styles.md",
+                "file": "Project Planning/Lucidity/Profiles.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -318,7 +318,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programming/Mobile Development/react-native/react-native-reanimated/Animated Styles.md"
+                "file": "Project Planning/Lucidity/Profiles.md"
               }
             }
           }
@@ -344,8 +344,11 @@
   },
   "active": "ed00665b373b7b83",
   "lastOpenFiles": [
-    "Programming/Mobile Development/react-native/react-native-reanimated/Animated.md",
+    "Project Planning/Lucidity/Implementation.md",
+    "Project Planning/Lucidity/Linkedin Integration.md",
+    "Project Planning/Lucidity/MVP.md",
     "Programming/Mobile Development/react-native/react-native-reanimated/Animated Styles.md",
+    "Programming/Mobile Development/react-native/react-native-reanimated/Animated.md",
     "Programming/Mobile Development/react-native/react-native-reanimated/Getting Started.md",
     "Programming/Mobile Development/react-native/react-native-reanimated/Steps To Making Basic Animations.md",
     "Shared Values.md",
@@ -355,11 +358,8 @@
     "Programming/Mobile Development/react-native/react-native-reanimated",
     "Project Planning/Lucidity/Features.md",
     "Programming/Mobile Development/react-native/Gesture Handling",
-    "Project Planning/Lucidity/Implementation.md",
-    "Project Planning/Lucidity/Linkedin Integration.md",
     "Project Planning/Lucidity/Profiles.md",
     "Project Planning/Lucidity/Profiles/Student.md",
-    "Project Planning/Lucidity/MVP.md",
     "Project Planning/Keepur/codeRevisions.md",
     "Project Planning/Keepur/Screentime API/Family Controls/FamilyActivitySelection.md",
     "Programming/Languages/swift/Swift Extensions.md",
