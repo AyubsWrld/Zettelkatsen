@@ -55,7 +55,5 @@ $$ m=
 	\end{bmatrix}
 $$
 
-**Adjacency list** :  
-
 ____
 Tags : #algorithms  #graphs
