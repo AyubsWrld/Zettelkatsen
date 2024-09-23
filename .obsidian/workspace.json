@@ -4,263 +4,71 @@
     "type": "split",
     "children": [
       {
-        "id": "5f18e889156cf213",
+        "id": "bab3de67c99026fe",
         "type": "tabs",
         "children": [
           {
-            "id": "37727b5349feae49",
+            "id": "69e4636cc1144505",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming/Languages/C++/Datatypes.md",
+                "file": "Programming/Algorithms/Backwards Substitution Recursion.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "23a752012c6bd7ed",
+            "id": "6ffc891d62c59a90",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MATH/Linear Algebra/Vector Spaces/Closure.md",
+                "file": "Programming/Algorithms/Brute Force & Exhaustion/Loop Invariants.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "e0689b6ebfb29ef1",
+            "id": "c2bfc4aa58038d8f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MATH/Linear Algebra/Vector Spaces/Vector Spaces.md",
+                "file": "Programming/Algorithms/Brute Force & Exhaustion/Loop Invariants.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "95f2251562fb4ddd",
+            "id": "9922198070d9d1bb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MATH/Linear Algebra/Vector Spaces/Linear Combinations.md",
+                "file": "Programming/Algorithms/Brute Force & Exhaustion/Sequential Search.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "a88e46f79280159d",
+            "id": "0ca8281d500cfee7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MATH/Linear Algebra/Vector Spaces/Spanning Sets.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0b9186accde00844",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MATH/Linear Algebra/Vector Spaces/Linear Id.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d1f9eb7a91fe1949",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Project Planning/Keepur/codeRevisions.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b0c9a3ee99a591d5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Project Planning/Lucidity/Implementation.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5b3e1decfda6686d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Project Planning/Lucidity/Features.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "bec7a4861b702853",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Project Planning/Lucidity/Features.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "dda42dd4eaf220e7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Programming/Mobile Development/react-native/Gesture Handling/Claude Example Swiping.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "55c3bc9627cd4dfa",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Programming/Mobile Development/react-native/Gesture Handling/Pagination.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0e53b829886e9833",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Programming/Mobile Development/react-native/react-native-reanimated/Getting Started.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "334c595ee95446ca",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Programming/Documentation/Creating Docs/Shared Values.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9ba7726f5546e949",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Programming/Mobile Development/react-native/react-native-reanimated/Steps To Making Basic Animations.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "cb89b6da05c6776f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Programming/Mobile Development/react-native/react-native-reanimated/Animated.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ed00665b373b7b83",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Programming/Algorithms/Problem Patterns/Algorithm (1).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ef440309382b0d66",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Programming/Algorithms/Algorithms and Data-types/Fundamental Data structures/Graphs/Adjacency List.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "132b8d8d139313b3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Project Planning/Lucidity/Implementation.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ff750703eb363148",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Programming/Documentation/Creating Docs/Docusaurus.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "75f30a856a2ef377",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Programming/Documentation/Creating Docs/Trouble Shooting Docusaurus.md",
+                "file": "Programming/Algorithms/Assignment Conventions.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 20
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -326,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programming/Documentation/Creating Docs/Trouble Shooting Docusaurus.md",
+                "file": "Programming/Algorithms/Assignment Conventions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -343,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programming/Documentation/Creating Docs/Trouble Shooting Docusaurus.md",
+                "file": "Programming/Algorithms/Assignment Conventions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -366,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programming/Documentation/Creating Docs/Trouble Shooting Docusaurus.md"
+                "file": "Programming/Algorithms/Assignment Conventions.md"
               }
             }
           }
@@ -390,39 +198,39 @@
       "card-board:CardBoard": false
     }
   },
-  "active": "75f30a856a2ef377",
+  "active": "88c133c60264fe72",
   "lastOpenFiles": [
-    "Programming/Documentation/Creating Docs/Shared Values.md",
-    "Programming/Documentation/Creating Docs/Docusaurus.md",
-    "Programming/Data Pipelines/Data Pipeline.md",
-    "Programming/Documentation/Creating Docs/Trouble Shooting Docusaurus.md",
-    "Project Planning/Lucidity/Implementation.md",
-    "Docusa",
-    "Programming/Documentation/Creating Docs",
-    "Programming/Documentation",
-    "Project Planning/Lucidity/Profiles.md",
+    "Programming/Algorithms/Brute Force & Exhaustion/Sequential Search.md",
+    "Programming/Algorithms/Assignment Conventions.md",
+    "Programming/Algorithms/Brute Force & Exhaustion/Loop Invariants.md",
+    "Programming/Algorithms/Brute Force & Exhaustion/Brute force.md",
+    "Programming/Algorithms/Problem Patterns/Adjacency Matrix Problem.md",
+    "Programming/Algorithms/Means of Analysis/Basic Operation.md",
+    "Programming/Algorithms/Backwards Substitution Recursion.md",
+    "Programming/Algorithms/Brute Force & Exhaustion",
+    "Programming/Algorithms/Problem Patterns/Backwards Substitution Recursion.md",
+    "Programming/Algorithms/Problem Patterns/Proving using O , Theta , Omega.md",
     "Project Planning/Lucidity/MVP.md",
     "Project Planning/Lucidity/Features.md",
-    "Programming/Algorithms/Problem Patterns/Adjacency Matrix Problem.md",
-    "Programming/Algorithms/Problem Patterns/Algorithm (1).md",
-    "Programming/Algorithms/Algorithms and Data-types/Fundamental Data structures/Graphs/Adjacency List.md",
-    "Programming/Algorithms/Algorithms and Data-types/Fundamental Data structures/Graphs/Graph.md",
-    "Project Planning/Lucidity/Linkedin Integration.md",
-    "Programming/Mobile Development/react-native/react-native-reanimated/Animated Styles.md",
-    "Programming/Mobile Development/react-native/react-native-reanimated/Animated.md",
-    "Programming/Mobile Development/react-native/react-native-reanimated/Getting Started.md",
     "Programming/Mobile Development/react-native/react-native-reanimated/Steps To Making Basic Animations.md",
+    "Programming/Mobile Development/react-native/react-native-reanimated/Getting Started.md",
+    "Programming/Mobile Development/react-native/react-native-reanimated/Animated.md",
+    "Programming/Mobile Development/react-native/react-native-reanimated/Animated Styles.md",
+    "Programming/Mobile Development/react-native/react-native-reanimated",
     "Programming/Mobile Development/react-native/Gesture Handling/Pagination.md",
     "Programming/Mobile Development/react-native/Gesture Handling/Claude Example Swiping.md",
-    "Programming/Mobile Development/react-native/View Controller.md",
-    "Programming/Mobile Development/react-native/react-native-reanimated",
     "Programming/Mobile Development/react-native/Gesture Handling",
-    "Project Planning/Lucidity/Profiles/Student.md",
-    "Project Planning/Keepur/codeRevisions.md",
-    "Project Planning/Keepur/Screentime API/Family Controls/FamilyActivitySelection.md",
-    "Programming/Languages/swift/Swift Extensions.md",
-    "Programming/Languages/swift/Swift Closures.md",
-    "MATH/Linear Algebra/Vector Spaces/Linear Id.md",
+    "Programming/Documentation/Creating Docs/Trouble Shooting Docusaurus.md",
+    "Programming/Documentation/Creating Docs/Shared Values.md",
+    "Programming/Documentation/Creating Docs/Docusaurus.md",
+    "Programming/Documentation/Creating Docs",
+    "Programming/Documentation",
+    "Programming/Algorithms/Algorithms and Data-types/Fundamental Data structures/Graphs/Adjacency List.md",
+    "Excalidraw/Drawing 2024-09-18 11.11.16.excalidraw.md",
+    "Programming/Algorithms/Algorithms and Data-types/Fundamental Data structures/Graphs/Graph.md",
+    "Programming/Algorithms/Problem Patterns/Algorithm (1).md",
+    "Programming/Algorithms/Problem Patterns/Minimum Spanning Tree.md",
+    "Programming/Algorithms/Problem Patterns/Tracing.md",
     "MATH/Linear Algebra/Vector Spaces",
     "Programming/Technologies/Node.js",
     "Programming/Technologies",
