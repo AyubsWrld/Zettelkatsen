@@ -69,3 +69,8 @@ A set of $n$ [[Linearly Independent]] vectors in an [[n-dimenstion]] Space is ca
 #####  Theorem
 ____
 Every vector in a space of [[Linear Combination]] of Basis Vectors . This [[Linear Combination]] is unique  . 
+(i) Let $E = \{e_1, e_2 , \dots , e_n\}$ is a basis in some `n-dimensional` space $V$ . Let $a$ be some vector from $V$ . we need to show that $V \in$  span $\{e_1,\dots,e_2\}$
+>if a is one of $\{e_1,\dots,e_2\}$ for instance $a_1 = e_i$ then $a$ = $0\times \{e_1,\dots ,e_n\}$ 
+>if a is not one of the basis vectors the the set is [[Linearly Dependent]] as a set of $(n+1)$ vectors then $\exists$ non-trivial [[Linear Combination]] equal to the [[Zero Vector]] 
+
+If $x_{n+1} = 0$ and one of $x_1,\dots,x_n$ is non zero we get $x_1e_1, + x_n+e_n = 0$   nontrivial and must be [[Linearly Dependent]]  which cannot be true . Therefore , $x_n+1\neq 0$ then  
