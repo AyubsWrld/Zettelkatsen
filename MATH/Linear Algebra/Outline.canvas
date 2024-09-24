@@ -1,19 +1,28 @@
 {
 	"nodes":[
-		{"id":"3473fa4a11fcb659","type":"group","x":-946,"y":-773,"width":1746,"height":808,"color":"#ff756b","label":"Complex Numbers"},
-		{"id":"ad216bbac4740f2d","type":"text","text":"[[Complex Number Rectangular Form]]","x":-780,"y":-46,"width":313,"height":60,"color":"4"},
-		{"id":"6385288093abf105","type":"text","text":"[[Complex Number Exponential Form]]","x":-280,"y":-46,"width":334,"height":60,"color":"1"},
-		{"id":"b2826515aad67315","type":"text","text":"[[Complex Number Polar Form]]","x":236,"y":-45,"width":264,"height":60,"color":"1"},
-		{"id":"bb5c036eb8be601a","type":"text","text":"[[Complex Numbers]]","x":-215,"y":-500,"width":205,"height":60,"color":"2"},
-		{"id":"8f454d14545eb9ca","type":"text","text":"Forms","x":-174,"y":-300,"width":123,"height":60,"color":"6"},
-		{"id":"ef5a2f50ede4d266","type":"text","text":"[[Complex Number Argument]]","x":-926,"y":-530,"width":293,"height":60,"color":"1"},
-		{"id":"b40ccaee083294ca","type":"text","text":"[[Complex Number Arithmetic]]","x":-926,"y":-323,"width":292,"height":53,"color":"2"},
-		{"id":"1b5f4f0296763191","type":"text","text":"[[Complex Number Conjugate]]","x":-900,"y":-744,"width":393,"height":60,"color":"4"},
-		{"id":"77a7a4434a6d28c2","type":"text","text":"[[Complex Number Division]]","x":-416,"y":-746,"width":276,"height":60,"color":"4"},
-		{"id":"9e031f900ac599bf","type":"text","text":"Complex Number Equivalence","x":-51,"y":-744,"width":305,"height":60,"color":"4"},
-		{"id":"cbff5fda29128c59","type":"text","text":"[[Complex Number Modulus]]","x":273,"y":-604,"width":250,"height":60,"color":"4"},
-		{"id":"b5c3838d17e06b98","type":"text","text":"[[Complex Number Multiplicative]]","x":419,"y":-753,"width":281,"height":60,"color":"1"},
-		{"id":"967a8b14d2bb3ece","type":"text","text":"[[Complex Number System]]","x":503,"y":-468,"width":277,"height":60,"color":"4"}
+		{"id":"7a32ad1e18b306a8","type":"group","x":-1000,"y":40,"width":1746,"height":960,"color":"1","label":"Vector Spaces"},
+		{"id":"3473fa4a11fcb659","type":"group","x":-1000,"y":-1240,"width":1746,"height":808,"color":"#ff756b","label":"Complex Numbers"},
+		{"id":"1a2a2fe275f37262","type":"group","x":-1000,"y":-1240,"width":1746,"height":808,"color":"2","label":"Complex Numbers"},
+		{"id":"ef5a2f50ede4d266","type":"text","text":"[[Complex Number Argument]]","x":-980,"y":-997,"width":293,"height":60,"color":"1"},
+		{"id":"b40ccaee083294ca","type":"text","text":"[[Complex Number Arithmetic]]","x":-980,"y":-790,"width":292,"height":53,"color":"2"},
+		{"id":"1b5f4f0296763191","type":"text","text":"[[Complex Number Conjugate]]","x":-954,"y":-1211,"width":393,"height":60,"color":"4"},
+		{"id":"ad216bbac4740f2d","type":"text","text":"[[Complex Number Rectangular Form]]","x":-834,"y":-513,"width":313,"height":60,"color":"4"},
+		{"id":"77a7a4434a6d28c2","type":"text","text":"[[Complex Number Division]]","x":-470,"y":-1213,"width":276,"height":60,"color":"4"},
+		{"id":"6385288093abf105","type":"text","text":"[[Complex Number Exponential Form]]","x":-334,"y":-513,"width":334,"height":60,"color":"1"},
+		{"id":"bb5c036eb8be601a","type":"text","text":"[[Complex Numbers]]","x":-269,"y":-967,"width":205,"height":60,"color":"2"},
+		{"id":"8f454d14545eb9ca","type":"text","text":"Forms","x":-228,"y":-767,"width":123,"height":60,"color":"6"},
+		{"id":"b5c3838d17e06b98","type":"text","text":"[[Complex Number Multiplicative]]","x":365,"y":-1220,"width":281,"height":60,"color":"1"},
+		{"id":"967a8b14d2bb3ece","type":"text","text":"[[Complex Number System]]","x":449,"y":-935,"width":277,"height":60,"color":"4"},
+		{"id":"b2826515aad67315","type":"text","text":"[[Complex Number Polar Form]]","x":182,"y":-512,"width":264,"height":60,"color":"1"},
+		{"id":"9e031f900ac599bf","type":"text","text":"Complex Number Equivalence","x":-105,"y":-1211,"width":305,"height":60,"color":"4"},
+		{"id":"cbff5fda29128c59","type":"text","text":"[[Complex Number Modulus]]","x":219,"y":-1071,"width":250,"height":60,"color":"4"},
+		{"id":"ef52aff93f403287","type":"text","text":"[[Subspaces]]","x":-338,"y":120,"width":250,"height":60,"color":"1"},
+		{"id":"2c3d55ccb7330300","type":"text","text":"[[Null Spaces]]","x":94,"y":150,"width":250,"height":60,"color":"1"},
+		{"id":"fce94de7a5587177","type":"text","text":"[[Vector Spaces]]","x":-338,"y":480,"width":250,"height":60,"color":"1"},
+		{"id":"f4622a33a4503f1b","type":"text","text":"[[Subspaces]]","x":152,"y":480,"width":250,"height":60,"color":"1"},
+		{"id":"50cf0415d81cd58b","type":"text","text":"[[Column Spaces]]","x":-336,"y":723,"width":250,"height":60,"color":"1"},
+		{"id":"08385bf32f2c1ba3","type":"text","text":"[[Linear Transformations]]","x":161,"y":725,"width":250,"height":60,"color":"1"},
+		{"id":"4c875514c886df68","x":-794,"y":715,"width":250,"height":60,"color":"1","type":"text","text":"[[Linear Independent Sets]]"}
 	],
 	"edges":[
 		{"id":"80bf92cfadda29d1","fromNode":"bb5c036eb8be601a","fromSide":"bottom","toNode":"8f454d14545eb9ca","toSide":"top"},
@@ -27,6 +36,12 @@
 		{"id":"2f1367d91ee796bb","fromNode":"bb5c036eb8be601a","fromSide":"top","toNode":"9e031f900ac599bf","toSide":"bottom"},
 		{"id":"9cddab61a0b4a79d","fromNode":"bb5c036eb8be601a","fromSide":"right","toNode":"cbff5fda29128c59","toSide":"left"},
 		{"id":"ab37b3397f20a29f","fromNode":"bb5c036eb8be601a","fromSide":"right","toNode":"b5c3838d17e06b98","toSide":"left"},
-		{"id":"d5fad115c7dca64d","fromNode":"bb5c036eb8be601a","fromSide":"right","toNode":"967a8b14d2bb3ece","toSide":"left"}
+		{"id":"d5fad115c7dca64d","fromNode":"bb5c036eb8be601a","fromSide":"right","toNode":"967a8b14d2bb3ece","toSide":"left"},
+		{"id":"67cb1e4d230a03fe","fromNode":"fce94de7a5587177","fromSide":"top","toNode":"ef52aff93f403287","toSide":"bottom"},
+		{"id":"745b32b1be8616c5","fromNode":"fce94de7a5587177","fromSide":"top","toNode":"2c3d55ccb7330300","toSide":"bottom"},
+		{"id":"a67343a92ad53697","fromNode":"fce94de7a5587177","fromSide":"right","toNode":"f4622a33a4503f1b","toSide":"left"},
+		{"id":"c1737a888b6be27d","fromNode":"fce94de7a5587177","fromSide":"bottom","toNode":"50cf0415d81cd58b","toSide":"top"},
+		{"id":"9c247385c28e1a2c","fromNode":"fce94de7a5587177","fromSide":"bottom","toNode":"08385bf32f2c1ba3","toSide":"top"},
+		{"id":"91d247d013008d8e","fromNode":"fce94de7a5587177","fromSide":"bottom","toNode":"4c875514c886df68","toSide":"top"}
 	]
 }

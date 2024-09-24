@@ -8,67 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "69e4636cc1144505",
+            "id": "0ee780650c70d7e3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming/Algorithms/Backwards Substitution Recursion.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6ffc891d62c59a90",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Programming/Algorithms/Brute Force & Exhaustion/Loop Invariants.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c2bfc4aa58038d8f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Programming/Algorithms/Brute Force & Exhaustion/Loop Invariants.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9922198070d9d1bb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Programming/Algorithms/Brute Force & Exhaustion/Sequential Search.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0ca8281d500cfee7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Programming/Algorithms/Assignment Conventions.md",
+                "file": "Programming/Mobile Development/react-native/Conditional Rendering.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -134,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programming/Algorithms/Assignment Conventions.md",
+                "file": "Programming/Mobile Development/react-native/Conditional Rendering.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programming/Algorithms/Assignment Conventions.md",
+                "file": "Programming/Mobile Development/react-native/Conditional Rendering.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programming/Algorithms/Assignment Conventions.md"
+                "file": "Programming/Mobile Development/react-native/Conditional Rendering.md"
               }
             }
           }
@@ -200,42 +151,43 @@
   },
   "active": "88c133c60264fe72",
   "lastOpenFiles": [
-    "Programming/Algorithms/Brute Force & Exhaustion/Sequential Search.md",
+    "MATH/Linear Algebra/Review/Vector Addition.md",
+    "Programming/Mobile Development/react-native/RCTBridgeModule.h.md",
+    "Programming/Mobile Development/react-native/Conditional Rendering.md",
+    "Programming/Mobile Development/react-native/Stack Navigator/Stack Navigation.md",
+    "Programming/Mobile Development/react-native/Stack Navigator",
+    "MATH/Linear Algebra/Vector Spaces/Subspaces.md",
+    "MATH/Linear Algebra/Vector Spaces/Vector Spaces.md",
+    "MATH/Linear Algebra/Vector Spaces/Spanning Sets.md",
+    "MATH/Linear Algebra/Outline.canvas",
+    "MATH/Linear Algebra/Vector Spaces/Linear Independent Sets.md",
+    "MATH/Linear Algebra/Vector Spaces/Linear Transformations.md",
+    "MATH/Linear Algebra/Vector Spaces/Column Spaces.md",
+    "MATH/Linear Algebra/Review/Row Echelon Form.md",
+    "MATH/Linear Algebra/Review/Paralellogram rule.md",
+    "MATH/Linear Algebra/Review/de Moire's Formula.md",
+    "MATH/Linear Algebra/Review",
+    "MATH/Linear Algebra/Vector Spaces/Equivalence.md",
+    "MATH/Linear Algebra/Vector Spaces/Isomorphism.md",
+    "MATH/Geometry/Axioms & Postulates/Axioms.md",
+    "MATH/Geometry/Geometric Figures/Proving Congruence.md",
+    "MATH/Geometry/Geometric Figures/Geometric Properties.md",
+    "MATH/Geometry/Geometric Figures/Congruence.md",
+    "MATH/Geometry/Angles/Angular Adjacency.md",
+    "MATH/Geometry/Angles/Angular Congruence.md",
+    "MATH/Geometry/Angles/Angular Arithmetic.md",
+    "MATH/Geometry/Geometric Figures/Geometric Equivalence.md",
     "Programming/Algorithms/Assignment Conventions.md",
+    "Programming/Algorithms/Brute Force & Exhaustion/Sequential Search.md",
     "Programming/Algorithms/Brute Force & Exhaustion/Loop Invariants.md",
-    "Programming/Algorithms/Brute Force & Exhaustion/Brute force.md",
-    "Programming/Algorithms/Problem Patterns/Adjacency Matrix Problem.md",
-    "Programming/Algorithms/Means of Analysis/Basic Operation.md",
-    "Programming/Algorithms/Backwards Substitution Recursion.md",
     "Programming/Algorithms/Brute Force & Exhaustion",
-    "Programming/Algorithms/Problem Patterns/Backwards Substitution Recursion.md",
-    "Programming/Algorithms/Problem Patterns/Proving using O , Theta , Omega.md",
-    "Project Planning/Lucidity/MVP.md",
-    "Project Planning/Lucidity/Features.md",
-    "Programming/Mobile Development/react-native/react-native-reanimated/Steps To Making Basic Animations.md",
-    "Programming/Mobile Development/react-native/react-native-reanimated/Getting Started.md",
-    "Programming/Mobile Development/react-native/react-native-reanimated/Animated.md",
-    "Programming/Mobile Development/react-native/react-native-reanimated/Animated Styles.md",
     "Programming/Mobile Development/react-native/react-native-reanimated",
-    "Programming/Mobile Development/react-native/Gesture Handling/Pagination.md",
-    "Programming/Mobile Development/react-native/Gesture Handling/Claude Example Swiping.md",
     "Programming/Mobile Development/react-native/Gesture Handling",
-    "Programming/Documentation/Creating Docs/Trouble Shooting Docusaurus.md",
-    "Programming/Documentation/Creating Docs/Shared Values.md",
-    "Programming/Documentation/Creating Docs/Docusaurus.md",
     "Programming/Documentation/Creating Docs",
     "Programming/Documentation",
-    "Programming/Algorithms/Algorithms and Data-types/Fundamental Data structures/Graphs/Adjacency List.md",
-    "Excalidraw/Drawing 2024-09-18 11.11.16.excalidraw.md",
-    "Programming/Algorithms/Algorithms and Data-types/Fundamental Data structures/Graphs/Graph.md",
-    "Programming/Algorithms/Problem Patterns/Algorithm (1).md",
-    "Programming/Algorithms/Problem Patterns/Minimum Spanning Tree.md",
-    "Programming/Algorithms/Problem Patterns/Tracing.md",
     "MATH/Linear Algebra/Vector Spaces",
     "Programming/Technologies/Node.js",
     "Programming/Technologies",
-    "Project Planning/Keepur/Ideation & Market Research",
-    "Programming/Unit Testing",
     "Programming/Theory/RBDMS/Pasted image 20240610175142.png",
     "Programming/Languages/Objective-C/Program Structure.canvas",
     "MATH/Geometry/Outline.canvas",
@@ -243,7 +195,6 @@
     "Project Planning/Keepur/Keepr Outline.canvas",
     "Programming/System Design/Overview.canvas",
     "MATH/Images/Pasted image 20240604144226.png",
-    "MATH/Linear Algebra/Outline.canvas",
     "Programming/Computer Science/Languages/Objective-C/Program Structure.canvas",
     "Programming/Mobile Development/expo/Native Module Structure.canvas",
     "Programming/Computer Science/Theory/RBDMS/Pasted image 20240610175142.png",
