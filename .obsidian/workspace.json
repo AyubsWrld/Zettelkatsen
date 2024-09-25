@@ -145,14 +145,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MATH/Geometry/Angles/Central angles and their corresponding arcs.md",
+                "file": "MATH/Geometry/Triangles/Bisector.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e366fd7188decf5f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MATH/Geometry/Triangles/Broken Lines.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "de94145c03ee24e7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MATH/Geometry/Triangles/Broken Lines.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 11
+        "currentTab": 13
       }
     ],
     "direction": "vertical"
@@ -218,7 +242,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MATH/Geometry/Angles/Central angles and their corresponding arcs.md",
+                "file": "MATH/Geometry/Triangles/Broken Lines.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -235,7 +259,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MATH/Geometry/Angles/Central angles and their corresponding arcs.md",
+                "file": "MATH/Geometry/Triangles/Broken Lines.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -258,7 +282,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MATH/Geometry/Angles/Central angles and their corresponding arcs.md"
+                "file": "MATH/Geometry/Triangles/Broken Lines.md"
               }
             }
           }
@@ -282,14 +306,19 @@
       "card-board:CardBoard": false
     }
   },
-  "active": "653502970eed9fc7",
+  "active": "de94145c03ee24e7",
   "lastOpenFiles": [
+    "MATH/Geometry/Triangles/Polygons.md",
+    "MATH/Geometry/Triangles/Broken Lines.md",
+    "MATH/Geometry/Triangles/Bisector.md",
+    "MATH/Geometry/Triangles/Theorem (3).md",
+    "MATH/Geometry/Angles/Central angles and their corresponding arcs.md",
+    "MATH/Geometry/Triangles 1",
     "MATH/Geometry/Angles/Theorems.md",
     "MATH/Geometry/Angles/Supplementary Angles.md",
     "MATH/Geometry/Angles/Perpendiculars.md",
     "MATH/Geometry/Angles/Measurement of angles.md",
     "MATH/Geometry/Angles/Generalization of the notion of an angle.md",
-    "MATH/Geometry/Angles/Central angles and their corresponding arcs.md",
     "MATH/Geometry/Angles/Angular Adjacency.md",
     "MATH/Geometry/Angles/Angle.md",
     "MATH/Geometry/Angles/Types of angles.md",
@@ -301,8 +330,6 @@
     "Pasted image 20240924121046.png",
     "September 24.md",
     "Programming/Algorithms/Algorithms and Data-types/Fundamental Data structures/Graphs/Graph.md",
-    "MATH/Geometry/Triangles/Theorem (3).md",
-    "MATH/Geometry/Triangles/Bisector.md",
     "MATH/Geometry/Primitives/Angles.md",
     "MATH/Geometry/Triangles",
     "MATH/Linear Algebra/Review/Vector Addition.md",
@@ -311,9 +338,7 @@
     "Programming/Mobile Development/react-native/Stack Navigator",
     "MATH/Linear Algebra/Vector Spaces/Subspaces.md",
     "MATH/Linear Algebra/Vector Spaces/Vector Spaces.md",
-    "MATH/Linear Algebra/Vector Spaces/Spanning Sets.md",
     "MATH/Linear Algebra/Outline.canvas",
-    "MATH/Linear Algebra/Vector Spaces/Linear Independent Sets.md",
     "MATH/Linear Algebra/Review",
     "Programming/Algorithms/Brute Force & Exhaustion",
     "Programming/Mobile Development/react-native/react-native-reanimated",
@@ -321,7 +346,6 @@
     "Programming/Documentation/Creating Docs",
     "Programming/Documentation",
     "MATH/Linear Algebra/Vector Spaces",
-    "Programming/Technologies/Node.js",
     "Programming/Theory/RBDMS/Pasted image 20240610175142.png",
     "Programming/Languages/Objective-C/Program Structure.canvas",
     "MATH/Geometry/Outline.canvas",
