@@ -145,7 +145,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MATH/Geometry/Angles/Theorems.md",
+                "file": "MATH/Geometry/Angles/Central angles and their corresponding arcs.md",
                 "mode": "source",
                 "source": false
               }
@@ -218,7 +218,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MATH/Geometry/Angles/Theorems.md",
+                "file": "MATH/Geometry/Angles/Central angles and their corresponding arcs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -235,7 +235,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MATH/Geometry/Angles/Theorems.md",
+                "file": "MATH/Geometry/Angles/Central angles and their corresponding arcs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -258,7 +258,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MATH/Geometry/Angles/Theorems.md"
+                "file": "MATH/Geometry/Angles/Central angles and their corresponding arcs.md"
               }
             }
           }
@@ -284,19 +284,19 @@
   },
   "active": "653502970eed9fc7",
   "lastOpenFiles": [
-    "MATH/Geometry/Angles/Central angles and their corresponding arcs.md",
     "MATH/Geometry/Angles/Theorems.md",
+    "MATH/Geometry/Angles/Supplementary Angles.md",
+    "MATH/Geometry/Angles/Perpendiculars.md",
     "MATH/Geometry/Angles/Measurement of angles.md",
     "MATH/Geometry/Angles/Generalization of the notion of an angle.md",
-    "MATH/Geometry/Angles/Supplementary Angles.md",
+    "MATH/Geometry/Angles/Central angles and their corresponding arcs.md",
+    "MATH/Geometry/Angles/Angular Adjacency.md",
+    "MATH/Geometry/Angles/Angle.md",
     "MATH/Geometry/Angles/Types of angles.md",
     "MATH/Geometry/Angles/Bisector.md",
-    "MATH/Geometry/Angles/Perpendiculars.md",
     "MATH/Geometry/Angles/Generalization of the notion of an angle..md",
     "MATH/Geometry/Angles/Angular Congruence.md",
     "MATH/Geometry/Angles/Angular Arithmetic.md",
-    "MATH/Geometry/Angles/Angular Adjacency.md",
-    "MATH/Geometry/Angles/Angle.md",
     "Programming/Mobile Development/react-native/Conditional Rendering.md",
     "Pasted image 20240924121046.png",
     "September 24.md",

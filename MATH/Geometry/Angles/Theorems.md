@@ -11,6 +11,14 @@ ____
 
 #### Any two vertical angles are congruent.
 ___
+#### In the same circle or in congruent circles
+___
+- ##### ( i ) if two central angles are congruent, then the corresponding arcs are congruent
+- ##### ( ii )  if two central angles are congruent, then the corresponding arcs are congruent
+ 
+#### Angles are congruent  (if and only if)   their  measures  are equal.   
+___
 
 ___
+
 Tags : #geometry 
