@@ -4,55 +4,239 @@
     "type": "split",
     "children": [
       {
-        "id": "675183c89b39ca11",
+        "id": "bab3de67c99026fe",
         "type": "tabs",
         "children": [
           {
-            "id": "9d4c91fddd80b527",
+            "id": "0ee780650c70d7e3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MATH/Geometry/Angles/Theorems.md",
+                "file": "Programming/Mobile Development/react-native/Conditional Rendering.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "140b2b667f002cba",
+            "id": "05a44815e25e6b1f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MATH/Geometry/Angles/Vertical Angles.md",
+                "file": "MATH/Geometry/Triangles/Theorem (3).md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "f6f43d1f405a109f",
-            "type": "leaf",
-            "state": {
-              "type": "full-calendar-view",
-              "state": {}
-            }
-          },
-          {
-            "id": "0ec1894637a29080",
+            "id": "835dea60dc91ad18",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MATH/Linear Algebra/2024-09-26.md",
+                "file": "MATH/Geometry/Angles/Angular Congruence.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2f8870a9548942d0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MATH/Geometry/Angles/Generalization of the notion of an angle.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4fd7aea2bca765b1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MATH/Geometry/Angles/Types of angles.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "18b982fbfe896c96",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MATH/Geometry/Angles/Perpendiculars.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "cfd6fd9c67fc0a0c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MATH/Geometry/Angles/Generalization of the notion of an angle.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "72896a7985a49709",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MATH/Geometry/Angles/Supplementary Angles.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "39edf242ad5563f8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MATH/Geometry/Angles/Central angles and their corresponding arcs.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "af82eb3e318d8e59",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MATH/Geometry/Angles/Measurement of angles.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "653502970eed9fc7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MATH/Geometry/Triangles/Theorem (3).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e366fd7188decf5f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MATH/Geometry/Triangles/Broken Lines.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "de94145c03ee24e7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MATH/Geometry/Triangles/Polygons.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2bf206d18cb5545e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MATH/Geometry/Triangles/Traingles.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5725334655861d9c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MATH/Geometry/Triangles/Traingles.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1e035c0aceb31a1e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MATH/Geometry/Triangles/Altitude.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b2cd72f91a1d3af8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MATH/Geometry/Triangles/Median.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e8efb7c1d722b29a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MATH/Geometry/Triangles/Bisector.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "228e500ac7357380",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MATH/Geometry/Triangles/Median.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 18
       }
     ],
     "direction": "vertical"
@@ -118,7 +302,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MATH/Linear Algebra/2024-09-26.md",
+                "file": "MATH/Geometry/Triangles/Median.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +319,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MATH/Linear Algebra/2024-09-26.md",
+                "file": "MATH/Geometry/Triangles/Median.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +342,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MATH/Linear Algebra/2024-09-26.md"
+                "file": "MATH/Geometry/Triangles/Median.md"
               }
             }
           }
@@ -182,34 +366,35 @@
       "card-board:CardBoard": false
     }
   },
-  "active": "88c133c60264fe72",
+  "active": "228e500ac7357380",
   "lastOpenFiles": [
     "MATH/Linear Algebra/September 24.md",
     "MATH/Linear Algebra/2024-09-26.md",
-    "Untitled.md",
     "MATH/Geometry/Angles/Vertical Angles.md",
-    "MATH/Geometry/Angles/Types of angles.md",
+    "MATH/Geometry/Triangles/Broken Lines.md",
+    "MATH/Geometry/Triangles/Bisector.md",
+    "MATH/Geometry/Triangles/Theorem (3).md",
+    "MATH/Geometry/Triangles/Altitude.md",
+    "MATH/Geometry/Triangles/Polygons.md",
+    "MATH/Geometry/Triangles/Median.md",
+    "MATH/Geometry/Triangles/Axial Symmetry.md",
+    "MATH/Geometry/Triangles/Traingles.md",
+    "MATH/Geometry/Triangles/Theorems.md",
+    "MATH/Geometry/Axioms & Postulates/Axioms.md",
+    "MATH/Geometry/Angles/Central angles and their corresponding arcs.md",
+    "MATH/Geometry/Triangles 1",
     "MATH/Geometry/Angles/Theorems.md",
     "MATH/Geometry/Angles/Supplementary Angles.md",
     "MATH/Geometry/Angles/Perpendiculars.md",
     "MATH/Geometry/Angles/Measurement of angles.md",
     "MATH/Geometry/Angles/Generalization of the notion of an angle.md",
-    "MATH/Geometry/Angles/Central angles and their corresponding arcs.md",
-    "MATH/Geometry/Angles/Bisector.md",
-    "MATH/Geometry/Angles/Basic Notation.md",
-    "MATH/Geometry/Angles/Angular Congruence.md",
     "MATH/Geometry/Angles/Angular Adjacency.md",
-    "MATH/Geometry/Triangles/Theorem (3).md",
-    "MATH/Geometry/Triangles/Theorems.md",
-    "MATH/Geometry/Triangles/Axial Symmetry.md",
-    "MATH/Geometry/Triangles/Altitude.md",
-    "MATH/Geometry/Triangles/Bisector.md",
-    "MATH/Geometry/Triangles/Broken Lines.md",
-    "MATH/Geometry/Triangles/Polygons.md",
-    "MATH/Geometry/Triangles/Traingles.md",
-    "MATH/Geometry/Triangles/Median.md",
-    "MATH/Geometry/Axioms & Postulates/Postulation.md",
-    "MATH/Geometry/Primitives/Circles.md",
+    "MATH/Geometry/Angles/Angle.md",
+    "MATH/Geometry/Angles/Types of angles.md",
+    "MATH/Geometry/Angles/Bisector.md",
+    "MATH/Geometry/Angles/Generalization of the notion of an angle..md",
+    "MATH/Geometry/Angles/Angular Congruence.md",
+    "MATH/Geometry/Angles/Angular Arithmetic.md",
     "Pasted image 20240924121046.png",
     "MATH/Geometry/Triangles",
     "Programming/Mobile Development/react-native/Stack Navigator",
@@ -221,7 +406,6 @@
     "Programming/Documentation/Creating Docs",
     "Programming/Documentation",
     "MATH/Linear Algebra/Vector Spaces",
-    "Programming/Technologies/Node.js",
     "Programming/Theory/RBDMS/Pasted image 20240610175142.png",
     "Programming/Languages/Objective-C/Program Structure.canvas",
     "MATH/Geometry/Outline.canvas",
