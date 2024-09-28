@@ -362,8 +362,7 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "obsidian-full-calendar:Open Full Calendar": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
-      "card-board:CardBoard": false
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
   "active": "228e500ac7357380",
