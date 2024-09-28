@@ -30,6 +30,10 @@ $$
 12) $0 \times \lambda = 0$  , $\forall \lambda$ , where lambda is a scalar  
 13) $-1 \times a = -a$   
 
+
+#### In short 
+___
+A Vector space is simply a collection of elements which can be added together in any order , multiplied by scalars in any order .
 ____
 
 Tags : #math #linear-algebra

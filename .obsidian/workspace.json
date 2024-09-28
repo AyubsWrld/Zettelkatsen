@@ -78,9 +78,57 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "b4b95698d772d2da",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MATH/Linear Algebra/Vector Spaces/Vector Spaces.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5ebb96a3bca1a8bb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Programming/Algorithms/Analysis Framework/Asymptotic notations and efficiency classes.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6935d9be11249326",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Programming/Algorithms/Analysis Framework/Mathematical analysis of non-recursive algorithms.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0de01017c6a6b243",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Programming/Algorithms/Analysis Framework/Asymptotic notations and efficiency classes.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -146,7 +194,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MATH/Linear Algebra/Vectors/Magnitude.md",
+                "file": "Programming/Algorithms/Analysis Framework/Asymptotic notations and efficiency classes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +211,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MATH/Linear Algebra/Vectors/Magnitude.md",
+                "file": "Programming/Algorithms/Analysis Framework/Asymptotic notations and efficiency classes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +234,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MATH/Linear Algebra/Vectors/Magnitude.md"
+                "file": "Programming/Algorithms/Analysis Framework/Asymptotic notations and efficiency classes.md"
               }
             }
           }
@@ -210,16 +258,21 @@
       "card-board:CardBoard": false
     }
   },
-  "active": "a77d3a1bf8d38623",
+  "active": "0de01017c6a6b243",
   "lastOpenFiles": [
-    "MATH/Linear Algebra/Vectors/Vectors and Coordinate Systems.md",
+    "Programming/Algorithms/Analysis Framework/Mathematical analysis of recursive algorithms.md",
+    "Programming/Algorithms/Analysis Framework/Mathematical analysis of non-recursive algorithms.md",
+    "Programming/Algorithms/Analysis Framework/Asymptotic notations and efficiency classes.md",
+    "MATH/Linear Algebra/Vector Spaces/Vector Spaces.md",
+    "Programming/Algorithms/Analysis Framework",
+    "MATH/Linear Algebra/Vectors/Basis Vectors.md",
     "MATH/Linear Algebra/Vectors/Magnitude.md",
     "MATH/Linear Algebra/Vectors/Scalar multiplication.md",
-    "Scal.md",
-    "MATH/Linear Algebra/Vectors/Vector Equivalence.md",
+    "MATH/Linear Algebra/Vectors/Vectors and Coordinate Systems.md",
     "MATH/Linear Algebra/Vectors/Vectors.md",
-    "MATH/Linear Algebra/Vector Spaces/Vector Spaces.md",
+    "MATH/Linear Algebra/Vectors/Vector Equivalence.md",
     "MATH/Linear Algebra/Vector Spaces/Closure.md",
+    "Scal.md",
     "MATH/Linear Algebra/September 24.md",
     "MATH/Linear Algebra/Outline.canvas",
     "MATH/Linear Algebra/2024-09-26.md",
@@ -236,11 +289,7 @@
     "MATH/Geometry/Triangles/Traingles.md",
     "MATH/Geometry/Triangles/Theorems.md",
     "MATH/Geometry/Axioms & Postulates/Axioms.md",
-    "MATH/Geometry/Angles/Central angles and their corresponding arcs.md",
     "MATH/Geometry/Triangles 1",
-    "MATH/Geometry/Angles/Theorems.md",
-    "MATH/Geometry/Angles/Supplementary Angles.md",
-    "MATH/Geometry/Angles/Perpendiculars.md",
     "Pasted image 20240924121046.png",
     "MATH/Geometry/Triangles",
     "Programming/Mobile Development/react-native/Stack Navigator",
@@ -249,7 +298,6 @@
     "Programming/Mobile Development/react-native/react-native-reanimated",
     "Programming/Mobile Development/react-native/Gesture Handling",
     "Programming/Documentation/Creating Docs",
-    "Programming/Documentation",
     "Programming/Theory/RBDMS/Pasted image 20240610175142.png",
     "Programming/Languages/Objective-C/Program Structure.canvas",
     "MATH/Geometry/Outline.canvas",
