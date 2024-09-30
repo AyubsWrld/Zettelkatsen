@@ -6,7 +6,7 @@ ____
 *Number of  Vertices m = (|M|)*  
 
 **Graphs may also have weight**
-**Complete Graphs have all edges connecting all vertices , m = n(n-1)/2**
+**Complete Graphs have all edges connecting all vertices , m = n(n-1)/2** 
 
 ##### Types of graphs
 ___
