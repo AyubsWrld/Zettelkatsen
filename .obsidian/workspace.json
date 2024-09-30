@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MATH/Linear Algebra/Vector Spaces/Subspaces.md",
+                "file": "MATH/Linear Algebra/Review/Subspaces.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MATH/Linear Algebra/Vector Spaces/Vector Spaces.md",
+                "file": "MATH/Linear Algebra/Review/Vector Spaces.md",
                 "mode": "source",
                 "source": false
               }
@@ -181,14 +181,98 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Assignment (2).md",
+                "file": "Programming/Algorithms/Problem Patterns/Assignment (2).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ddf719e4d7c6e939",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Programming/Algorithms/Analysis Framework/Problem Sets.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7e8c3fadcd0b5582",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MATH/Linear Algebra/Midterm (1).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8ee842ac7ae770d8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MATH/Linear Algebra/Review/Bijection.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d72f4903c3861a46",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MATH/Linear Algebra/Vector Spaces/4.1/Closure.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "09fd68f27502663e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MATH/Linear Algebra/Vector Spaces/4.1/Vector Space.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "39ab380059a96709",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MATH/Linear Algebra/Vector Spaces/4.1/Subspace.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d51f94456b03b5a1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MATH/Linear Algebra/Vector Spaces/4.1/Vector Space.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 14
+        "currentTab": 21
       }
     ],
     "direction": "vertical"
@@ -254,7 +338,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Assignment (2).md",
+                "file": "MATH/Linear Algebra/Vector Spaces/4.1/Vector Space.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -271,7 +355,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Assignment (2).md",
+                "file": "MATH/Linear Algebra/Vector Spaces/4.1/Vector Space.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -294,7 +378,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Assignment (2).md"
+                "file": "MATH/Linear Algebra/Vector Spaces/4.1/Vector Space.md"
               }
             }
           }
@@ -318,11 +402,27 @@
       "card-board:CardBoard": false
     }
   },
-  "active": "a3483f114c3aa933",
+  "active": "d51f94456b03b5a1",
   "lastOpenFiles": [
+    "MATH/Linear Algebra/Vector Spaces/4.1/Subspace.md",
+    "MATH/Linear Algebra/Vector Spaces/4.1/Practice Problems.md",
+    "MATH/Linear Algebra/Vector Spaces/4.1/Closure.md",
+    "MATH/Linear Algebra/Complex Numbers/Complex Number Arithmetic.md",
+    "MATH/Linear Algebra/Vector Spaces/4.1/Vector Space.md",
+    "MATH/Linear Algebra/Review/Bijection.md",
+    "Null Space.md",
+    "MATH/Linear Algebra/Vector Spaces/4.1",
+    "MATH/Linear Algebra/Midterm (1).md",
+    "MATH/Linear Algebra/Outline.canvas",
+    "MATH/Linear Algebra/September 24.md",
+    "MATH/Linear Algebra/Review/Isomorphism.md",
+    "MATH/Linear Algebra/Review/Linear Combinations.md",
+    "MATH/Linear Algebra/Review/Linear Id.md",
+    "Programming/Algorithms/Analysis Framework/Problem Sets.md",
     "Programming/Algorithms/Analysis Framework/Asymptotic Notations and Basic Efficiency Classes.md",
-    "Assignment (2).md",
     "Programming/Algorithms/Analysis Framework/Analysis Framework.md",
+    "Programming/Algorithms/Problem Patterns/Assignment (2).md",
+    "Programming/Algorithms/Analysis Framework/Problem Sets",
     "Programming/Algorithms/Brute Force & Exhaustion/Brute force.md",
     "Programming/Vim/Searching/Searching.md",
     "Programming/Algorithms/Analysis Framework/Orders of Growth.md",
@@ -334,30 +434,14 @@
     "Programming/Algorithms/Analysis Framework/Mathematical analysis of non-recursive algorithms.md",
     "Programming/Algorithms/Analysis Framework/Units for Measuring Run Time.md",
     "Programming/Vim/Searching",
-    "Programming/Vim/Editing/Editing Text.md",
-    "Programming/Vim/Vim.md",
-    "Programming/Vim/Cursor Movement/UP DOWN LEFT RIGHT.md",
     "Programming/Vim/Editing",
     "Programming/Vim/Cursor Movement",
     "Programming/Vim",
-    "Programming/Algorithms/Algorithms and Data-types/Fundamental Data structures/Graphs/Graph.md",
-    "Programming/Algorithms/Algorithms and Data-types/Fundamental Data structures/Graphs/Graph Traversal.md",
-    "Programming/Algorithms/Algorithms and Data-types/Fundamental Data structures/Graphs/Adjacency List.md",
-    "MATH/Linear Algebra/September 24.md",
-    "MATH/Linear Algebra/2024-09-26.md",
-    "MATH/Linear Algebra/Vector Spaces/Vector Spaces.md",
     "Programming/Algorithms/Analysis Framework",
-    "MATH/Linear Algebra/Vectors/Basis Vectors.md",
-    "MATH/Linear Algebra/Vectors/Magnitude.md",
-    "MATH/Linear Algebra/Vectors/Scalar multiplication.md",
-    "MATH/Linear Algebra/Vectors/Vectors and Coordinate Systems.md",
-    "MATH/Linear Algebra/Outline.canvas",
     "MATH/Linear Algebra/Vectors",
     "MATH/Geometry/Triangles 1",
     "Pasted image 20240924121046.png",
     "MATH/Geometry/Triangles",
-    "Programming/Mobile Development/react-native/Stack Navigator",
-    "MATH/Linear Algebra/Review",
     "Programming/Theory/RBDMS/Pasted image 20240610175142.png",
     "Programming/Languages/Objective-C/Program Structure.canvas",
     "MATH/Geometry/Outline.canvas",
