@@ -169,14 +169,62 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming/Vim/Searching/Searching.md",
+                "file": "Programming/Algorithms/Analysis Framework/Asymptotic notations and efficiency classes.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "46df13d928802935",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Programming/Algorithms/Analysis Framework/Measuring an Input’s Size.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4c4b08a79c267c75",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Programming/Algorithms/Analysis Framework/Units for Measuring Run Time.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ebd54a79dfc7ae7a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Programming/Algorithms/Analysis Framework/Orders of Growth.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "25c9fb86c87d349b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Programming/Algorithms/Analysis Framework/Best , Average , Worst Case.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 13
+        "currentTab": 17
       }
     ],
     "direction": "vertical"
@@ -242,7 +290,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programming/Vim/Searching/Searching.md",
+                "file": "Programming/Algorithms/Analysis Framework/Best , Average , Worst Case.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -259,7 +307,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programming/Vim/Searching/Searching.md",
+                "file": "Programming/Algorithms/Analysis Framework/Best , Average , Worst Case.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -282,7 +330,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programming/Vim/Searching/Searching.md"
+                "file": "Programming/Algorithms/Analysis Framework/Best , Average , Worst Case.md"
               }
             }
           }
@@ -306,11 +354,19 @@
       "card-board:CardBoard": false
     }
   },
-  "active": "88c133c60264fe72",
+  "active": "25c9fb86c87d349b",
   "lastOpenFiles": [
+    "Programming/Algorithms/Analysis Framework/Orders of Growth.md",
+    "Programming/Algorithms/Analysis Framework/Measuring an Input’s Size.md",
+    "Programming/Algorithms/Analysis Framework/Mathematical analysis of recursive algorithms.md",
+    "Programming/Algorithms/Analysis Framework/Mathematical analysis of non-recursive algorithms.md",
+    "Programming/Algorithms/Analysis Framework/Asymptotic notations and efficiency classes.md",
+    "Programming/Algorithms/Analysis Framework/Best , Average , Worst Case.md",
+    "Programming/Algorithms/Analysis Framework/Units for Measuring Run Time.md",
+    "Programming/Algorithms/Brute Force & Exhaustion/Brute force.md",
+    "Programming/Vim/Searching/Searching.md",
     "Programming/Vim/Searching",
     "Programming/Vim/Editing/Editing Text.md",
-    "Programming/Vim/Searching/Searching.md",
     "Programming/Vim/Vim.md",
     "Programming/Vim/Cursor Movement/UP DOWN LEFT RIGHT.md",
     "Programming/Vim/Editing",
@@ -321,9 +377,6 @@
     "Programming/Algorithms/Algorithms and Data-types/Fundamental Data structures/Graphs/Adjacency List.md",
     "MATH/Linear Algebra/September 24.md",
     "MATH/Linear Algebra/2024-09-26.md",
-    "Programming/Algorithms/Analysis Framework/Asymptotic notations and efficiency classes.md",
-    "Programming/Algorithms/Analysis Framework/Mathematical analysis of recursive algorithms.md",
-    "Programming/Algorithms/Analysis Framework/Mathematical analysis of non-recursive algorithms.md",
     "MATH/Linear Algebra/Vector Spaces/Vector Spaces.md",
     "Programming/Algorithms/Analysis Framework",
     "MATH/Linear Algebra/Vectors/Basis Vectors.md",
@@ -335,17 +388,12 @@
     "MATH/Linear Algebra/Vector Spaces/Closure.md",
     "Scal.md",
     "MATH/Linear Algebra/Outline.canvas",
-    "MATH/Linear Algebra/Vector Spaces/Subspaces.md",
     "MATH/Linear Algebra/Vectors",
-    "MATH/Geometry/Triangles/Median.md",
-    "MATH/Geometry/Angles/Vertical Angles.md",
-    "MATH/Geometry/Triangles/Broken Lines.md",
     "MATH/Geometry/Triangles 1",
     "Pasted image 20240924121046.png",
     "MATH/Geometry/Triangles",
     "Programming/Mobile Development/react-native/Stack Navigator",
     "MATH/Linear Algebra/Review",
-    "Programming/Algorithms/Brute Force & Exhaustion",
     "Programming/Theory/RBDMS/Pasted image 20240610175142.png",
     "Programming/Languages/Objective-C/Program Structure.canvas",
     "MATH/Geometry/Outline.canvas",

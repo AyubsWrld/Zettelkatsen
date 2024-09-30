@@ -18,13 +18,13 @@ This **Time Efficiency** is expressed as $T(n) \approx cop \cdot C(n)$ where $\d
 
 ### Input Size and Basic Operations (Examples)
 
-| Problem                                      | Input Size Measure       | Basic Operation                    |
-|----------------------------------------------|--------------------------|------------------------------------|
-| Search for a key in a list of \( n \) items  | Number of items \( n \)   | Key comparison                    |
-| Multiply two matrices                        | Matrix dimensions         | Floating-point multiplication      |
-| Polynomial evaluation                        | Degree of the polynomial  | Floating-point multiplication      |
-| Graph traversal                              | Number of vertices/edges  | Visiting a vertex/traversing an edge |
-| Number factorization                         | Number of bits            | Division                           |
+| Problem                                     | Input Size Measure       | Basic Operation                      |
+| ------------------------------------------- | ------------------------ | ------------------------------------ |
+| Search for a key in a list of \( n \) items | Number of items \( n \)  | Key comparison                       |
+| Multiply two matrices                       | Matrix dimensions        | Floating-point multiplication        |
+| Polynomial evaluation                       | Degree of the polynomial | Floating-point multiplication        |
+| Graph traversal                             | Number of vertices/edges | Visiting a vertex/traversing an edge |
+| Number factorization                        | Number of bits           | Division                             |
 
 ---
 
@@ -42,4 +42,7 @@ For some algorithms, the average case is calculated as the expected number of re
 
 Amortized efficiency applies to a sequence of operations on the same data structure, spreading the cost of operations over multiple actions to give an average time per operation that is lower than the worst-case time.
 
----
+
+
+ ___ 
+ Tags : #programming #algorithms 
