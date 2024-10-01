@@ -265,14 +265,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MATH/Linear Algebra/Vector Spaces/4.1/Vector Space.md",
+                "file": "MATH/Linear Algebra/Vector Spaces/4.1/Subspace.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "14d3296d946dcf1d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MATH/Linear Algebra/Midterm (1).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ab3e72e31faa1cd7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Programming/Algorithms/Algorithms and Data-types/Fundamental Data structures/Graphs/Graph.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 21
+        "currentTab": 22
       }
     ],
     "direction": "vertical"
@@ -338,7 +362,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MATH/Linear Algebra/Vector Spaces/4.1/Vector Space.md",
+                "file": "MATH/Linear Algebra/Midterm (1).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -355,7 +379,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MATH/Linear Algebra/Vector Spaces/4.1/Vector Space.md",
+                "file": "MATH/Linear Algebra/Midterm (1).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -378,7 +402,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MATH/Linear Algebra/Vector Spaces/4.1/Vector Space.md"
+                "file": "MATH/Linear Algebra/Midterm (1).md"
               }
             }
           }
@@ -402,15 +426,19 @@
       "card-board:CardBoard": false
     }
   },
-  "active": "d51f94456b03b5a1",
+  "active": "14d3296d946dcf1d",
   "lastOpenFiles": [
+    "MATH/Linear Algebra/Review/Free vs. Basic Variables.md",
+    "MATH/Linear Algebra/Vector Spaces/4.2/Nullity.md",
+    "Programming/Algorithms/Algorithms and Data-types/Fundamental Data structures/Graphs/Graph.md",
+    "MATH/Linear Algebra/Vector Spaces/4.2/Null Space.md",
     "MATH/Linear Algebra/Vector Spaces/4.1/Subspace.md",
-    "MATH/Linear Algebra/Vector Spaces/4.1/Practice Problems.md",
+    "MATH/Linear Algebra/Vector Spaces/4.2",
     "MATH/Linear Algebra/Vector Spaces/4.1/Closure.md",
-    "MATH/Linear Algebra/Complex Numbers/Complex Number Arithmetic.md",
+    "MATH/Linear Algebra/Vector Spaces/4.1/Practice Problems.md",
     "MATH/Linear Algebra/Vector Spaces/4.1/Vector Space.md",
+    "MATH/Linear Algebra/Complex Numbers/Complex Number Arithmetic.md",
     "MATH/Linear Algebra/Review/Bijection.md",
-    "Null Space.md",
     "MATH/Linear Algebra/Vector Spaces/4.1",
     "MATH/Linear Algebra/Midterm (1).md",
     "MATH/Linear Algebra/Outline.canvas",
@@ -430,9 +458,6 @@
     "Programming/Algorithms/Analysis Framework/Asymptotic notations and efficiency classes.md",
     "Programming/Algorithms/Analysis Framework/Measuring an Input’s Size.md",
     "Programming/Algorithms/Analysis Framework/Amortized Efficiency.md",
-    "Programming/Algorithms/Analysis Framework/Mathematical analysis of recursive algorithms.md",
-    "Programming/Algorithms/Analysis Framework/Mathematical analysis of non-recursive algorithms.md",
-    "Programming/Algorithms/Analysis Framework/Units for Measuring Run Time.md",
     "Programming/Vim/Searching",
     "Programming/Vim/Editing",
     "Programming/Vim/Cursor Movement",
@@ -441,7 +466,6 @@
     "MATH/Linear Algebra/Vectors",
     "MATH/Geometry/Triangles 1",
     "Pasted image 20240924121046.png",
-    "MATH/Geometry/Triangles",
     "Programming/Theory/RBDMS/Pasted image 20240610175142.png",
     "Programming/Languages/Objective-C/Program Structure.canvas",
     "MATH/Geometry/Outline.canvas",

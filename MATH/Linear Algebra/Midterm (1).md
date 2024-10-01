@@ -1,8 +1,11 @@
-Closure, Linear Operations, Examples of Real and Complex Spaces, Subspaces . Complex Numbers 
+#### Complex numbers
 
-Linear Combinations; Spanning Sets; Linear Independence; Dimension, Basis, Coordinates; Isomorphism; Change of Basis and Coordinates
+#### Vector spaces:  
+- the definition (through axioms of linear operations); properties of linear operations; isomorphisms, spanning sets, bases, dimensions, linear dependence/independence; their properties .
 
-Subspaces of arithmetic spaces; Subspaces associated with matrices: Row, Column, Null - spaces; rank; nullity
+#### Subspaces  
+- only the definition and subspaces as Spans. You need to be able to identify: subspace or not a subspace.
+
 ____
 
 Tags : #math #linear-algebra
