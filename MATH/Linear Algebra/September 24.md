@@ -57,7 +57,7 @@ Then has a unique ______ 'idk' by [[Cramers Rule]] .
 
 All to say that if you have 2 linearly independent vectors , if you add a third the system will become linearly dependent . 
 
-#### Properties of [[Linear Dependence]]
+#### Properties of [[Linear dependence]]
 ____
 > (P1) A set is linearly dependent $iff$ one of the vectors is a [[Linear Combination]] of the others . 
 > (P2) A set that includes 0 is [[Linearly Dependent]] . 
