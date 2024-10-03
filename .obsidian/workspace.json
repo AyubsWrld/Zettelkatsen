@@ -43,16 +43,26 @@
             "id": "204f743e3cc95245",
             "type": "leaf",
             "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2024-09-11 08.42.25.excalidraw.md"
+              }
+            }
+          },
+          {
+            "id": "d508902f49b5d1dd",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "Kanban Boards/FALL 2024.md",
+                "file": "Design Document.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -118,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kanban Boards/FALL 2024.md",
+                "file": "Design Document.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Kanban Boards/FALL 2024.md",
+                "file": "Design Document.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Kanban Boards/FALL 2024.md"
+                "file": "Design Document.md"
               }
             }
           },
@@ -192,10 +202,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "204f743e3cc95245",
+  "active": "d508902f49b5d1dd",
   "lastOpenFiles": [
-    "MATH/Geometry/Angles/Theorems.md",
+    "Excalidraw/Drawing 2024-09-11 08.42.25.excalidraw.md",
+    "Design Document.md",
     "Kanban Boards/FALL 2024.md",
+    "MATH/Linear Algebra/Vector Spaces/4.1/Linear dependence.md",
+    "MATH/Geometry/Angles/Theorems.md",
     "MATH/Linear Algebra/Midterm (1).md",
     "MATH/Linear Algebra/September 24.md",
     "Programming/Vim/Searching/Searching.md",
@@ -223,9 +236,6 @@
     "MATH/Linear Algebra/Review/Subspaces.md",
     "MATH/Linear Algebra/Review/Spanning Sets.md",
     "MATH/Linear Algebra/Review/Linear Transformations.md",
-    "MATH/Linear Algebra/Review/Linear Independent Sets.md",
-    "MATH/Linear Algebra/Review/Linear Id.md",
-    "MATH/Linear Algebra/Review/Linear Combinations.md",
     "Programming/Algorithms/Analysis Framework",
     "MATH/Linear Algebra/Vectors",
     "Pasted image 20240924121046.png",
