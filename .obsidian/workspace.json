@@ -45,14 +45,98 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Kanban Boards/FALL 2024.md",
+                "file": "Programming/Algorithms/Brute force & Exhaustion Search/Brute force framework.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a1cec2f14d573699",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Programming/Algorithms/Brute force & Exhaustion Search/Brute force framework.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "de877ebc3ece9229",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Programming/Algorithms/Brute force & Exhaustion Search/Selection sort.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "70cd52cb944c4388",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Programming/Algorithms/Brute force & Exhaustion Search/Selection sort.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b8bd80a6156d46b1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Programming/Algorithms/Brute force & Exhaustion Search/String matching.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "19b93a544241f031",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Programming/Algorithms/Brute force & Exhaustion Search/Closest pair.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c4338158bf6982f1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Programming/Algorithms/Brute force & Exhaustion Search/Exhaustive search.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a21da4721605bfb5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Programming/Algorithms/Brute force & Exhaustion Search/Loop Invariants.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 10
       }
     ],
     "direction": "vertical"
@@ -118,7 +202,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kanban Boards/FALL 2024.md",
+                "file": "Programming/Algorithms/Brute force & Exhaustion Search/Loop Invariants.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +219,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Kanban Boards/FALL 2024.md",
+                "file": "Programming/Algorithms/Brute force & Exhaustion Search/Loop Invariants.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +242,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Kanban Boards/FALL 2024.md"
+                "file": "Programming/Algorithms/Brute force & Exhaustion Search/Loop Invariants.md"
               }
             }
           },
@@ -188,14 +272,28 @@
       "command-palette:Open command palette": false,
       "obsidian-full-calendar:Open Full Calendar": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
-      "card-board:CardBoard": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "card-board:CardBoard": false
     }
   },
-  "active": "204f743e3cc95245",
+  "active": "a21da4721605bfb5",
   "lastOpenFiles": [
-    "MATH/Geometry/Angles/Theorems.md",
+    "Programming/Algorithms/Brute force & Exhaustion Search/Closest pair.md",
+    "Programming/Algorithms/Brute force & Exhaustion Search/Brute force framework.md",
+    "Programming/Algorithms/Brute force & Exhaustion Search/String matching.md",
+    "Programming/Algorithms/Brute force & Exhaustion Search/Sequential Search.md",
+    "Programming/Algorithms/Brute force & Exhaustion Search/Selection sort.md",
+    "Programming/Algorithms/Brute force & Exhaustion Search/Loop Invariants.md",
+    "Programming/Algorithms/Brute force & Exhaustion Search/Graph traversal DFS and BFS.md",
+    "Programming/Algorithms/Brute force & Exhaustion Search/Exhaustive search.md",
+    "Programming/Algorithms/Algorithms and Data-types/Notion of an Algorithm.md",
+    "Sequential search.md",
+    "Project Planning/Lucidity/Features.md",
+    "Programming/Algorithms/Brute Force and Exhaustive Search",
+    "Project Planning/Lucidity/MVP.md",
+    "Project Planning/Lucidity/Profiles.md",
     "Kanban Boards/FALL 2024.md",
+    "MATH/Geometry/Angles/Theorems.md",
     "MATH/Linear Algebra/Midterm (1).md",
     "MATH/Linear Algebra/September 24.md",
     "Programming/Vim/Searching/Searching.md",
@@ -210,27 +308,12 @@
     "Programming/Algorithms/Analysis Framework/Problem Sets.md",
     "Programming/Algorithms/Analysis Framework/Asymptotic Notations and Basic Efficiency Classes.md",
     "Programming/Algorithms/Analysis Framework/Analysis Framework.md",
-    "MATH/Linear Algebra/Vector Spaces/4.2/Nullity.md",
-    "MATH/Linear Algebra/Vector Spaces/4.2/Null Space.md",
     "MATH/Linear Algebra/Vector Spaces/4.2",
-    "MATH/Linear Algebra/Vector Spaces/4.1/Practice Problems.md",
-    "MATH/Linear Algebra/Vector Spaces/4.1/Vector Space.md",
-    "MATH/Linear Algebra/Vector Spaces/4.1/Subspace.md",
-    "MATH/Linear Algebra/Vector Spaces/4.1/Closure.md",
     "MATH/Linear Algebra/Vector Spaces/4.1",
-    "MATH/Linear Algebra/Review/Zero Vector.md",
-    "MATH/Linear Algebra/Review/Vector Spaces.md",
-    "MATH/Linear Algebra/Review/Subspaces.md",
-    "MATH/Linear Algebra/Review/Spanning Sets.md",
-    "MATH/Linear Algebra/Review/Linear Transformations.md",
-    "MATH/Linear Algebra/Review/Linear Independent Sets.md",
-    "MATH/Linear Algebra/Review/Linear Id.md",
-    "MATH/Linear Algebra/Review/Linear Combinations.md",
     "Programming/Algorithms/Analysis Framework",
     "MATH/Linear Algebra/Vectors",
     "Pasted image 20240924121046.png",
     "MATH/Geometry/Triangles",
-    "Programming/Mobile Development/react-native/Stack Navigator",
     "MATH/Linear Algebra/Outline.canvas",
     "Programming/Theory/RBDMS/Pasted image 20240610175142.png",
     "Programming/Languages/Objective-C/Program Structure.canvas",
