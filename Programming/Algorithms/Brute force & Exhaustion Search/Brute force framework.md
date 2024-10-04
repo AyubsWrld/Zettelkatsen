@@ -1,5 +1,7 @@
 Direct implementation of solving problems  . This is done through trying all possibilities until a satisfactory solution is found . No specific method or meaning . 
 
+It leverages the computers capacity to punch a lot of numbers at the cost of efficiency and correctness
+
 
 **Feynman def'n** 
 ___

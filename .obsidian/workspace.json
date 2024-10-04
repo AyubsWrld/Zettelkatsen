@@ -129,14 +129,62 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming/Algorithms/Brute force & Exhaustion Search/Loop Invariants.md",
+                "file": "Programming/Vim/Vim.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "09ba816d076bb65e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Programming/Databases/Supabase/Video Notes.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1d13c04882d721cc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Programming/Mobile Development/expo/AppEntry.js.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a507a18ede7d270d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Programming/Databases/Supabase/supabase.ts.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e25afd1e768e67f1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Programming/Databases/Supabase/Auth.tsx.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 10
+        "currentTab": 14
       }
     ],
     "direction": "vertical"
@@ -202,7 +250,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programming/Algorithms/Brute force & Exhaustion Search/Loop Invariants.md",
+                "file": "Programming/Databases/Supabase/Auth.tsx.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -219,7 +267,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programming/Algorithms/Brute force & Exhaustion Search/Loop Invariants.md",
+                "file": "Programming/Databases/Supabase/Auth.tsx.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -242,7 +290,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programming/Algorithms/Brute force & Exhaustion Search/Loop Invariants.md"
+                "file": "Programming/Databases/Supabase/Auth.tsx.md"
               }
             }
           },
@@ -276,16 +324,26 @@
       "card-board:CardBoard": false
     }
   },
-  "active": "a21da4721605bfb5",
+  "active": "e25afd1e768e67f1",
   "lastOpenFiles": [
+    "Programming/Databases/Supabase/supabase.ts.md",
+    "Programming/Databases/Supabase/Video Notes.md",
+    "Programming/Databases/Supabase/Auth.tsx.md",
+    "Programming/Mobile Development/expo/AppEntry.js.md",
+    "Programming/Mobile Development/expo/Buiding Native Expo Modules.md",
+    "Programming/Vim/Vim.md",
+    "Programming/Databases/Supabase",
+    "Programming/Unit Testing/Telemetry.md",
+    "Programming/Data Pipelines/Data Pipeline.md",
+    "Programming/Algorithms/Brute force & Exhaustion Search/Selection sort.md",
+    "Programming/Databases",
+    "Programming/Algorithms/Brute force & Exhaustion Search/Brute force framework.md",
+    "Programming/Algorithms/Brute force & Exhaustion Search/Loop Invariants.md",
     "MATH/Linear Algebra/Vector Spaces/4.1/Linear dependence.md",
     "Design Document.md",
     "Programming/Algorithms/Brute force & Exhaustion Search/Closest pair.md",
-    "Programming/Algorithms/Brute force & Exhaustion Search/Brute force framework.md",
     "Programming/Algorithms/Brute force & Exhaustion Search/String matching.md",
     "Programming/Algorithms/Brute force & Exhaustion Search/Sequential Search.md",
-    "Programming/Algorithms/Brute force & Exhaustion Search/Selection sort.md",
-    "Programming/Algorithms/Brute force & Exhaustion Search/Loop Invariants.md",
     "Programming/Algorithms/Brute force & Exhaustion Search/Graph traversal DFS and BFS.md",
     "Programming/Algorithms/Brute force & Exhaustion Search/Exhaustive search.md",
     "Programming/Algorithms/Algorithms and Data-types/Notion of an Algorithm.md",
@@ -297,24 +355,14 @@
     "Kanban Boards/FALL 2024.md",
     "MATH/Geometry/Angles/Theorems.md",
     "MATH/Linear Algebra/Midterm (1).md",
-    "MATH/Linear Algebra/September 24.md",
-    "Programming/Vim/Searching/Searching.md",
-    "Programming/Vim/Editing/Editing Text.md",
-    "Programming/Vim/Cursor Movement/UP DOWN LEFT RIGHT.md",
-    "Programming/Vim/Vim.md",
     "Programming/Vim/Searching",
     "Programming/Vim/Editing",
     "Programming/Vim/Cursor Movement",
     "Programming/Vim",
-    "Programming/Algorithms/Problem Patterns/Assignment (2).md",
-    "Programming/Algorithms/Analysis Framework/Problem Sets.md",
-    "Programming/Algorithms/Analysis Framework/Asymptotic Notations and Basic Efficiency Classes.md",
     "MATH/Linear Algebra/Vector Spaces/4.2",
     "MATH/Linear Algebra/Vector Spaces/4.1",
     "Programming/Algorithms/Analysis Framework",
-    "MATH/Linear Algebra/Vectors",
     "Pasted image 20240924121046.png",
-    "MATH/Geometry/Triangles",
     "MATH/Linear Algebra/Outline.canvas",
     "Programming/Theory/RBDMS/Pasted image 20240610175142.png",
     "Programming/Languages/Objective-C/Program Structure.canvas",
