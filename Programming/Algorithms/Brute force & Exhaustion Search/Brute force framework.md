@@ -2,6 +2,10 @@ Direct implementation of solving problems  . This is done through trying all pos
 
 It leverages the computers capacity to punch a lot of numbers at the cost of efficiency and correctness
 
+#### TLDR 
+___
+You gain simplicity of implementation , while giving up efficiency . 
+
 
 **Feynman def'n** 
 ___
