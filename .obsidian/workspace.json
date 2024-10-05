@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MATH/Geometry/Angles/Theorems.md",
+                "file": "MATH/Geometry/Chapter 3 - Angles/Theorems.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MATH/Geometry/Angles/Vertical Angles.md",
+                "file": "MATH/Geometry/Chapter 3 - Angles/Vertical Angles.md",
                 "mode": "source",
                 "source": false
               }
@@ -177,14 +177,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming/Algorithms/Brute force & Exhaustion Search/Sequential Search.md",
+                "file": "MATH/Geometry/Chapter 4 - Triangles/Altitude.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "442ac82764452af1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MATH/Geometry/Chapter 4 - Triangles/Side Angle Side.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7d8b804dae6f9df4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MATH/Geometry/Chapter 2 - Logic/Inverse , Converse , Contrapositive.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 14
+        "currentTab": 16
       }
     ],
     "direction": "vertical"
@@ -250,7 +274,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programming/Algorithms/Brute force & Exhaustion Search/Sequential Search.md",
+                "file": "MATH/Geometry/Chapter 2 - Logic/Inverse , Converse , Contrapositive.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -267,7 +291,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programming/Algorithms/Brute force & Exhaustion Search/Sequential Search.md",
+                "file": "MATH/Geometry/Chapter 2 - Logic/Inverse , Converse , Contrapositive.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -290,7 +314,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programming/Algorithms/Brute force & Exhaustion Search/Sequential Search.md"
+                "file": "MATH/Geometry/Chapter 2 - Logic/Inverse , Converse , Contrapositive.md"
               }
             }
           },
@@ -324,11 +348,18 @@
       "card-board:CardBoard": false
     }
   },
-  "active": "e25afd1e768e67f1",
+  "active": "7d8b804dae6f9df4",
   "lastOpenFiles": [
+    "MATH/Geometry/Chapter 3 - Angles/Vertical Angles.md",
+    "MATH/Geometry/Chapter 2 - Logic/Inverse , Converse , Contrapositive.md",
+    "MATH/Geometry/Chapter 4 - Triangles/Side Angle Side.md",
+    "MATH/Geometry/Chapter 2 - Logic",
+    "MATH/Geometry/Chapter 4 - Triangles/Theorems.md",
+    "MATH/Geometry/Chapter 4 - Triangles/Altitude.md",
+    "Programming/Algorithms/Brute force & Exhaustion Search/Sequential Search.md",
+    "MATH/Geometry/Chapter 4 - Triangles",
     "Programming/Algorithms/Analysis Framework/Analysis Framework.md",
     "Programming/Algorithms/Brute force & Exhaustion Search/Brute force framework.md",
-    "Programming/Algorithms/Brute force & Exhaustion Search/Sequential Search.md",
     "Programming/Algorithms/Brute force & Exhaustion Search/Selection sort.md",
     "Programming/Databases/Supabase/Auth.tsx.md",
     "Programming/Databases/Supabase/supabase.ts.md",
@@ -349,19 +380,12 @@
     "Programming/Algorithms/Brute force & Exhaustion Search/Exhaustive search.md",
     "Programming/Algorithms/Algorithms and Data-types/Notion of an Algorithm.md",
     "Sequential search.md",
-    "Project Planning/Lucidity/Features.md",
     "Programming/Algorithms/Brute Force and Exhaustive Search",
-    "Project Planning/Lucidity/MVP.md",
-    "Project Planning/Lucidity/Profiles.md",
-    "Kanban Boards/FALL 2024.md",
-    "MATH/Geometry/Angles/Theorems.md",
     "Programming/Vim/Searching",
     "Programming/Vim/Editing",
     "Programming/Vim/Cursor Movement",
     "Programming/Vim",
     "MATH/Linear Algebra/Vector Spaces/4.2",
-    "MATH/Linear Algebra/Vector Spaces/4.1",
-    "Programming/Algorithms/Analysis Framework",
     "Pasted image 20240924121046.png",
     "MATH/Linear Algebra/Outline.canvas",
     "Programming/Theory/RBDMS/Pasted image 20240610175142.png",
