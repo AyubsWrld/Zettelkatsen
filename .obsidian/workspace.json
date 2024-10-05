@@ -177,7 +177,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming/Databases/Supabase/Auth.tsx.md",
+                "file": "Programming/Algorithms/Brute force & Exhaustion Search/Sequential Search.md",
                 "mode": "source",
                 "source": false
               }
@@ -250,7 +250,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programming/Databases/Supabase/Auth.tsx.md",
+                "file": "Programming/Algorithms/Brute force & Exhaustion Search/Sequential Search.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -267,7 +267,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programming/Databases/Supabase/Auth.tsx.md",
+                "file": "Programming/Algorithms/Brute force & Exhaustion Search/Sequential Search.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -290,7 +290,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programming/Databases/Supabase/Auth.tsx.md"
+                "file": "Programming/Algorithms/Brute force & Exhaustion Search/Sequential Search.md"
               }
             }
           },
@@ -326,16 +326,16 @@
   },
   "active": "e25afd1e768e67f1",
   "lastOpenFiles": [
+    "Programming/Algorithms/Brute force & Exhaustion Search/Selection sort.md",
+    "Programming/Databases/Supabase/Auth.tsx.md",
     "Programming/Databases/Supabase/supabase.ts.md",
     "Programming/Databases/Supabase/Video Notes.md",
-    "Programming/Databases/Supabase/Auth.tsx.md",
     "Programming/Mobile Development/expo/AppEntry.js.md",
     "Programming/Mobile Development/expo/Buiding Native Expo Modules.md",
     "Programming/Vim/Vim.md",
     "Programming/Databases/Supabase",
     "Programming/Unit Testing/Telemetry.md",
     "Programming/Data Pipelines/Data Pipeline.md",
-    "Programming/Algorithms/Brute force & Exhaustion Search/Selection sort.md",
     "Programming/Databases",
     "Programming/Algorithms/Brute force & Exhaustion Search/Brute force framework.md",
     "Programming/Algorithms/Brute force & Exhaustion Search/Loop Invariants.md",
