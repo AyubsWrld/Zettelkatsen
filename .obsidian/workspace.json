@@ -225,14 +225,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MATH/Geometry/Approach to Proof Writing.md",
+                "file": "MATH/Geometry/Chapter 4 - Triangles/Theorems.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "27d435427b908f3a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MATH/Geometry/Chapter 4 - Triangles/Side Side Side.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 18
+        "currentTab": 19
       }
     ],
     "direction": "vertical"
@@ -298,7 +310,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MATH/Geometry/Approach to Proof Writing.md",
+                "file": "MATH/Geometry/Chapter 4 - Triangles/Side Side Side.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -315,7 +327,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MATH/Geometry/Approach to Proof Writing.md",
+                "file": "MATH/Geometry/Chapter 4 - Triangles/Side Side Side.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -338,7 +350,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MATH/Geometry/Approach to Proof Writing.md"
+                "file": "MATH/Geometry/Chapter 4 - Triangles/Side Side Side.md"
               }
             }
           },
@@ -372,15 +384,16 @@
       "card-board:CardBoard": false
     }
   },
-  "active": "8c60cfc7b5abc079",
+  "active": "27d435427b908f3a",
   "lastOpenFiles": [
-    "Pasted image 20241005192401.png",
-    "MATH/Geometry/Chapter 4 - Triangles/Traingles.md",
+    "MATH/Geometry/Chapter 4 - Triangles/Side Angle Side.md",
+    "MATH/Geometry/Chapter 4 - Triangles/Side Side Side.md",
     "MATH/Geometry/Chapter 4 - Triangles/Theorems.md",
     "MATH/Geometry/Approach to Proof Writing.md",
+    "Pasted image 20241005192401.png",
+    "MATH/Geometry/Chapter 4 - Triangles/Traingles.md",
     "MATH/Geometry/Chapter 4 - Triangles/Altitude.md",
     "MATH/Geometry/Chapter 4 - Triangles/Angle Side Angle.md",
-    "MATH/Geometry/Chapter 4 - Triangles/Side Angle Side.md",
     "MATH/Geometry/Chapter 4 - Triangles/Broken Lines.md",
     "MATH/Geometry/Chapter 4 - Triangles/Bisector.md",
     "MATH/Geometry/Chapter 4 - Triangles/Axial Symmetry.md",
