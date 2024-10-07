@@ -8,6 +8,30 @@
         "type": "tabs",
         "children": [
           {
+            "id": "9d4c91fddd80b527",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MATH/Geometry/Chapter 3 - Angles/Theorems.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "140b2b667f002cba",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MATH/Geometry/Chapter 3 - Angles/Vertical Angles.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "f6f43d1f405a109f",
             "type": "leaf",
             "state": {
@@ -16,31 +40,259 @@
             }
           },
           {
-            "id": "36391283a43be94c",
+            "id": "204f743e3cc95245",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Design Document.md",
+                "file": "Programming/Algorithms/Brute force & Exhaustion Search/Brute force framework.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "3eaaeaee3029b3ff",
+            "id": "a1cec2f14d573699",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming/OAuth/The Problem Being Solved.md",
+                "file": "Programming/Algorithms/Brute force & Exhaustion Search/Brute force framework.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "de877ebc3ece9229",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Programming/Algorithms/Brute force & Exhaustion Search/Selection sort.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "70cd52cb944c4388",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Programming/Algorithms/Brute force & Exhaustion Search/Selection sort.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b8bd80a6156d46b1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Programming/Algorithms/Brute force & Exhaustion Search/String matching.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "19b93a544241f031",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Programming/Algorithms/Brute force & Exhaustion Search/Closest pair.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c4338158bf6982f1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Programming/Algorithms/Brute force & Exhaustion Search/Exhaustive search.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a21da4721605bfb5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Programming/Vim/Vim.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "09ba816d076bb65e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Programming/Databases/Supabase/Video Notes.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1d13c04882d721cc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Programming/Mobile Development/expo/AppEntry.js.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a507a18ede7d270d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Programming/Databases/Supabase/supabase.ts.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e25afd1e768e67f1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MATH/Geometry/Chapter 4 - Triangles/Altitude.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "442ac82764452af1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MATH/Geometry/Chapter 4 - Triangles/Side Angle Side.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7d8b804dae6f9df4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MATH/Geometry/Chapter 4 - Triangles/Broken Lines.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "23ba44d9fbcecc82",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MATH/Geometry/Chapter 4 - Triangles/Theorems.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8c60cfc7b5abc079",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MATH/Geometry/Chapter 4 - Triangles/Theorems.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "27d435427b908f3a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MATH/Geometry/Chapter 4 - Triangles/Side Side Side.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bc49407e11c9c156",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Programming/Algorithms/Midterm(1).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "42b0c0c64cdb8d68",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MATH/Linear Algebra/Complex Numbers/de Moirés Formula.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "105088d56442903b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MATH/Linear Algebra/Complex Numbers/Complex Number Multiplicative.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "adc192f4b1df840d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MATH/Linear Algebra/Complex Numbers/Complex Number Trigonometric Form.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 23
       }
     ],
     "direction": "vertical"
@@ -106,7 +358,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programming/OAuth/The Problem Being Solved.md",
+                "file": "MATH/Linear Algebra/Complex Numbers/Complex Number Trigonometric Form.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +375,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programming/OAuth/The Problem Being Solved.md",
+                "file": "MATH/Linear Algebra/Complex Numbers/Complex Number Trigonometric Form.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +398,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programming/OAuth/The Problem Being Solved.md"
+                "file": "MATH/Linear Algebra/Complex Numbers/Complex Number Trigonometric Form.md"
               }
             }
           },
@@ -176,48 +428,49 @@
       "command-palette:Open command palette": false,
       "obsidian-full-calendar:Open Full Calendar": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
-      "card-board:CardBoard": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "card-board:CardBoard": false
     }
   },
-  "active": "3eaaeaee3029b3ff",
+  "active": "adc192f4b1df840d",
   "lastOpenFiles": [
+    "Design Document.md",
+    "MATH/Linear Algebra/Complex Numbers/Complex Number Trigonometric Form.md",
+    "Pasted image 20241005192401.png",
+    "MATH/Linear Algebra/Complex Numbers/de Moirés Formula.md",
+    "MATH/Linear Algebra/Complex Numbers/Complex Number Multiplicative.md",
+    "MATH/Linear Algebra/Complex Numbers/Complex Number Modulus.md",
+    "MATH/Linear Algebra/Complex Numbers/Complex Number Exponential Form.md",
+    "MATH/Linear Algebra/Review/Inverse of a Matrix.md",
+    "MATH/Linear Algebra/Complex Numbers/Eulers Formula.md",
+    "Programming/Algorithms/Midterm(1).md",
+    "Programming/Algorithms/Assignment Conventions.md",
+    "MATH/Geometry/Chapter 4 - Triangles/Side Side Side.md",
     "Programming/OAuth/The Problem Being Solved.md",
     "Programming/OAuth",
-    "Design Document.md",
-    "Missing.md",
-    "Pasted image 20241005192401.png",
-    "MATH/Geometry/Chapter 4 - Triangles/Side Side Side.md",
-    "MATH/Geometry/Chapter 4 - Triangles/Angle Side Angle.md",
+    "MATH/Geometry/Chapter 4 - Triangles/Side Angle Side.md",
+    "MATH/Geometry/Chapter 4 - Triangles/Theorems.md",
     "MATH/Geometry/Approach to Proof Writing.md",
-    "Excalidraw/Drawing 2024-09-11 08.42.25.excalidraw.md",
-    "Programming/Mobile Development/expo/AppEntry.js.md",
-    "Programming/Databases/Supabase/supabase.ts.md",
-    "Programming/Databases/Supabase/Video Notes.md",
-    "Programming/Databases/Supabase/Auth.tsx.md",
+    "MATH/Geometry/Chapter 4 - Triangles/Traingles.md",
+    "MATH/Geometry/Chapter 4 - Triangles/Altitude.md",
+    "MATH/Geometry/Chapter 4 - Triangles/Angle Side Angle.md",
+    "MATH/Geometry/Chapter 4 - Triangles/Broken Lines.md",
+    "MATH/Geometry/Chapter 4 - Triangles/Bisector.md",
+    "MATH/Geometry/Chapter 4 - Triangles/Axial Symmetry.md",
+    "MATH/Geometry/Chapter 3 - Angles/Vertical Angles.md",
+    "MATH/Geometry/Chapter 3 - Angles/Types of angles.md",
+    "MATH/Geometry/Chapter 3 - Angles/Theorems.md",
+    "MATH/Geometry/Chapter 3 - Angles/Supplementary Angles.md",
+    "MATH/Geometry/Chapter 3 - Angles/Perpendiculars.md",
+    "MATH/Geometry/Chapter 2 - Logic",
+    "MATH/Geometry/Chapter 4 - Triangles",
     "Programming/Databases/Supabase",
     "Programming/Databases",
-    "Programming/Algorithms/Brute force & Exhaustion Search/String matching.md",
-    "Programming/Algorithms/Brute force & Exhaustion Search/Sequential Search.md",
-    "Programming/Algorithms/Brute force & Exhaustion Search/Selection sort.md",
-    "Programming/Algorithms/Brute force & Exhaustion Search/Loop Invariants.md",
-    "Programming/Algorithms/Brute force & Exhaustion Search/Graph traversal DFS and BFS.md",
-    "Programming/Algorithms/Brute force & Exhaustion Search/Exhaustive search.md",
-    "Programming/Algorithms/Brute force & Exhaustion Search/Closest pair.md",
-    "Programming/Algorithms/Brute force & Exhaustion Search/Brute force framework.md",
-    "Programming/Algorithms/Brute force & Exhaustion Search",
-    "MATH/Geometry/Chapter 4 - Triangles/Traingles.md",
-    "MATH/Geometry/Chapter 4 - Triangles/Theorems.md",
-    "MATH/Geometry/Chapter 4 - Triangles/Theorem (3).md",
-    "MATH/Geometry/Chapter 4 - Triangles/Side Angle Side.md",
-    "MATH/Geometry/Chapter 4 - Triangles/Polygons.md",
-    "MATH/Geometry/Chapter 4 - Triangles/Median.md",
-    "MATH/Geometry/Chapter 4 - Triangles",
-    "MATH/Geometry/Chapter 3 - Angles",
-    "MATH/Geometry/Chapter 2 - Logic",
-    "MATH/Geometry/Chapter 1 - Axioms & Postulates/Syntax",
-    "MATH/Geometry/Chapter 1 - Axioms & Postulates/Primitives",
-    "MATH/Geometry/Chapter 1 - Axioms & Postulates/Geometric Figures",
+    "Programming/Algorithms/Brute Force and Exhaustive Search",
+    "Programming/Vim/Searching",
+    "Programming/Vim/Editing",
+    "Programming/Vim/Cursor Movement",
+    "Programming/Vim",
     "Pasted image 20240924121046.png",
     "MATH/Linear Algebra/Outline.canvas",
     "Programming/Theory/RBDMS/Pasted image 20240610175142.png",
