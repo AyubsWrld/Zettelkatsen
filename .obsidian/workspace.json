@@ -8,18 +8,111 @@
         "type": "tabs",
         "children": [
           {
-            "id": "adc192f4b1df840d",
+            "id": "f6f43d1f405a109f",
+            "type": "leaf",
+            "state": {
+              "type": "full-calendar-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "3eaaeaee3029b3ff",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Kanban Boards/FALL 2024.md",
+                "file": "Programming/Algorithms/Algorithms and Data-types/Notion of an Algorithm.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "49c1e85b1acc2f82",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Programming/Algorithms/Decrease and Conquer/Insertion Sort.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "48cbdd06fb4e000b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Programming/Algorithms/Decrease and Conquer/Insertion Sort.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a2da0def89325812",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Programming/Algorithms/Decrease and Conquer/Types of Decrease and conquer techniques.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ee78a82c940a8232",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Programming/Algorithms/Decrease and Conquer/Common Algorithms Using Decrease and Conquer.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3f51d8b48cfc514f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Programming/Algorithms/Decrease and Conquer/General Steps of the Decrease and Conquer Approach.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "338c8b7b50e12c53",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Programming/Algorithms/Decrease and Conquer/Advantages and Disadvantages.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "27e112b0d88dec74",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Programming/Algorithms/Decrease and Conquer/Insertion Sort.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -85,7 +178,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kanban Boards/FALL 2024.md",
+                "file": "Programming/Algorithms/Decrease and Conquer/Insertion Sort.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +195,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Kanban Boards/FALL 2024.md",
+                "file": "Programming/Algorithms/Decrease and Conquer/Insertion Sort.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +218,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Kanban Boards/FALL 2024.md"
+                "file": "Programming/Algorithms/Decrease and Conquer/Insertion Sort.md"
               }
             }
           },
@@ -159,45 +252,45 @@
       "card-board:CardBoard": false
     }
   },
-  "active": "adc192f4b1df840d",
+  "active": "27e112b0d88dec74",
   "lastOpenFiles": [
-    "Untitled.md",
-    "MATH/Linear Algebra/Complex Numbers/Complex Number Trigonometric Form.md",
-    "Design Document.md",
-    "Pasted image 20241005192401.png",
-    "MATH/Linear Algebra/Complex Numbers/de Moirés Formula.md",
-    "MATH/Linear Algebra/Complex Numbers/Complex Number Multiplicative.md",
-    "MATH/Linear Algebra/Complex Numbers/Complex Number Modulus.md",
-    "MATH/Linear Algebra/Complex Numbers/Complex Number Exponential Form.md",
-    "MATH/Linear Algebra/Review/Inverse of a Matrix.md",
-    "MATH/Linear Algebra/Complex Numbers/Eulers Formula.md",
+    "Programming/Algorithms/Decrease and Conquer/Types of Decrease and conquer techniques.md",
+    "Programming/Algorithms/Decrease and Conquer/Problem-Solving Patterns with Decrease and Conquer.md",
+    "Programming/Algorithms/Decrease and Conquer/Advantages and Disadvantages.md",
+    "Programming/Algorithms/Decrease and Conquer/Common Algorithms Using Decrease and Conquer.md",
+    "Programming/Algorithms/Decrease and Conquer/Decrease and Conquer Technique.md",
+    "Programming/Algorithms/Decrease and Conquer/General Steps of the Decrease and Conquer Approach.md",
+    "Programming/Algorithms/Decrease and Conquer/Insertion Sort.md",
+    "Programming/Algorithms/Problem Patterns/Minimum Spanning Tree.md",
+    "Programming/Algorithms/Algorithms and Data-types/Notion of an Algorithm.md",
+    "Programming/Algorithms/Decrease and Conquer",
+    "2024-10-07 , Algorithms.md",
     "Programming/Algorithms/Midterm(1).md",
-    "Programming/Algorithms/Assignment Conventions.md",
-    "MATH/Geometry/Chapter 4 - Triangles/Side Side Side.md",
+    "MATH/Linear Algebra/Review/Inverse of a Matrix.md",
+    "MATH/Linear Algebra/Complex Numbers/de Moirés Formula.md",
+    "MATH/Linear Algebra/Complex Numbers/Complex Number Trigonometric Form.md",
     "Programming/OAuth/The Problem Being Solved.md",
     "Programming/OAuth",
-    "MATH/Geometry/Chapter 4 - Triangles/Side Angle Side.md",
-    "MATH/Geometry/Chapter 4 - Triangles/Theorems.md",
-    "MATH/Geometry/Approach to Proof Writing.md",
-    "MATH/Geometry/Chapter 4 - Triangles/Traingles.md",
-    "MATH/Geometry/Chapter 4 - Triangles/Altitude.md",
+    "Design Document.md",
+    "Missing.md",
+    "Pasted image 20241005192401.png",
+    "MATH/Geometry/Chapter 4 - Triangles/Side Side Side.md",
     "MATH/Geometry/Chapter 4 - Triangles/Angle Side Angle.md",
-    "MATH/Geometry/Chapter 4 - Triangles/Broken Lines.md",
-    "MATH/Geometry/Chapter 4 - Triangles/Bisector.md",
-    "MATH/Geometry/Chapter 4 - Triangles/Axial Symmetry.md",
-    "MATH/Geometry/Chapter 3 - Angles/Vertical Angles.md",
-    "MATH/Geometry/Chapter 3 - Angles/Types of angles.md",
-    "MATH/Geometry/Chapter 3 - Angles/Theorems.md",
-    "MATH/Geometry/Chapter 3 - Angles/Supplementary Angles.md",
-    "MATH/Geometry/Chapter 2 - Logic",
-    "MATH/Geometry/Chapter 4 - Triangles",
+    "MATH/Geometry/Approach to Proof Writing.md",
+    "Excalidraw/Drawing 2024-09-11 08.42.25.excalidraw.md",
+    "Programming/Mobile Development/expo/AppEntry.js.md",
+    "Programming/Databases/Supabase/supabase.ts.md",
+    "Programming/Databases/Supabase/Video Notes.md",
+    "Programming/Databases/Supabase/Auth.tsx.md",
     "Programming/Databases/Supabase",
     "Programming/Databases",
-    "Programming/Algorithms/Brute Force and Exhaustive Search",
-    "Programming/Vim/Searching",
-    "Programming/Vim/Editing",
-    "Programming/Vim/Cursor Movement",
-    "Programming/Vim",
+    "Programming/Algorithms/Brute force & Exhaustion Search/String matching.md",
+    "Programming/Algorithms/Brute force & Exhaustion Search",
+    "MATH/Geometry/Chapter 4 - Triangles",
+    "MATH/Geometry/Chapter 3 - Angles",
+    "MATH/Geometry/Chapter 2 - Logic",
+    "MATH/Geometry/Chapter 1 - Axioms & Postulates/Syntax",
+    "MATH/Geometry/Chapter 1 - Axioms & Postulates/Primitives",
     "Pasted image 20240924121046.png",
     "MATH/Linear Algebra/Outline.canvas",
     "Programming/Theory/RBDMS/Pasted image 20240610175142.png",
