@@ -8,291 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "9d4c91fddd80b527",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MATH/Geometry/Chapter 3 - Angles/Theorems.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "140b2b667f002cba",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MATH/Geometry/Chapter 3 - Angles/Vertical Angles.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f6f43d1f405a109f",
-            "type": "leaf",
-            "state": {
-              "type": "full-calendar-view",
-              "state": {}
-            }
-          },
-          {
-            "id": "204f743e3cc95245",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Programming/Algorithms/Brute force & Exhaustion Search/Brute force framework.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a1cec2f14d573699",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Programming/Algorithms/Brute force & Exhaustion Search/Brute force framework.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "de877ebc3ece9229",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Programming/Algorithms/Brute force & Exhaustion Search/Selection sort.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "70cd52cb944c4388",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Programming/Algorithms/Brute force & Exhaustion Search/Selection sort.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b8bd80a6156d46b1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Programming/Algorithms/Brute force & Exhaustion Search/String matching.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "19b93a544241f031",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Programming/Algorithms/Brute force & Exhaustion Search/Closest pair.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c4338158bf6982f1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Programming/Algorithms/Brute force & Exhaustion Search/Exhaustive search.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a21da4721605bfb5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Programming/Vim/Vim.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "09ba816d076bb65e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Programming/Databases/Supabase/Video Notes.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1d13c04882d721cc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Programming/Mobile Development/expo/AppEntry.js.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a507a18ede7d270d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Programming/Databases/Supabase/supabase.ts.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e25afd1e768e67f1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MATH/Geometry/Chapter 4 - Triangles/Altitude.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "442ac82764452af1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MATH/Geometry/Chapter 4 - Triangles/Side Angle Side.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7d8b804dae6f9df4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MATH/Geometry/Chapter 4 - Triangles/Broken Lines.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "23ba44d9fbcecc82",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MATH/Geometry/Chapter 4 - Triangles/Theorems.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8c60cfc7b5abc079",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MATH/Geometry/Chapter 4 - Triangles/Theorems.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "27d435427b908f3a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MATH/Geometry/Chapter 4 - Triangles/Side Side Side.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "bc49407e11c9c156",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Programming/Algorithms/Midterm(1).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "42b0c0c64cdb8d68",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MATH/Linear Algebra/Complex Numbers/de Moirés Formula.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "105088d56442903b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MATH/Linear Algebra/Complex Numbers/Complex Number Multiplicative.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "adc192f4b1df840d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MATH/Linear Algebra/Complex Numbers/Complex Number Trigonometric Form.md",
+                "file": "Kanban Boards/FALL 2024.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 23
+        ]
       }
     ],
     "direction": "vertical"
@@ -358,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MATH/Linear Algebra/Complex Numbers/Complex Number Trigonometric Form.md",
+                "file": "Kanban Boards/FALL 2024.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -375,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MATH/Linear Algebra/Complex Numbers/Complex Number Trigonometric Form.md",
+                "file": "Kanban Boards/FALL 2024.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -398,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MATH/Linear Algebra/Complex Numbers/Complex Number Trigonometric Form.md"
+                "file": "Kanban Boards/FALL 2024.md"
               }
             }
           },
@@ -434,8 +161,9 @@
   },
   "active": "adc192f4b1df840d",
   "lastOpenFiles": [
-    "Design Document.md",
+    "Untitled.md",
     "MATH/Linear Algebra/Complex Numbers/Complex Number Trigonometric Form.md",
+    "Design Document.md",
     "Pasted image 20241005192401.png",
     "MATH/Linear Algebra/Complex Numbers/de Moirés Formula.md",
     "MATH/Linear Algebra/Complex Numbers/Complex Number Multiplicative.md",
@@ -461,7 +189,6 @@
     "MATH/Geometry/Chapter 3 - Angles/Types of angles.md",
     "MATH/Geometry/Chapter 3 - Angles/Theorems.md",
     "MATH/Geometry/Chapter 3 - Angles/Supplementary Angles.md",
-    "MATH/Geometry/Chapter 3 - Angles/Perpendiculars.md",
     "MATH/Geometry/Chapter 2 - Logic",
     "MATH/Geometry/Chapter 4 - Triangles",
     "Programming/Databases/Supabase",
