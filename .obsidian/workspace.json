@@ -165,7 +165,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming/Algorithms/Decrease and Conquer/Minimal Change.md",
+                "file": "Kanban Boards/FALL 2024.md",
                 "mode": "source",
                 "source": false
               }
@@ -238,7 +238,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programming/Algorithms/Decrease and Conquer/Minimal Change.md",
+                "file": "Kanban Boards/FALL 2024.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -255,7 +255,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programming/Algorithms/Decrease and Conquer/Minimal Change.md",
+                "file": "Kanban Boards/FALL 2024.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -278,7 +278,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programming/Algorithms/Decrease and Conquer/Minimal Change.md"
+                "file": "Kanban Boards/FALL 2024.md"
               }
             }
           },
@@ -314,12 +314,13 @@
   },
   "active": "346aad5e8cab1077",
   "lastOpenFiles": [
-    "Programming/Algorithms/Decrease and Conquer/Permutations.md",
+    "Programming/Algorithms/Midterm(1).md",
+    "Kanban Boards/FALL 2024.md",
     "Programming/Algorithms/Decrease and Conquer/Minimal Change.md",
+    "Programming/Algorithms/Decrease and Conquer/Permutations.md",
     "Programming/Algorithms/Decrease and Conquer/Johnson Trotter Algorithm.md",
     "Programming/Algorithms/Decrease and Conquer/Topological Sorting.md",
     "Programming/Algorithms/Decrease and Conquer/Types of Decrease and conquer techniques.md",
-    "Programming/Algorithms/Midterm(1).md",
     "Programming/Algorithms/Backwards Substitution Recursion.md",
     "Programming/Algorithms/Assignment Conventions.md",
     "Programming/Algorithms/Images/Pasted image 20241007090357.png",
@@ -344,7 +345,6 @@
     "Missing.md",
     "Pasted image 20241005192401.png",
     "MATH/Geometry/Chapter 4 - Triangles/Side Side Side.md",
-    "MATH/Geometry/Chapter 4 - Triangles/Angle Side Angle.md",
     "Programming/Databases/Supabase",
     "Programming/Databases",
     "Programming/Algorithms/Brute force & Exhaustion Search",
