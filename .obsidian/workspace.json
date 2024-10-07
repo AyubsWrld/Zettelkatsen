@@ -110,9 +110,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "397025ef358db9ac",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Programming/Algorithms/Decrease and Conquer/Exercises.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 8
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -178,7 +190,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programming/Algorithms/Decrease and Conquer/Insertion Sort.md",
+                "file": "Programming/Algorithms/Decrease and Conquer/Exercises.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -195,7 +207,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programming/Algorithms/Decrease and Conquer/Insertion Sort.md",
+                "file": "Programming/Algorithms/Decrease and Conquer/Exercises.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -218,7 +230,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programming/Algorithms/Decrease and Conquer/Insertion Sort.md"
+                "file": "Programming/Algorithms/Decrease and Conquer/Exercises.md"
               }
             }
           },
@@ -252,15 +264,16 @@
       "card-board:CardBoard": false
     }
   },
-  "active": "27e112b0d88dec74",
+  "active": "397025ef358db9ac",
   "lastOpenFiles": [
+    "Programming/Algorithms/Decrease and Conquer/Decrease and Conquer Technique.md",
+    "Programming/Algorithms/Decrease and Conquer/Exercises.md",
+    "Programming/Algorithms/Decrease and Conquer/Insertion Sort.md",
     "Programming/Algorithms/Decrease and Conquer/Types of Decrease and conquer techniques.md",
     "Programming/Algorithms/Decrease and Conquer/Problem-Solving Patterns with Decrease and Conquer.md",
     "Programming/Algorithms/Decrease and Conquer/Advantages and Disadvantages.md",
     "Programming/Algorithms/Decrease and Conquer/Common Algorithms Using Decrease and Conquer.md",
-    "Programming/Algorithms/Decrease and Conquer/Decrease and Conquer Technique.md",
     "Programming/Algorithms/Decrease and Conquer/General Steps of the Decrease and Conquer Approach.md",
-    "Programming/Algorithms/Decrease and Conquer/Insertion Sort.md",
     "Programming/Algorithms/Problem Patterns/Minimum Spanning Tree.md",
     "Programming/Algorithms/Algorithms and Data-types/Notion of an Algorithm.md",
     "Programming/Algorithms/Decrease and Conquer",
@@ -284,7 +297,6 @@
     "Programming/Databases/Supabase/Auth.tsx.md",
     "Programming/Databases/Supabase",
     "Programming/Databases",
-    "Programming/Algorithms/Brute force & Exhaustion Search/String matching.md",
     "Programming/Algorithms/Brute force & Exhaustion Search",
     "MATH/Geometry/Chapter 4 - Triangles",
     "MATH/Geometry/Chapter 3 - Angles",

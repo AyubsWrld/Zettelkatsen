@@ -24,5 +24,6 @@ void insertionSort(int A[], int n) {
 - **Show Two Loop Invariants** :
 	- At every iteration the list is sorted prior to i . 
 	- At every iteration the values after v are large .
- ___
+- **Analysis** :
+___
  Tags : #programming #algorithms 
