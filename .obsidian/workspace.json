@@ -170,9 +170,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "13caeccb5dfc5c51",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Programming/Shell Scripts/Changing Shell.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 13
+        "currentTab": 14
       }
     ],
     "direction": "vertical"
@@ -238,7 +250,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kanban Boards/FALL 2024.md",
+                "file": "Programming/Shell Scripts/Changing Shell.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -255,7 +267,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Kanban Boards/FALL 2024.md",
+                "file": "Programming/Shell Scripts/Changing Shell.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -278,7 +290,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Kanban Boards/FALL 2024.md"
+                "file": "Programming/Shell Scripts/Changing Shell.md"
               }
             }
           },
@@ -312,10 +324,12 @@
       "card-board:CardBoard": false
     }
   },
-  "active": "346aad5e8cab1077",
+  "active": "88c133c60264fe72",
   "lastOpenFiles": [
-    "Programming/Algorithms/Midterm(1).md",
     "Kanban Boards/FALL 2024.md",
+    "Programming/Shell Scripts/Changing Shell.md",
+    "Programming/Shell Scripts",
+    "Programming/Algorithms/Midterm(1).md",
     "Programming/Algorithms/Decrease and Conquer/Minimal Change.md",
     "Programming/Algorithms/Decrease and Conquer/Permutations.md",
     "Programming/Algorithms/Decrease and Conquer/Johnson Trotter Algorithm.md",
@@ -344,14 +358,12 @@
     "Design Document.md",
     "Missing.md",
     "Pasted image 20241005192401.png",
-    "MATH/Geometry/Chapter 4 - Triangles/Side Side Side.md",
     "Programming/Databases/Supabase",
     "Programming/Databases",
     "Programming/Algorithms/Brute force & Exhaustion Search",
     "MATH/Geometry/Chapter 4 - Triangles",
     "MATH/Geometry/Chapter 3 - Angles",
     "MATH/Geometry/Chapter 2 - Logic",
-    "MATH/Geometry/Chapter 1 - Axioms & Postulates/Syntax",
     "Pasted image 20240924121046.png",
     "MATH/Linear Algebra/Outline.canvas",
     "Programming/Theory/RBDMS/Pasted image 20240610175142.png",
