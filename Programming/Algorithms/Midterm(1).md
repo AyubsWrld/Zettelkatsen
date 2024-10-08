@@ -56,7 +56,23 @@ $while \ i \geq 1 \ do$
 	$i \leftarrow  i - \ 2$
 $return \ m$
 
+- Analyze the loop structure:
+    - Identify how many times the loop iterates
+    - Determine how the loop variable changes
+- Count operations:
+    - Identify the number of basic operations (comparisons, arithmetic operations, etc.) per iteration
+- Express in terms of input size:
+    - Relate the number of iterations and operations to the input size (n in this case)
+- Simplify and identify the dominant term:
+    - Remove constants and lower-order terms
+- Consider best, average, and worst cases:
+    - Determine if the algorithm's performance varies significantly based on input
 
+Here there is one for loop $\therefore$ $\theta(n)$  . 
+
+#### Which does it not belong to ? 
+if $\theta(n)$ then which Big O and Big Omega does it not belong to ? 
+Relatively simple once you have derived what it belongs theta is belongs to . Anything growth rate less than or equal to n is a valid $O(n)$ any growth rate great than or equal to n is a valid $\omega(n)$  .
 ___ 
  Tags : #programming #algorithms 
  
