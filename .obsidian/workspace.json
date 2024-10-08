@@ -182,9 +182,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "1df8013414be9aab",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Programming/Algorithms/Midterm(1).md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 14
+        "currentTab": 15
       }
     ],
     "direction": "vertical"
@@ -250,7 +262,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programming/Shell Scripts/Changing Shell.md",
+                "file": "Programming/Algorithms/Midterm(1).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -267,7 +279,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programming/Shell Scripts/Changing Shell.md",
+                "file": "Programming/Algorithms/Midterm(1).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -290,7 +302,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programming/Shell Scripts/Changing Shell.md"
+                "file": "Programming/Algorithms/Midterm(1).md"
               }
             }
           },
@@ -324,19 +336,22 @@
       "card-board:CardBoard": false
     }
   },
-  "active": "88c133c60264fe72",
+  "active": "1df8013414be9aab",
   "lastOpenFiles": [
+    "Programming/Algorithms/README.md",
+    "Programming/Algorithms/Assignment Conventions.md",
+    "Programming/Algorithms/Backwards Substitution Recursion.md",
+    "Programming/Algorithms/Midterm(1).md",
+    "Programming/Algorithms/Problem Patterns/Sets.md",
     "Kanban Boards/FALL 2024.md",
+    "Programming/Shell Scripts/Automation Ideas.md",
     "Programming/Shell Scripts/Changing Shell.md",
     "Programming/Shell Scripts",
-    "Programming/Algorithms/Midterm(1).md",
     "Programming/Algorithms/Decrease and Conquer/Minimal Change.md",
     "Programming/Algorithms/Decrease and Conquer/Permutations.md",
     "Programming/Algorithms/Decrease and Conquer/Johnson Trotter Algorithm.md",
     "Programming/Algorithms/Decrease and Conquer/Topological Sorting.md",
     "Programming/Algorithms/Decrease and Conquer/Types of Decrease and conquer techniques.md",
-    "Programming/Algorithms/Backwards Substitution Recursion.md",
-    "Programming/Algorithms/Assignment Conventions.md",
     "Programming/Algorithms/Images/Pasted image 20241007090357.png",
     "Programming/Algorithms/Images",
     "Programming/Algorithms/Decrease and Conquer/Common Algorithms Using Decrease and Conquer.md",
@@ -353,10 +368,7 @@
     "MATH/Linear Algebra/Review/Inverse of a Matrix.md",
     "MATH/Linear Algebra/Complex Numbers/de Moirés Formula.md",
     "MATH/Linear Algebra/Complex Numbers/Complex Number Trigonometric Form.md",
-    "Programming/OAuth/The Problem Being Solved.md",
     "Programming/OAuth",
-    "Design Document.md",
-    "Missing.md",
     "Pasted image 20241005192401.png",
     "Programming/Databases/Supabase",
     "Programming/Databases",

@@ -1,3 +1,4 @@
+#### Data structure Definition questions
 1. What best defines an array?
 	1. A collection of like items stored contiguously within memory .  When we say that they are like items , this implies that they are the same datatype . Fundamentally what differentiates [[Datatypes]] are their size . 
 2. Which of the following is not a property of arrays?
@@ -11,7 +12,51 @@
 	b. stacks - Only specifies how 
 	c. queues
 	d. linked lists - Probably the most inefficient 
-	
-4. Find gcd(105, 43) by applying Euclid’s algorithm.
- ___ 
+
+#### Euclidean Algorithm Pattern
+**$a = bq + r$**
+
+**Recursive Form** : 
+
+```c
+int euclid(int b , int r){
+	if(0 == r){
+		return b 
+	}
+	return euclid(r  , b % r)
+}
+```
+ 
+ 
+#### Writing out algorithms . 
+1. **Signature** : *Algorithm algorithmExample(arguments)*
+2. **Purpose** : *This algorithm performs this purpose*
+3. **Input** : *An explanation of the arguments taken by the algorithm*
+4. **Output** : *An explanation of the outputs the algorithm produce* 
+**Example (1)** , writing a matrix algorithm . 
+___
+**Algorithm**: $X(A[0...n] , n)$
+**Purpose**: Returns the sum of of a matrix's contents skipping every n-1 value 
+**Input**: An array , A  , and its length , n 
+**Output**:  and integer whose sum is the matrixes contents skip counted by n-1 
+$m \leftarrow l$
+$i \leftarrow n$
+
+$while \ i \geq 1 \ do$
+	$m \leftarrow m\cdot A[i]$
+	$i \leftarrow  i - \ 2$
+$return \ m$
+#### Analyzing an algorithm based on its implementation 
+Given this algorithm , give it an efficiency class . 
+$m \leftarrow l$
+$i \leftarrow n$
+
+$while \ i \geq 1 \ do$
+	$m \leftarrow m\cdot A[i]$
+	$i \leftarrow  i - \ 2$
+$return \ m$
+
+
+___ 
  Tags : #programming #algorithms 
+ 
