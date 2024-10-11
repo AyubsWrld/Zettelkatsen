@@ -189,14 +189,86 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming/Algorithms/Midterm(1).md",
+                "file": "MATH/Geometry/Chapter 4 - Triangles/4.1 - 4.4/Altitude.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "41d279a02228af9d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MATH/Geometry/Chapter 4 - Triangles/4.5 - The exterior angles of a triangle.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fc1ef186a95d19b2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MATH/Geometry/Chapter 4 - Triangles/4.6 - Relations between the sides and angles in a triangle.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2e26a67c8255206f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MATH/Geometry/Chapter 4 - Triangles/4.5 - The exterior angles of a triangle.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "81c2b8989721f2c8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MATH/Geometry/Chapter 4 - Triangles/4.9 - Congruence of Right Triangles.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bc8d4c0415005285",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MATH/Geometry/Chapter 4 - Triangles/4.10 - The Perpendicular Bisector and Angle Bisector as Loci.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f941fa5cc6313dc1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "5.1 The axioms and tools for geometric constructions..md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 15
+        "currentTab": 21
       }
     ],
     "direction": "vertical"
@@ -262,7 +334,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programming/Algorithms/Midterm(1).md",
+                "file": "5.1 The axioms and tools for geometric constructions..md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -279,7 +351,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programming/Algorithms/Midterm(1).md",
+                "file": "5.1 The axioms and tools for geometric constructions..md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -302,7 +374,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programming/Algorithms/Midterm(1).md"
+                "file": "5.1 The axioms and tools for geometric constructions..md"
               }
             }
           },
@@ -336,12 +408,21 @@
       "card-board:CardBoard": false
     }
   },
-  "active": "1df8013414be9aab",
+  "active": "f941fa5cc6313dc1",
   "lastOpenFiles": [
+    "MATH/Geometry/Chapter 4 - Triangles/4.10 - The Perpendicular Bisector and Angle Bisector as Loci.md",
+    "5.1 The axioms and tools for geometric constructions..md",
+    "MATH/Geometry/Chapter 5 - Construction Problems",
+    "MATH/Geometry/Chapter 4 - Triangles/4.9 - Congruence of Right Triangles.md",
+    "MATH/Geometry/Chapter 4 - Triangles/4.5 - The exterior angles of a triangle.md",
+    "MATH/Geometry/Chapter 4 - Triangles/4.7 - Comparative lengths of the straight segment and a broken line connecting the  same pair of points..md",
+    "MATH/Geometry/Chapter 4 - Triangles/4.6 - Relations between the sides and angles in a triangle.md",
+    "MATH/Geometry/Chapter 4 - Triangles/4.1 - 4.4/Altitude.md",
+    "Programming/Algorithms/Midterm(1).md",
+    "MATH/Geometry/Chapter 4 - Triangles/4.1 - 4.4",
     "Programming/Algorithms/README.md",
     "Programming/Algorithms/Assignment Conventions.md",
     "Programming/Algorithms/Backwards Substitution Recursion.md",
-    "Programming/Algorithms/Midterm(1).md",
     "Programming/Algorithms/Problem Patterns/Sets.md",
     "Kanban Boards/FALL 2024.md",
     "Programming/Shell Scripts/Automation Ideas.md",
@@ -360,22 +441,13 @@
     "Programming/Algorithms/Decrease and Conquer/Insertion Sort.md",
     "Programming/Algorithms/Decrease and Conquer/General Steps of the Decrease and Conquer Approach.md",
     "Programming/Algorithms/Decrease and Conquer/Decrease and Conquer Technique.md",
-    "Programming/Algorithms/Decrease and Conquer/Exercises.md",
-    "Programming/Algorithms/Problem Patterns/Minimum Spanning Tree.md",
-    "Programming/Algorithms/Algorithms and Data-types/Notion of an Algorithm.md",
     "Programming/Algorithms/Decrease and Conquer",
-    "2024-10-07 , Algorithms.md",
-    "MATH/Linear Algebra/Review/Inverse of a Matrix.md",
-    "MATH/Linear Algebra/Complex Numbers/de Moirés Formula.md",
-    "MATH/Linear Algebra/Complex Numbers/Complex Number Trigonometric Form.md",
     "Programming/OAuth",
     "Pasted image 20241005192401.png",
     "Programming/Databases/Supabase",
     "Programming/Databases",
     "Programming/Algorithms/Brute force & Exhaustion Search",
     "MATH/Geometry/Chapter 4 - Triangles",
-    "MATH/Geometry/Chapter 3 - Angles",
-    "MATH/Geometry/Chapter 2 - Logic",
     "Pasted image 20240924121046.png",
     "MATH/Linear Algebra/Outline.canvas",
     "Programming/Theory/RBDMS/Pasted image 20240610175142.png",
