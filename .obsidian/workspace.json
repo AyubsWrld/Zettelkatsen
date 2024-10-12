@@ -314,9 +314,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "d8a0478268d9c05d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Programming/Environment Variables/dotenv.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 25
+        "currentTab": 26
       }
     ],
     "direction": "vertical"
@@ -382,7 +394,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MATH/Linear Algebra/Midterm (2).md",
+                "file": "Programming/Environment Variables/dotenv.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -399,7 +411,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MATH/Linear Algebra/Midterm (2).md",
+                "file": "Programming/Environment Variables/dotenv.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -422,7 +434,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MATH/Linear Algebra/Midterm (2).md"
+                "file": "Programming/Environment Variables/dotenv.md"
               }
             }
           },
@@ -456,10 +468,12 @@
       "card-board:CardBoard": false
     }
   },
-  "active": "f947a1d37b51f818",
+  "active": "88c133c60264fe72",
   "lastOpenFiles": [
-    "MATH/Linear Algebra/Midterm (1).md",
     "MATH/Linear Algebra/Midterm (2).md",
+    "Programming/Environment Variables/dotenv.md",
+    "Programming/Environment Variables",
+    "MATH/Linear Algebra/Midterm (1).md",
     "MATH/Linear Algebra/2024-09-26.md",
     "Kanban Boards/FALL 2024.md",
     "MATH/Geometry/Chapter 6 - Parralell Lines/6.1.md",
@@ -487,7 +501,6 @@
     "Programming/Algorithms/Decrease and Conquer/Minimal Change.md",
     "Programming/Algorithms/Decrease and Conquer/Permutations.md",
     "Programming/Algorithms/Decrease and Conquer/Johnson Trotter Algorithm.md",
-    "Programming/Algorithms/Decrease and Conquer/Topological Sorting.md",
     "Programming/Algorithms/Images/Pasted image 20241007090357.png",
     "Programming/Algorithms/Images",
     "Programming/Algorithms/Decrease and Conquer",
@@ -495,7 +508,6 @@
     "Pasted image 20241005192401.png",
     "Programming/Databases/Supabase",
     "Programming/Databases",
-    "Programming/Algorithms/Brute force & Exhaustion Search",
     "Pasted image 20240924121046.png",
     "MATH/Linear Algebra/Outline.canvas",
     "Programming/Theory/RBDMS/Pasted image 20240610175142.png",
