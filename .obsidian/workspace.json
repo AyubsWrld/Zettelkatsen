@@ -321,7 +321,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming/Environment Variables/dotenv.md",
+                "file": "Project Planning/Keepur/Abstract.md",
                 "mode": "source",
                 "source": false
               }
@@ -394,7 +394,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programming/Environment Variables/dotenv.md",
+                "file": "Project Planning/Keepur/Abstract.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -411,7 +411,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programming/Environment Variables/dotenv.md",
+                "file": "Project Planning/Keepur/Abstract.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -434,7 +434,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programming/Environment Variables/dotenv.md"
+                "file": "Project Planning/Keepur/Abstract.md"
               }
             }
           },
@@ -464,14 +464,24 @@
       "command-palette:Open command palette": false,
       "obsidian-full-calendar:Open Full Calendar": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "card-board:CardBoard": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "88c133c60264fe72",
+  "active": "d8a0478268d9c05d",
   "lastOpenFiles": [
-    "MATH/Linear Algebra/Midterm (2).md",
+    "Project Planning/Keepur/Outline.md",
+    "Project Planning/Keepur/Understanding.md",
+    "Project Planning/Keepur/Abstract.md",
+    "Project Planning/Keepur/codeRevisions.md",
+    "Project Planning/Keepur/Functionalities.md",
+    "Project Planning/Keepur/How the Native Modules Interact.md",
+    "Project Planning/Keepur/implementation.swift.md",
+    "Project Planning/Keepur/Keepr Outline.canvas",
+    "Project Planning/Keepur/Meantime.md",
+    "MATH/Geometry/Chapter 4 - Triangles/4.5 - The exterior angles of a triangle.md",
+    "Programming/OAuth/The Problem Being Solved.md",
     "Programming/Environment Variables/dotenv.md",
+    "MATH/Linear Algebra/Midterm (2).md",
     "Programming/Environment Variables",
     "MATH/Linear Algebra/Midterm (1).md",
     "MATH/Linear Algebra/2024-09-26.md",
@@ -485,22 +495,12 @@
     "MATH/Geometry/Chapter 4 - Triangles/4.9 - Congruence of Right Triangles.md",
     "MATH/Geometry/Chapter 4 - Triangles/4.7 - Comparative lengths of the straight segment and a broken line connecting the  same pair of points..md",
     "MATH/Geometry/Chapter 4 - Triangles/4.6 - Relations between the sides and angles in a triangle.md",
-    "MATH/Geometry/Chapter 4 - Triangles/4.5 - The exterior angles of a triangle.md",
     "MATH/Geometry/Chapter 4 - Triangles/4.1 - 4.4/Altitude.md",
     "MATH/Geometry/Chapter 6 - Parralell Lines",
     "MATH/Geometry/Chapter 5 - Construction Problems",
     "Programming/Algorithms/Midterm(1).md",
     "MATH/Geometry/Chapter 4 - Triangles/4.1 - 4.4",
-    "Programming/Algorithms/README.md",
-    "Programming/Algorithms/Assignment Conventions.md",
-    "Programming/Algorithms/Backwards Substitution Recursion.md",
-    "Programming/Algorithms/Problem Patterns/Sets.md",
-    "Programming/Shell Scripts/Automation Ideas.md",
-    "Programming/Shell Scripts/Changing Shell.md",
     "Programming/Shell Scripts",
-    "Programming/Algorithms/Decrease and Conquer/Minimal Change.md",
-    "Programming/Algorithms/Decrease and Conquer/Permutations.md",
-    "Programming/Algorithms/Decrease and Conquer/Johnson Trotter Algorithm.md",
     "Programming/Algorithms/Images/Pasted image 20241007090357.png",
     "Programming/Algorithms/Images",
     "Programming/Algorithms/Decrease and Conquer",
@@ -514,7 +514,6 @@
     "Programming/Languages/Objective-C/Program Structure.canvas",
     "MATH/Geometry/Outline.canvas",
     "Programming/Design Patterns/Outline.canvas",
-    "Project Planning/Keepur/Keepr Outline.canvas",
     "Programming/System Design/Overview.canvas",
     "MATH/Images/Pasted image 20240604144226.png",
     "Programming/Computer Science/Languages/Objective-C/Program Structure.canvas",
