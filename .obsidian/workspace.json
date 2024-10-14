@@ -20,12 +20,12 @@
             }
           },
           {
-            "id": "47f655e8bf1aca6d",
+            "id": "977f2230c6b0596e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Project Planning/Keepur/How the Native Modules Interact.md",
+                "file": "Programming/Errors/Build failed because of webpack errors.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Project Planning/Keepur/How the Native Modules Interact.md",
+                "file": "Programming/Errors/Build failed because of webpack errors.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Project Planning/Keepur/How the Native Modules Interact.md",
+                "file": "Programming/Errors/Build failed because of webpack errors.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Project Planning/Keepur/How the Native Modules Interact.md"
+                "file": "Programming/Errors/Build failed because of webpack errors.md"
               }
             }
           },
@@ -172,8 +172,12 @@
       "card-board:CardBoard": false
     }
   },
-  "active": "47f655e8bf1aca6d",
+  "active": "977f2230c6b0596e",
   "lastOpenFiles": [
+    "Programming/Git/Cloning Github Repos.md",
+    "Programming/Errors/Build failed because of webpack errors.md",
+    "Project Planning/Keepur/How the Native Modules Interact.md",
+    "Programming/Errors",
     "MATH/Geometry/Chapter 4 - Triangles/4.8. Comparison of a perpendicular and the obliques.md",
     "Images",
     "Images/Pasted image 20241013161523.png",
@@ -199,8 +203,6 @@
     "Project Planning/Keepur/Abstract.md",
     "Project Planning/Keepur/Outline.md",
     "Project Planning/Keepur/Understanding.md",
-    "Project Planning/Keepur/codeRevisions.md",
-    "Project Planning/Keepur/Functionalities.md",
     "Project Planning/Keepur/Keepr Outline.canvas",
     "Programming/Environment Variables",
     "MATH/Geometry/Chapter 6 - Parralell Lines",
@@ -212,7 +214,6 @@
     "Programming/Algorithms/Decrease and Conquer",
     "Programming/OAuth",
     "Pasted image 20241005192401.png",
-    "Programming/Databases/Supabase",
     "Pasted image 20240924121046.png",
     "MATH/Linear Algebra/Outline.canvas",
     "Programming/Theory/RBDMS/Pasted image 20240610175142.png",
