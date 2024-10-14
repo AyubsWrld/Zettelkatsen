@@ -34,7 +34,89 @@ Imagine you and your friends decide to visit a fancy Russian bakery that’s fam
     - **Role:** You tell the cashier (bridging header) what you want in English (JavaScript), the cashier translates your request into Russian (Objective-C to Swift bridging), and the chef (Swift code) retrieves the appropriate pre-made pastry (executes the logic). The pastry is then handed back to you via the cashier (results passed back to JavaScript).
 
 
+This code appears to be a combination of Swift and Objective-C, used to create a native module for React Native. Let me break it down for you:
 
+1. Swift code (Counter.swift):
+
+
+
+```swift
+import Foundation
+
+@objc(Counter)
+class Counter: NSObject {
+    private var count = 0
+    
+    @objc
+    func increment(_ callback: RCTResponseSenderBlock) {
+        count += 1
+        print(count)
+        callback([count])
+    }
+    
+    @objc
+    static func requiresMainQueueSetup() -> Bool {
+        return true
+    }
+    
+    @objc
+    func constantsToExport() -> [String: Any]! {
+        return ["initialCount": count]
+    }
+    
+    @objc
+    func decrement(_ resolve: RCTPromiseResolveBlock, reject: RCTPromiseRejectBlock) {
+        if (count == 0) {
+            let error = NSError(domain: "", code: 200, userInfo: nil)
+            reject("ERROR_COUNT", "Count cannot be negative", error)
+        } else {
+            count -= 1
+            resolve(count)
+        }
+    }
+}
+```
+
+This Swift code defines a `Counter` class that:
+- Has a private `count` variable
+- Provides an `increment` method that uses a callback
+- Implements `requiresMainQueueSetup` to indicate it needs to run on the main queue
+- Exports constants (initial count)
+- Provides a `decrement` method that returns a promise
+
+2. Objective-C code (Counter.m):
+
+```objc
+#import <Foundation/Foundation.h>
+#import "React/RCTBridgeModule.h"
+
+@interface RCT_EXTERN_MODULE(Counter,NSObject)
+RCT_EXTERN_METHOD(increment:(RCTResponseSenderBlock))
+RCT_EXTERN_METHOD(decrement:(RCTPromiseResolveBlock)resolve reject:(RCTPromiseRejectBlock)reject)
+@end
+```
+
+This Objective-C code:
+- Declares the `Counter` module for React Native
+- Exposes the `increment` and `decrement` methods to JavaScript
+
+3. Bridge header:
+
+```objc
+#import <React/RCTBridgeModule.h>
+```
+
+This is likely part of a bridging header file, which is necessary to expose Objective-C code to Swift.
+
+How they fit together:
+
+1. The Swift file (`Counter.swift`) contains the main implementation of the `Counter` module.
+2. The Objective-C file (`Counter.m`) acts as a bridge between the Swift code and React Native's JavaScript side. It declares the module and its methods so that React Native can recognize and use them.
+3. The bridging header allows the Swift code to use React Native's Objective-C interfaces.
+
+This setup allows you to write most of your native module code in Swift while still interfacing with React Native, which primarily expects Objective-C for iOS native modules. The `@objc` attributes in the Swift code and the `RCT_EXTERN_*` macros in the Objective-C code work together to make the Swift methods accessible to JavaScript through React Native's bridge.
+
+Would you like me to elaborate on any specific part of this setup?
 
 ___
 Tags : #programming #react-native #swift #objective-c 

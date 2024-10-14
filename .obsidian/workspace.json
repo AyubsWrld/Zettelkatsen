@@ -4,235 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "675183c89b39ca11",
+        "id": "6c6738f78034da05",
         "type": "tabs",
         "children": [
           {
-            "id": "f6f43d1f405a109f",
-            "type": "leaf",
-            "state": {
-              "type": "full-calendar-view",
-              "state": {}
-            }
-          },
-          {
-            "id": "3eaaeaee3029b3ff",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Programming/Algorithms/Algorithms and Data-types/Notion of an Algorithm.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "49c1e85b1acc2f82",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Programming/Algorithms/Decrease and Conquer/Insertion Sort.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "48cbdd06fb4e000b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Programming/Algorithms/Decrease and Conquer/Insertion Sort.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a2da0def89325812",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Programming/Algorithms/Decrease and Conquer/Types of Decrease and conquer techniques.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ee78a82c940a8232",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Programming/Algorithms/Decrease and Conquer/Common Algorithms Using Decrease and Conquer.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3f51d8b48cfc514f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Programming/Algorithms/Decrease and Conquer/General Steps of the Decrease and Conquer Approach.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "338c8b7b50e12c53",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Programming/Algorithms/Decrease and Conquer/Advantages and Disadvantages.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "27e112b0d88dec74",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Programming/Algorithms/Decrease and Conquer/Insertion Sort.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "397025ef358db9ac",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Programming/Algorithms/Decrease and Conquer/Common Algorithms Using Decrease and Conquer.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "239e5108bb8f3731",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Programming/Algorithms/Midterm(1).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "061eb4f3087a81df",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Programming/Algorithms/Decrease and Conquer/Permutations.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f49a89d1a7c641bc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Programming/Algorithms/Decrease and Conquer/Johnson Trotter Algorithm.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "346aad5e8cab1077",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Kanban Boards/FALL 2024.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "13caeccb5dfc5c51",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Programming/Shell Scripts/Changing Shell.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1df8013414be9aab",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MATH/Geometry/Chapter 4 - Triangles/4.1 - 4.4/Altitude.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "41d279a02228af9d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MATH/Geometry/Chapter 4 - Triangles/4.5 - The exterior angles of a triangle.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fc1ef186a95d19b2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MATH/Geometry/Chapter 4 - Triangles/4.6 - Relations between the sides and angles in a triangle.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2e26a67c8255206f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MATH/Geometry/Chapter 4 - Triangles/4.5 - The exterior angles of a triangle.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "81c2b8989721f2c8",
+            "id": "c458493256034ec5",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -244,91 +20,19 @@
             }
           },
           {
-            "id": "bc8d4c0415005285",
+            "id": "47f655e8bf1aca6d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MATH/Geometry/Chapter 4 - Triangles/4.10 - The Perpendicular Bisector and Angle Bisector as Loci.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f941fa5cc6313dc1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MATH/Geometry/Chapter 5 - Construction Problems/5.1 The axioms and tools for geometric constructions..md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "83d67f0daff48e17",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MATH/Geometry/Chapter 5 - Construction Problems/5.2 Basic construction problems..md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "868dd849990bc8d6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MATH/Geometry/Chapter 5 - Construction Problems/5.1 The axioms and tools for geometric constructions..md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ac331f720f82bd9e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MATH/Linear Algebra/2024-09-26.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f947a1d37b51f818",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MATH/Linear Algebra/Midterm (2).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d8a0478268d9c05d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Project Planning/Keepur/Abstract.md",
+                "file": "Project Planning/Keepur/How the Native Modules Interact.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 26
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -394,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Project Planning/Keepur/Abstract.md",
+                "file": "Project Planning/Keepur/How the Native Modules Interact.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -411,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Project Planning/Keepur/Abstract.md",
+                "file": "Project Planning/Keepur/How the Native Modules Interact.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -434,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Project Planning/Keepur/Abstract.md"
+                "file": "Project Planning/Keepur/How the Native Modules Interact.md"
               }
             }
           },
@@ -464,41 +168,43 @@
       "command-palette:Open command palette": false,
       "obsidian-full-calendar:Open Full Calendar": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "card-board:CardBoard": false
     }
   },
-  "active": "d8a0478268d9c05d",
+  "active": "47f655e8bf1aca6d",
   "lastOpenFiles": [
-    "Project Planning/Keepur/Outline.md",
-    "Project Planning/Keepur/Understanding.md",
-    "Project Planning/Keepur/Abstract.md",
-    "Project Planning/Keepur/codeRevisions.md",
-    "Project Planning/Keepur/Functionalities.md",
-    "Project Planning/Keepur/How the Native Modules Interact.md",
-    "Project Planning/Keepur/implementation.swift.md",
-    "Project Planning/Keepur/Keepr Outline.canvas",
-    "Project Planning/Keepur/Meantime.md",
-    "MATH/Geometry/Chapter 4 - Triangles/4.5 - The exterior angles of a triangle.md",
-    "Programming/OAuth/The Problem Being Solved.md",
-    "Programming/Environment Variables/dotenv.md",
-    "MATH/Linear Algebra/Midterm (2).md",
-    "Programming/Environment Variables",
-    "MATH/Linear Algebra/Midterm (1).md",
-    "MATH/Linear Algebra/2024-09-26.md",
-    "Kanban Boards/FALL 2024.md",
-    "MATH/Geometry/Chapter 6 - Parralell Lines/6.1.md",
-    "MATH/Geometry/Chapter 5 - Construction Problems/5.1 The axioms and tools for geometric constructions..md",
-    "MATH/Geometry/Approach to Proof Writing.md",
-    "MATH/Geometry/Chapter 5 - Construction Problems/5.2 Basic construction problems..md",
-    "MATH/Geometry/Chapter 5 - Construction Problems/5.3 Strategy for construction - analysis, construction, synthesis, investigation..md",
-    "MATH/Geometry/Chapter 4 - Triangles/4.10 - The Perpendicular Bisector and Angle Bisector as Loci.md",
+    "MATH/Geometry/Chapter 4 - Triangles/4.8. Comparison of a perpendicular and the obliques.md",
+    "Images",
+    "Images/Pasted image 20241013161523.png",
     "MATH/Geometry/Chapter 4 - Triangles/4.9 - Congruence of Right Triangles.md",
     "MATH/Geometry/Chapter 4 - Triangles/4.7 - Comparative lengths of the straight segment and a broken line connecting the  same pair of points..md",
+    "MATH/Geometry/Chapter 4 - Triangles/4.10 - The Perpendicular Bisector and Angle Bisector as Loci.md",
+    "MATH/Geometry/Chapter 5 - Construction Problems/5.3 Strategy for construction - analysis, construction, synthesis, investigation..md",
+    "MATH/Geometry/Chapter 5 - Construction Problems/5.2 Basic construction problems..md",
+    "MATH/Geometry/Chapter 5 - Construction Problems/5.1 The axioms and tools for geometric constructions..md",
+    "MATH/Linear Algebra/Midterm (2).md",
+    "MATH/Linear Algebra/2024-09-26.md",
+    "MATH/Geometry/Chapter 4 - Triangles/4.5 - The exterior angles of a triangle.md",
     "MATH/Geometry/Chapter 4 - Triangles/4.6 - Relations between the sides and angles in a triangle.md",
     "MATH/Geometry/Chapter 4 - Triangles/4.1 - 4.4/Altitude.md",
+    "Programming/Shell Scripts/Changing Shell.md",
+    "Kanban Boards/FALL 2024.md",
+    "Programming/Algorithms/Decrease and Conquer/Johnson Trotter Algorithm.md",
+    "Programming/Algorithms/Decrease and Conquer/Permutations.md",
+    "Programming/Algorithms/Midterm(1).md",
+    "Programming/Algorithms/Decrease and Conquer/Common Algorithms Using Decrease and Conquer.md",
+    "Programming/Algorithms/Decrease and Conquer/Insertion Sort.md",
+    "Programming/Algorithms/Decrease and Conquer/Advantages and Disadvantages.md",
+    "Project Planning/Keepur/Abstract.md",
+    "Project Planning/Keepur/Outline.md",
+    "Project Planning/Keepur/Understanding.md",
+    "Project Planning/Keepur/codeRevisions.md",
+    "Project Planning/Keepur/Functionalities.md",
+    "Project Planning/Keepur/Keepr Outline.canvas",
+    "Programming/Environment Variables",
     "MATH/Geometry/Chapter 6 - Parralell Lines",
     "MATH/Geometry/Chapter 5 - Construction Problems",
-    "Programming/Algorithms/Midterm(1).md",
     "MATH/Geometry/Chapter 4 - Triangles/4.1 - 4.4",
     "Programming/Shell Scripts",
     "Programming/Algorithms/Images/Pasted image 20241007090357.png",
@@ -507,7 +213,6 @@
     "Programming/OAuth",
     "Pasted image 20241005192401.png",
     "Programming/Databases/Supabase",
-    "Programming/Databases",
     "Pasted image 20240924121046.png",
     "MATH/Linear Algebra/Outline.canvas",
     "Programming/Theory/RBDMS/Pasted image 20240610175142.png",
