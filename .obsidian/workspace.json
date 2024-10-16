@@ -54,9 +54,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "96826446b9819d2a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Programming/Web Design/Javascript/Keyed Collections.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -122,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programming/Vim/Cursor Movement/Basic Cheat Sheet.md",
+                "file": "Programming/Web Design/Javascript/Keyed Collections.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programming/Vim/Cursor Movement/Basic Cheat Sheet.md",
+                "file": "Programming/Web Design/Javascript/Keyed Collections.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programming/Vim/Cursor Movement/Basic Cheat Sheet.md"
+                "file": "Programming/Web Design/Javascript/Keyed Collections.md"
               }
             }
           },
@@ -196,10 +208,12 @@
       "card-board:CardBoard": false
     }
   },
-  "active": "86fdafe13ca2e53f",
+  "active": "96826446b9819d2a",
   "lastOpenFiles": [
     "Programming/Web Design/Javascript/Async Function.md",
     "Programming/Web Design/Javascript/package.json.md",
+    "Programming/Web Design/Javascript/Keyed Collections.md",
+    "Programming/Vim/Cursor Movement/Basic Cheat Sheet.md",
     "Programming/Documentation/Documentation FIles/layout.tsx.md",
     "Programming/Documentation/Creating Docs/Docusaurus.md",
     "Programming/Errors/Build failed because of webpack errors.md",
@@ -226,8 +240,6 @@
     "Programming/Algorithms/Decrease and Conquer/Johnson Trotter Algorithm.md",
     "Programming/Algorithms/Decrease and Conquer/Permutations.md",
     "Programming/Algorithms/Midterm(1).md",
-    "Programming/Algorithms/Decrease and Conquer/Common Algorithms Using Decrease and Conquer.md",
-    "Programming/Algorithms/Decrease and Conquer/Insertion Sort.md",
     "Project Planning/Keepur/Keepr Outline.canvas",
     "Programming/Environment Variables",
     "MATH/Geometry/Chapter 6 - Parralell Lines",
