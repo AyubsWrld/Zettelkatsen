@@ -7,7 +7,7 @@ ____
 ____
 - This is an `Objective-C` file which contains the files which are capable of being called by `React-native`  .  The Bridge system allows the JavaScript code to call the code , and this file tells `React-native` how to call the swift code from JavaScript .  
 - In short this file declares the methods that are available for use in React Native. It translates the JavaScript calls into something that the Swift code understands.
-##### [[NativeAPI-Bridging-Header.h]]
+##### [[Project Planning/Keeper/Native APIs/ios/RCTBridgeModule.h]]
 ____
 - This is the header file which allows `Swift` code to be used within an `Objective-C` environment . Since `React-native`s bridge is written in `Objective-C` , This header file is needed to include Swift code in the bridging process . 
 - It tells the Objective-C runtime about the Swift classes and methods that can be used. This file is essential for integrating Swift with Objective-C in projects that involve React Native.
@@ -20,7 +20,7 @@ Imagine you and your friends decide to visit a fancy Russian bakery that’s fam
     
     - **What it represents:** The menu at the bakery.
     - **Role:** The menu lists all the pastries that are available for you to order. However, you can only order what's on the menu—no special requests. In our analogy, this menu is like the `Counter.m` file, which defines the exact set of methods (or pastries) that you can order from the JavaScript side in React Native.
-2. **The Cashier ([[NativeAPI-Bridging-Header.h]]):**
+2. **The Cashier ([[Project Planning/Keeper/Native APIs/ios/RCTBridgeModule.h]]):**
     
     - **What it represents:** The friendly cashier who takes your order.
     - **Role:** The cashier is bilingual; they understand both English and Russian. When you place your order in English, the cashier takes it and translates it into Russian, which the chef understands. This is analogous to the `NativeAPI-Bridging-Header.h` file, which enables the Objective-C (menu) to communicate with the Swift code (chef). Without the cashier's translation, the chef wouldn't know what to prepare.
