@@ -8,39 +8,39 @@
         "type": "tabs",
         "children": [
           {
-            "id": "69300f8ea9980565",
+            "id": "22bd0cb082b6cbcd",
             "type": "leaf",
             "state": {
               "type": "canvas",
               "state": {
                 "file": "Project Planning/Keeper/Native APIs/ios/File Interactions.canvas",
                 "viewState": {
-                  "x": -982.4291997444477,
-                  "y": 751.943298557873,
-                  "zoom": -0.3333333333333332
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
                 }
               }
             }
           },
           {
-            "id": "538049113318b773",
+            "id": "7d31207261f6944d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming/Databases/Supabase/Query Builder.md",
+                "file": "Programming/Algorithms/Algorithms and Data-types/Fundamental Data structures/Graphs/Graph.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "b3a06e04bd0d55aa",
+            "id": "bf55a006a787aff4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming/Databases/Supabase/Example of queries.md",
+                "file": "Programming/Databases/Supabase/supabase.js.md",
                 "mode": "source",
                 "source": false
               }
@@ -113,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programming/Databases/Supabase/Example of queries.md",
+                "file": "Programming/Databases/Supabase/supabase.js.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programming/Databases/Supabase/Example of queries.md",
+                "file": "Programming/Databases/Supabase/supabase.js.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programming/Databases/Supabase/Example of queries.md"
+                "file": "Programming/Databases/Supabase/supabase.js.md"
               }
             }
           },
@@ -187,24 +187,22 @@
       "card-board:CardBoard": false
     }
   },
-  "active": "88c133c60264fe72",
+  "active": "bf55a006a787aff4",
   "lastOpenFiles": [
-    "Programming/Databases/Supabase/Query Builder.md",
-    "Programming/Databases/Supabase/Example of queries.md",
-    "Programming/Databases/Supabase/supabase.ts.md",
+    "MATH/Linear Algebra/Linear Transformations Notes.md",
+    "Programming/Algorithms/Algorithms and Data-types/Fundamental Data structures/Graphs/Graph.md",
+    "Linear Transformations Maps and their Matrices.md",
     "Project Planning/Keeper/Native APIs/ios/File Interactions.canvas",
-    "Programming/Languages/swift/@interface.md",
-    "Project Planning/Keeper/Native APIs/ios/Counter.m/RCT_EXTERN_METHOD.md",
     "Project Planning/Keeper/Native APIs/ios/Counter.m/RCT_EXTERN_MODULE.md",
-    "Kanban Boards/FALL 2024.md",
-    "Programming/Algorithms/Assignment Conventions.md",
-    "Programming/Algorithms/Backwards Substitution Recursion.md",
-    "Programming/Algorithms/Midterm(1).md",
+    "Project Planning/Keeper/Native APIs/ios/Counter.m/RCT_EXTERN_METHOD.md",
     "Project Planning/Keeper/Native APIs/ios/Counter.m/RCTBridgeModule.h.md",
     "Project Planning/Keeper/Native APIs/ios/Counter.m/Counter.m.md",
     "Project Planning/Keeper/Native APIs/ios/Counter.m/@end.md",
     "Project Planning/Keeper/Native APIs/ios/Counter.m",
-    "Project Planning/Keeper/Understanding.md",
+    "Programming/Databases/Supabase/Query Builder.md",
+    "Programming/Databases/Supabase/Example of queries.md",
+    "Project Planning/Keeper/Native APIs/ios/Counter.m.md",
+    "Project Planning/Keeper/Native APIs/ios/RCTBridgeModule.h.md",
     "Project Planning/Keeper/Meantime.md",
     "Project Planning/Keeper/codeRevisions.md",
     "Project Planning/Keeper/Native APIs/ios",
@@ -221,6 +219,8 @@
     "Programming/Web Design/Javascript/package.json.md",
     "Programming/Vim/Cursor Movement/Basic Cheat Sheet.md",
     "Programming/Documentation/Documentation FIles/layout.tsx.md",
+    "Programming/Documentation/Creating Docs/Docusaurus.md",
+    "Programming/Errors/Build failed because of webpack errors.md",
     "Programming/Documentation/Documentation FIles",
     "Programming/Errors",
     "Images",
