@@ -79,9 +79,23 @@
               "icon": "lucide-file",
               "title": "Passing Props to Navigator"
             }
+          },
+          {
+            "id": "053bc2a0e87f3c27",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Programming/Databases/Supabase/Updating Values.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Updating Values"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -153,7 +167,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programming/Mobile Development/react-native/Stack Navigator/Passing Props to Navigator.md",
+                "file": "Programming/Databases/Supabase/Updating Values.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +177,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Passing Props to Navigator"
+              "title": "Backlinks for Updating Values"
             }
           },
           {
@@ -172,12 +186,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programming/Mobile Development/react-native/Stack Navigator/Passing Props to Navigator.md",
+                "file": "Programming/Databases/Supabase/Updating Values.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Passing Props to Navigator"
+              "title": "Outgoing links from Updating Values"
             }
           },
           {
@@ -199,10 +213,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programming/Mobile Development/react-native/Stack Navigator/Passing Props to Navigator.md"
+                "file": "Programming/Databases/Supabase/Updating Values.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Passing Props to Navigator"
+              "title": "Outline of Updating Values"
             }
           },
           {
@@ -239,8 +253,9 @@
   },
   "active": "88c133c60264fe72",
   "lastOpenFiles": [
-    "Programming/Mobile Development/react-native/Stack Navigator/Stack Navigation.md",
     "Programming/Mobile Development/react-native/Stack Navigator/Passing Props to Navigator.md",
+    "Programming/Databases/Supabase/Updating Values.md",
+    "Programming/Mobile Development/react-native/Stack Navigator/Stack Navigation.md",
     "Programming/Databases/Generating UUID in react-native.md",
     "Programming/Databases/Universally Unique Identifier.md",
     "Programming/Databases/Supabase/supabase.js.md",
@@ -271,7 +286,6 @@
     "Project Planning/Keeper/Native APIs/ios",
     "Project Planning/Keeper/Native APIs",
     "Project Planning/Keeper/Keepr Outline.canvas",
-    "Programming/Tips/Learning on the go.md",
     "Programming/Tips",
     "Programming/Documentation/Documentation FIles",
     "Programming/Errors",
