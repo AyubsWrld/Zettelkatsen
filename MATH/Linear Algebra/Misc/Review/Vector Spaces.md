@@ -1,6 +1,6 @@
 A set of vector objects $V$ = $(a , b , c , d)$   is called a vector space if it is closed with respect to linear operations of addition of vectors and multiplication of vectors by scalars . 
 
-Given $a \in V$ , $b \in V$ , implies $a + b \in V$ . Given by [[MATH/Linear Algebra/Review/Closure]] . 
+Given $a \in V$ , $b \in V$ , implies $a + b \in V$ . Given by [[MATH/Linear Algebra/Misc/Review/Closure]] . 
 
 #### Vector Space Laws
 ____
