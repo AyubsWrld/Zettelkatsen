@@ -102,3 +102,7 @@ kernel of T is the null space of $A$
 $T(\vec{x})$ = $\vec{0}$ 
 $kerT = {\vec{x} : T(\vec{x}) = \vec{0}}$ 
 where $A\vec{x} = \vec{0}$ 
+
+____
+
+Tags : #math #linear-algebra

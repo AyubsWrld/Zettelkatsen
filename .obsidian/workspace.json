@@ -8,108 +8,155 @@
         "type": "tabs",
         "children": [
           {
-            "id": "22bd0cb082b6cbcd",
+            "id": "73de5af86db625ed",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "release-notes",
               "state": {
-                "file": "Project Planning/Keeper/Native APIs/ios/File Interactions.canvas",
-                "viewState": {
-                  "x": 0,
-                  "y": 0,
-                  "zoom": 0
-                }
+                "currentVersion": "1.7.4"
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "File Interactions"
+              "icon": "lucide-file",
+              "title": "Release Notes 1.7.4"
             }
           },
           {
-            "id": "bf55a006a787aff4",
+            "id": "19a4dae5eb445f2b",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          },
+          {
+            "id": "d6a72992329d9710",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming/Databases/Supabase/supabase.js.md",
+                "file": "Learning System/Theorizing.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "supabase.js"
+              "title": "Theorizing"
             }
           },
           {
-            "id": "35c6a19c5df303d1",
+            "id": "78290f47c92bf4c0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming/Databases/Universally Unique Identifier.md",
+                "file": "Learning System/Potential System.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Universally Unique Identifier"
+              "title": "Potential System"
             }
           },
           {
-            "id": "7b77efa93e3adbb4",
+            "id": "9b77b3d8359764ed",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming/Mobile Development/react-native/Stack Navigator/Stack Navigation.md",
+                "file": "Learning System/12 Day Plan.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Stack Navigation"
+              "title": "12 Day Plan"
             }
           },
           {
-            "id": "9f0b6440c8b5fe08",
+            "id": "8fa06e5e0d6589e5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming/Mobile Development/react-native/Stack Navigator/Passing Props to Navigator.md",
+                "file": "MATH/Linear Algebra/4.1 - Vector Spaces/4.1 - Vector Spaces.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Passing Props to Navigator"
+              "title": "4.1 - Vector Spaces"
             }
           },
           {
-            "id": "053bc2a0e87f3c27",
+            "id": "c74bcd882ebe8766",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming/Databases/Supabase/Updating Values.md",
+                "file": "MATH/Linear Algebra/4.1 - Vector Spaces/Problem Patterns.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Updating Values"
+              "title": "Problem Patterns"
             }
           },
           {
-            "id": "8ed5fe698f165349",
+            "id": "9d53008211621c81",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Project Planning/Lucidity/Stuff I need to document.md",
+                "file": "MATH/Linear Algebra/4.2 - Null Spaces , Column Spaces , Linear Transformations/4.2 - Null Spaces , Column Spaces , Linear Transformations.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Stuff I need to document"
+              "title": "4.2 - Null Spaces , Column Spaces , Linear Transformations"
+            }
+          },
+          {
+            "id": "df5d39a22682656d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MATH/Linear Algebra/4.3 - Linear Independence ; Basis/4.3 - Linear Independence ; Basis.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "4.3 - Linear Independence ; Basis"
+            }
+          },
+          {
+            "id": "a1e22aec7b0921de",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MATH/Linear Algebra/4.4 - Coordinate System/4.4 - Coordinate System.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "4.4 - Coordinate System"
+            }
+          },
+          {
+            "id": "2e35a6b5eb36c8eb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MATH/Linear Algebra/4.5 - The Dimension Of a Vector Space/4.5 - The Dimension Of a Vector Space.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "4.5 - The Dimension Of a Vector Space"
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 10
       }
     ],
     "direction": "vertical"
@@ -244,7 +291,7 @@
             }
           },
           {
-            "id": "0b2ed399cf890bb0",
+            "id": "8e7e8981942a3a55",
             "type": "leaf",
             "state": {
               "type": "side-panel-control-view",
@@ -258,7 +305,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 439.5
+    "width": 366.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -271,12 +318,32 @@
       "obsidian-full-calendar:Open Full Calendar": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "card-board:CardBoard": false,
-      "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
+      "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false,
+      "card-board:CardBoard": false
     }
   },
-  "active": "0b2ed399cf890bb0",
+  "active": "2e35a6b5eb36c8eb",
   "lastOpenFiles": [
+    "MATH/Linear Algebra/4.4 - Coordinate System/4.4 - Coordinate System.md",
+    "MATH/Linear Algebra/4.5 - The Dimension Of a Vector Space/4.5 - The Dimension Of a Vector Space.md",
+    "MATH/Linear Algebra/4.5 - The Dimension Of a Vector Space",
+    "MATH/Linear Algebra/4.2 - Null Spaces , Column Spaces , Linear Transformations/4.2 - Null Spaces , Column Spaces , Linear Transformations.md",
+    "MATH/Linear Algebra/4.3 - Linear Independence ; Basis/4.3 - Linear Independence ; Basis.md",
+    "MATH/Linear Algebra/Linear Transformations Notes.md",
+    "MATH/Linear Algebra/2024-09-26.md",
+    "MATH/Linear Algebra/Midterm (2).md",
+    "MATH/Linear Algebra/4.4 - Coordinate System",
+    "MATH/Linear Algebra/4.3 - Linear Independence ; Basis",
+    "MATH/Linear Algebra/4.2 - Null Spaces , Column Spaces , Linear Transformations",
+    "MATH/Linear Algebra/4.1 - Vector Spaces/Problem Patterns.md",
+    "MATH/Linear Algebra/4.1 - Vector Spaces/4.1 - Vector Spaces.md",
+    "MATH/Linear Algebra/Linear Combinations.md",
+    "MATH/Linear Algebra/4.1 - Vector Spaces",
+    "Learning System/12 Day Plan.md",
+    "Learning System/Potential System.md",
+    "Learning System/How to actually use notes.md",
+    "Learning System/Theorizing.md",
+    "Learning System",
     "Programming/Databases/Supabase/Updating Values.md",
     "Project Planning/Lucidity/Stuff I need to document.md",
     "Programming/Mobile Development/react-native/Stack Navigator/Passing Props to Navigator.md",
@@ -289,33 +356,12 @@
     "Programming/Languages/Javascript/Error Handling/try...catch....md",
     "Programming/Languages/Javascript/Frameworks/react.js",
     "Programming/Vim/Editing/Changing Variable Names.md",
-    "Programming/Languages/Javascript/Keyed Collections.md",
     "Programming/Languages/Javascript/Error Handling",
-    "Programming/Languages/Javascript/Async Function.md",
-    "MATH/Linear Algebra/Linear Transformations Notes.md",
-    "Programming/Algorithms/Algorithms and Data-types/Fundamental Data structures/Graphs/Graph.md",
-    "Linear Transformations Maps and their Matrices.md",
     "Project Planning/Keeper/Native APIs/ios/File Interactions.canvas",
-    "Project Planning/Keeper/Native APIs/ios/Counter.m/RCT_EXTERN_MODULE.md",
-    "Project Planning/Keeper/Native APIs/ios/Counter.m/RCT_EXTERN_METHOD.md",
-    "Project Planning/Keeper/Native APIs/ios/Counter.m/RCTBridgeModule.h.md",
-    "Project Planning/Keeper/Native APIs/ios/Counter.m/Counter.m.md",
-    "Project Planning/Keeper/Native APIs/ios/Counter.m/@end.md",
     "Project Planning/Keeper/Native APIs/ios/Counter.m",
-    "Programming/Databases/Supabase/Query Builder.md",
-    "Programming/Databases/Supabase/Example of queries.md",
-    "Project Planning/Keeper/Native APIs/ios/Counter.m.md",
-    "Project Planning/Keeper/Native APIs/ios/RCTBridgeModule.h.md",
-    "Project Planning/Keeper/Meantime.md",
     "Project Planning/Keeper/Native APIs/ios",
-    "Project Planning/Keeper/Native APIs",
     "Project Planning/Keeper/Keepr Outline.canvas",
-    "Programming/Tips",
-    "Programming/Documentation/Documentation FIles",
-    "Programming/Errors",
-    "Images",
     "Images/Pasted image 20241013161523.png",
-    "Programming/Environment Variables",
     "Programming/Algorithms/Images/Pasted image 20241007090357.png",
     "Pasted image 20241005192401.png",
     "Pasted image 20240924121046.png",
