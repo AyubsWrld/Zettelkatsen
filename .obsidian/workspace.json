@@ -242,14 +242,23 @@
               "icon": "spreadsheet",
               "title": "Advanced Tables"
             }
+          },
+          {
+            "id": "0b2ed399cf890bb0",
+            "type": "leaf",
+            "state": {
+              "type": "side-panel-control-view",
+              "state": {},
+              "icon": "viewIcon",
+              "title": "Markdown-Autocomplete"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 439.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -262,10 +271,11 @@
       "obsidian-full-calendar:Open Full Calendar": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "card-board:CardBoard": false
+      "card-board:CardBoard": false,
+      "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
-  "active": "88c133c60264fe72",
+  "active": "0b2ed399cf890bb0",
   "lastOpenFiles": [
     "Programming/Databases/Supabase/Updating Values.md",
     "Project Planning/Lucidity/Stuff I need to document.md",
