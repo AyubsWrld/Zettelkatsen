@@ -4,67 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "6c6738f78034da05",
+        "id": "6c8ea3b8a33fdba8",
         "type": "tabs",
         "children": [
           {
-            "id": "8ade1d50f003db67",
+            "id": "1f26c1dc133f354d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MATH/Linear Algebra/Chapter 4 - Vector Spaces/4.2 - Null Spaces , Column Spaces , Linear Transformations/4.2 - Null Spaces , Column Spaces , Linear Transformations.md",
+                "file": "Programming/Design Patterns/Functional Patterns/Switch-Error.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "4.2 - Null Spaces , Column Spaces , Linear Transformations"
-            }
-          },
-          {
-            "id": "bb945ed098087d1b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MATH/Linear Algebra/Chapter 4 - Vector Spaces/4.2 - Null Spaces , Column Spaces , Linear Transformations/4.2 - Null Spaces , Column Spaces , Linear Transformations.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "4.2 - Null Spaces , Column Spaces , Linear Transformations"
-            }
-          },
-          {
-            "id": "5f8aa595a7627e40",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Untitled.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Untitled"
-            }
-          },
-          {
-            "id": "e915e58f693083d5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MATH/Linear Algebra/Chapter 4 - Vector Spaces/4.2 - Null Spaces , Column Spaces , Linear Transformations/Example.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Example"
+              "title": "Switch-Error"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -230,12 +187,17 @@
       "card-board:CardBoard": false
     }
   },
-  "active": "e915e58f693083d5",
+  "active": "1f26c1dc133f354d",
   "lastOpenFiles": [
+    "Programming/Design Patterns/Creational Pattern/Creational Patterns.md",
+    "Programming/Design Patterns/Functional Patterns/Switch-Error.md",
+    "Programming/Design Patterns/Functional Patterns",
+    "Project Planning/Keeper/Native APIs/App.tsx/File.md",
+    "Project Planning/Keeper/Native APIs/App.tsx/requestAuthorization().md",
+    "Project Planning/Keeper/Native APIs/File Interactions.canvas",
+    "Untitled.md",
     "MATH/Linear Algebra/Chapter 4 - Vector Spaces/4.2 - Null Spaces , Column Spaces , Linear Transformations/4.2 - Null Spaces , Column Spaces , Linear Transformations.md",
     "MATH/Linear Algebra/Chapter 4 - Vector Spaces/4.2 - Null Spaces , Column Spaces , Linear Transformations/Example.md",
-    "Untitled.md",
-    "Project Planning/Keeper/Native APIs/App.tsx/File Explanation.md",
     "Project Planning/Keeper/Native APIs/ios/Counter.m/Counter.m.md",
     "Project Planning/Keeper/Native APIs/ios/Counter.m/@end.md",
     "Project Planning/Keeper/Native APIs/App.tsx",
@@ -264,11 +226,6 @@
     "Learning System/12 Day Plan.md",
     "Learning System/Potential System.md",
     "Learning System/How to actually use notes.md",
-    "Learning System/Theorizing.md",
-    "Learning System",
-    "Programming/Databases/Supabase/Updating Values.md",
-    "Project Planning/Lucidity/Stuff I need to document.md",
-    "Project Planning/Keeper/Native APIs/ios/File Interactions.canvas",
     "Project Planning/Keeper/Keepr Outline.canvas",
     "Images/Pasted image 20241013161523.png",
     "Programming/Algorithms/Images/Pasted image 20241007090357.png",
