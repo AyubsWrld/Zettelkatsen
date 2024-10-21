@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "4.2 - Null Spaces , Column Spaces , Linear Transformations"
             }
+          },
+          {
+            "id": "b6eefb05530582cb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MATH/Linear Algebra/Stuff to review.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Stuff to review"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -187,8 +202,11 @@
       "card-board:CardBoard": false
     }
   },
-  "active": "8ff8dde5d9a46285",
+  "active": "b6eefb05530582cb",
   "lastOpenFiles": [
+    "MATH/Linear Algebra/Complex Numbers/Complex Number Argument.md",
+    "MATH/Linear Algebra/Stuff to review.md",
+    "MATH/Linear Algebra/Chapter 4 - Vector Spaces/4.2 - Null Spaces , Column Spaces , Linear Transformations/4.2 - Null Spaces , Column Spaces , Linear Transformations.md",
     "MATH/Linear Algebra/Chapter 4 - Vector Spaces/4.2 - Null Spaces , Column Spaces , Linear Transformations/Examples.md",
     "MATH/Linear Algebra/Chapter 4 - Vector Spaces/4.1 - Vector Spaces/Examples.md",
     "MATH/Linear Algebra/Chapter 4 - Vector Spaces/4.1 - Vector Spaces/4.1 - Vector Spaces.md",
@@ -212,13 +230,10 @@
     "Programming/Design Patterns/Functional Patterns/Switch-Error.md",
     "Programming/Design Patterns/Creational Pattern/Creational Patterns.md",
     "Programming/Design Patterns/Functional Patterns",
-    "MATH/Linear Algebra/Chapter 4 - Vector Spaces/4.2 - Null Spaces , Column Spaces , Linear Transformations/4.2 - Null Spaces , Column Spaces , Linear Transformations.md",
     "Project Planning/Keeper/Native APIs/ios/Counter.m/Counter.m.md",
     "Project Planning/Keeper/Native APIs/ios/Counter.m/@end.md",
     "Project Planning/Keeper/Native APIs/App.tsx",
     "MATH/Linear Algebra/Chapter 5 - Eigenvalues and Eigenvectors/Abstract.md",
-    "MATH/Linear Algebra/Chapter 4 - Vector Spaces/Abstract.md",
-    "MATH/Linear Algebra/Complex Numbers/Complex Number Argument.md",
     "MATH/Linear Algebra/Chapter 5 - Eigenvalues and Eigenvectors",
     "MATH/Linear Algebra/Chapter 4 - Vector Spaces",
     "MATH/Linear Algebra/Misc",
