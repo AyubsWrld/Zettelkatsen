@@ -123,6 +123,32 @@ ____
 > [!note] 
 > The column space of an $m\times n$ matrix A is all of $R^m$ if and only if the equation $Ax = b$ has a solution for each b in $R^m$ . This essentially means that the subspace of a is equivalent to the entirety of $R^m$ if for every vector in $R^m$ we can reach it using the column space . 
 
+### Example (6)  : Column Space
+____
+> [!example] 
+> *Let* $A = \begin{bmatrix} 2 & 4 & -2 & 1 \\ -2 & -5 & 7 & 3 \\ 3 & 7 & -8  & 6 \end{bmatrix}$
+a. If the column space of $A$ is a subspace of $R^k$ , what is $k$ ? 
+	Guess : Since a subspace is a set of vectors which are closed under linear operations  in $dim \leq$ $k$  . And the column space of $A$ is in itself of a subset of $R^m$ . 
+	Answer : The columns of A each have three entries, so Col A is a subspace of $R^k$ , where $k = 3$
+	b. If the null space of A is a subspace of $R^k$ , what is $k$?
+	Answer: A vector $x$ such that $Ax$ is defined must have four entries, so $Nul \ A$ is a subspace of $R^k$ , where $k = 4$ 
+
+
+### Example (7)  : Finding Values
+____
+> [!example] 
+> With A as in Example 5, find a nonzero vector in Col A and a nonzero vector in Nul A.
+> 1. Finding a non-zero vector in $Col(A)$ is simple just list any column . 
+> 2. Finding a non-zero vector in $Nul(A)$ is a bit harder . As we need to find a spanning set of vectors for all the vectors within $Nul(A)$
+
+#### Example (8) 
+---
+> [!example] 
+> With $A$ and $\mathbf{u} = \begin{bmatrix} 3 \\ -2 \\ -1 \\ 0 \end{bmatrix} \text{ and } \mathbf{v} = \begin{bmatrix} 3 \\ -1 \\ 3 \end{bmatrix}$
+> Determine if u is in Nul A. Could u be in Col A? and Determine if v is in Col A. Could v be in Nul A
+
+1. $u$ can be in Nul A if $Au = 0$ so that means if we multiply $u$ by $A$ we will get the zero vector . 
+	1. $\begin{bmatrix} 2 & 4 & -2 & 1 \\ -2 & -5 & 7 & 3 \\ 3 & 7 & -8  & 6 \end{bmatrix}\cdot \begin{bmatrix} 3 \\ -2 \\ -1 \\ 0 \end{bmatrix}$  = $\begin{bmatrix} 0 \\ 0 \\ 0 \\ 0 \end{bmatrix}$ 
 
 
 ---
