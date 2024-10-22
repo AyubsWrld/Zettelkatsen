@@ -99,6 +99,15 @@ x_5
 $$
 Every linear combination of $x_2$ , $x_4$ , and $x_5$ is an element of $Nul\ A$ and vice versa . Thus $\{x_1 , x_2 , x_3\}$  is a spanning set for $Nul\ A$ . 
 
+
+#### Example 4 ( Practice Problems ) 
+____
+1. find an explicit description of Nul A by listing vectors that span the null space. We want to find a basis ( linearly independent set of vectors ) which describes the null space of A 
+	1. **Let** $A = \begin{bmatrix} 1 & 3 & 5 & 0 \\ 0 & 1 & 4 & -2 \end{bmatrix}$
+		1. Reduce to **RREF** : $A = \begin{bmatrix} 1 & 0 & -7 & 6 \\ 0 & 1 & 4 &  -2 \end{bmatrix}$
+		2. identify free variables : $x_3 , x_4$ are free variables  . If there were any pivots they would also be free variables
+		3. Put it in [[General Solution]] with free variables as weights .  $x_1 = 7x_3 - 6x_4$ , $x_2 =  -4x_3 +2x_4$
+		4. Place in vector form 
 ____
 
 Tags : #math #linear-algebra

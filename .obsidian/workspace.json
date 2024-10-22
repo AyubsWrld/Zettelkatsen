@@ -175,12 +175,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MATH/Linear Algebra/Subspaces/Notes.md",
+                "file": "MATH/Linear Algebra/Chapter 4 - Vector Spaces/4.2 - Null Spaces , Column Spaces , Linear Transformations/Examples.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Notes"
+              "title": "Examples"
             }
           }
         ],
@@ -346,13 +346,16 @@
       "obsidian-full-calendar:Open Full Calendar": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
+      "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false,
+      "card-board:CardBoard": false
     }
   },
   "active": "927935950241029e",
   "lastOpenFiles": [
-    "MATH/Linear Algebra/Subspaces/Position Vector.md",
+    "MATH/Linear Algebra/Chapter 4 - Vector Spaces/4.2 - Null Spaces , Column Spaces , Linear Transformations/4.2 - Null Spaces , Column Spaces , Linear Transformations.md",
+    "MATH/Linear Algebra/Chapter 4 - Vector Spaces/4.2 - Null Spaces , Column Spaces , Linear Transformations/Examples.md",
     "MATH/Linear Algebra/Subspaces/Notes.md",
+    "MATH/Linear Algebra/Subspaces/Position Vector.md",
     "MATH/Linear Algebra/Subspaces/Linear Independence.md",
     "Untitled.md",
     "MATH/Linear Algebra/Stuff to review.md",
@@ -378,10 +381,8 @@
     "Project Planning/Keeper/Native APIs/ios/ScreenTimeBridge/DeviceActivityName.md",
     "Project Planning/Keeper/Native APIs/ios/ScreenTimeBridge",
     "Project Planning/Keeper/Native APIs/ios/Counter.swift/Counter.swift.md",
-    "Project Planning/Keeper/Native APIs/ios/Counter.swift/Class Declaration.md",
     "Project Planning/Keeper/Native APIs/ios/Counter.swift",
     "Project Planning/Keeper/Native APIs/File Interactions.canvas",
-    "Project Planning/Keeper/Native APIs/App.tsx/selectApps().md",
     "Project Planning/Keeper/Native APIs/App.tsx",
     "Programming/Languages/swift/The Basics",
     "Programming/Languages/swift/Example Code",
