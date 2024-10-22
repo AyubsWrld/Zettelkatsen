@@ -107,7 +107,23 @@ ____
 		1. Reduce to **RREF** : $A = \begin{bmatrix} 1 & 0 & -7 & 6 \\ 0 & 1 & 4 &  -2 \end{bmatrix}$
 		2. identify free variables : $x_3 , x_4$ are free variables  . If there were any pivots they would also be free variables
 		3. Put it in [[General Solution]] with free variables as weights .  $x_1 = 7x_3 - 6x_4$ , $x_2 =  -4x_3 +2x_4$
-		4. Place in vector form 
+		4. Place in vector form : $x_3\begin{bmatrix} 7 \\ -4 \\ 1 \\ 0 \end{bmatrix} , x_4\begin{bmatrix} -6 \\ 2 \\ 0 \\ 1 \end{bmatrix}$ 
 ____
 
+### Example (5)  : Column Space
+____
+> [!example] 
+> *Find Matrix A such that W = $Col \  A$* 
+>	${W = \left\{\begin{bmatrix} 6a-b \\ a+b \\ -7a \end{bmatrix} : a,b \text{ in } \mathbb{R}\right\}}$
+*Solution* : First we write $W$ as a set of linear combinations. 
+>	${W = \left\{a\begin{bmatrix} 6 \\ 1 \\ -7 \end{bmatrix} b\begin{bmatrix} -1 \\ 1 \\ 0 \end{bmatrix}: a,b \text{ in } \mathbb{R}\right\}}$  = $\text{ Span = }\left\{\begin{bmatrix} 6 \\ 1 \\ -7 \end{bmatrix}, \begin{bmatrix} -1 \\ 1 \\ 0 \end{bmatrix} \right\}$ 
+*Use the vectors in the spanning set as columns for the Matrix*
+>	$A = \begin{bmatrix} 6 & -1 \\ 1  & 1 \\ -7 & 0 \end{bmatrix}$ 
+
+> [!note] 
+> The column space of an $m\times n$ matrix A is all of $R^m$ if and only if the equation $Ax = b$ has a solution for each b in $R^m$ . This essentially means that the subspace of a is equivalent to the entirety of $R^m$ if for every vector in $R^m$ we can reach it using the column space . 
+
+
+
+---
 Tags : #math #linear-algebra
