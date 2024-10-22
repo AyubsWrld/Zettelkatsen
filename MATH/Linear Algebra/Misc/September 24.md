@@ -7,7 +7,7 @@ hence $u,v,a$ are [[Linearly Independent]] . opposite of [[Linearly Dependent]]
 
 If $u,v$ are colinear then $u = \lambda v$
 
-A plane is a two dimensional [[Vector Space]]
+A plane is a two dimensional [[MATH/Linear Algebra/Misc/Vector Spaces/4.1/Vector Space]]
 
 #### _Theorem_ $R^2$ is 2 dimensional 
 ___
@@ -65,7 +65,7 @@ ____
 
 ##### Def'n 
 ____
-A set of $n$ [[Linearly Independent]] vectors in an [[n-dimenstion]] Space is called a [[basis]] in the space . 
+A set of $n$ [[Linearly Independent]] vectors in an [[n-dimenstion]] Space is called a [[Basis]] in the space . 
 #####  Theorem
 ____
 Every vector in a space of [[Linear Combination]] of Basis Vectors . This [[Linear Combination]] is unique  . 
