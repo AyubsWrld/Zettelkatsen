@@ -27,4 +27,17 @@ We can either check if the the matrix is invertible . Row reduce and check if th
 
 $\begin{bmatrix}3 & 0 & -6 \\ -4 & 1 & 7 \\ -2 & 1 & 5 \end{bmatrix}$
 
+#### Example ( 5 ) 
+____
+Find a basis for Col B, where
+$B = [\mathbf{b}_1 \quad \mathbf{b}_2 \quad \cdots \quad \mathbf{b}_5] = \begin{bmatrix} 1 & 4 & 0 & 2 & 0 \\ 0 & 0 & 1 & -1 & 0 \\ 0 & 0 & 0 & 0 & 1 \\ 0 & 0 & 0 & 0 & 0 \end{bmatrix}$
+Each nonpivot column of $B$ is a linear combination of the pivot columns. In fact, $\mathbf{b}_2 = 4\mathbf{b}_1$ and $\mathbf{b}_4 = 2\mathbf{b}_1 - \mathbf{b}_3$. By the Spanning Set Theorem, we may discard $\mathbf{b}_2$ and $\mathbf{b}_4$, and ${\mathbf{b}_1, \mathbf{b}_3, \mathbf{b}_5}$ will still span Col $B$. 
 
+> [!note] 
+> Looking at the matrix B, b₂ (the second column) is [4,0,0,0] and b₁ (the first column) is [1,0,0,0]. So b₂ = 4b₁ is correct because when you multiply b₁ by 4, you get b₂. If it were b₁ = 4b₂, that would mean multiplying [4,0,0,0] by 1/4 to get [1,0,0,0]. 
+
+$$S = \left\{ b_1 , b_3 , b_5 \right\} = \left\{\begin{bmatrix}1 \\ 0 \\ 0 \\ 0 \end{bmatrix},\begin{bmatrix}0 \\ 1 \\ 0 \\ 0 \end{bmatrix},\begin{bmatrix}0 \\ 0 \\ 1 \\ 0 \end{bmatrix}\right\}$$ Since $\mathbf{b}_1 \neq \mathbf{0}$ and no vector in $S$ is a linear combination of the vectors that precede it, $S$ is linearly independent (Theorem 4). Thus $S$ is a basis for Col $B$.
+
+...linear dependence relationship among the columns of $A$ can be expressed in the form $A\mathbf{x} = \mathbf{0}$, where $\mathbf{x}$ is a column of weights... However, the equations $A\mathbf{x} = \mathbf{0}$ and $B\mathbf{x} = \mathbf{0}$ have exactly the same set of solutions. If $A = [\mathbf{a}_1 \cdots \mathbf{a}_n]$ and $B = [\mathbf{b}_1 \cdots \mathbf{b}_n]$, then the vector equations
+
+$x_1\mathbf{a}_1 + \cdots + x_n\mathbf{a}_n = \mathbf{0}$ and $x_1\mathbf{b}_1 + \cdots + x_n\mathbf{b}_n = \mathbf{0}$
