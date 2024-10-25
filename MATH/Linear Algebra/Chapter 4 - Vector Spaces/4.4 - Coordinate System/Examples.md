@@ -22,3 +22,38 @@ Which is equivalent to ...
 $\begin{bmatrix} 2 &  -1 \\ 1 & 1 \end{bmatrix}$ $\begin{bmatrix} c_1 \\ c_2 \end{bmatrix}$  = $\begin{bmatrix} 4 \\ 5 \end{bmatrix}$  
 
 Which we can solve using a system of linear equations . 
+
+#### Example (5)
+___
+> [!example] 
+> Use coordinate vectors to verify that the polynomials $1 + 2t^2$, $4 + t + 5t^2$, and $3 + 2t$ are linearly dependent in $\mathbb{P}_2$. 
+
+Solution The coordinate mapping produces the coordinate vectors $(1,0,2)$, $(4,1,5)$, and $(3,2,0)$, respectively. Writing these vectors as the columns of a matrix $A$, we can determine their independence by row reducing the augmented matrix for $Ax = 0$:
+
+$$\begin{bmatrix}
+1 & 4 & 3 & 0 \\
+0 & 1 & 2 & 0 \\
+2 & 5 & 0 & 0
+\end{bmatrix} \sim 
+\begin{bmatrix}
+1 & 4 & 3 & 0 \\
+0 & 1 & 2 & 0 \\
+0 & 0 & 0 & 0
+\end{bmatrix}
+$$
+
+#### Example (6)
+___
+> [!example] 
+> Let
+$$
+\mathbf{v}_1 = \begin{bmatrix} 3 \\ 6 \\ 2 \end{bmatrix}, 
+\mathbf{v}_2 = \begin{bmatrix} -1 \\ 0 \\ 1 \end{bmatrix}, 
+\mathbf{x} = \begin{bmatrix} 3 \\ 12 \\ 7 \end{bmatrix},
+$$
+
+> [!example] 
+> and $B = \{\mathbf{v}_1, \mathbf{v}_2\}$. Then $B$ is a basis for $H = \text{Span}\{\mathbf{v}_1, \mathbf{v}_2\}$. Determine if $\mathbf{x}$ is in $H$, and if it is, find the coordinate vector of $\mathbf{x}$ relative to $B$. 
+	
+
+
