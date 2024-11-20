@@ -4,165 +4,95 @@
     "type": "split",
     "children": [
       {
-        "id": "a5469189290bcbd3",
+        "id": "c52720e4d177618c",
         "type": "tabs",
         "children": [
           {
-            "id": "1b19edec96e79f24",
+            "id": "864aa01493483d74",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming/Patterns/Asynchronously serving client using server-side fetching ..md",
+                "file": "Programming/Algorithms/Space and Time Trade-Offs/Space and Time Trade-Offs.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Asynchronously serving client using server-side fetching ."
+              "title": "Space and Time Trade-Offs"
             }
           },
           {
-            "id": "0148b264e1cef4a4",
+            "id": "7eab9c8045166a53",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming/Languages/Javascript/Promise.md",
+                "file": "Programming/Algorithms/Space and Time Trade-Offs/Horspool's Algorithm.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Promise"
+              "title": "Horspool's Algorithm"
             }
           },
           {
-            "id": "df3795141e8be002",
+            "id": "5d6893dd000de1fe",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming/Algorithms/Transform And Conquer/Partition Algorithm.md",
+                "file": "Programming/Algorithms/Space and Time Trade-Offs/Collisions.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Partition Algorithm"
+              "title": "Collisions"
             }
           },
           {
-            "id": "6574f45747291dd9",
+            "id": "6e13b85a6987ffe3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming/Algorithms/Transform And Conquer/Representation Change.md",
+                "file": "Programming/Algorithms/Space and Time Trade-Offs/Load Factor.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Representation Change"
+              "title": "Load Factor"
             }
           },
           {
-            "id": "c30129f3a61e3a46",
+            "id": "e9b5c2d7fde4dcc4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming/Algorithms/Transform And Conquer/Representation Change.md",
+                "file": "Programming/Algorithms/Space and Time Trade-Offs/B-trees.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Representation Change"
+              "title": "B-trees"
             }
           },
           {
-            "id": "664418f617e6f701",
+            "id": "f39c85d441e1c9c5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming/Algorithms/Transform And Conquer/AVL Trees.md",
+                "file": "Programming/Algorithms/Space and Time Trade-Offs/Space and Time Trade-Offs.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "AVL Trees"
-            }
-          },
-          {
-            "id": "f26f7c1490bcaac4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Programming/Algorithms/Transform And Conquer/Heaps.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Heaps"
-            }
-          },
-          {
-            "id": "6009c3897f8dddfa",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Programming/Algorithms/Transform And Conquer/Binary Exponentiation.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Binary Exponentiation"
-            }
-          },
-          {
-            "id": "d98090ccd5f7a227",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Programming/Algorithms/Transform And Conquer/Problem Reduction.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Problem Reduction"
-            }
-          },
-          {
-            "id": "8a48c14fc42c24d4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Programming/Algorithms/Transform And Conquer/Fourier Transform.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Fourier Transform"
-            }
-          },
-          {
-            "id": "b74ba2e24c2e6acb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Programming/Algorithms/Transform And Conquer/Instance Simplification.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Instance Simplification"
+              "title": "Space and Time Trade-Offs"
             }
           }
         ],
-        "currentTab": 10
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -318,36 +248,38 @@
       "card-board:CardBoard": false
     }
   },
-  "active": "b74ba2e24c2e6acb",
+  "active": "f39c85d441e1c9c5",
   "lastOpenFiles": [
-    "Programming/Algorithms/Transform And Conquer/Partition Algorithm.md",
-    "Programming/Algorithms/Transform And Conquer/Problem Reduction.md",
-    "Programming/Algorithms/Transform And Conquer/Representation Change.md",
+    "Programming/Algorithms/Space and Time Trade-Offs/Sorting by Counting.md",
+    "Programming/Algorithms/Space and Time Trade-Offs/Space and Time Trade-Offs.md",
+    "Programming/Algorithms/Space and Time Trade-Offs/Load Factor.md",
+    "Programming/Algorithms/Space and Time Trade-Offs/B-trees.md",
+    "Programming/Algorithms/Space and Time Trade-Offs/Collisions.md",
+    "Programming/Algorithms/Space and Time Trade-Offs/Hashing.md",
+    "Programming/Algorithms/Space and Time Trade-Offs/Horspool's Algorithm.md",
+    "Programming/Algorithms/Transform And Conquer/AVL Trees.md",
+    "Programming/Algorithms/README.md",
+    "Programming/Algorithms/Assignment Conventions.md",
+    "Programming/Errors/Debugging Network Issues.md",
+    "Programming/Algorithms/Space and Time Trade-Offs",
+    "Programming/Socket.io/Socket.io Integration.md",
+    "Programming/Socket.io/Server.md",
+    "Programming/Socket.io",
+    "Programming/Patterns/Example implementation ( Javascript ).md",
+    "Programming/Languages/Javascript/Sleep().md",
+    "Programming/Languages/Javascript/Promise.md",
+    "Programming/Languages/Javascript/Patterns.md",
     "Programming/Algorithms/Transform And Conquer/Travelling Sales Person Problem.md",
+    "Programming/Algorithms/Transform And Conquer/Representation Change.md",
+    "Programming/Algorithms/Transform And Conquer/Problem Reduction.md",
+    "Programming/Algorithms/Transform And Conquer/Partition Algorithm.md",
     "Programming/Algorithms/Transform And Conquer/Instance Simplification.md",
     "Programming/Algorithms/Transform And Conquer/Imbalances & skewing.md",
     "Programming/Algorithms/Transform And Conquer/Horners Rule.md",
     "Programming/Algorithms/Transform And Conquer/Heaps.md",
-    "Programming/Algorithms/Transform And Conquer/AVL Trees.md",
-    "Programming/Algorithms/Transform And Conquer/Balance Factor Rule.md",
-    "Programming/Algorithms/Transform And Conquer/Binary Exponentiation.md",
     "Programming/Algorithms/Transform And Conquer/Fourier Transform.md",
-    "Programming/Languages/Javascript/Promise.md",
     "Programming/Algorithms/Transform And Conquer",
-    "Programming/Languages/Javascript/Sleep().md",
-    "Programming/Patterns/Example implementation ( Javascript ).md",
-    "Programming/Patterns/Asynchronously serving client using server-side fetching ..md",
-    "Programming/Patterns/Asynchronously serving client using server-side fetching",
-    "Project Planning/Keeper/Abstract.md",
-    "MATH/Geometry/Cheat Sheet.md",
-    "MATH/Geometry/Chapter 6 - Parralell Lines/Practice Problems.md",
-    "Programming/Mobile Development/react-native/Patterns/Passing functions to Child components.md",
-    "Programming/Languages/Javascript/Keyed Collections.md",
-    "Programming/Languages/Javascript/Mapping Objects Pattern.md",
-    "Project Planning/Keeper/My Plan.md",
-    "Project Planning/Keeper/MVP timeline.md",
-    "Programming/Mobile Development/react-native/Rendering Patterns/Array Rendering Using Length.md",
-    "Programming/Errors/Passing data from client and server/Lessons.md",
+    "Programming/Patterns/fetchSession",
     "Pasted image 20241027180249.png",
     "Programming/Patterns",
     "Programming/Errors/Passing data from client and server",
