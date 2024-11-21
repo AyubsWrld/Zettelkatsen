@@ -20,8 +20,51 @@
               "icon": "lucide-file",
               "title": "Sorting by Counting"
             }
+          },
+          {
+            "id": "feb447964174638a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MATH/Geometry/Chapter 6 - Parralell Lines/6.5 - The sum of the interior angles of a triangle.  The sum of the interior angles  of a polygon.  The sum of the exterior angles of a convex polygon..md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "6.5 - The sum of the interior angles of a triangle.  The sum of the interior angles  of a polygon.  The sum of the exterior angles of a convex polygon."
+            }
+          },
+          {
+            "id": "080755270fa6db27",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MATH/Geometry/Chapter 6 - Parralell Lines/6.5 - The sum of the interior angles of a triangle.  The sum of the interior angles  of a polygon.  The sum of the exterior angles of a convex polygon..md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "6.5 - The sum of the interior angles of a triangle.  The sum of the interior angles  of a polygon.  The sum of the exterior angles of a convex polygon."
+            }
+          },
+          {
+            "id": "7bc5f79b45153d05",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MATH/Geometry/Chapter 5 - Construction Problems/5.5 - Complex Eigenvalues.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "5.5 - Complex Eigenvalues"
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -177,12 +220,16 @@
       "card-board:CardBoard": false
     }
   },
-  "active": "6a888eeb54766953",
+  "active": "bdf7cad2e300c825",
   "lastOpenFiles": [
+    "MATH/Geometry/Chapter 6 - Parralell Lines/6.5 - The sum of the interior angles of a triangle.  The sum of the interior angles  of a polygon.  The sum of the exterior angles of a convex polygon..md",
+    "MATH/Geometry/Chapter 5 - Construction Problems/5.5 - Complex Eigenvalues.md",
+    "MATH/Geometry/Chapter 6 - Parralell Lines/6.6 - Central Symmetry.md",
+    "MATH/Geometry/Chapter 6 - Parralell Lines/6.1.md",
+    "Programming/Algorithms/Space and Time Trade-Offs/Sorting by Counting.md",
     "Programming/Languages/Javascript/Javascript Arrays/Creating New  Array.md",
     "Programming/Languages/Javascript/Javascript Arrays/Filling Arrays.md",
     "Programming/Languages/Javascript/Javascript Arrays",
-    "Programming/Algorithms/Space and Time Trade-Offs/Sorting by Counting.md",
     "Programming/Algorithms/Space and Time Trade-Offs/Space and Time Trade-Offs.md",
     "Programming/Algorithms/Space and Time Trade-Offs/B-trees.md",
     "Programming/Algorithms/Space and Time Trade-Offs/Horspool's Algorithm.md",
@@ -206,11 +253,7 @@
     "Programming/Algorithms/Transform And Conquer/Balance Factor Rule.md",
     "Programming/Algorithms/Transform And Conquer/Binary Exponentiation.md",
     "Programming/Algorithms/Transform And Conquer/Fourier Transform.md",
-    "Programming/Languages/Javascript/Promise.md",
     "Programming/Algorithms/Transform And Conquer",
-    "Programming/Languages/Javascript/Sleep().md",
-    "Programming/Patterns/Example implementation ( Javascript ).md",
-    "Programming/Patterns/Asynchronously serving client using server-side fetching ..md",
     "Programming/Patterns/Asynchronously serving client using server-side fetching",
     "Pasted image 20241027180249.png",
     "Programming/Patterns",
