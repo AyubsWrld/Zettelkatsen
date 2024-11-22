@@ -13,7 +13,7 @@ The goal is to shift the pattern as far as possible to save time without missing
 
 ### Key Idea
 
-When a mismatch happens, the **character in the text** that is aligned with the **last character of the pattern** determines the size of the shift. Horspool uses a **"bad character rule"** to compute the shift size for every character in the text.
+When a mismatch happens, the **character in the text** that is aligned with the **last character of the pattern** determines the size of the shift. Horspool's uses a **"bad character rule"** to compute the shift size for every character in the text.
 
 ---
 
@@ -27,6 +27,18 @@ A **shift table** is precomputed before searching begins. It determines how far 
 2. Go through the pattern, left to right (except the last character), and for each character:
     - Set the shift value to the distance from that character to the **last character** in the pattern.
 
+```typescript 
+function buildShiftTable(pattern, alphabetSize) {
+    const m = pattern.length; // Length of the pattern
+    const table = new Array(alphabetSize).fill(m); // Initialize table with pattern length
+    // Fill the table with shift values based on the pattern
+    for (let j = 0; j < m - 1; j++) {
+        table[pattern.charCodeAt(j)] = m - 1 - j;
+    }
+
+    return table;
+```
+
 ---
 
 #### Example: Pattern `BARBER`
@@ -38,11 +50,11 @@ A **shift table** is precomputed before searching begins. It determines how far 
 
 1. Initially, set all characters' shift values to 6 (pattern length).
 2. For each character in `BARBER` (except the last `R`):
-    - For `B` (at index 0): Distance to the last `R` is 6−1−0=56 - 1 - 0 = 5.
-    - For `A` (at index 1): Distance to the last `R` is 6−1−1=46 - 1 - 1 = 4.
-    - For `R` (at index 2): Distance to the last `R` is 6−1−2=36 - 1 - 2 = 3.
-    - For `B` (at index 3): Distance to the last `R` is 6−1−3=26 - 1 - 3 = 2.
-    - For `E` (at index 4): Distance to the last `R` is 6−1−4=16 - 1 - 4 = 1.
+    - For `B` (at index 0): Distance to the last `R` is 6−1−0=5
+    - For `A` (at index 1): Distance to the last `R` is 6−1−1=4
+    - For `R` (at index 2): Distance to the last `R` is 6−1−2=3
+    - For `B` (at index 3): Distance to the last `R` is 6−1−3=2
+    - For `E` (at index 4): Distance to the last `R` is 6−1−4=1
 
 #### Final Shift Table:
 
@@ -71,18 +83,5 @@ A **shift table** is precomputed before searching begins. It determines how far 
 Instead of always shifting by one position (as in brute force), Horspool skips unnecessary checks by shifting farther when it knows a character doesn't matter for the current match.
 
 ---
-
-### Example Search with `BARBER`:
-
-Text: `... CBARBERZ ...`
-
-1. Start with the last `R` of `BARBER` aligned with the `B` in the text. Mismatch!
-    
-    - Use the shift table for `B`. Shift by 2.
-2. Align the pattern again, compare from the last character. Match found!
-    
-
-
-___
 
 Tags : #programming #algorithms 
