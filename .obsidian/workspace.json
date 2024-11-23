@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming/Algorithms/Space and Time Trade-Offs/Horspool's Algorithm.md",
+                "file": "Project Planning/Keeper/System Design/Classes/Session Manager.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Horspool's Algorithm"
+              "title": "Session Manager"
             }
           }
         ]
@@ -179,19 +179,21 @@
   },
   "active": "e6afd2f1a6d36332",
   "lastOpenFiles": [
-    "Project Planning/Keeper/System Design/Suggestions.md",
-    "Project Planning/Keeper/System Design/Classes/User Manager.md",
-    "Project Planning/Keeper/System Design/Classes/Session Manager.md",
     "Project Planning/Keeper/System Design/Classes/Connection Manager.md",
-    "Project Planning/Keeper/System Design/Classes/Sessions.md",
-    "Project Planning/Keeper/System Design/Classes/Class Diagrams.md",
-    "Project Planning/Keeper/System Design/Classes",
-    "Project Planning/Keeper/System Design/State Management.md",
+    "Project Planning/Keeper/System Design/Flow.canvas",
+    "Project Planning/Keeper/System Design/Manager Classes.md",
     "Project Planning/Keeper/System Design/Memory Management.md",
     "Project Planning/Keeper/System Design/Monitoring and Logging.md",
     "Project Planning/Keeper/System Design/Scalability Improvements.md",
+    "Project Planning/Keeper/System Design/State Management.md",
+    "Programming/Algorithms/Space and Time Trade-Offs/Horspool's Algorithm.md",
+    "Project Planning/Keeper/System Design/Suggestions.md",
+    "Project Planning/Keeper/System Design/Classes/User Manager.md",
+    "Project Planning/Keeper/System Design/Classes/Session Manager.md",
+    "Project Planning/Keeper/System Design/Classes/Sessions.md",
+    "Project Planning/Keeper/System Design/Classes/Class Diagrams.md",
+    "Project Planning/Keeper/System Design/Classes",
     "Project Planning/Keeper/System Design/Error Handling.md",
-    "Project Planning/Keeper/System Design/Manager Classes.md",
     "Project Planning/Keeper/System Design",
     "Project Planning/Keeper/Miscellanous/How the Native Modules Interact.md",
     "Project Planning/Keeper/Abstract.md",
@@ -207,9 +209,7 @@
     "MATH/Geometry/Chapter 6 - Parralell Lines/6.1.md",
     "Programming/Algorithms/Space and Time Trade-Offs/Sorting by Counting.md",
     "Programming/Languages/Javascript/Javascript Arrays/Creating New  Array.md",
-    "Programming/Languages/Javascript/Javascript Arrays/Filling Arrays.md",
     "Programming/Languages/Javascript/Javascript Arrays",
-    "Programming/Algorithms/Space and Time Trade-Offs/Space and Time Trade-Offs.md",
     "Programming/Algorithms/Space and Time Trade-Offs",
     "Programming/Algorithms/Space and time tradeoffs",
     "Project Planning/Keeper/Implementation/Functionalities",

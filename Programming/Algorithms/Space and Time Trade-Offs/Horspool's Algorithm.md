@@ -36,7 +36,7 @@ function buildShiftTable(pattern, alphabetSize) {
         table[pattern.charCodeAt(j)] = m - 1 - j;
     }
 
-    return table;
+	    return table;
 ```
 
 ---

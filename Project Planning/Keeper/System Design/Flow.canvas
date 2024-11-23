@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"2ab1ad05bac291d6","x":-560,"y":-100,"width":200,"height":60,"type":"text","text":"User Joins Session"},
+		{"id":"b222c67861c5c4ef","x":38,"y":-533,"width":302,"height":60,"type":"text","text":"Add User to user management "},
+		{"id":"73a3e456bdef43f7","x":126,"y":-340,"width":126,"height":60,"type":"text","text":"Server"}
+	],
+	"edges":[
+		{"id":"e82144c0549181f0","fromNode":"2ab1ad05bac291d6","fromSide":"right","toNode":"73a3e456bdef43f7","toSide":"left","label":"Send user details to server "},
+		{"id":"848eed48d2ff3cd6","fromNode":"73a3e456bdef43f7","fromSide":"top","toNode":"b222c67861c5c4ef","toSide":"bottom"}
+	]
+}

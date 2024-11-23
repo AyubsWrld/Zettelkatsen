@@ -6,12 +6,16 @@ class SessionManager{
 		this.activeSessions = activeSessions ; 
 	}
 
-	endSession() : void { 
-	
+	endSession( session_id : string ) : void { 
+		
 	}
 	
-	beginSession() : void { 
-	
+	beginSession( session_id : string ) : void { 	
+		//Check if the session exists 
+		if(!activeSessions.get(session_id)){
+			throw error ; 
+		}
+		const session = activeSessions
 	}
 
 	cleanupInactiveSession() : void {
