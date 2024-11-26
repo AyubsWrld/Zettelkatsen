@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "2c9b04a03034a47a",
+        "id": "56ce0c8f59c00c2b",
         "type": "tabs",
         "children": [
           {
-            "id": "af16003f22150839",
+            "id": "b5bedbe8c5c38192",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Programming/Languages/Javascript/Javascript Objects/Mapping Objects Pattern.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Mapping Objects Pattern"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -177,8 +173,11 @@
       "card-board:CardBoard": false
     }
   },
-  "active": "bdf7cad2e300c825",
+  "active": "b5bedbe8c5c38192",
   "lastOpenFiles": [
+    "MATH/Geometry/Chapter 6 - Parralell Lines/6.6 - Central Symmetry.md",
+    "MATH/Geometry/Chapter 6 - Parralell Lines/6.5 - The sum of the interior angles of a triangle.  The sum of the interior angles  of a polygon.  The sum of the exterior angles of a convex polygon..md",
+    "Programming/Languages/Javascript/Javascript Objects/Mapping Objects Pattern.md",
     "Programming/Languages/Javascript/Javascript Objects/Iterating Through Objects.md",
     "Programming/Languages/Javascript/Javascript Objects",
     "Programming/System Design/System Design - Interview/Scale From Zero To Millions/Single Server Setup.md",
@@ -208,10 +207,7 @@
     "Project Planning/Keeper/System Design/Classes/Sessions.md",
     "Project Planning/Keeper/System Design/Classes/Class Diagrams.md",
     "Project Planning/Keeper/System Design/Classes",
-    "Project Planning/Keeper/System Design/Error Handling.md",
     "Project Planning/Keeper/System Design",
-    "Project Planning/Keeper/Miscellanous/How the Native Modules Interact.md",
-    "Project Planning/Keeper/Abstract.md",
     "Project Planning/Keeper/Miscellanous",
     "MATH/Linear Algebra/Chapter 5 - Eigenvalues and Eigenvectors/5.5 - Complex Eigenvalues",
     "Programming/Languages/Javascript/Javascript Arrays",
