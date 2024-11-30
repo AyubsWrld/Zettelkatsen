@@ -83,12 +83,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming/Algorithms/Dynamic Programming/Abstract.md",
+                "file": "Programming/Algorithms/Dynamic Programming/Change Making Problem.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Abstract"
+              "title": "Change Making Problem"
             }
           }
         ],
@@ -244,18 +244,19 @@
       "obsidian-full-calendar:Open Full Calendar": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
+      "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false,
+      "card-board:CardBoard": false
     }
   },
   "active": "d4a99b8c2f7fa167",
   "lastOpenFiles": [
-    "BST optimization.md",
-    "Change Making Problem.md",
-    "Floyds Algorithm.md",
-    "Warshalls Path-finding Algorithm.md",
-    "Transitive Closure.md",
     "Programming/Algorithms/Dynamic Programming/Principal of Optimality.md",
     "Programming/Algorithms/Dynamic Programming/Abstract.md",
+    "Programming/Algorithms/Dynamic Programming/Change Making Problem.md",
+    "Programming/Algorithms/Dynamic Programming/BST optimization.md",
+    "Programming/Algorithms/Dynamic Programming/Floyds Algorithm.md",
+    "Programming/Algorithms/Dynamic Programming/Warshalls Path-finding Algorithm.md",
+    "Programming/Algorithms/Dynamic Programming/Transitive Closure.md",
     "Programming/Algorithms/Decrease and Conquer/Advantages and Disadvantages.md",
     "MATH/Linear Algebra/Chapter 5 - Eigenvalues and Eigenvectors/5.6 - Discrete Dynamical Systems/Abstract.md",
     "Programming/Algorithms/Dynamic Programming",
