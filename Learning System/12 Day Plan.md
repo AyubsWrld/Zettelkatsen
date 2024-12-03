@@ -8,6 +8,7 @@
 - [ ] 8.2. Relations between arcs and chords and their distances from the centre
 - [ ] Decrease and Conquer
 - [ ]  Greedy Technique
+- [ ]  Work on mosque changes 
 ### **December 4**
 - [ ] Orthogonal Bases  , Orthogonality ; ( Lay 6.3  , Lay 6.4 ) 
 - [ ] 8.3 Respective positions of a straight line and a circle 
