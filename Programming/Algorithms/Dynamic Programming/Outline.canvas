@@ -6,7 +6,7 @@
 		{"id":"d1f5336d7fedaacc","x":-1137,"y":-360,"width":325,"height":60,"color":"2","type":"text","text":"[[Warshalls Path-finding Algorithm]]"},
 		{"id":"dd70450ff41c954b","x":-720,"y":-520,"width":272,"height":60,"color":"1","type":"text","text":"[[Change Making Problem]]"},
 		{"id":"83a3c0f153d3f705","x":-199,"y":-520,"width":231,"height":60,"color":"2","type":"text","text":"[[Transitive Closure]]"},
-		{"id":"ebccc912cc1afc46","x":64,"y":37,"width":196,"height":60,"color":"1","type":"text","text":"[[BST optimization]]"}
+		{"id":"ebccc912cc1afc46","x":64,"y":37,"width":196,"height":60,"color":"1","type":"text","text":"[[Optimal BST]]"}
 	],
 	"edges":[
 		{"id":"41e4075a18bd92ff","fromNode":"c4f90723372c80c0","fromSide":"bottom","toNode":"a9fed2ba1ef03d9f","toSide":"top"},

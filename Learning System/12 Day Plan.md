@@ -1,8 +1,7 @@
 ### **December 2**
 - [ ] Application to dynamical systems  (Differential Equations) (Lay : 5.7 , Anton : 9.1)
 - [ ] Geometry 7.5 Constructions 
-- [ ] Brute Force 
-- [ ]  Greedy Technique
+- [x] Dynamic Programming ✅ 2024-12-02
 ### **December 3**
 - [ ] Inner Product Spaces and Orthogonality; ( Lay 6.1  , Lay 6.2) 
 - [ ] 8.1 Shapes and location.
