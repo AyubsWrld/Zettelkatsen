@@ -27,16 +27,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming/Algorithms/Dynamic Programming/Recurrence Relation.md",
+                "file": "Programming/Algorithms/Dynamic Programming/Change Making Problem.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Recurrence Relation"
+              "title": "Change Making Problem"
+            }
+          },
+          {
+            "id": "41995f0ef325ebc8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Geometry last class.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Geometry last class"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -192,17 +206,18 @@
       "card-board:CardBoard": false
     }
   },
-  "active": "43f91dc648a869dd",
+  "active": "41995f0ef325ebc8",
   "lastOpenFiles": [
-    "Programming/Algorithms/Dynamic Programming/Floyds Algorithm.md",
-    "Programming/Algorithms/Dynamic Programming/Recurrence Relation.md",
     "Programming/Algorithms/Dynamic Programming/Change Making Problem.md",
-    "Learning System/12 Day Plan.md",
+    "Geometry last class.md",
+    "Programming/Algorithms/Dynamic Programming/Floyds Algorithm.md",
     "Programming/Algorithms/Dynamic Programming/Optimal BST.md",
+    "Programming/Algorithms/Dynamic Programming/Outline.canvas",
+    "Programming/Algorithms/Dynamic Programming/Recurrence Relation.md",
+    "Learning System/12 Day Plan.md",
     "Programming/Algorithms/Dynamic Programming/Warshalls Path-finding Algorithm.md",
     "Programming/Algorithms/Dynamic Programming/Transitive Closure.md",
     "Programming/Algorithms/Dynamic Programming/Principal of Optimality.md",
-    "Programming/Algorithms/Dynamic Programming/Outline.canvas",
     "Programming/Algorithms/Dynamic Programming/Abstract.md",
     "Programming/Algorithms/Dynamic Programming",
     "MATH/Linear Algebra/Chapter 5 - Eigenvalues and Eigenvectors/5.6 - Discrete Dynamical Systems/Abstract.md",
@@ -224,7 +239,6 @@
     "MATH/Linear Algebra/Chapter 5 - Eigenvalues and Eigenvectors/5.5 - Complex Eigenvalues/Abstract.md",
     "MATH/Linear Algebra/Chapter 5 - Eigenvalues and Eigenvectors/5.5 - Complex Eigenvalues/Image one.png",
     "Programming/Algorithms/Space and Time Trade-Offs/Some things to fix.md",
-    "Programming/Algorithms/Space and Time Trade-Offs/Horse-pools Implementation.md",
     "Programming/Languages/Javascript/Javascript Objects",
     "Programming/System Design/System Design - Interview/Scale From Zero To Millions",
     "Programming/System Design/System Design - Deep Dive",
