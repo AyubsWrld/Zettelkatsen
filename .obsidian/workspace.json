@@ -48,9 +48,93 @@
               "icon": "lucide-file",
               "title": "Geometry last class"
             }
+          },
+          {
+            "id": "ae625ced54a66298",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Programming/Algorithms/Greedy Method/Minimum Spanning trees.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Minimum Spanning trees"
+            }
+          },
+          {
+            "id": "672b5ff474129f38",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Prim’s Algorithm for MST.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Prim’s Algorithm for MST"
+            }
+          },
+          {
+            "id": "62d845e1f97a3b88",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Dijkstra’s algorithm for single source shortest path.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Dijkstra’s algorithm for single source shortest path"
+            }
+          },
+          {
+            "id": "85d632378ad10283",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Huffman Trees.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Huffman Trees"
+            }
+          },
+          {
+            "id": "ce26f7723ceec8c3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Prim’s Algorithm for MST.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Prim’s Algorithm for MST"
+            }
+          },
+          {
+            "id": "5a1a820c34eb3645",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Greedy Method.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Greedy Method"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -206,10 +290,18 @@
       "card-board:CardBoard": false
     }
   },
-  "active": "41995f0ef325ebc8",
+  "active": "5a1a820c34eb3645",
   "lastOpenFiles": [
-    "Programming/Algorithms/Dynamic Programming/Change Making Problem.md",
+    "Prim’s Algorithm for MST.md",
+    "Greedy Method.md",
+    "Dijkstra’s algorithm for single source shortest path.md",
     "Geometry last class.md",
+    "Huffman code.md",
+    "Huffman Trees.md",
+    "Programming/Algorithms/Greedy Method/Minimum Spanning trees.md",
+    "Programming/Algorithms/Dynamic Programming/Abstract.md",
+    "Programming/Algorithms/Greedy Method",
+    "Programming/Algorithms/Dynamic Programming/Change Making Problem.md",
     "Programming/Algorithms/Dynamic Programming/Floyds Algorithm.md",
     "Programming/Algorithms/Dynamic Programming/Optimal BST.md",
     "Programming/Algorithms/Dynamic Programming/Outline.canvas",
@@ -218,7 +310,6 @@
     "Programming/Algorithms/Dynamic Programming/Warshalls Path-finding Algorithm.md",
     "Programming/Algorithms/Dynamic Programming/Transitive Closure.md",
     "Programming/Algorithms/Dynamic Programming/Principal of Optimality.md",
-    "Programming/Algorithms/Dynamic Programming/Abstract.md",
     "Programming/Algorithms/Dynamic Programming",
     "MATH/Linear Algebra/Chapter 5 - Eigenvalues and Eigenvectors/5.6 - Discrete Dynamical Systems/Abstract.md",
     "MATH/Linear Algebra/Chapter 5 - Eigenvalues and Eigenvectors/5.6 - Discrete Dynamical Systems/5.6 - Discrete Dynamical Systems.md",
@@ -232,13 +323,7 @@
     "Programming/System Design/System Design - Interview/Scale From Zero To Millions/Master Slave Database ..md",
     "Programming/System Design/System Design - Interview/Scale From Zero To Millions/Load balancers.md",
     "Programming/System Design/System Design - Interview/Scale From Zero To Millions/Database Replication.md",
-    "Programming/System Design/System Design - Interview/Scale From Zero To Millions/Database.md",
-    "Programming/System Design/System Design - Interview/Scale From Zero To Millions/Relational Databases.md",
-    "Programming/System Design/System Design - Interview/Scale From Zero To Millions/Non-Relational Databases.md",
-    "MATH/Linear Algebra/Chapter 5 - Eigenvalues and Eigenvectors/5.5 - Complex Eigenvalues/5.5 - Complex Eigenvalues.md",
-    "MATH/Linear Algebra/Chapter 5 - Eigenvalues and Eigenvectors/5.5 - Complex Eigenvalues/Abstract.md",
     "MATH/Linear Algebra/Chapter 5 - Eigenvalues and Eigenvectors/5.5 - Complex Eigenvalues/Image one.png",
-    "Programming/Algorithms/Space and Time Trade-Offs/Some things to fix.md",
     "Programming/Languages/Javascript/Javascript Objects",
     "Programming/System Design/System Design - Interview/Scale From Zero To Millions",
     "Programming/System Design/System Design - Deep Dive",
@@ -246,7 +331,6 @@
     "Project Planning/Keeper/System Design/Flow.canvas",
     "Project Planning/Keeper/System Design/Classes",
     "Project Planning/Keeper/System Design",
-    "Project Planning/Keeper/Miscellanous",
     "Pasted image 20241027180249.png",
     "Project Planning/Keeper/Miscellanous/Keepr Outline.canvas",
     "Images/Pasted image 20241027175947.png",
