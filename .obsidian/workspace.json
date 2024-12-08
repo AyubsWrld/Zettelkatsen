@@ -27,16 +27,44 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Learning System/12 Day Plan.md",
+                "file": "Programming/Algorithms/Greedy Method/Dijkstra’s algorithm for single source shortest path.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "12 Day Plan"
+              "title": "Dijkstra’s algorithm for single source shortest path"
+            }
+          },
+          {
+            "id": "725b986daeea18d5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Geometry last class.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Geometry last class"
+            }
+          },
+          {
+            "id": "ac6e37251825cd56",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Programming/Algorithms/Final Exam Review ( Questions ).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Final Exam Review ( Questions )"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -192,14 +220,16 @@
       "card-board:CardBoard": false
     }
   },
-  "active": "5a1a820c34eb3645",
+  "active": "bdf7cad2e300c825",
   "lastOpenFiles": [
-    "Prim’s Algorithm for MST.md",
-    "Greedy Method.md",
-    "Dijkstra’s algorithm for single source shortest path.md",
     "Geometry last class.md",
-    "Huffman code.md",
-    "Huffman Trees.md",
+    "Programming/Algorithms/Final Exam Review ( Questions ).md",
+    "Programming/Algorithms/Greedy Method/Dijkstra’s algorithm for single source shortest path.md",
+    "Programming/Algorithms/Greedy Method/Greedy Method.md",
+    "Programming/Algorithms/Greedy Method/Huffman code.md",
+    "Programming/Algorithms/Greedy Method/Huffman Trees.md",
+    "Learning System/12 Day Plan.md",
+    "Programming/Algorithms/Greedy Method/Prim’s Algorithm for MST.md",
     "Programming/Algorithms/Greedy Method/Minimum Spanning trees.md",
     "Programming/Algorithms/Dynamic Programming/Abstract.md",
     "Programming/Algorithms/Greedy Method",
@@ -208,7 +238,6 @@
     "Programming/Algorithms/Dynamic Programming/Optimal BST.md",
     "Programming/Algorithms/Dynamic Programming/Outline.canvas",
     "Programming/Algorithms/Dynamic Programming/Recurrence Relation.md",
-    "Learning System/12 Day Plan.md",
     "Programming/Algorithms/Dynamic Programming/Warshalls Path-finding Algorithm.md",
     "Programming/Algorithms/Dynamic Programming/Transitive Closure.md",
     "Programming/Algorithms/Dynamic Programming/Principal of Optimality.md",
@@ -224,7 +253,6 @@
     "Programming/System Design/System Design - Interview/Scale From Zero To Millions/Cache.md~",
     "Programming/System Design/System Design - Interview/Scale From Zero To Millions/Master Slave Database ..md",
     "Programming/System Design/System Design - Interview/Scale From Zero To Millions/Load balancers.md",
-    "Programming/System Design/System Design - Interview/Scale From Zero To Millions/Database Replication.md",
     "MATH/Linear Algebra/Chapter 5 - Eigenvalues and Eigenvectors/5.5 - Complex Eigenvalues/Image one.png",
     "Programming/Languages/Javascript/Javascript Objects",
     "Programming/System Design/System Design - Interview/Scale From Zero To Millions",
