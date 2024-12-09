@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming/Algorithms/Greedy Method/Huffman code and trees ..md",
+                "file": "Programming/Algorithms/Greedy Method/Dijkstra’s algorithm for single source shortest path.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Huffman code and trees ."
+              "title": "Dijkstra’s algorithm for single source shortest path"
             }
           }
         ],
@@ -194,9 +194,9 @@
   },
   "active": "5a1a820c34eb3645",
   "lastOpenFiles": [
-    "Programming/Algorithms/Greedy Method/Huffman Trees.md",
-    "Programming/Algorithms/Greedy Method/Huffman code and trees ..md",
     "Programming/Algorithms/Greedy Method/Greedy Method.md",
+    "Programming/Algorithms/Greedy Method/Huffman code and trees ..md",
+    "Programming/Algorithms/Greedy Method/Huffman Trees.md",
     "Programming/Algorithms/Greedy Method/Dijkstra’s algorithm for single source shortest path.md",
     "Learning System/12 Day Plan.md",
     "Programming/Algorithms/Greedy Method/Prim’s Algorithm for MST.md",
