@@ -1,0 +1,24 @@
+{
+	"nodes":[
+		{"id":"395f2ab9113fc5ac","type":"text","text":"Greedy ","x":-216,"y":-468,"width":116,"height":60,"color":"2"},
+		{"id":"dfdf6d8e49b1d317","type":"text","text":"Prims Algorithm ","x":-640,"y":-468,"width":250,"height":60,"color":"2"},
+		{"id":"1e04f580734457a6","type":"text","text":"DIjkstras Algorithm","x":-498,"y":-100,"width":217,"height":60,"color":"2"},
+		{"id":"2f8d45d9ed6c4e37","type":"text","text":"Huffman Code","x":-86,"y":-90,"width":186,"height":60,"color":"2"},
+		{"id":"a2cda546fa4332e3","type":"text","text":"Problems","x":-407,"y":-723,"width":147,"height":60,"color":"2"},
+		{"id":"cce7c442e2bb814e","type":"text","text":"String Matching ","x":-190,"y":-2160,"width":250,"height":60,"color":"1"},
+		{"id":"e5e599225fd4fd6b","type":"text","text":"Space and time trade-offs","x":-185,"y":-1872,"width":250,"height":60,"color":"2"},
+		{"id":"998afd8dfef448d7","type":"text","text":"Open Addressing","x":-640,"y":-1871,"width":250,"height":60,"color":"4"},
+		{"id":"dffb1cf2af500de6","type":"text","text":"Seperate Chaining","x":-594,"y":-1657,"width":250,"height":60,"color":"4"},
+		{"id":"451693401ea46690","type":"text","text":"B Trees","x":-135,"y":-1540,"width":141,"height":60,"color":"2"}
+	],
+	"edges":[
+		{"id":"748118f01c44b50d","fromNode":"395f2ab9113fc5ac","fromSide":"left","toNode":"dfdf6d8e49b1d317","toSide":"right"},
+		{"id":"d627009e604d934f","fromNode":"395f2ab9113fc5ac","fromSide":"bottom","toNode":"1e04f580734457a6","toSide":"top"},
+		{"id":"a073f33e0c27424b","fromNode":"395f2ab9113fc5ac","fromSide":"bottom","toNode":"2f8d45d9ed6c4e37","toSide":"top"},
+		{"id":"dfa5dc4ec8c10c9e","fromNode":"395f2ab9113fc5ac","fromSide":"top","toNode":"a2cda546fa4332e3","toSide":"bottom"},
+		{"id":"2f6f6af463f9301e","fromNode":"e5e599225fd4fd6b","fromSide":"top","toNode":"cce7c442e2bb814e","toSide":"bottom"},
+		{"id":"d65edd943d9085fb","fromNode":"e5e599225fd4fd6b","fromSide":"left","toNode":"998afd8dfef448d7","toSide":"right"},
+		{"id":"de6bcb6defb2c307","fromNode":"e5e599225fd4fd6b","fromSide":"bottom","toNode":"dffb1cf2af500de6","toSide":"top"},
+		{"id":"891782e7d80d4a89","fromNode":"e5e599225fd4fd6b","fromSide":"bottom","toNode":"451693401ea46690","toSide":"top"}
+	]
+}
