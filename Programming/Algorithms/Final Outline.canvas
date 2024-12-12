@@ -9,7 +9,21 @@
 		{"id":"e5e599225fd4fd6b","type":"text","text":"Space and time trade-offs","x":-185,"y":-1872,"width":250,"height":60,"color":"2"},
 		{"id":"998afd8dfef448d7","type":"text","text":"Open Addressing","x":-640,"y":-1871,"width":250,"height":60,"color":"4"},
 		{"id":"dffb1cf2af500de6","type":"text","text":"Seperate Chaining","x":-594,"y":-1657,"width":250,"height":60,"color":"4"},
-		{"id":"451693401ea46690","type":"text","text":"B Trees","x":-135,"y":-1540,"width":141,"height":60,"color":"2"}
+		{"id":"451693401ea46690","type":"text","text":"B Trees","x":-135,"y":-1540,"width":141,"height":60,"color":"2"},
+		{"id":"0607dc47443707df","type":"text","text":"Decrease by a constant (decrease by one)","x":2260,"y":-1851,"width":250,"height":60,"color":"1"},
+		{"id":"5c0b875104495122","x":2672,"y":-2080,"width":302,"height":60,"color":"1","type":"text","text":"Variable size decrease algorithms"},
+		{"id":"6516fffc7a45a2e0","x":2681,"y":-1540,"width":284,"height":60,"color":"1","type":"text","text":"Decrease by a constant factor"},
+		{"id":"c6ac073514d4d032","type":"text","text":"Decrease and conquer","x":2706,"y":-1851,"width":234,"height":60,"color":"1"},
+		{"id":"b19b17fc7aa0c6f5","x":3155,"y":-1853,"width":145,"height":60,"color":"1","type":"text","text":"Conclusion"},
+		{"id":"5b26ea4ad5fe72f9","x":1840,"y":-1852,"width":250,"height":60,"color":"1","type":"text","text":"Topological sorting"},
+		{"id":"d2c29ae449265a1d","x":2090,"y":-2110,"width":250,"height":60,"color":"1","type":"text","text":"Algorithms for generating permutations, subsets"},
+		{"id":"e5a7ed0bc6889e9a","x":2132,"y":-1600,"width":166,"height":60,"color":"2","type":"text","text":"Insertion sort"},
+		{"id":"3277887c7f522d54","x":2743,"y":-1220,"width":160,"height":60,"color":"1","type":"text","text":"Binary search"},
+		{"id":"ffaaac8f565faa79","x":2460,"y":-1294,"width":250,"height":60,"color":"1","type":"text","text":"Fake-coin problems"},
+		{"id":"b5f8cc6c1f064349","x":2949,"y":-1286,"width":231,"height":60,"color":"1","type":"text","text":"multiplication à la russe"},
+		{"id":"7b9b41b0a14d8481","x":2700,"y":-2303,"width":250,"height":60,"color":"1","type":"text","text":"Euclid’s algorithm"},
+		{"id":"f173e75fb17540e7","x":3004,"y":-2273,"width":250,"height":60,"color":"1","type":"text","text":"Selection by partition"},
+		{"id":"8c563be2e59ea4f2","x":2385,"y":-2252,"width":277,"height":60,"color":"1","type":"text","text":"Search and insert in a binary tree"}
 	],
 	"edges":[
 		{"id":"748118f01c44b50d","fromNode":"395f2ab9113fc5ac","fromSide":"left","toNode":"dfdf6d8e49b1d317","toSide":"right"},
@@ -19,6 +33,19 @@
 		{"id":"2f6f6af463f9301e","fromNode":"e5e599225fd4fd6b","fromSide":"top","toNode":"cce7c442e2bb814e","toSide":"bottom"},
 		{"id":"d65edd943d9085fb","fromNode":"e5e599225fd4fd6b","fromSide":"left","toNode":"998afd8dfef448d7","toSide":"right"},
 		{"id":"de6bcb6defb2c307","fromNode":"e5e599225fd4fd6b","fromSide":"bottom","toNode":"dffb1cf2af500de6","toSide":"top"},
-		{"id":"891782e7d80d4a89","fromNode":"e5e599225fd4fd6b","fromSide":"bottom","toNode":"451693401ea46690","toSide":"top"}
+		{"id":"891782e7d80d4a89","fromNode":"e5e599225fd4fd6b","fromSide":"bottom","toNode":"451693401ea46690","toSide":"top"},
+		{"id":"f6019b1333e771cb","fromNode":"c6ac073514d4d032","fromSide":"left","toNode":"0607dc47443707df","toSide":"right"},
+		{"id":"4d08b4f6981d3434","fromNode":"c6ac073514d4d032","fromSide":"bottom","toNode":"6516fffc7a45a2e0","toSide":"top"},
+		{"id":"ec76762f98657aa1","fromNode":"c6ac073514d4d032","fromSide":"top","toNode":"5c0b875104495122","toSide":"bottom"},
+		{"id":"8a2ad73d1b88dfdc","fromNode":"c6ac073514d4d032","fromSide":"right","toNode":"b19b17fc7aa0c6f5","toSide":"left"},
+		{"id":"9cb066f513db0c1d","fromNode":"0607dc47443707df","fromSide":"bottom","toNode":"e5a7ed0bc6889e9a","toSide":"top"},
+		{"id":"7cd800fb4303561f","fromNode":"0607dc47443707df","fromSide":"left","toNode":"5b26ea4ad5fe72f9","toSide":"right"},
+		{"id":"23a0db3fe6759035","fromNode":"0607dc47443707df","fromSide":"top","toNode":"d2c29ae449265a1d","toSide":"bottom"},
+		{"id":"894814c2deb8aa97","fromNode":"6516fffc7a45a2e0","fromSide":"bottom","toNode":"3277887c7f522d54","toSide":"top"},
+		{"id":"b90538f8ca667d66","fromNode":"6516fffc7a45a2e0","fromSide":"bottom","toNode":"ffaaac8f565faa79","toSide":"top"},
+		{"id":"26a833ba65536dc3","fromNode":"6516fffc7a45a2e0","fromSide":"bottom","toNode":"b5f8cc6c1f064349","toSide":"top"},
+		{"id":"810e17b9cc775be9","fromNode":"5c0b875104495122","fromSide":"top","toNode":"7b9b41b0a14d8481","toSide":"bottom"},
+		{"id":"1194b81f95c30bb1","fromNode":"5c0b875104495122","fromSide":"top","toNode":"f173e75fb17540e7","toSide":"bottom"},
+		{"id":"d8429cef5fe24455","fromNode":"5c0b875104495122","fromSide":"top","toNode":"8c563be2e59ea4f2","toSide":"bottom"}
 	]
 }
