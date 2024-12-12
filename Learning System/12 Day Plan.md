@@ -29,7 +29,9 @@
 - [ ]  Greedy Technique
 ### **December 7**
 - [ ]  Quadratic Forms; Principal axes; Reduction of Quadratic Forms ; ( Lay 7.1-7.2)
-- [ ]  Space and time tradeoffs
+- [x] Space and time tradeoffs ✅ 2024-12-11
+- [x] Space and time tradeoffs ✅ 2024-12-11
+IDk
 
 ### **December 8**
 - [ ] Quadratic Curves and Quadric Surfaces Hermitian and Unitary Matrices; Applications; ( Lay 7.1 - 7.2 )
