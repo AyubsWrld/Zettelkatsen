@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"790a76587b78ab2f","x":-440,"y":-120,"width":180,"height":60,"type":"text","text":"fetchSessions "},
+		{"id":"d8d6b8a866184ff4","x":0,"y":-380,"width":271,"height":60,"type":"text","text":"UserManager"},
+		{"id":"cab443f3fdddc086","x":-980,"y":-350,"width":250,"height":60,"type":"text","text":"User Connects"}
+	],
+	"edges":[
+		{"id":"2938be5664b0b846","fromNode":"790a76587b78ab2f","fromSide":"right","toNode":"d8d6b8a866184ff4","toSide":"left"},
+		{"id":"40e5ac2fea4dfa5a","fromNode":"cab443f3fdddc086","fromSide":"bottom","toNode":"790a76587b78ab2f","toSide":"left"}
+	]
+}
