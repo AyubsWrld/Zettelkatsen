@@ -48,9 +48,37 @@
               "icon": "lucide-file",
               "title": "What are Configuration Structures"
             }
+          },
+          {
+            "id": "73dbf58fa2ad0942",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Programming/Computer Engineering/Memory/Heap Memory.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Heap Memory"
+            }
+          },
+          {
+            "id": "1d7b47f9aea52878",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Programming/Computer Engineering/Memory/Memory Example.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Memory Example"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -206,13 +234,19 @@
       "card-board:CardBoard": false
     }
   },
-  "active": "82523b144fab741a",
+  "active": "1d7b47f9aea52878",
   "lastOpenFiles": [
-    "Project Planning/Graphite/ESP-IDF Notes/Configuration Structure/Configuration Structure Pointer.md",
+    "Programming/Computer Engineering/Memory/Heap Memory.md",
+    "Programming/Computer Engineering/Memory/Memory Example.md",
+    "Programming/Computer Engineering/Memory/Stack Memory.md",
+    "Programming/Computer Engineering/Logic Design/Karnaugh Maps.md",
+    "Project Planning/Graphite/ESP-IDF Notes/Configuration Structure/Why Configuration Structures are important.md",
     "Project Planning/Graphite/ESP-IDF Notes/Configuration Structure/What are Configuration Structures.md",
-    "Project Planning/Graphite/ESP-IDF Notes/Configuration Structure/Configuration Structure.md",
-    "Project Planning/Graphite/ESP-IDF Notes/Configuration Structure",
     "Project Planning/Graphite/ESP-IDF Notes/API Conventions/Error Handling/Error Handling.md",
+    "Project Planning/Graphite/ESP-IDF Notes/Configuration Structure/Configuration Structure.md",
+    "Programming/Computer Engineering/Memory",
+    "Project Planning/Graphite/ESP-IDF Notes/Configuration Structure/Configuration Structure Pointer.md",
+    "Project Planning/Graphite/ESP-IDF Notes/Configuration Structure",
     "Project Planning/Graphite/ESP-32/Basics/Exiting monitoring.md",
     "Final Concerns.md",
     "Project Planning/Graphite/Everything I've Done.md",
@@ -238,14 +272,8 @@
     "Project Planning/Keeper/Features.md",
     "Project Planning/Graphite/Errors/Error while cloning repository.md",
     "Project Planning/Graphite/ESP-32/Getting Started",
-    "Project Planning/Graphite/Errors",
     "Programming/Algorithms/Decrease and Conquer/Minimal Change.md",
     "Programming/Algorithms/Decrease and Conquer/Permutations.md",
-    "Programming/Algorithms/Decrease and Conquer/Problem-Solving Patterns with Decrease and Conquer.md",
-    "Programming/Algorithms/Decrease and Conquer/Topological Sorting.md",
-    "Programming/Algorithms/Decrease and Conquer/Johnson Trotter Algorithm.md",
-    "Programming/Algorithms/Decrease and Conquer/Insertion Sort.md",
-    "Programming/Algorithms/Decrease and Conquer/General Steps of the Decrease and Conquer Approach.md",
     "MATH/Linear Algebra/Images/Pasted image 20241208221515.png",
     "MATH/Linear Algebra/Images/Pasted image 20241208214343.png",
     "MATH/Linear Algebra/Images/Pasted image 20241208214038.png",
