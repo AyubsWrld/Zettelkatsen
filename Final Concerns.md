@@ -1,3 +1,0 @@
-- 9.7.1, 9.7.2, 9.7.3.
-- 23-28 from section 9.4
-- section 7.5, 7Review
