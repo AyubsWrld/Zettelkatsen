@@ -23,6 +23,8 @@ ___
 >  ESP_ERROR_CHECK(ret);
 >  ```
 
+> [!note] esp_bt.h
+> Part of the ESP-IDF Bluetooth stack and provides the necessary declarations for initializing and using Bluetooth Classic and Bluetooth Low Energy (BLE) on the ESP32. This file is essential for enabling Bluetooth functionalities and configuring Bluetooth-related settings within an application. 
 
 
 #### callback
