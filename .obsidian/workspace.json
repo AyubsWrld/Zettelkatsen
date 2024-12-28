@@ -8,31 +8,31 @@
         "type": "tabs",
         "children": [
           {
-            "id": "c020e62cce66cd10",
+            "id": "4e00e1cd4ab377b4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Project Planning/Graphite/ESP-IDF Notes/Header Files/nvs_flash.h/ESP_NVS_NO_FREE_PAGES.md",
+                "file": "Project Planning/Graphite/ESP-IDF Notes/Bluetooth Classic/Bluedroid Stack.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ESP_NVS_NO_FREE_PAGES"
+              "title": "Bluedroid Stack"
             }
           },
           {
-            "id": "3b667bdcb366b334",
+            "id": "d45727a536e128e3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Project Planning/Graphite/ESP-IDF Notes/Bluetooth Stack/Bluetooth Stack.md",
+                "file": "Project Planning/Graphite/ESP-IDF Notes/Bluetooth Low Energy/Main App Loop.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Bluetooth Stack"
+              "title": "Main App Loop"
             }
           }
         ],
@@ -192,10 +192,18 @@
       "card-board:CardBoard": false
     }
   },
-  "active": "bdf7cad2e300c825",
+  "active": "d45727a536e128e3",
   "lastOpenFiles": [
-    "Project Planning/Graphite/ESP-IDF Notes/Header Files/nvs_flash.h/ESP_NVS_NO_FREE_PAGES.md",
+    "Project Planning/Graphite/ESP-IDF Notes/Bluetooth Low Energy/Generic Attribute Server Setup",
+    "Project Planning/Graphite/ESP-IDF Notes/Bluetooth Classic/Bluedroid Stack.md",
+    "Project Planning/Graphite/ESP-IDF Notes/Bluetooth Low Energy/Main App Loop.md",
+    "Project Planning/Graphite/ESP-IDF Notes/Bluetooth Low Energy/Setting up Server",
+    "Project Planning/Graphite/ESP-IDF Notes/Bluetooth Low Energy",
+    "Project Planning/Graphite/ESP-IDF Notes/Bluetooth Classic/Example.md",
+    "Project Planning/Graphite/ESP-IDF Notes/Configuration Structure/Example.md",
     "Project Planning/Graphite/ESP-IDF Notes/Bluetooth Stack/Bluetooth Stack.md",
+    "Project Planning/Graphite/ESP-IDF Notes/Header Files/nvs_flash.h/ESP_NVS_NO_FREE_PAGES.md",
+    "Project Planning/Graphite/ESP-IDF Notes/Error Handling/Converting Errors to a readable format.md",
     "Project Planning/Graphite/ESP-IDF Notes/Header Files/esp_bt.h/Example.md",
     "Project Planning/Graphite/ESP-IDF Notes/Header Files/esp_bt.h/Bluetooth Deinitialization/esp_bt_deinit().md",
     "Project Planning/Graphite/ESP-IDF Notes/Header Files/esp_bt.h/Bluetooth Deinitialization/esp_bt_controller_disable().md",
@@ -213,23 +221,15 @@
     "Project Planning/Graphite/ESP-IDF Notes/Header Files/esp_bt.h/Bluetooth Stack Initialization",
     "Project Planning/Graphite/ESP-IDF Notes/Header Files/esp_bt.h/Bluetooth Configuration",
     "Project Planning/Graphite/ESP-IDF Notes/Header Files/esp_bt.h/esp_bt.h.md",
-    "Project Planning/Graphite/ESP-IDF Notes/Bluetooth Classic/Example.md",
     "Project Planning/Graphite/ESP-IDF Notes/Header Files/esp_bt.h",
     "Project Planning/Graphite/ESP-IDF Notes/Header Files/nvs_flash.h/ESP_ERR_NVS_NEW_VERSION_FOUND.md",
     "Project Planning/Graphite/ESP-IDF Notes/Header Files/nvs_flash.h/nvs_flash.h.md",
     "Project Planning/Graphite/ESP-IDF Notes/Bluetooth Classic/Key APIs.md",
     "Project Planning/Graphite/ESP-IDF Notes/Bluetooth Classic/Typical Workflow.md",
     "Project Planning/Graphite/ESP-IDF Notes/Timers/Creating a timer.md",
-    "nvs.md",
     "Project Planning/Graphite/ESP-IDF Notes/Header Files/nvs_flash.h",
     "Project Planning/Graphite/ESP-IDF Notes/Header Files",
-    "SPP (Serial Port Profile).md",
-    "Project Planning/Graphite/ESP-IDF Notes/Bluetooth Classic/Event-Driven Architecture.md",
-    "Project Planning/Graphite/ESP-IDF Notes/Bluetooth Classic/Bluedroid Stack.md",
-    "Project Planning/Graphite/ESP-IDF Notes/Bluetooth Classic/Bluetooth Classic.md",
     "Project Planning/Graphite/ESP-IDF Notes/Bluetooth Classic",
-    "Project Planning/Graphite/ESP-IDF Notes/Timers",
-    "Project Planning/Graphite/ESP-IDF Notes/Logging",
     "Programming/Algorithms/Final Outline.canvas",
     "Project Planning/Keeper/Flowchart.canvas",
     "MATH/Linear Algebra/Images/Pasted image 20241208221515.png",

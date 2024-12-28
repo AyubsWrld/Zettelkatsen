@@ -78,4 +78,6 @@ For the ESP32, the Bluetooth stack is a combination of the **Bluedroid** stack a
     
     - Bluetooth connections need to be properly managed to ensure smooth communication. This includes handling events such as connection state changes, disconnections, and errors.
 
----
+
+_______
+Tags : #programming #computer-architecture #graphite
