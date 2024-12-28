@@ -1,6 +1,6 @@
 ## Flow 
 ___
-#### Non-Volatile Memory Instantiation 
+## **Non-Volatile Memory Instantiation**
 ___
 The entry point of the application serves to carry out three main jobs . Firstly , the app instantiates **Non-Volatile Storage ( *Flash Memory* )** Utilizing [[nvs_flash.h]] . 
 
@@ -17,6 +17,8 @@ The entry point of the application serves to carry out three main jobs . Firstly
 > ```
 >Through doing so , we can simply check whether an error has Occured anywhere within the code and log accordingly utilizing `ESP_LOGE()` 
 
+## **Bluetooth Controller Setup**
+___
 #### Bluetooth controller configuration  
 ___
 Our next step involves Initializing a [[Bluetooth Controller]] with default settings . This is done through the use of a predefined [[Configuration Structure]] which has the default settings 
@@ -37,12 +39,44 @@ if(ret){
 
 #### Bluetooth controller enabling 
 ___
+After we have successfully configured our [[Bluetooth Controller]] , We can then focus on actually enabling the Bluetooth Controller 
 
+```c
+ret = esp_bt_controller_enable(ESP_BT_MODE_BLE) 
+if(ret){
+	ESP_LOGE(GATT_TAG , "%s Error Occured while enabling bluetooth controller" , __func__ ) ; 
+	return ; 
+}
+```
 
+## **Bluedroid Setup**
+____
+Next we concern ourselves with the setup of the [[Bluedroid Stack]]  , which includes the common definitions and APIs for both BT classic and BLE , It is initialized and enabled by using these two functions .. 
+#### Bluedroid Initialization 
+___
+Firstly we enable the Bluedroid stack through the use of [[esp_bluedroid_init()]] . 
 
+```c
+ret = esp_bluedroid_init() ; 
+if(ret){ 
+	ESP_LOGE(GATT_TAG , "%s Error occured while initializing bluedroid stack" , __func__) ; 
+	return ; 
+}
+```
+#### Bluedroid Enabling 
+___
+Next we enable the Bluedroid stack using [[esp_bluedroid_enable()]] 
 
+```c 
+ret = esp_bluedroid_enable(); 
+if(ret){
+	ESP_LOGE(GATT_TAG , "%s Error Occured while enabling Bluedroid Stack" , __func__);
+	return ; 
+}
+```
 
-
+## **Profile Setup**
+____
 
 ____
 Tags : #programming #computer-architecture #graphite
