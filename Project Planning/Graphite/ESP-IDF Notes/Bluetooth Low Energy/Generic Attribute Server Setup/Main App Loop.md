@@ -1,3 +1,11 @@
+> [!tldr] 
+> The process to get the server goes as follows .. 
+> *Setup Non-Volatile Flash Memory* 
+> *Setup Bluetooth Stack By first initializing then enabling*
+> *Setup Bluedroid By first initializing then enabling*
+> *Setup callback functions for both GATT and GAP*
+> *Setup Profiles*
+
 ## Flow 
 ___
 ## **Non-Volatile Memory Instantiation**
@@ -77,6 +85,26 @@ if(ret){
 
 ## **Profile Setup**
 ____
+Now at this point , the Bluetooth stack is setup , however we are missing the core functionality of allowing the application to respond to read/write operations as well as connections . For this we must set up Callback Functions . The two main managers of events are the [[GAP and GATT event handlers]]  . The application needs to register a callback function for each event handler in order to let the application know which functions are going to handle the GAP and GATT events . 
 
+### GATT Event Handler 
+___
+Utilizing the function `esp_ble_gatts_register_callback` 
+```c
+ret = esp_ble_register_callback(gatts_event_handler) ;
+if(ret){
+ ESP_LOGE(GATT_TAG , "%s Failed to GATT initialize callback function",__func__) ; 
+}
+```
+### GAP Event Handler 
+___
+Utilizing the function `esp_ble_gap_register_callback(gap_event_handler)`
+```c
+ret = esp_ble_gap_register_callback(gap_event_handler) ;
+if(ret){
+	ESP_LOGE( GATT_TAG , "%s Failed to initialize GAP callback function" , __func__ ) ; 
+	return ; 
+}
+```
 ____
 Tags : #programming #computer-architecture #graphite
