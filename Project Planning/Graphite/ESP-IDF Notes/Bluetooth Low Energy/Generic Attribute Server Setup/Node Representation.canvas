@@ -1,0 +1,43 @@
+{
+	"nodes":[
+		{"id":"641be66b278ac69e","x":-1120,"y":-69,"width":1362,"height":609,"type":"group","label":"Bluetooth Stack Setup"},
+		{"id":"38f0dd22d4e91edc","x":2320,"y":-261,"width":489,"height":993,"type":"group","label":"Attribute Profile Instantiation"},
+		{"id":"0d78770d4ec5e96c","x":760,"y":66,"width":900,"height":339,"type":"group","label":"Server Functionality"},
+		{"id":"b8be36b34e0a2b02","x":-189,"y":-49,"width":250,"height":60,"color":"2","type":"text","text":"Enabling/Configuring Bluetooth Stack\n"},
+		{"id":"fc56ccd43a39858a","x":-617,"y":-49,"width":250,"height":60,"color":"2","type":"text","text":"Enabling/Configuring Bluetooth Controller"},
+		{"id":"706fc37c9d9c2f75","x":-983,"y":220,"width":250,"height":60,"color":"4","type":"text","text":"esp_bt_controller_config_t"},
+		{"id":"9ea17954043cb561","x":-1000,"y":460,"width":285,"height":60,"color":"4","type":"text","text":"esp_bt_controller_init(&bt_cfg)"},
+		{"id":"68c27a1bb7247d17","x":-617,"y":220,"width":250,"height":60,"color":"4","type":"text","text":"esp_bt_controller_enable(ESP_BT_BLE_MODE)"},
+		{"id":"ad13b6ebaa7727d4","x":-320,"y":220,"width":220,"height":60,"color":"4","type":"text","text":"esp_bluedroid_init()"},
+		{"id":"53c528ff38311eca","x":-28,"y":220,"width":250,"height":60,"color":"4","type":"text","text":"esp_bluedroid_enable(); "},
+		{"id":"77b9706350684ff6","x":-1100,"y":-49,"width":274,"height":60,"color":"4","type":"text","text":"Initialize Non-Volatile Storage"},
+		{"id":"dd7abc0d9307f3b1","x":-1880,"y":220,"width":163,"height":60,"color":"1","type":"text","text":"gatts_server"},
+		{"id":"f3bc8fa7712d5b9f","x":780,"y":325,"width":298,"height":60,"color":"1","type":"text","text":"esp_ble_gatts_register_callback"},
+		{"id":"e64c789150d91c94","x":1140,"y":86,"width":202,"height":60,"type":"text","text":"Initialize Callbacks"},
+		{"id":"a7d26e2800e87dfd","type":"text","text":"esp_ble_gap_register_callback","x":1342,"y":325,"width":298,"height":60,"color":"1"},
+		{"id":"41bb64db6e33f28b","x":2340,"y":-241,"width":166,"height":60,"type":"text","text":"Gatt Interface"},
+		{"id":"4289dae7098257bf","type":"text","text":"Application ID","x":2340,"y":-148,"width":166,"height":60},
+		{"id":"5b15bf579ce662b7","type":"text","text":"Connection ID","x":2340,"y":-48,"width":166,"height":60},
+		{"id":"6b0c167ed822483c","type":"text","text":"Service Handle","x":2340,"y":52,"width":186,"height":60},
+		{"id":"19d9d861eccb45fd","type":"text","text":"Characteristic Handle","x":2340,"y":152,"width":226,"height":60},
+		{"id":"182576d1868b24d2","type":"text","text":"Characteristic UUID","x":2340,"y":252,"width":226,"height":60},
+		{"id":"a0121352bf620817","type":"text","text":"Attribute Permissions","x":2340,"y":352,"width":226,"height":60},
+		{"id":"6aae439c478be2a7","type":"text","text":"Characteristic Properties","x":2340,"y":452,"width":246,"height":60},
+		{"id":"827a4cdd4d3683e2","type":"text","text":"Client Characteristic Configuration Descriptor Handle","x":2340,"y":552,"width":446,"height":60},
+		{"id":"eab8045eafeb1372","type":"text","text":"Client Characteristic Configuration Descriptor UUID ","x":2343,"y":652,"width":446,"height":60}
+	],
+	"edges":[
+		{"id":"30ae1053dee63c9a","fromNode":"fc56ccd43a39858a","fromSide":"bottom","toNode":"706fc37c9d9c2f75","toSide":"top"},
+		{"id":"aadce60e4ab80148","fromNode":"706fc37c9d9c2f75","fromSide":"bottom","toNode":"9ea17954043cb561","toSide":"top"},
+		{"id":"0fcb5cafa98a0680","fromNode":"fc56ccd43a39858a","fromSide":"bottom","toNode":"68c27a1bb7247d17","toSide":"top"},
+		{"id":"bf220f0aca503059","fromNode":"b8be36b34e0a2b02","fromSide":"bottom","toNode":"ad13b6ebaa7727d4","toSide":"top"},
+		{"id":"15b9881d460ce3c7","fromNode":"b8be36b34e0a2b02","fromSide":"bottom","toNode":"53c528ff38311eca","toSide":"top"},
+		{"id":"73f3a7ca02a74f89","fromNode":"77b9706350684ff6","fromSide":"right","toNode":"fc56ccd43a39858a","toSide":"left"},
+		{"id":"1b54ea67ad355022","fromNode":"fc56ccd43a39858a","fromSide":"right","toNode":"b8be36b34e0a2b02","toSide":"left"},
+		{"id":"5e752dcf80d458ff","fromNode":"dd7abc0d9307f3b1","fromSide":"right","toNode":"641be66b278ac69e","toSide":"left"},
+		{"id":"04151c9d26f02b4e","fromNode":"e64c789150d91c94","fromSide":"bottom","toNode":"f3bc8fa7712d5b9f","toSide":"top"},
+		{"id":"971b48cd034f0332","fromNode":"e64c789150d91c94","fromSide":"bottom","toNode":"a7d26e2800e87dfd","toSide":"top"},
+		{"id":"9ff766df60613153","fromNode":"641be66b278ac69e","fromSide":"right","toNode":"0d78770d4ec5e96c","toSide":"left"},
+		{"id":"3addb316f231f26f","fromNode":"0d78770d4ec5e96c","fromSide":"right","toNode":"38f0dd22d4e91edc","toSide":"left"}
+	]
+}
