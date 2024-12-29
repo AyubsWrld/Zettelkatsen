@@ -24,7 +24,7 @@ The entry point of the application serves to carry out three main jobs . Firstly
 > ESP_ERROR_CHECK( ret ) ; 
 > ```
 >Through doing so , we can simply check whether an error has Occured anywhere within the code and log accordingly utilizing `ESP_LOGE()` 
-
+	
 ## **Bluetooth Controller Setup**
 ___
 #### Bluetooth controller configuration  
