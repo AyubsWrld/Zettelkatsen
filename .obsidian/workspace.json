@@ -4,81 +4,53 @@
     "type": "split",
     "children": [
       {
-        "id": "f8feea7381e93a1d",
+        "id": "a06900d3e597ddec",
         "type": "tabs",
         "children": [
           {
-            "id": "e9bf2b23284b2d85",
+            "id": "c57d99d2b420dbff",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming/Shell Scripts/bash/Variables.md",
+                "file": "Programming/Languages/swift/The Basics/Swift Min Max.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Variables"
+              "title": "Swift Min Max"
             }
           },
           {
-            "id": "ff106d0169c4627b",
+            "id": "d12ded42e7236f8b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming/Shell Scripts/bash/Subshell.md",
+                "file": "Programming/Languages/swift/Data Types/Numeric Literals.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Subshell"
+              "title": "Numeric Literals"
             }
           },
           {
-            "id": "5689cdb1303c089f",
+            "id": "469f7191d42a3882",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming/Shell Scripts/bash/Command Substitution.md",
+                "file": "Programming/Languages/swift/The Basics/Swift Type Inference.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Command Substitution"
-            }
-          },
-          {
-            "id": "bea9deabdcebf289",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Programming/Shell Scripts/bash/Passing Parameters To Functions.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Passing Parameters To Functions"
-            }
-          },
-          {
-            "id": "5ecce9d7635c53f4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Programming/Shell Scripts/bash/Adding a new Bash script.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Adding a new Bash script"
+              "title": "Swift Type Inference"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -203,7 +175,7 @@
             }
           },
           {
-            "id": "60616b9b0b93cdbe",
+            "id": "cb48f927041b922d",
             "type": "leaf",
             "state": {
               "type": "side-panel-control-view",
@@ -217,7 +189,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 367.5
+    "width": 234.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -234,10 +206,24 @@
       "card-board:CardBoard": false
     }
   },
-  "active": "bdf7cad2e300c825",
+  "active": "469f7191d42a3882",
   "lastOpenFiles": [
-    "Programming/Shell Scripts/bash/Passing Parameters To Functions.md",
+    "Programming/Languages/swift/The Basics/Swift Printing.md",
+    "Programming/Languages/swift/The Basics/Swift Type Inference.md",
+    "Programming/Languages/swift/Data Types/Numeric Literals.md",
+    "Programming/Languages/swift/The Basics/Generics.md",
+    "Programming/Languages/swift/Data Types",
+    "Programming/Languages/swift/The Basics/Swift Min Max.md",
+    "Programming/Languages/swift/The Basics/Swift Implicit Type Conversion.md",
+    "Project Planning/Graphite/ESP-IDF Notes/Bluetooth Low Energy/Generic Attribute Server Setup/Reading Data.md",
+    "Programming/Languages/swift/The Basics/Swift Min Max",
+    "Project Planning/Wave",
+    "Project Planning/Graphite/ESP-IDF Notes/Bluetooth Low Energy/Generic Attribute Server Setup/Generic Access Profile.md",
+    "Project Planning/Graphite/ESP-IDF Notes/Bluetooth Low Energy/Generic Attribute Server Setup/Storing Application Profiles.md",
+    "Project Planning/Graphite/ESP-IDF Notes/Bluetooth Low Energy/Generic Attribute Server Setup/Bluetooth Stack Setup.md",
+    "Project Planning/Graphite/ESP-IDF Notes/Bluetooth Low Energy/Generic Attribute Server Setup/Event Handling Setup.md",
     "Programming/Shell Scripts/bash/Adding a new Bash script.md",
+    "Programming/Shell Scripts/bash/Passing Parameters To Functions.md",
     "Programming/Shell Scripts/bash/Subshell.md",
     "Programming/Shell Scripts/bash/Command Substitution.md",
     "Command Substitution",
@@ -248,31 +234,17 @@
     "Programming/Languages/C/Callback Functions as Struct Attributes.md",
     "Programming/Languages/C/Memory Management",
     "Project Planning/Graphite/ESP-IDF Notes/Bluetooth Low Energy/Generic Attribute Server Setup/Advertisement.md",
-    "Project Planning/Graphite/ESP-IDF Notes/Bluetooth Low Energy/Generic Attribute Server Setup/Storing Application Profiles.md",
     "Project Planning/Graphite/ESP-IDF Notes/Bluetooth Low Energy/Generic Attribute Server Setup/Application Profiles.md",
     "Project Planning/Graphite/ESP-IDF Notes/Bluetooth Low Energy/Types/esp_ble_adv_data_t.md",
     "Programming/Languages/C/Statically Allocated Arrays.md",
     "Programming/Languages/C",
     "Project Planning/Graphite/ESP-IDF Notes/Bluetooth Low Energy/Generic Attribute Server Setup/Node Representation.canvas",
-    "Project Planning/Graphite/ESP-IDF Notes/Bluetooth Low Energy/Generic Attribute Server Setup/Bluetooth Stack Setup.md",
-    "Project Planning/Graphite/ESP-IDF Notes/Bluetooth Low Energy/Generic Attribute Server Setup/Event Handling Setup.md",
     "Project Planning/Graphite/ESP-IDF Notes/Bluetooth Low Energy/Profiles/What Does a Profile Contain.md",
     "Project Planning/Graphite/ESP-IDF Notes/Bluetooth Low Energy/Profiles/Application Profiles.md",
     "Project Planning/Graphite/ESP-IDF Notes/Bluetooth Low Energy/Profiles",
     "Project Planning/Graphite/ESP-IDF Notes/Bluetooth Low Energy/Types/gatts_event_handler.md",
     "Project Planning/Graphite/ESP-IDF Notes/Bluetooth Low Energy/Types/gap_event_handler.md",
-    "Project Planning/Graphite/ESP-IDF Notes/Bluetooth Low Energy/Methods/esp_bt_controller_enable(esp_bt_mode_t mode).md",
     "Project Planning/Graphite/ESP-IDF Notes/Bluetooth Low Energy/Types",
-    "Project Planning/Graphite/ESP-IDF Notes/Bluetooth Low Energy/Methods/esp_bluedroid_enable().md",
-    "Project Planning/Graphite/ESP-IDF Notes/Bluetooth Low Energy/Methods/esp_ble_gatts_register_callback().md",
-    "Project Planning/Graphite/ESP-IDF Notes/Bluetooth Low Energy/Methods/esp_ble_gap_register_callback().md",
-    "Project Planning/Graphite/ESP-IDF Notes/Bluetooth Low Energy/Methods/esp_bluedroid_init().md",
-    "Project Planning/Graphite/ESP-IDF Notes/Bluetooth Low Energy/Methods/esp_bt_controller_init(&args).md",
-    "esp_bluedroid_enable().md",
-    "Project Planning/Graphite/ESP-IDF Notes/Bluetooth Low Energy/Methods",
-    "Project Planning/Graphite/ESP-IDF Notes/Bluetooth Low Energy/Generic Attribute Server Setup",
-    "Project Planning/Graphite/ESP-IDF Notes/Bluetooth Classic/Bluedroid Stack.md",
-    "Project Planning/Graphite/ESP-IDF Notes/Bluetooth Low Energy/Setting up Server",
     "Programming/Algorithms/Final Outline.canvas",
     "Project Planning/Keeper/Flowchart.canvas",
     "MATH/Linear Algebra/Images/Pasted image 20241208221515.png",
