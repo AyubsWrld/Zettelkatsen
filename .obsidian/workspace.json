@@ -4,67 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "a06900d3e597ddec",
+        "id": "9ffa48d78df026e2",
         "type": "tabs",
         "children": [
           {
-            "id": "c57d99d2b420dbff",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Programming/Languages/swift/The Basics/Swift Min Max.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Swift Min Max"
-            }
-          },
-          {
-            "id": "d12ded42e7236f8b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Programming/Languages/swift/Data Types/Swift Numeric Literals.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Swift Numeric Literals"
-            }
-          },
-          {
-            "id": "469f7191d42a3882",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Programming/Languages/swift/The Basics/Swift Type Inference.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Swift Type Inference"
-            }
-          },
-          {
-            "id": "efcbe770bd035be7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Programming/Languages/swift/Data Types/Swift Typealiases.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Swift Typealiases"
-            }
-          },
-          {
-            "id": "942eb6dc34f2fb93",
+            "id": "9b389e40b6b8a3e0",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -78,35 +22,35 @@
             }
           },
           {
-            "id": "303c18a1bead14e4",
+            "id": "4c4e575c72612ccf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming/Languages/swift/Data Types/Swift Tuples.md",
+                "file": "Programming/Architectural Patterns/Event Driven Architecture/Reactivity.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Swift Tuples"
+              "title": "Reactivity"
             }
           },
           {
-            "id": "7a6ff099a079b683",
+            "id": "3b3ba3b29c3bb17b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming/Languages/C/Statically Allocated Arrays.md",
+                "file": "Programming/Architectural Patterns/Event Driven Architecture/Coupling.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Statically Allocated Arrays"
+              "title": "Coupling"
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -137,7 +81,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "statically ",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -158,8 +102,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -263,13 +206,19 @@
       "card-board:CardBoard": false
     }
   },
-  "active": "7a6ff099a079b683",
+  "active": "3b3ba3b29c3bb17b",
   "lastOpenFiles": [
+    "Programming/Architectural Patterns/Event Driven Architecture/Reactivity.md",
+    "Programming/Architectural Patterns/Event Driven Architecture/Coupling.md",
+    "Programming/General/Environment Variables.md",
+    "Programming/Languages/swift/Control Flow/if statements.md",
+    "Programming/Architectural Patterns/Event Driven Architecture",
+    "Programming/Architectural Patterns",
+    "Programming/Languages/C/Statically Allocated Arrays.md",
     "Programming/Languages/swift/Data Types/Swift nil.md",
     "Programming/Languages/swift/Data Types/Swift Numeric Literals.md",
     "Programming/Languages/swift/Data Types/Swift Tuples.md",
     "Programming/Languages/swift/Data Types/Swift Typealiases.md",
-    "Programming/Languages/swift/Control Flow/if statements.md",
     "Programming/Languages/swift/Control Flow",
     "Programming/Languages/swift/The Basics/Swift Type Inference.md",
     "Programming/Languages/swift/The Basics/Swift Printing.md",
@@ -295,13 +244,7 @@
     "Programming/Languages/C/Memory Management/memcpy.md",
     "Programming/Languages/C/Callback Functions as Struct Attributes.md",
     "Programming/Languages/C/Memory Management",
-    "Project Planning/Graphite/ESP-IDF Notes/Bluetooth Low Energy/Generic Attribute Server Setup/Advertisement.md",
-    "Project Planning/Graphite/ESP-IDF Notes/Bluetooth Low Energy/Generic Attribute Server Setup/Application Profiles.md",
-    "Project Planning/Graphite/ESP-IDF Notes/Bluetooth Low Energy/Types/esp_ble_adv_data_t.md",
-    "Programming/Languages/C/Statically Allocated Arrays.md",
-    "Programming/Languages/C",
     "Project Planning/Graphite/ESP-IDF Notes/Bluetooth Low Energy/Generic Attribute Server Setup/Node Representation.canvas",
-    "Project Planning/Graphite/ESP-IDF Notes/Bluetooth Low Energy/Profiles",
     "Programming/Algorithms/Final Outline.canvas",
     "Project Planning/Keeper/Flowchart.canvas",
     "MATH/Linear Algebra/Images/Pasted image 20241208221515.png",
