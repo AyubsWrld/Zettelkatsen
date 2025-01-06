@@ -7,7 +7,7 @@ hence $u,v,a$ are [[Linearly Independent]] . opposite of [[Linearly Dependent]]
 
 If $u,v$ are colinear then $u = \lambda v$
 
-A plane is a two dimensional [[MATH/Linear Algebra/Misc/Vector Spaces/4.1/Vector Space]]
+A plane is a two dimensional [[Vector Space]]
 
 #### _Theorem_ $R^2$ is 2 dimensional 
 ___
@@ -113,7 +113,7 @@ Every basis must contain the same number of vectors equal to the dimensional spa
 ___
 ##### Subspaces of vector spaces 
 >A subset $S$ of vector space $V$ if it is a vector space itself , Not every subset of a Vector space is a subspace . 
->	Ex. $U =\{u,v,w\}$ because $2u+3v \notin U$  , no [[MATH/Linear Algebra/Misc/Review/Closure]] .
+>	Ex. $U =\{u,v,w\}$ because $2u+3v \notin U$  , no [[Math/Linear Algebra/Misc/Review/Closure]] .
 >	Ex. A set of all [[Unit Geometric Vectors]] is not a subspace  of the space of [[Geometric Vectors]] . $||u||=1 \ ,||v|| = 1 , ||a|| = 1$ , $||a+v|| \neq 1$ . 
 >	Ex. The set of al polynomials of the type $p = a_0 +a_1t$ is a subspace of $P^2$ $q = b_0 + b_1t$ $\rightarrow$ $p+q$ $\in$ [[Linear Polynomials]] 
 
