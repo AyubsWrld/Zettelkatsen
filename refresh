@@ -2,21 +2,15 @@
 
 # get status
 
-
 declare -A directories=(
-  "[Graphite]"="Value"
+	["Graphite"]="Value"
 )
 
+declare -a array=("es" "no")
 refresh() {
-	STATUS=$(git status)
-  echo ${directories["Graphite"]}
-	# if [[ $STATUS != *" Changes not staged for commit: "* ]]; then
-	# 	echo "Please add a commit message : "
-	# 	read DETAILS
-	# 	git add .
-	# 	git commit -m "$DETAILS"
-	# 	git push origin main
-	# fi
+	for VAR in ${!array}; do
+		echo "$VAR"
+	done
 }
 
 refresh
