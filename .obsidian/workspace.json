@@ -4,86 +4,30 @@
     "type": "split",
     "children": [
       {
-        "id": "83855f66500ed2ce",
+        "id": "d86e1e864693c29e",
         "type": "tabs",
         "children": [
           {
-            "id": "cc4238c83dd76247",
+            "id": "0c334e4efcbaa2cd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming/Artificial Intelligence/Introduction/PEAS.md",
+                "file": "Programming/Artificial Intelligence/Introduction/Episodic.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "PEAS"
+              "title": "Episodic"
             }
           },
           {
-            "id": "086b09a9e90d7dc9",
+            "id": "790e39ea9b57923e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming/Artificial Intelligence/Introduction/Performance Measure.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Performance Measure"
-            }
-          },
-          {
-            "id": "f0130ca827f392f1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Programming/Artificial Intelligence/Introduction/Actuators.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Actuators"
-            }
-          },
-          {
-            "id": "702399db1e4ab7f1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Programming/Artificial Intelligence/Introduction/Sensors.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Sensors"
-            }
-          },
-          {
-            "id": "c8ebe77257011b07",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Programming/Artificial Intelligence/Introduction/Sensors.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Sensors"
-            }
-          },
-          {
-            "id": "3fbd6b8ebbd53bdc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Fully observable.md",
+                "file": "Programming/Artificial Intelligence/Introduction/Fully observable.md",
                 "mode": "source",
                 "source": false
               },
@@ -92,49 +36,21 @@
             }
           },
           {
-            "id": "e1a3a629279b71d8",
+            "id": "4cabd4f5baffe515",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fully observable.md",
+                "file": "Agent Types.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Fully observable"
-            }
-          },
-          {
-            "id": "ae89cb77acda452c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Deterministic.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Deterministic"
-            }
-          },
-          {
-            "id": "8ab4a6452cd4e9d1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Stochastic.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Stochastic"
+              "title": "Agent Types"
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -291,13 +207,15 @@
       "card-board:CardBoard": false
     }
   },
-  "active": "8ab4a6452cd4e9d1",
+  "active": "4cabd4f5baffe515",
   "lastOpenFiles": [
-    "Fully observable.md",
-    "Stochastic.md",
-    "Deterministic.md",
-    "Episodic.md",
+    "Programming/Artificial Intelligence/Introduction/Fully observable.md",
+    "Agent Types.md",
+    "Programming/Artificial Intelligence/Introduction/Sequential.md",
     "Programming/Artificial Intelligence/Introduction/Sensors.md",
+    "Programming/Artificial Intelligence/Introduction/Episodic.md",
+    "Programming/Artificial Intelligence/Introduction/Deterministic.md",
+    "Programming/Artificial Intelligence/Introduction/Stochastic.md",
     "Programming/Artificial Intelligence/Introduction/Rational Agents.md",
     "Programming/Artificial Intelligence/Introduction/Performance Measure.md",
     "Programming/Artificial Intelligence/Introduction/PEAS.md",
@@ -327,8 +245,6 @@
     "Programming/Architectural Patterns/Event Driven Architecture/Coupling.md",
     "Programming/General/Environment Variables.md",
     "Programming/Languages/C/Statically Allocated Arrays.md",
-    "Programming/Languages/swift/Data Types/Swift nil.md",
-    "Programming/Languages/swift/Data Types/Swift Numeric Literals.md",
     "Project Planning/Graphite/ESP-IDF Notes/Bluetooth Low Energy/Generic Attribute Server Setup/Node Representation.canvas",
     "Programming/Algorithms/Final Outline.canvas",
     "Project Planning/Keeper/Flowchart.canvas",
