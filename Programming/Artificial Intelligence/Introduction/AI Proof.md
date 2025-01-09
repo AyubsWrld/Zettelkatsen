@@ -1,3 +1,3 @@
-Repetition , and Compassion 
+Non-Repetitive, and Compassion 
 ___
 Tags : #programming #artificial-intelligence
