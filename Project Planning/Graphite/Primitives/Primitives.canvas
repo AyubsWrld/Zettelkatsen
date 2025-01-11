@@ -1,0 +1,16 @@
+{
+	"nodes":[
+		{"id":"f64116f640309fe7","x":-520,"y":97,"width":219,"height":60,"color":"2","type":"text","text":"Read/Write Operations "},
+		{"id":"97f4a558b97f1cfb","x":-700,"y":300,"width":145,"height":60,"color":"2","type":"text","text":"File types"},
+		{"id":"85412b73b8ed23ef","x":-301,"y":300,"width":250,"height":60,"color":"2","type":"text","text":"Data Compression"},
+		{"id":"fcadfd097755de11","x":-51,"y":97,"width":250,"height":60,"color":"1","type":"text","text":"Write operations"},
+		{"id":"c8892a5553a9c583","x":-1040,"y":97,"width":250,"height":60,"color":"1","type":"text","text":"Read Operations"},
+		{"id":"0a2b709e4dde3577","x":-1118,"y":-240,"width":156,"height":60,"color":"4","type":"text","text":"Stream Data"}
+	],
+	"edges":[
+		{"id":"63c8af366c2daa8a","fromNode":"f64116f640309fe7","fromSide":"bottom","toNode":"97f4a558b97f1cfb","toSide":"top"},
+		{"id":"9ced4b4c36fc3c24","fromNode":"f64116f640309fe7","fromSide":"bottom","toNode":"85412b73b8ed23ef","toSide":"top"},
+		{"id":"b3e9b20fa99c435a","fromNode":"f64116f640309fe7","fromSide":"right","toNode":"fcadfd097755de11","toSide":"left"},
+		{"id":"808069c171969dfb","fromNode":"f64116f640309fe7","fromSide":"left","toNode":"c8892a5553a9c583","toSide":"right"}
+	]
+}
