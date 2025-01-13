@@ -8,108 +8,35 @@
         "type": "tabs",
         "children": [
           {
-            "id": "2827a29efd51d8e7",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Project Planning/Graphite/Primitives/Primitives.canvas",
-                "viewState": {
-                  "x": -459.5,
-                  "y": 60,
-                  "zoom": -1.4698760177595078
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "Primitives"
-            }
-          },
-          {
-            "id": "a69ed5e14f79ac4c",
+            "id": "37c02ae4c34aa4d8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Project Planning/Graphite/System Design/Abstract.md",
+                "file": "Objectives/ Mon  13  Jan  2025 .md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Abstract"
+              "title": "Mon  13  Jan  2025"
             }
           },
           {
-            "id": "25d585ceed900d04",
+            "id": "4bc0323cc6d542d4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Project Planning/Graphite/System Design/Functional Requirements.md",
+                "file": "Project Planning/Graphite/Software/Database Schema/Metadata.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Functional Requirements"
-            }
-          },
-          {
-            "id": "df372ecb9954b3fd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Non-Functional Requirements.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Non-Functional Requirements"
-            }
-          },
-          {
-            "id": "883a066f02beb4d9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Project Planning/Graphite/Software/HLD.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "HLD"
-            }
-          },
-          {
-            "id": "354c0a41d92d9e3c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Meta Data.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Meta Data"
-            }
-          },
-          {
-            "id": "17244448acf9d527",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Scribbles/Philosophy Scribble 303 Jan 13.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Philosophy Scribble 303 Jan 13"
+              "title": "Metadata"
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -266,45 +193,45 @@
       "card-board:CardBoard": false
     }
   },
-  "active": "bdf7cad2e300c825",
+  "active": "4bc0323cc6d542d4",
   "lastOpenFiles": [
-    "Philosophy/Plato/Apology",
-    "Scribbles",
-    "Meta Data.md",
+    "Project Planning/Graphite/Software/High Level Design/HLD.md",
+    "Project Planning/Graphite/Software/Database Schema/Metadata.md",
+    "Objectives/ Mon  13  Jan  2025 .md",
+    "Project Planning/Graphite/Software/High Level Design",
+    "Project Planning/Graphite/Software/Database Schema",
+    "Project Planning/Graphite/Task Delegation",
+    "Objectives/ Mon  13  Jan  2025 .md~",
+    "Dates/CMPT 496.md",
+    "Objectives/2025-01-13.md",
+    "Objectives/ Mon  13  Jan  2025 ",
+    "Objectives/ Mon  13  Jan  2025 ~",
+    "Objectives/' Mon  13  Jan  2025 '",
+    "Philosophy/Kierkegaard/A Thought Project/Forms.md",
+    " Mon 13 Jan 2025",
+    "Project Planning/Graphite/System Design/Meta Data.md",
     "Scribbles/Philosophy Scribble 303 Jan 13.md",
-    "Project Planning/Graphite/Software/HLD.md",
-    "Non-Functional Requirements.md",
+    "Objectives",
+    "Philosophy/Plato/Apology",
+    "Project Planning/Graphite/System Design/Non-Functional Requirements.md",
     "Project Planning/Graphite/System Design/Functional Requirements.md",
     "Project Planning/Graphite/System Design/Abstract.md",
-    "Project Planning/Graphite/Software",
-    "Project Planning/Graphite/Hardware",
-    "Project Planning/Graphite/System Design",
     "Project Planning/Graphite/Errors/Error while cloning repository.md",
     "Project Planning/Graphite/Primitives/Primitives.canvas",
     "Dates/PHIL330.md",
-    "Project Planning/Graphite/Timeline",
     "Dates/PHIL303.md",
-    "Dates/CMPT 496.md",
     "Dates/CMPT310.md",
-    "Dates",
     "Project Planning/Graphite/Primitives/IO Operations/Write Operations.md",
     "Project Planning/Graphite/Primitives/IO Operations/Read Operations.md",
     "Project Planning/Graphite/Primitives/IO Operations/Format.md",
     "Project Planning/Graphite/Primitives/IO Operations/Latency.md",
-    "Project Planning/Graphite/Primitives/IO Operations",
     "Philosophy/Kierkegaard/Introduction/Analogy of the ladder.md",
-    "Project Planning/Graphite/Primitives",
     "Words/Erudition.md",
     "Philosophy/Kierkegaard/Introduction/January 9 Scribble.md",
-    "Philosophy/Kierkegaard/A Thought Project/Forms.md",
     "Philosophy/Kierkegaard/Introduction/Paradox of truth.md",
     "Philosophy/Kierkegaard/Introduction/Milestones.md",
-    "Philosophy/Kierkegaard/A Thought Project",
     "Philosophy/Kierkegaard/Introduction/Objective vs. Subjective knowledge ..md",
-    "Philosophy/Kierkegaard/Introduction",
     "Philosophy/Kierkegaard/Introduction/Thought Project.md",
-    "Philosophy/Kierkegaard/Introduction/Why Crumbs ?.md",
-    "Philosophy/Kierkegaard/Introduction/Kierkegaard Psuedonyms.md",
     "Project Planning/Graphite/Hardware/ESP-IDF Notes/Bluetooth Low Energy/Generic Attribute Server Setup/Node Representation.canvas",
     "Programming/Algorithms/Final Outline.canvas",
     "Project Planning/Keeper/Flowchart.canvas",
