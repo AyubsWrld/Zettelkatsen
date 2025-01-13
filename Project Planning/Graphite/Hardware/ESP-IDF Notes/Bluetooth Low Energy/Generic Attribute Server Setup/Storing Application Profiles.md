@@ -1,4 +1,4 @@
-After the [[Application Profiles]] have been created we can store them using [[Statically Allocated Arrays]] .  First we define the position of the profile and store it within an array .. 
+After the [[Project Planning/Graphite/Hardware/ESP-IDF Notes/Bluetooth Low Energy/Generic Attribute Server Setup/Application Profiles]] have been created we can store them using [[Statically Allocated Arrays]] .  First we define the position of the profile and store it within an array .. 
 ```c
 #include <stdio.h>
 #include <string.h> 

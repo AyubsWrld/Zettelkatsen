@@ -1,4 +1,4 @@
-After we have created and stored the [[Project Planning/Graphite/ESP-IDF Notes/Bluetooth Low Energy/Profiles/Application Profiles|Application Profiles]] , we can now broadcast our BLE service through doing the following .. 
+After we have created and stored the [[Project Planning/Graphite/Hardware/ESP-IDF Notes/Bluetooth Low Energy/Profiles/Application Profiles|Application Profiles]] , we can now broadcast our BLE service through doing the following .. 
 
 #### Advertising the Data 
 ___
