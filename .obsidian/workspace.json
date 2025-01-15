@@ -8,20 +8,105 @@
         "type": "tabs",
         "children": [
           {
-            "id": "a45d6071a6e247b1",
+            "id": "bd87b91457e7fcd4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming/Artificial Intelligence/Blind Search/Problem solving agents and their environments.md",
+                "file": "Project Planning/Graphite/Hardware/ESP-IDF Notes/Examples/HTTP server example/HTTP Server Example.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Problem solving agents and their environments"
+              "title": "HTTP Server Example"
+            }
+          },
+          {
+            "id": "02d0c4de05e75ac9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Project Planning/Graphite/Hardware/ESP-IDF Notes/Examples/HTTP server example/HTTP Request Handler.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "HTTP Request Handler"
+            }
+          },
+          {
+            "id": "f8add5e0c6fedc3b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Project Planning/Graphite/Hardware/ESP-IDF Notes/Examples/HTTP server example/HTTP Server Example.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "HTTP Server Example"
+            }
+          },
+          {
+            "id": "5c2b1b31a027e2ff",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Project Planning/Graphite/Hardware/ESP-IDF Notes/Examples/HTTP server example/Statically Defined Variables.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Statically Defined Variables"
+            }
+          },
+          {
+            "id": "652f25bcc8bd53b0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Project Planning/Graphite/Hardware/ESP-IDF Notes/Examples/HTTP server example/Request Handlers.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Request Handlers"
+            }
+          },
+          {
+            "id": "e03bb509b0208f10",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Project Planning/Graphite/Hardware/ESP-IDF Notes/Examples/HTTP server example/Request Handlers.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Request Handlers"
+            }
+          },
+          {
+            "id": "d4b765b96bedf809",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Project Planning/Graphite/Hardware/ESP-IDF Notes/Examples/HTTP server example/Datatypes/http_uri_t.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "http_uri_t"
             }
           }
-        ]
+        ],
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -77,8 +162,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 243.5,
-    "collapsed": true
+    "width": 243.5
   },
   "right": {
     "id": "817588c37efe10fd",
@@ -179,8 +263,21 @@
       "card-board:CardBoard": false
     }
   },
-  "active": "a45d6071a6e247b1",
+  "active": "d4b765b96bedf809",
   "lastOpenFiles": [
+    "Project Planning/Graphite/Hardware/ESP-IDF Notes/Examples/HTTP server example/HTTP Request Handler.md",
+    "Project Planning/Graphite/Hardware/ESP-IDF Notes/Examples/HTTP server example/Datatypes/http_uri_t.md",
+    "Project Planning/Graphite/Hardware/ESP-IDF Notes/Examples/HTTP server example/Request Handlers.md",
+    "Project Planning/Graphite/Hardware/ESP-IDF Notes/Examples/HTTP server example/Datatypes",
+    "Project Planning/Graphite/Hardware/ESP-IDF Notes/Examples/HTTP server example/Server Configuration.md",
+    "Project Planning/Graphite/Hardware/ESP-IDF Notes/Examples/HTTP server example/Includes.md",
+    "Project Planning/Graphite/Hardware/ESP-IDF Notes/Examples/HTTP server example/Statically Defined Variables.md",
+    "Project Planning/Graphite/Hardware/ESP-IDF Notes/Examples/HTTP server example/HTTP Server Example.md",
+    "Project Planning/Graphite/Hardware/ESP-IDF Notes/Examples/bt_discovery/Device Struct.md",
+    "Untitled.canvas",
+    "Project Planning/Graphite/Hardware/ESP-IDF Notes/Examples/HTTP server example",
+    "Example",
+    "Project Planning/Graphite/Hardware/ESP-IDF Notes/http server",
     "Programming/Artificial Intelligence/Blind Search/Problem solving agents and their environments.md",
     "Programming/Artificial Intelligence/Blind Search/Problem solving agents and their environments~",
     "Programming/Artificial Intelligence/Blind Search/Problem solving agents and their environments",
@@ -191,12 +288,8 @@
     "Project Planning/Graphite/Software/High Level Design/HLD.md",
     "Project Planning/Graphite/Software/High Level Design",
     "Project Planning/Graphite/Software/Database Schema",
-    "Project Planning/Graphite/Task Delegation",
-    "Objectives/ Mon  13  Jan  2025 .md~",
     "Dates/CMPT 496.md",
     "Objectives/2025-01-13.md",
-    "Objectives/ Mon  13  Jan  2025 ",
-    "Objectives/ Mon  13  Jan  2025 ~",
     "Philosophy/Kierkegaard/A Thought Project/Forms.md",
     "Project Planning/Graphite/System Design/Meta Data.md",
     "Scribbles/Philosophy Scribble 303 Jan 13.md",
@@ -210,14 +303,6 @@
     "Dates/CMPT310.md",
     "Project Planning/Graphite/Primitives/IO Operations/Write Operations.md",
     "Project Planning/Graphite/Primitives/IO Operations/Read Operations.md",
-    "Project Planning/Graphite/Primitives/IO Operations/Format.md",
-    "Project Planning/Graphite/Primitives/IO Operations/Latency.md",
-    "Philosophy/Kierkegaard/Introduction/Analogy of the ladder.md",
-    "Words/Erudition.md",
-    "Philosophy/Kierkegaard/Introduction/January 9 Scribble.md",
-    "Philosophy/Kierkegaard/Introduction/Paradox of truth.md",
-    "Philosophy/Kierkegaard/Introduction/Milestones.md",
-    "Philosophy/Kierkegaard/Introduction/Objective vs. Subjective knowledge ..md",
     "Project Planning/Graphite/Hardware/ESP-IDF Notes/Bluetooth Low Energy/Generic Attribute Server Setup/Node Representation.canvas",
     "Programming/Algorithms/Final Outline.canvas",
     "Project Planning/Keeper/Flowchart.canvas",
