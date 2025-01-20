@@ -4,109 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "5319e8353094007c",
+        "id": "51e2501389795d83",
         "type": "tabs",
         "children": [
           {
-            "id": "bd87b91457e7fcd4",
+            "id": "e8fd9d8107e76349",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Project Planning/Graphite/Hardware/ESP-IDF Notes/Examples/HTTP server example/HTTP Server Example.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "HTTP Server Example"
+              "type": "full-calendar-view",
+              "state": {},
+              "icon": "calendar-glyph",
+              "title": "Calendar"
             }
           },
           {
-            "id": "02d0c4de05e75ac9",
+            "id": "8e7dc41592fbc17e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Project Planning/Graphite/Hardware/ESP-IDF Notes/Examples/HTTP server example/HTTP Request Handler.md",
+                "file": "2025-01-16 Phil 303.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "HTTP Request Handler"
-            }
-          },
-          {
-            "id": "f8add5e0c6fedc3b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Project Planning/Graphite/Hardware/ESP-IDF Notes/Examples/HTTP server example/HTTP Server Example.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "HTTP Server Example"
-            }
-          },
-          {
-            "id": "5c2b1b31a027e2ff",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Project Planning/Graphite/Hardware/ESP-IDF Notes/Examples/HTTP server example/Statically Defined Variables.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Statically Defined Variables"
-            }
-          },
-          {
-            "id": "652f25bcc8bd53b0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Project Planning/Graphite/Hardware/ESP-IDF Notes/Examples/HTTP server example/Request Handlers.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Request Handlers"
-            }
-          },
-          {
-            "id": "e03bb509b0208f10",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Project Planning/Graphite/Hardware/ESP-IDF Notes/Examples/HTTP server example/Request Handlers.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Request Handlers"
-            }
-          },
-          {
-            "id": "d4b765b96bedf809",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Project Planning/Graphite/Hardware/ESP-IDF Notes/Examples/HTTP server example/Datatypes/http_uri_t.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "http_uri_t"
+              "title": "2025-01-16 Phil 303"
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -162,7 +88,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 243.5
+    "width": 243.5,
+    "collapsed": true
   },
   "right": {
     "id": "817588c37efe10fd",
@@ -224,10 +151,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programming/Artificial Intelligence/Blind Search/Problem solving agents and their environments.md"
+                "file": "Scribbles/2025-01-14 Phil 303 Scribble.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Problem solving agents and their environments"
+              "title": "Outline of 2025-01-14 Phil 303 Scribble"
             }
           },
           {
@@ -259,25 +186,25 @@
       "obsidian-full-calendar:Open Full Calendar": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false,
-      "card-board:CardBoard": false
+      "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
-  "active": "d4b765b96bedf809",
+  "active": "8e7dc41592fbc17e",
   "lastOpenFiles": [
-    "Project Planning/Graphite/Hardware/ESP-IDF Notes/Examples/HTTP server example/HTTP Request Handler.md",
+    "Untitled.md",
+    "2025-01-16 Phil 303.md",
+    "Scribbles/2025-01-16 CMPT 355.md",
+    "Scribbles/2025-01-14 Phil 303 Scribble.md",
+    "Project Planning/Graphite/Software/Meta Data.md",
     "Project Planning/Graphite/Hardware/ESP-IDF Notes/Examples/HTTP server example/Datatypes/http_uri_t.md",
-    "Project Planning/Graphite/Hardware/ESP-IDF Notes/Examples/HTTP server example/Request Handlers.md",
-    "Project Planning/Graphite/Hardware/ESP-IDF Notes/Examples/HTTP server example/Datatypes",
-    "Project Planning/Graphite/Hardware/ESP-IDF Notes/Examples/HTTP server example/Server Configuration.md",
-    "Project Planning/Graphite/Hardware/ESP-IDF Notes/Examples/HTTP server example/Includes.md",
     "Project Planning/Graphite/Hardware/ESP-IDF Notes/Examples/HTTP server example/Statically Defined Variables.md",
+    "Project Planning/Graphite/Hardware/ESP-IDF Notes/Examples/HTTP server example/Server Configuration.md",
+    "Project Planning/Graphite/Hardware/ESP-IDF Notes/Examples/HTTP server example/Request Handlers.md",
+    "Project Planning/Graphite/Hardware/ESP-IDF Notes/Examples/HTTP server example/Includes.md",
     "Project Planning/Graphite/Hardware/ESP-IDF Notes/Examples/HTTP server example/HTTP Server Example.md",
-    "Project Planning/Graphite/Hardware/ESP-IDF Notes/Examples/bt_discovery/Device Struct.md",
-    "Untitled.canvas",
+    "Project Planning/Graphite/Hardware/ESP-IDF Notes/Examples/HTTP server example/HTTP Request Handler.md",
+    "Project Planning/Graphite/Hardware/ESP-IDF Notes/Examples/HTTP server example/Datatypes",
     "Project Planning/Graphite/Hardware/ESP-IDF Notes/Examples/HTTP server example",
-    "Example",
-    "Project Planning/Graphite/Hardware/ESP-IDF Notes/http server",
     "Programming/Artificial Intelligence/Blind Search/Problem solving agents and their environments.md",
     "Programming/Artificial Intelligence/Blind Search/Problem solving agents and their environments~",
     "Programming/Artificial Intelligence/Blind Search/Problem solving agents and their environments",
@@ -288,6 +215,8 @@
     "Project Planning/Graphite/Software/High Level Design/HLD.md",
     "Project Planning/Graphite/Software/High Level Design",
     "Project Planning/Graphite/Software/Database Schema",
+    "Project Planning/Graphite/Task Delegation",
+    "Objectives/ Mon  13  Jan  2025 .md~",
     "Dates/CMPT 496.md",
     "Objectives/2025-01-13.md",
     "Philosophy/Kierkegaard/A Thought Project/Forms.md",
@@ -299,10 +228,6 @@
     "Project Planning/Graphite/Errors/Error while cloning repository.md",
     "Project Planning/Graphite/Primitives/Primitives.canvas",
     "Dates/PHIL330.md",
-    "Dates/PHIL303.md",
-    "Dates/CMPT310.md",
-    "Project Planning/Graphite/Primitives/IO Operations/Write Operations.md",
-    "Project Planning/Graphite/Primitives/IO Operations/Read Operations.md",
     "Project Planning/Graphite/Hardware/ESP-IDF Notes/Bluetooth Low Energy/Generic Attribute Server Setup/Node Representation.canvas",
     "Programming/Algorithms/Final Outline.canvas",
     "Project Planning/Keeper/Flowchart.canvas",
