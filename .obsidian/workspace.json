@@ -58,9 +58,107 @@
               "icon": "lucide-file",
               "title": "Iterative deepening search"
             }
+          },
+          {
+            "id": "0a4dfce7a48aa6ba",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Bidirectional Search.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Bidirectional Search"
+            }
+          },
+          {
+            "id": "e8a2c9024e458e70",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Best-first search.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Best-first search"
+            }
+          },
+          {
+            "id": "eb6e356eda5419ae",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Greedy Best-First search.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Greedy Best-First search"
+            }
+          },
+          {
+            "id": "61f9c0b8e379b154",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Difference between Optimality and Completeness.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Difference between Optimality and Completeness"
+            }
+          },
+          {
+            "id": "c4ef5d5a8fb22228",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Hieuristic.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Hieuristic"
+            }
+          },
+          {
+            "id": "1ea63db6c7a4817a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "A*.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "A*"
+            }
+          },
+          {
+            "id": "91371f4f806ec40d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Manhattan Distance.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Manhattan Distance"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 10
       }
     ],
     "direction": "vertical"
@@ -217,8 +315,15 @@
       "card-board:CardBoard": false
     }
   },
-  "active": "e07c7fdcfbf36964",
+  "active": "91371f4f806ec40d",
   "lastOpenFiles": [
+    "A*.md",
+    "Manhattan Distance.md",
+    "Hieuristic.md",
+    "Difference between Optimality and Completeness.md",
+    "Greedy Best-First search.md",
+    "Best-first search.md",
+    "Bidirectional Search.md",
     "Depth-limited Search.md",
     "Iterative deepening search.md",
     "Variables to know.md",
@@ -248,13 +353,6 @@
     "Project Planning/Graphite/Task Delegation",
     "Objectives/ Mon  13  Jan  2025 .md~",
     "Dates/CMPT 496.md",
-    "Objectives/2025-01-13.md",
-    "Philosophy/Kierkegaard/A Thought Project/Forms.md",
-    "Project Planning/Graphite/System Design/Meta Data.md",
-    "Scribbles/Philosophy Scribble 303 Jan 13.md",
-    "Project Planning/Graphite/System Design/Non-Functional Requirements.md",
-    "Project Planning/Graphite/System Design/Functional Requirements.md",
-    "Project Planning/Graphite/System Design/Abstract.md",
     "Project Planning/Graphite/Primitives/Primitives.canvas",
     "Project Planning/Graphite/Hardware/ESP-IDF Notes/Bluetooth Low Energy/Generic Attribute Server Setup/Node Representation.canvas",
     "Programming/Algorithms/Final Outline.canvas",
