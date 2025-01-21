@@ -23,16 +23,44 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2025-01-16 Phil 303.md",
+                "file": "Scribbles/2025-01-16 Phil 303.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
               "title": "2025-01-16 Phil 303"
             }
+          },
+          {
+            "id": "5233b51bae84b46e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Variables to know.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Variables to know"
+            }
+          },
+          {
+            "id": "e07c7fdcfbf36964",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Iterative deepening search.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Iterative deepening search"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -88,8 +116,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 243.5,
-    "collapsed": true
+    "width": 243.5
   },
   "right": {
     "id": "817588c37efe10fd",
@@ -186,13 +213,17 @@
       "obsidian-full-calendar:Open Full Calendar": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
+      "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false,
+      "card-board:CardBoard": false
     }
   },
-  "active": "8e7dc41592fbc17e",
+  "active": "e07c7fdcfbf36964",
   "lastOpenFiles": [
-    "Untitled.md",
-    "2025-01-16 Phil 303.md",
+    "Depth-limited Search.md",
+    "Iterative deepening search.md",
+    "Variables to know.md",
+    "Programming/Artificial Intelligence/Blind Search/Problem solving agents and their environments.md",
+    "Scribbles/2025-01-16 Phil 303.md",
     "Scribbles/2025-01-16 CMPT 355.md",
     "Scribbles/2025-01-14 Phil 303 Scribble.md",
     "Project Planning/Graphite/Software/Meta Data.md",
@@ -205,7 +236,6 @@
     "Project Planning/Graphite/Hardware/ESP-IDF Notes/Examples/HTTP server example/HTTP Request Handler.md",
     "Project Planning/Graphite/Hardware/ESP-IDF Notes/Examples/HTTP server example/Datatypes",
     "Project Planning/Graphite/Hardware/ESP-IDF Notes/Examples/HTTP server example",
-    "Programming/Artificial Intelligence/Blind Search/Problem solving agents and their environments.md",
     "Programming/Artificial Intelligence/Blind Search/Problem solving agents and their environments~",
     "Programming/Artificial Intelligence/Blind Search/Problem solving agents and their environments",
     "Programming/Artificial Intelligence/Blind Search/Problem Solving Agents and their environments\n",
@@ -225,9 +255,7 @@
     "Project Planning/Graphite/System Design/Non-Functional Requirements.md",
     "Project Planning/Graphite/System Design/Functional Requirements.md",
     "Project Planning/Graphite/System Design/Abstract.md",
-    "Project Planning/Graphite/Errors/Error while cloning repository.md",
     "Project Planning/Graphite/Primitives/Primitives.canvas",
-    "Dates/PHIL330.md",
     "Project Planning/Graphite/Hardware/ESP-IDF Notes/Bluetooth Low Energy/Generic Attribute Server Setup/Node Representation.canvas",
     "Programming/Algorithms/Final Outline.canvas",
     "Project Planning/Keeper/Flowchart.canvas",
