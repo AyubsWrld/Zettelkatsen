@@ -1,0 +1,3 @@
+> "*The appearance of the god is the news of the day on the square, in the homes, in the city council, in the ruler’s palace, is the occasion of much foolish and idle talk, perhaps also the occasion of more serious reflections — but for the learner, the news of the day is not the occasion for anything else, not even for him to engage seriously in Socratic self-examination, no, it is the eternal, the beginning of eternity.*"
+
+- Eternal , Beginning of eternity . Paradoxical , no beggining to eternity . The eternity appearing in a point in time . Contradictory melding of the eternal and temporal 

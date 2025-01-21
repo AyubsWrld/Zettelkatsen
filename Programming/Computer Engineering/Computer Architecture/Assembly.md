@@ -39,6 +39,6 @@
 1) The store result phase writes to the designated destination . 
 2) One store result is completed, a new instruction cycle starts (with the fetch Phase) . 
 ## Changing the Sequence of Execution 
-We can change the the Pointer to the next instruction utilizing *jump* commands so that our programs are not strictly performed sequentially . *jump* <Address> 
+We can change the the Pointer to the next instruction utilizing *jump* commands so that our programs are not strictly performed sequentially . *jump* 
 
-#programming #computer-architecture 
+Tags :  #programming #computer-architecture 

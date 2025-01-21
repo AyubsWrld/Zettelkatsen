@@ -8,185 +8,105 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e8fd9d8107e76349",
-            "type": "leaf",
-            "state": {
-              "type": "full-calendar-view",
-              "state": {},
-              "icon": "calendar-glyph",
-              "title": "Calendar"
-            }
-          },
-          {
-            "id": "8e7dc41592fbc17e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Scribbles/2025-01-16 Phil 303.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2025-01-16 Phil 303"
-            }
-          },
-          {
-            "id": "5233b51bae84b46e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Variables to know.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Variables to know"
-            }
-          },
-          {
             "id": "e07c7fdcfbf36964",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Iterative deepening search.md",
+                "file": "Socrates being a mid-wife.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Iterative deepening search"
+              "title": "Socrates being a mid-wife"
             }
           },
           {
-            "id": "0a4dfce7a48aa6ba",
+            "id": "0206c10a01bbf354",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bidirectional Search.md",
+                "file": "Hypothesis A.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Bidirectional Search"
+              "title": "Hypothesis A"
             }
           },
           {
-            "id": "e8a2c9024e458e70",
+            "id": "e7afcdc9fe27e0fa",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Best-first search.md",
+                "file": "Hypothesis B.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Best-first search"
+              "title": "Hypothesis B"
             }
           },
           {
-            "id": "eb6e356eda5419ae",
+            "id": "c85975bcb03b402c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Greedy Best-First search.md",
+                "file": "Climacus Contribution.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Greedy Best-First search"
+              "title": "Climacus Contribution"
             }
           },
           {
-            "id": "61f9c0b8e379b154",
+            "id": "44d81169e5e275fe",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Difference between Optimality and Completeness.md",
+                "file": "Hypothesis B.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Difference between Optimality and Completeness"
+              "title": "Hypothesis B"
             }
           },
           {
-            "id": "c4ef5d5a8fb22228",
+            "id": "73e989066278f4e9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Hieuristic.md",
+                "file": "Is Faith an act of will ?.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Hieuristic"
+              "title": "Is Faith an act of will ?"
             }
           },
           {
-            "id": "1ea63db6c7a4817a",
+            "id": "7487f0ef9d860617",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "A*.md",
+                "file": "Problem With Serial Ports.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "A*"
-            }
-          },
-          {
-            "id": "91371f4f806ec40d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Manhattan Distance.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Manhattan Distance"
-            }
-          },
-          {
-            "id": "ff676fd89bb23737",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Mini Report.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Mini Report"
-            }
-          },
-          {
-            "id": "b5ace1df708adcab",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Paradoxes.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Paradoxes"
+              "title": "Problem With Serial Ports"
             }
           }
         ],
-        "currentTab": 12
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -343,10 +263,21 @@
       "card-board:CardBoard": false
     }
   },
-  "active": "b5ace1df708adcab",
+  "active": "7487f0ef9d860617",
   "lastOpenFiles": [
-    "Untitled.md",
+    "Programming/Computer Engineering/Computer Architecture/Assembly.md",
+    "Problem With Serial Ports.md",
+    "Is Faith an act of will ?.md",
+    "Hypothesis B.md",
+    "Hypothesis A.md",
+    "\"News of the day\".md",
+    "Climacus Contribution.md",
+    "Socrates being a mid-wife.md",
+    "Iterative deepening search.md",
+    "Conditioning for understanding.md",
+    "Recollection.md",
     "Paradoxes.md",
+    "The Situation Of The Contemporary Disciple",
     "Mini Report.md",
     "Manhattan Distance.md",
     "A*.md",
@@ -356,31 +287,20 @@
     "Best-first search.md",
     "Bidirectional Search.md",
     "Depth-limited Search.md",
-    "Iterative deepening search.md",
     "Variables to know.md",
     "Programming/Artificial Intelligence/Blind Search/Problem solving agents and their environments.md",
     "Scribbles/2025-01-16 Phil 303.md",
     "Scribbles/2025-01-16 CMPT 355.md",
     "Scribbles/2025-01-14 Phil 303 Scribble.md",
-    "Project Planning/Graphite/Software/Meta Data.md",
-    "Project Planning/Graphite/Hardware/ESP-IDF Notes/Examples/HTTP server example/Datatypes/http_uri_t.md",
-    "Project Planning/Graphite/Hardware/ESP-IDF Notes/Examples/HTTP server example/Statically Defined Variables.md",
-    "Project Planning/Graphite/Hardware/ESP-IDF Notes/Examples/HTTP server example/Server Configuration.md",
-    "Project Planning/Graphite/Hardware/ESP-IDF Notes/Examples/HTTP server example/Request Handlers.md",
-    "Project Planning/Graphite/Hardware/ESP-IDF Notes/Examples/HTTP server example/Includes.md",
-    "Project Planning/Graphite/Hardware/ESP-IDF Notes/Examples/HTTP server example/HTTP Server Example.md",
-    "Project Planning/Graphite/Hardware/ESP-IDF Notes/Examples/HTTP server example/HTTP Request Handler.md",
     "Project Planning/Graphite/Hardware/ESP-IDF Notes/Examples/HTTP server example/Datatypes",
     "Project Planning/Graphite/Hardware/ESP-IDF Notes/Examples/HTTP server example",
     "Programming/Artificial Intelligence/Blind Search/Problem solving agents and their environments~",
     "Programming/Artificial Intelligence/Blind Search/Problem solving agents and their environments",
     "Programming/Artificial Intelligence/Blind Search/Problem Solving Agents and their environments\n",
     "Programming/Artificial Intelligence/Blind Search",
-    "Project Planning/Graphite/Software/Database Schema/Metadata.md",
     "Project Planning/Graphite/Software/High Level Design",
     "Project Planning/Graphite/Software/Database Schema",
     "Project Planning/Graphite/Task Delegation",
-    "Objectives/ Mon  13  Jan  2025 .md~",
     "Project Planning/Graphite/Primitives/Primitives.canvas",
     "Project Planning/Graphite/Hardware/ESP-IDF Notes/Bluetooth Low Energy/Generic Attribute Server Setup/Node Representation.canvas",
     "Programming/Algorithms/Final Outline.canvas",
