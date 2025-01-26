@@ -4,20 +4,67 @@
     "type": "split",
     "children": [
       {
-        "id": "8bf098ca92a4a555",
+        "id": "72fc7a8f84aa0b59",
         "type": "tabs",
         "children": [
           {
-            "id": "48330591a2800122",
+            "id": "8cf7707ea067212c",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Programming/Artificial Intelligence/Blind Search/Report.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Report"
+            }
+          },
+          {
+            "id": "5ec33c871848299a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Programming/Languages/C/Statically Allocated Arrays.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Statically Allocated Arrays"
+            }
+          },
+          {
+            "id": "d64eee6e300a79aa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Programming/Languages/C/Header Files.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Header Files"
+            }
+          },
+          {
+            "id": "24ee35eb27e4fc99",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Exam 1.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Exam 1"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -48,7 +95,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Thrasy",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -170,48 +217,47 @@
       "obsidian-full-calendar:Open Full Calendar": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false,
-      "card-board:CardBoard": false
+      "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
-  "active": "bdf7cad2e300c825",
+  "active": "24ee35eb27e4fc99",
   "lastOpenFiles": [
-    "Thrasymachus.md",
-    "Exam 1.md",
-    "Programming/Languages/C/Header Files.md",
     "Exam.md",
-    "Scribbles/Philosophy Scribble 303 Jan 13.md",
+    "Exam 1.md",
+    "Programming/Languages/C/Callback Functions as Struct Attributes.md",
+    "Programming/Languages/C/Callback Arrays.md",
+    "Programming/Languages/C/Header Files.md",
+    "Untitled.md",
+    "Thrasymachus.md",
     "Scribbles/Scribbles 303.md",
-    "Philosophy/Kierkegaard/A Thought Project/Forms.md",
     "Programming/Languages/C/Statically Allocated Arrays.md",
-    "Single State Problem.md",
-    "Report.md",
-    "new.md~",
-    "Programming/Artificial Intelligence/Blind Search/new.md",
-    "Programming/Artificial Intelligence/Blind Search/Variables to know.md",
-    "Programming/Artificial Intelligence/Blind Search/Single State Problem.md",
     "Programming/Artificial Intelligence/Blind Search/Report.md",
+    "Programming/Artificial Intelligence/Blind Search/A.md",
+    "Programming/Artificial Intelligence/Blind Search/new.md",
+    "Philosophy/Kierkegaard/Chapter 4",
+    "4913",
+    "new.md~",
+    "Programming/Artificial Intelligence/Blind Search/Single State Problem.md",
+    "Programming/Artificial Intelligence/Blind Search/Bidirectional Search.md",
+    "Philosophy/Kierkegaard/Chapter 4/Paradoxes.md",
     "Programming/Artificial Intelligence/Blind Search/Problem With Serial Ports.md",
-    "Programming/Artificial Intelligence/Blind Search/Mini Report.md",
-    "Programming/Artificial Intelligence/Blind Search/Manhattan Distance.md",
-    "Programming/Artificial Intelligence/Blind Search/Iterative deepening search.md",
+    "Programming/Computer Engineering/Computer Architecture/Assembly.md",
+    "Is Faith an act of will ?.md",
     "Programming/Artificial Intelligence/Blind Search/Hypothesis B.md",
     "Programming/Artificial Intelligence/Blind Search/Hypothesis A.md",
-    "Programming/Artificial Intelligence/Blind Search/Hieuristic.md",
-    "Programming/Artificial Intelligence/Blind Search/Greedy Best-First search.md",
-    "Programming/Artificial Intelligence/Blind Search/Difference between Optimality and Completeness.md",
-    "Programming/Artificial Intelligence/Blind Search/Depth-limited Search.md",
-    "Programming/Artificial Intelligence/Blind Search/Bidirectional Search.md",
-    "Programming/Artificial Intelligence/Blind Search/Best-first search.md",
-    "Philosophy/Kierkegaard/Chapter 4",
-    "Philosophy/Kierkegaard/The Situation Of The Contemporary Disciple",
+    "\"News of the day\".md",
+    "Philosophy/Kierkegaard/Chapter 4/Climacus Contribution.md",
+    "Philosophy/Kierkegaard/Introduction/Socrates being a mid-wife.md",
+    "Programming/Artificial Intelligence/Blind Search/Iterative deepening search.md",
+    "Philosophy/Kierkegaard/Introduction/Conditioning for understanding.md",
+    "Philosophy/Kierkegaard/Introduction/Recollection.md",
+    "The Situation Of The Contemporary Disciple",
     "Project Planning/Graphite/Hardware/ESP-IDF Notes/Examples/HTTP server example/Datatypes",
     "Project Planning/Graphite/Hardware/ESP-IDF Notes/Examples/HTTP server example",
     "Programming/Artificial Intelligence/Blind Search/Problem solving agents and their environments~",
     "Programming/Artificial Intelligence/Blind Search/Problem solving agents and their environments",
     "Programming/Artificial Intelligence/Blind Search/Problem Solving Agents and their environments\n",
     "Programming/Artificial Intelligence/Blind Search",
-    "Project Planning/Graphite/Software/High Level Design",
     "Project Planning/Graphite/Primitives/Primitives.canvas",
     "Project Planning/Graphite/Hardware/ESP-IDF Notes/Bluetooth Low Energy/Generic Attribute Server Setup/Node Representation.canvas",
     "Programming/Algorithms/Final Outline.canvas",
