@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Exam 1.md",
+                "file": "Objectives/2025-01-26.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Exam 1"
+              "title": "2025-01-26"
             }
           }
         ],
@@ -217,18 +217,21 @@
       "obsidian-full-calendar:Open Full Calendar": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
+      "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false,
+      "card-board:CardBoard": false
     }
   },
   "active": "24ee35eb27e4fc99",
   "lastOpenFiles": [
-    "Exam.md",
-    "Exam 1.md",
+    "Objectives/2025-01-13.md",
+    "Objectives/2025-01-26.md",
+    "Philosophy/Exam.md",
+    "Untitled.md",
+    "Philosophy/Exam 1.md",
     "Programming/Languages/C/Callback Functions as Struct Attributes.md",
     "Programming/Languages/C/Callback Arrays.md",
     "Programming/Languages/C/Header Files.md",
-    "Untitled.md",
-    "Thrasymachus.md",
+    "Philosophy/Thrasymachus.md",
     "Scribbles/Scribbles 303.md",
     "Programming/Languages/C/Statically Allocated Arrays.md",
     "Programming/Artificial Intelligence/Blind Search/Report.md",
@@ -249,8 +252,6 @@
     "Philosophy/Kierkegaard/Chapter 4/Climacus Contribution.md",
     "Philosophy/Kierkegaard/Introduction/Socrates being a mid-wife.md",
     "Programming/Artificial Intelligence/Blind Search/Iterative deepening search.md",
-    "Philosophy/Kierkegaard/Introduction/Conditioning for understanding.md",
-    "Philosophy/Kierkegaard/Introduction/Recollection.md",
     "The Situation Of The Contemporary Disciple",
     "Project Planning/Graphite/Hardware/ESP-IDF Notes/Examples/HTTP server example/Datatypes",
     "Project Planning/Graphite/Hardware/ESP-IDF Notes/Examples/HTTP server example",
