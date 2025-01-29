@@ -1,0 +1,265 @@
+{
+  "main": {
+    "id": "49a158864e877ea9",
+    "type": "split",
+    "children": [
+      {
+        "id": "51e2501389795d83",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1b3016722ea4920e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Programming/Languages/C/Header Files.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Header Files"
+            }
+          },
+          {
+            "id": "f35c7debdd8103bd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Exam 1.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Exam 1"
+            }
+          },
+          {
+            "id": "d247a9f28d3dee70",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Philosophy/Kierkegaard/A Thought Project/Forms.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Forms"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a12902f2268e2492",
+    "type": "split",
+    "children": [
+      {
+        "id": "6b35dedd5c907a59",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bdf7cad2e300c825",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "f0a85ee0ad8c4737",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "90f9a4d1c7747ad2",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 243.5
+  },
+  "right": {
+    "id": "817588c37efe10fd",
+    "type": "split",
+    "children": [
+      {
+        "id": "fa61d1e56665370e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cc736cea7f036f34",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Project Planning/Keeper/Abstract.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Abstract"
+            }
+          },
+          {
+            "id": "76201799a44bc5c2",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Project Planning/Keeper/Abstract.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Abstract"
+            }
+          },
+          {
+            "id": "14f478b10be60c19",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "fb5c4ef6ebfed8ee",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Scribbles/2025-01-14 Phil 303 Scribble.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 2025-01-14 Phil 303 Scribble"
+            }
+          },
+          {
+            "id": "32f6e7040af8a94a",
+            "type": "leaf",
+            "state": {
+              "type": "side-panel-control-view",
+              "state": {},
+              "icon": "viewIcon",
+              "title": "Markdown-Autocomplete"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-full-calendar:Open Full Calendar": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false,
+      "card-board:CardBoard": false
+    }
+  },
+  "active": "bdf7cad2e300c825",
+  "lastOpenFiles": [
+    "Exam.md",
+    "Scribbles 303.md",
+    "Exam 1.md",
+    "Programming/Languages/C/Header Files.md",
+    "Programming/Languages/C/Statically Allocated Arrays.md",
+    "Single State Problem.md",
+    "Report.md",
+    "new.md~",
+    "Programming/Artificial Intelligence/Blind Search/new.md",
+    "Programming/Artificial Intelligence/Blind Search/Variables to know.md",
+    "Programming/Artificial Intelligence/Blind Search/Single State Problem.md",
+    "Programming/Artificial Intelligence/Blind Search/Report.md",
+    "Programming/Artificial Intelligence/Blind Search/Problem With Serial Ports.md",
+    "Programming/Artificial Intelligence/Blind Search/Mini Report.md",
+    "Programming/Artificial Intelligence/Blind Search/Manhattan Distance.md",
+    "Programming/Artificial Intelligence/Blind Search/Iterative deepening search.md",
+    "Programming/Artificial Intelligence/Blind Search/Hypothesis B.md",
+    "Programming/Artificial Intelligence/Blind Search/Hypothesis A.md",
+    "Programming/Artificial Intelligence/Blind Search/Hieuristic.md",
+    "Programming/Artificial Intelligence/Blind Search/Greedy Best-First search.md",
+    "Programming/Artificial Intelligence/Blind Search/Difference between Optimality and Completeness.md",
+    "Programming/Artificial Intelligence/Blind Search/Depth-limited Search.md",
+    "Programming/Artificial Intelligence/Blind Search/Bidirectional Search.md",
+    "Programming/Artificial Intelligence/Blind Search/Best-first search.md",
+    "Programming/Artificial Intelligence/Blind Search/A.md",
+    "Philosophy/Kierkegaard/Introduction/Socrates being a mid-wife.md",
+    "Philosophy/Kierkegaard/Introduction/Recollection.md",
+    "Philosophy/Kierkegaard/Chapter 4",
+    "The Situation Of The Contemporary Disciple",
+    "Project Planning/Graphite/Hardware/ESP-IDF Notes/Examples/HTTP server example/Datatypes",
+    "Project Planning/Graphite/Hardware/ESP-IDF Notes/Examples/HTTP server example",
+    "Programming/Artificial Intelligence/Blind Search/Problem solving agents and their environments~",
+    "Programming/Artificial Intelligence/Blind Search/Problem solving agents and their environments",
+    "Programming/Artificial Intelligence/Blind Search/Problem Solving Agents and their environments\n",
+    "Programming/Artificial Intelligence/Blind Search",
+    "Project Planning/Graphite/Software/High Level Design",
+    "Project Planning/Graphite/Primitives/Primitives.canvas",
+    "Project Planning/Graphite/Hardware/ESP-IDF Notes/Bluetooth Low Energy/Generic Attribute Server Setup/Node Representation.canvas",
+    "Programming/Algorithms/Final Outline.canvas",
+    "Project Planning/Keeper/Flowchart.canvas",
+    "Math/Linear Algebra/Images/Pasted image 20241208221515.png",
+    "Math/Linear Algebra/Images/Pasted image 20241208214343.png",
+    "Math/Linear Algebra/Images/Pasted image 20241208214038.png",
+    "Math/Linear Algebra/Images/Pasted image 20241208213326.png",
+    "Math/Linear Algebra/Images/Pasted image 20241208213241.png",
+    "Programming/Algorithms/Dynamic Programming/Outline.canvas",
+    "Math/Linear Algebra/Chapter 5 - Eigenvalues and Eigenvectors/5.5 - Complex Eigenvalues/Image one.png",
+    "Project Planning/Keeper/System Design/Flow.canvas",
+    "Pasted image 20241027180249.png",
+    "Project Planning/Keeper/Miscellanous/Keepr Outline.canvas",
+    "Images/Pasted image 20241027175947.png",
+    "Images/Pasted image 20241027175702.png"
+  ]
+}
