@@ -1,0 +1,7 @@
+{
+	"nodes":[
+		{"id":"0e7b723977dde37f","x":-304,"y":-230,"width":184,"height":60,"type":"text","text":"Wi-Fi AP Mode"},
+		{"id":"62b6c8c39de70849","type":"text","text":"Wi-Fi station Mode","x":20,"y":-230,"width":220,"height":60}
+	],
+	"edges":[]
+}
