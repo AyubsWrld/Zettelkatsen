@@ -12,17 +12,17 @@ function SIMPLE_REFLEX_VACUUM_AGENT(percept)
  * STATE : Current State of the room the agent is currently in ( dirty / clean ) 
  * Potential Actions : Suck dirt , Stay idle , Move (CW , CCW ). 
 */   
-	if percept[current_room].isdirty then
+	if percept[current_room].isDirty then
 		SD 
 		return CW// Direction is arbitrary 
+	// Otherwise just move clockwise 
 	return CW		
-	    
 ```
 
 **Why the problem is trivial and further explanation** : Since the performance measure is based solely on the number of clean rooms at the end of 11 actions , we can begin at any arbitrary room and exhaustively go through every room and clean them . Since the worst case cost *( every room including the starting room being dirty )*  is 11 actions then this simple snippet of code will be considered rational when examined utilizing the performance measure  . 
 
 **b) The reason why this agent is rational because:**
-- It prioritizes cleaning dirty rooms immediately when encountered
+- It cleans dirty rooms immediately when encountered
 - Since the performance measure is solely contingent on the number of rooms  after 11 actions  , we only concern ourselves with moving and cleaning at any chance we get as in the worst case scenario ( 11 actions ) all rooms will be clean regardless of whether we chose to rotate clockwise or counter clockwise . 
 - It continues moving when no immediate dirty rooms are found, ensuring complete coverage
 
@@ -38,7 +38,7 @@ function SIMPLE_REFLEX_INITIAL_MOMENT_AGENT(percept)
  * STATE : Current State of the room the agent is currently in ( dirty / clean ) 
  * Potential Actions : Suck dirt , Stay idle , Move (CW , CCW ). 
 */   
-	if percept[current_room].isdirty then
+	if percept[current_room].isDirty then
         return SD
     
     // If current room is clean, look at immediate neighbors
@@ -123,15 +123,14 @@ CLASS SimpleReflexVacuumAgent:
         
         if nextMove = "right" AND currentPosition[1] < 1 then 
             currentPosition[1] = currentPosition[1] + 1
-        ELSE IF nextMove = "left" AND currentPosition[1] > 0 THEN
+        else if nextMove = "left" AND currentPosition[1] > 0 then  
             currentPosition[1] = currentPosition[1] - 1
-        ELSE IF nextMove = "down" AND currentPosition[0] < 1 THEN
+        else if nextMove = "down" AND currentPosition[0] < 1 then  
             currentPosition[0] = currentPosition[0] + 1
-        ELSE IF nextMove = "up" AND currentPosition[0] > 0 THEN
+        else if nextMove = "up" AND currentPosition[0] > 0 then  
             currentPosition[0] = currentPosition[0] - 1
-        END IF
-        
-        RETURN action
+            
+        return action
 
     function IsValidMove(move):
         IF move = "right" THEN

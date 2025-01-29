@@ -35,8 +35,7 @@
               "title": "Resource Allocation"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -92,7 +91,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 243.5
+    "width": 243.5,
+    "collapsed": true
   },
   "right": {
     "id": "817588c37efe10fd",
@@ -193,16 +193,18 @@
       "card-board:CardBoard": false
     }
   },
-  "active": "3c16141e2f45cec7",
+  "active": "7e4906ce375c9c30",
   "lastOpenFiles": [
-    "Project Planning/Graphite/File Handling/JPEG Handling/Power Management.md",
     "Project Planning/Graphite/File Handling/JPEG Handling/Resource Allocation.md",
+    "Untitled.canvas",
+    "355 Lab Scribble.md",
+    "Excalidraw/Drawing 2025-01-29 11.13.02.excalidraw.md",
+    "Project Planning/Graphite/File Handling/JPEG Handling/Power Management.md",
     "Project Planning/Graphite/File Handling/JPEG Handling/Pixel Storage Layout.md",
     "Project Planning/Graphite/File Handling/JPEG Handling/Performance Overview.md",
     "Project Planning/Graphite/File Handling/JPEG Handling/KConfig Options.md",
     "Project Planning/Graphite/File Handling/JPEG Handling/JPEG Encoder Engine.md",
     "Project Planning/Graphite/File Handling/JPEG Handling/JPEG Decoder Engine.md",
-    "355 Lab Scribble.md",
     "PHIL 330 Scribble.md",
     "Programming/Artificial Intelligence/Blind Search/A.md",
     "Scribbles/Assignment 1.md",
@@ -224,8 +226,6 @@
     "Excalidraw",
     "Project Planning/Graphite/Progressive Video Streaming.md",
     "Project Planning/Graphite/Timeline/Week of January 19/Tasks.md",
-    "Objectives/2025-01-28.md",
-    "Objectives/2025-01-13.md",
     "Philosophy/Kierkegaard/Chapter 4",
     "4913",
     "new.md~",
