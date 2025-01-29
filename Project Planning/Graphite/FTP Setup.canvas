@@ -1,0 +1,15 @@
+{
+	"nodes":[
+		{"id":"20d2b8e7eac581cf","x":-460,"y":-200,"width":141,"height":60,"color":"3","type":"text","text":"User"},
+		{"id":"4b993bc4b87d177c","type":"text","text":"File write","x":-80,"y":-340,"width":141,"height":60,"color":"3"},
+		{"id":"3b25bfbe29fbcdab","x":-90,"y":-80,"width":151,"height":60,"color":"3","type":"text","text":"File read"},
+		{"id":"ffb754b04831d4e7","x":291,"y":-491,"width":149,"height":60,"color":"3","type":"text","text":"FTP Socket"},
+		{"id":"75b045017ff6396e","x":277,"y":0,"width":163,"height":60,"color":"3","type":"text","text":"ESP32"}
+	],
+	"edges":[
+		{"id":"2f756d9556b162e2","fromNode":"20d2b8e7eac581cf","fromSide":"right","toNode":"4b993bc4b87d177c","toSide":"left"},
+		{"id":"e28775dedbc48982","fromNode":"20d2b8e7eac581cf","fromSide":"right","toNode":"3b25bfbe29fbcdab","toSide":"left"},
+		{"id":"961565fb383950c9","fromNode":"4b993bc4b87d177c","fromSide":"right","toNode":"ffb754b04831d4e7","toSide":"left"},
+		{"id":"258922fa5b00bdab","fromNode":"3b25bfbe29fbcdab","fromSide":"right","toNode":"75b045017ff6396e","toSide":"left"}
+	]
+}

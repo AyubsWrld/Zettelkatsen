@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Though Project Summary.md",
+                "file": "Scribbles/Scribbles 303.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Though Project Summary"
+              "title": "Scribbles 303"
             }
           }
         ],
@@ -134,7 +134,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 243.5
+    "width": 200
   },
   "right": {
     "id": "817588c37efe10fd",
@@ -237,8 +237,16 @@
   },
   "active": "15ea69612cd6b286",
   "lastOpenFiles": [
+    "Scribbles/2025-01-16 CMPT 355.md",
+    "Scribbles/2025-01-16 Phil 303.md",
+    "Scribbles/Philosophy Scribble 303 Jan 13.md",
+    "Scribbles/2025-01-14 Phil 303 Scribble.md",
+    "Project Planning/Graphite/FTP Setup.canvas",
+    "Project Planning/Graphite/Wi-Fi setup.canvas",
+    "Untitled.md",
+    "Philosophy/Kierkegaard/Though Project Summary.md",
+    "Project Planning/Graphite/File Transfer Protocol",
     "Philosophy/Kierkegaard/A Thought Project/Forms.md",
-    "Though Project Summary.md",
     "Objectives/2025-01-27.md",
     "Objectives/2025-01-26.md",
     "Objectives/2025-01-13.md",
@@ -261,18 +269,12 @@
     "Philosophy/Kierkegaard/Chapter 4/Paradoxes.md",
     "Programming/Artificial Intelligence/Blind Search/Problem With Serial Ports.md",
     "Programming/Computer Engineering/Computer Architecture/Assembly.md",
-    "Is Faith an act of will ?.md",
-    "Programming/Artificial Intelligence/Blind Search/Hypothesis B.md",
-    "Programming/Artificial Intelligence/Blind Search/Hypothesis A.md",
-    "\"News of the day\".md",
-    "Philosophy/Kierkegaard/Chapter 4/Climacus Contribution.md",
     "The Situation Of The Contemporary Disciple",
     "Project Planning/Graphite/Hardware/ESP-IDF Notes/Examples/HTTP server example/Datatypes",
     "Project Planning/Graphite/Hardware/ESP-IDF Notes/Examples/HTTP server example",
     "Programming/Artificial Intelligence/Blind Search/Problem solving agents and their environments~",
     "Programming/Artificial Intelligence/Blind Search/Problem solving agents and their environments",
     "Programming/Artificial Intelligence/Blind Search/Problem Solving Agents and their environments\n",
-    "Programming/Artificial Intelligence/Blind Search",
     "Project Planning/Graphite/Primitives/Primitives.canvas",
     "Project Planning/Graphite/Hardware/ESP-IDF Notes/Bluetooth Low Energy/Generic Attribute Server Setup/Node Representation.canvas",
     "Programming/Algorithms/Final Outline.canvas",
