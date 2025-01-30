@@ -8,10 +8,11 @@
 
 ```c
 function SIMPLE_REFLEX_VACUUM_AGENT(percept) 
-/* INPUT : ( percepts ) the current room the agent is in and the status of the    * rooms . 
- * STATE : Current State of the room the agent is currently in ( dirty / clean ) 
- * Potential Actions : Suck dirt , Stay idle , Move (CW , CCW ). 
-*/   
+/* INPUT: percept contains:
+   - current_room: which room agent is in (0-5)
+   - rooms[]: array of room states ( I assumed they were class objects ) (DIRTY/CLEAN) for all 6 rooms
+   OUTPUT: action to take (SD, CW, CCW, or SI)
+*/
 	if percept[current_room].isDirty then
 		SD 
 		return CW// Direction is arbitrary 
@@ -26,42 +27,58 @@ function SIMPLE_REFLEX_VACUUM_AGENT(percept)
 - Since the performance measure is solely contingent on the number of rooms  after 11 actions  , we only concern ourselves with moving and cleaning at any chance we get as in the worst case scenario ( 11 actions ) all rooms will be clean regardless of whether we chose to rotate clockwise or counter clockwise . 
 - It continues moving when no immediate dirty rooms are found, ensuring complete coverage
 
-**c) How would the answer change (design and explanation) if the performance measure was applied from the initial moment?**  When the performance measure is applied at the initial moment the direction no longer is arbitrary.  We must now tailor the design of our agent so that we minimize the sum of the current performance measures over the course of 11 actions . We can represent this relation between steps taken and the performance measure as a summation . 
+**c) How would the answer change (design and explanation) if the performance measure was applied from the initial moment?**  When the performance measure is applied at the initial moment the direction no longer is arbitrary.  We must now tailor the design of our agent so that we  maximize the sum of the current performance measures over the course of 11 actions . We can represent this relation between steps taken and the performance measure as a summation . 
 
 $$\sum_{t=0}^{11} F(t)$$
 
 where $F(t)$ represents the number of clean rooms at time step $t$. For a 6-room environment, $0 \leq F(t) \leq 6$ at any time $t$. Our new algorithm is can be implemented as follows ...
 
 ```c
-function SIMPLE_REFLEX_INITIAL_MOMENT_AGENT(percept) 
-/* INPUT : ( percepts ) the current room the agent is in and the status of the    * rooms . 
- * STATE : Current State of the room the agent is currently in ( dirty / clean ) 
- * Potential Actions : Suck dirt , Stay idle , Move (CW , CCW ). 
-*/   
-	if percept[current_room].isDirty then
+function SIMPLE_REFLEX_AGENT(percept)
+/* INPUT: percept contains:
+   - current_room: which room agent is in (0-5)
+   - rooms[]: array of room states ( I assumemd they were class objects ) (DIRTY/CLEAN) for all 6 rooms
+   OUTPUT: action to take (SD, CW, CCW, or SI)
+*/
+    // If current room is dirty, clean it
+    if rooms[current_room].isDirty then 
         return SD
-    
-    // If current room is clean, look at immediate neighbors
-    next_CW = (current_room_number + 1) MOD 6
-    next_CCW = (current_room_number - 1 + 6) MOD 6
-    
-    // Move to dirty neighbor if one exists
-	if percept[next_CW].isDirty then
+    // Check clockwise room for dirt
+    clockwise_room = (current_room + 1) % 6
+    if rooms[clockwise_room].isDirty then 
         return CW
-    IF percept[next_CCW].isDirty then  
-        return CCW
+    // Check counterclockwise room for dirt
     
-    return SI  // Stay idle if current and neighboring rooms are clean
+    counterclockwise_room = (current_room - 1 + 6) % 6
+    if rooms[counterclockwise_room].DIRTY then 
+        return CCW
+        
+    // Find any dirty room and choose shortest direction
+    for offset = 2 to 3:
+        // Check clockwise
+        clockwise_check = (current_room + offset) % 6
+        if rooms[clockwise_check].DIRTY then  
+            return CW
+            
+        // Check counterclockwise
+        counterclockwise_check = (current_room - offset + 6) % 6
+        if rooms[counterclockwise_check].isDirty then  
+            return CCW
+    // If no dirty rooms found
+    return SI    
 ```
 
-**d) With  the possibility of incurring penalties :**
+**d) With the possibility of incurring penalties :**
 
 ```c
 function PENALTY_AWARE_REFLEX_AGENT(percept) 
-/* INPUT : ( percepts ) the current room the agent is in and the status of the    * rooms . 
- * STATE : Current State of the room the agent is currently in ( dirty / clean ) 
- * Potential Actions : Suck dirt , Stay idle , Move (CW , CCW ). 
-*/   
+/* INPUT: percept contains:
+   - current_room: which room agent is in (0-5)
+   - rooms[]: array of room states ( I assumemd they were class objects ) (DIRTY/CLEAN) for all 6 rooms
+   OUTPUT: action to take (SD, CW, CCW, or SI)
+*/
+	// Helper function to derive the dirty rooms using the percept 
+	
     dirty_neighbors = CountDirtyNeighbors(percept)
     
     if percept[current_room_number].isDirty then  
@@ -90,71 +107,52 @@ function PARTIAL_OBSERVABLE_REFLEX_AGENT(percept)
  * STATE : Current State of the room the agent is currently in ( dirty / clean ) 
  * Potential Actions : Suck dirt , Stay idle , Move (CW , CCW ). 
 */   
-    if percept[current_room_status].isDirty THEN
-        RETURN SD
+    if percept[current_room_status].isDirty then 
+        return SD
     
     // Simple clockwise exploration since we can't see other rooms
-    RETURN CW  // Always move clockwise when in clean room
+    return CW  // Always move clockwise when in clean room
 ```
 
-Motivation:
-Cannot optimize movement direction since neighbouring rooms are not visible . The agent uses consistent clockwise movements to ensure eventual complete coverage of all the rooms . The reason why this strategy is rational because the agent immediately cleans dirty rooms when found , systematically moves to the next room to pattern prevent getting stuck and will eventually visit all rooms in the circular environment. Since we are constrained by agent's limited knowledge we cannot make a more informed decision of how to proceed . On the bright side the reduction in sensor capability simplifies our agent's decision-making process .
+ This constraint causes the problem to degenerate to the first problem . Since we cannot optimize movement direction since neighboring rooms are not visible . The agent uses consistent clockwise movements to ensure eventual complete coverage of all the rooms . The reason why this strategy is rational because the agent immediately cleans dirty rooms when found , systematically moves to the next room to pattern prevent getting stuck and will eventually visit all rooms in the circular environment. Since we are constrained by agent's limited knowledge we cannot make a more informed decision of how to proceed . On the bright side the reduction in sensor capability simplifies our agent's decision-making process .
 
 # Exercise 2 
 
 ### **a) Rational Agent Design** 
 
-I've decided to implement the agent within the pseudocode utilizing an agent object . 
-
+Since the agent is has no percepts and we wish to design a simple reflex agent , the best course of action would be randomizing its actions and letting the performance measure eventually represent some form of *Normal Distribution* . 
 #### Pseudocode 
 
 ```c
-CLASS SimpleReflexVacuumAgent:
-    function Initialize():
-        currentPosition = [0,0]  
-        movementPattern = ["right", "down", "left", "up"]
-        currentMoveIndex = 0
-
-    function GetAction():
-        action = "SD"  
+function RATIONAL_VACUUM_AGENT( void )
+    // First decide whether to clean or move
+    cleaning_decision = RANDOM(1, 2)  // Generates either 1 or 2
+    
+    if cleaning_decision = 1 then  
+        return SD  // Suck Dirt
         
-        nextMove = movementPattern[currentMoveIndex]
-        currentMoveIndex = (currentMoveIndex + 1) MOD 4
-        
-        if nextMove = "right" AND currentPosition[1] < 1 then 
-            currentPosition[1] = currentPosition[1] + 1
-        else if nextMove = "left" AND currentPosition[1] > 0 then  
-            currentPosition[1] = currentPosition[1] - 1
-        else if nextMove = "down" AND currentPosition[0] < 1 then  
-            currentPosition[0] = currentPosition[0] + 1
-        else if nextMove = "up" AND currentPosition[0] > 0 then  
-            currentPosition[0] = currentPosition[0] - 1
-            
-        return action
-
-    function IsValidMove(move):
-        IF move = "right" THEN
-            RETURN currentPosition[1] < 1
-        ELSE IF move = "left" THEN
-            RETURN currentPosition[1] > 0
-        ELSE IF move = "down" THEN
-            RETURN currentPosition[0] < 1
-        ELSE IF move = "up" THEN
-            RETURN currentPosition[0] > 0
-        END IF
-        RETURN FALSE
+    //We then choose where to move , since our movements are not penalized , it is never useful to stay idle ( SI ) 
+    
+	movement_decision = RANDOM(1, 4)
+	if movement_decision = 1 then 
+		return "right"
+	else if movement_decision = 2 then 
+		return "left"
+	else if movement_decision = 3 then 
+		return "up"
+	else movement_decision = 4 then 
+		return "down "
+// Helper function  | generates random number between min and max ( this calculates inclusively )
+function RANDOM(min, max)
+    return floor(RANDOM() * (max - min + 1)) + min
 ```
 
-#### Function Signature Explanations 
+### **b) Explain why the agent is rational ?** 
+Since our agent lacks any form percept and memory our best bet to maximize the agents performance would be to randomly go through our possible actions and hope for the performance measure to resemble a normal distribution if the number of times the agent has acted is large enough . 
 
-```c
-void Initialize() :
-```
 
-Utilized to initialize the agent , since our starting room is arbitrary , I've decided to place the agent in the top left room [0,0] . As per the specifications , the agent is allowed four valid moves : left , right , up , down . Also I've initialized a member variable to represent the current move index . 
+### **c) Then make it a rational model-based agent?** 
+Since our agent has **no idea where it is** due to the lack of any percept , it must operate under the assumption that **any action could be happening anywhere**. the best strategy is the one purposed in *part b* of this exercise if we assume that our agent is truly sensor less 
 
-```c
-action GetAction():
-```
-
-This function utilizes the current position to derive the where the agent should travel next . It also increments the CurrentMoveIndex  and mods it so that it remains within logical bounds of what can be considered a valid move . 
+### **d) Then make it a rational model-based agent?** 
+As previously mentioned our agent has **no idea where it is**, it must operate under the assumption that **any action could be happening anywhere**. 
