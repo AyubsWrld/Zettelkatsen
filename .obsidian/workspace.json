@@ -22,6 +22,76 @@
             }
           },
           {
+            "id": "ab59e8a87a6450d5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Philosophy/Kierkegaard/Chapter I.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Chapter I"
+            }
+          },
+          {
+            "id": "82d136d4541f979a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Philosophy/Kierkegaard/Chapter ll.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Chapter ll"
+            }
+          },
+          {
+            "id": "747831bf324e0aae",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Philosophy/Kierkegaard/Chapter lll.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Chapter lll"
+            }
+          },
+          {
+            "id": "ae1b9556734cc528",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Philosophy/Kierkegaard/Chapter lV.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Chapter lV"
+            }
+          },
+          {
+            "id": "0f4409eeae3e32c1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Philosophy/Kierkegaard/Chapter I.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Chapter I"
+            }
+          },
+          {
             "id": "3c16141e2f45cec7",
             "type": "leaf",
             "state": {
@@ -91,8 +161,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 243.5,
-    "collapsed": true
+    "width": 243.5
   },
   "right": {
     "id": "817588c37efe10fd",
@@ -189,14 +258,26 @@
       "obsidian-full-calendar:Open Full Calendar": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
+      "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false,
+      "card-board:CardBoard": false
     }
   },
   "active": "7e4906ce375c9c30",
   "lastOpenFiles": [
-    "Project Planning/Graphite/File Handling/JPEG Handling/Resource Allocation.md",
+    "Philosophy/Kierkegaard/Chapter I.md",
+    "Philosophy/Kierkegaard/Chapter V.md",
+    "Philosophy/Kierkegaard/Chapter lV.md",
+    "Philosophy/Kierkegaard/Chapter lll.md",
+    "Philosophy/Kierkegaard/Chapter ll.md",
+    "Philosophy/Kierkegaard/Introduction/Analogy of the ladder.md",
+    "Philosophy/Kierkegaard/Chapter 4/Paradoxes.md",
+    "Philosophy/Kierkegaard/Chapter 4/News of the day.md",
+    "Philosophy/Kierkegaard/Chapter 4/Is Faith an act of will.md",
+    "Philosophy/Kierkegaard/Chapter 4/Climacus Contribution.md",
+    "Scribbles/Assignment 1.md",
     "Untitled.canvas",
-    "355 Lab Scribble.md",
+    "Project Planning/Graphite/File Handling/JPEG Handling/Resource Allocation.md",
+    "Scribbles/355 Lab Scribble.md",
     "Excalidraw/Drawing 2025-01-29 11.13.02.excalidraw.md",
     "Project Planning/Graphite/File Handling/JPEG Handling/Power Management.md",
     "Project Planning/Graphite/File Handling/JPEG Handling/Pixel Storage Layout.md",
@@ -204,27 +285,17 @@
     "Project Planning/Graphite/File Handling/JPEG Handling/KConfig Options.md",
     "Project Planning/Graphite/File Handling/JPEG Handling/JPEG Encoder Engine.md",
     "Project Planning/Graphite/File Handling/JPEG Handling/JPEG Decoder Engine.md",
-    "PHIL 330 Scribble.md",
+    "Scribbles/PHIL 330 Scribble.md",
     "Programming/Artificial Intelligence/Blind Search/A.md",
-    "Scribbles/Assignment 1.md",
     "Project Planning/Graphite/File Handling/JPEG Handling/Thread Safety.md",
     "Project Planning/Graphite/File Handling/FSM.md",
     "Project Planning/Graphite/File Handling/Pass off logic.md",
     "Project Planning/Graphite/File Handling/Switch Statement.md",
     "Untitled",
     "Project Planning/Graphite/File Handling/JPEG Handling",
-    "Scribbles/The moral.md",
-    "Scribbles/Scribbles 303 1.md",
-    "Scribbles/Exam.md",
-    "Scribbles/Exam 1.md",
     "Project Planning/Graphite/Wi-Fi setup.canvas",
     "Project Planning/Graphite/FTP Setup.canvas",
-    "Scribbles/Local Search.md",
-    "Excalidraw/Drawing 2025-01-28 10.06.16.excalidraw.md",
-    "Scribbles/Local Beam Search.md",
     "Excalidraw",
-    "Project Planning/Graphite/Progressive Video Streaming.md",
-    "Project Planning/Graphite/Timeline/Week of January 19/Tasks.md",
     "Philosophy/Kierkegaard/Chapter 4",
     "4913",
     "new.md~",

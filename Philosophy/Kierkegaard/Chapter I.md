@@ -1,0 +1,9 @@
+- **Three Spheres of life** : Aesthetic , Ethical , Religious 
+- **Hypothesis A** :  Socratic hypothesis , truth is within us we just need for it to be brought out . Teacher is insignificant and it they only serve as a catalyst for the occasion of truth to come from within an individual 
+- **Hypothesis B** : Truth is not within us we are in a state of error and moving away from the truth . Teacher is significant as they aid in an individuals rebirth , going from a state of error to a state of truth . 
+- **God's Motivation** : God's motivation is love , and love seeks to annul the difference between the lover and the beloved and achieve complete equality & understanding . 
+- **King and the peasant girl analogy** : This analogy serves to illustrate the union which proceeds from the beloved and lover become equal and its inherent impossibility. If the peasant girl loves the king out of knowledge of who he is and out of fear of what he may do if she does not reciprocate ( or out of admiration because of his status ) then it is not true love . However , if the peasant girl falls in love the king because the king masquerades as a peasant then it is not true love either because the peasant girl does not truly know the king . 
+- **Means in which the union can be achieved** : Divine Descent ( God becoming human ) , or through uplifting of the learner . However the former must be the case as the in the latter scenario the learner may be overwhelmed and submit out of fear . 
+- **Socrates lacking the positive** : Refers to 
+____
+Tags : #school #philosophy
