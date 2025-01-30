@@ -4,6 +4,7 @@
 - **God's Motivation** : God's motivation is love , and love seeks to annul the difference between the lover and the beloved and achieve complete equality & understanding . 
 - **King and the peasant girl analogy** : This analogy serves to illustrate the union which proceeds from the beloved and lover become equal and its inherent impossibility. If the peasant girl loves the king out of knowledge of who he is and out of fear of what he may do if she does not reciprocate ( or out of admiration because of his status ) then it is not true love . However , if the peasant girl falls in love the king because the king masquerades as a peasant then it is not true love either because the peasant girl does not truly know the king . 
 - **Means in which the union can be achieved** : Divine Descent ( God becoming human ) , or through uplifting of the learner . However the former must be the case as the in the latter scenario the learner may be overwhelmed and submit out of fear . 
-- **Socrates lacking the positive** : Refers to 
+- **Socrates lacking the positive** : Refers to the Socrates' tendency to proclaim his own ignorance , and through participating in examining his interlocutors own beliefs and having them arrive at the truth themselves as opposed to blatantly telling them what the answer is . 
+- **Paradox as the passion of thought** : Obstacles are the objects of thoughts passion . This passion is heightened the most when faced with that which the understanding cannot comprehend , a paradox . Passion seeks its own self destruction . 
 ____
 Tags : #school #philosophy
