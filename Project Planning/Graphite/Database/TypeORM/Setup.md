@@ -1,7 +1,10 @@
 #### Installation 
 ___
 ```bash
-npm install sqlite3 --save
+npm i sqlite3 --save
+```
+```bash
+npm i typeorm
 ```
 #### `tsconfig.json` alterations 
 ___
