@@ -1,5 +1,4 @@
-This code defines the **main navigation structure** for a **React Native app** using **React Navigation**. It sets up the **navigation stack**, defines the available screens, and applies **authentication-based navigation logic**.
-
+This code defines the **main navigation structure** for the **React Native app** using **React Navigation**. It sets up the **navigation stack**, defines the available screens, and applies **authentication-based navigation logic**.
 ### **How This Fits into `WelcomeScreenProps`**
 Earlier, we analyzed:
 ```tsx
