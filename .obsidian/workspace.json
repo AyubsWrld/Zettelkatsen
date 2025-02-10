@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Project Planning/Graphite/Software/Frontend/Navigation/Overview.md",
+                "file": "Objectives/2025-02-09.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Overview"
+              "title": "2025-02-09"
             }
           },
           {
@@ -55,16 +55,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2025-02-09.md",
+                "file": "Philosophy/Plato/Republic/Book ll.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-02-09"
+              "title": "Book ll"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -222,14 +221,15 @@
       "card-board:CardBoard": false
     }
   },
-  "active": "7384bd2d91a6893d",
+  "active": "0fe3f3928903aae5",
   "lastOpenFiles": [
-    "Philosophy/Plato/Republic/Book ll.md",
-    "2025-02-09.md",
-    "Philosophy/Plato/Republic/Book One.md",
-    "Philosophy/Plato/Republic/Book l.md",
-    "Book.md",
     "Project Planning/Graphite/Software/Frontend/Navigation/Overview.md",
+    "Philosophy/Plato/Republic/Book ll.md",
+    "Philosophy/Plato/Republic/Book l.md",
+    "Philosophy/Plato/Republic/Book One.md",
+    "Objectives/2025-02-09.md",
+    "Objectives/2025-01-13.md",
+    "Book.md",
     "Project Planning/Graphite/Database/TypeORM/TypeORM.md",
     "Project Planning/Graphite/Database/TypeORM/What is an ORM.md",
     "Project Planning/Graphite/Database/TypeORM/Setup.md",
@@ -255,7 +255,6 @@
     "Programming/Mobile Development/react-native/react-navigation/Jist.md",
     "Programming/Mobile Development/react-native/react-navigation/Tags.md",
     "Programming/Mobile Development/react-native/react-navigation/createStaticNavigation.md",
-    "Programming/Mobile Development/react-native/react-navigation/createNativeStackNavigator.md",
     "Programming/Mobile Development/react-native/react-navigation",
     "Programming/Mobile Development/react-native/Example",
     "Project Planning/Graphite/FFmpeg",
