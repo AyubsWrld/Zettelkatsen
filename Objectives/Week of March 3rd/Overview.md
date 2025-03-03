@@ -1,0 +1,9 @@
+- [ ] Get rough idea of how we want to create the PCB https://www.youtube.com/watch?v=lAs_SSnsrNI
+- [ ] 355
+	- [ ] Chapter 4  ( Halfway done needs review )
+	- [ ] Chapter 5
+- [ ] Essay for Phil 
+- [ ] Symposium plato 
+- [ ] Platos Republic books 3 - 6  
+- [ ] Deleting within Graphite
+- [ ] Convert to TCP as opposed to HTTP 
