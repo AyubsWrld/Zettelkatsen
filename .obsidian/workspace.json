@@ -4,39 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "b88d4703d278673c",
+        "id": "288175dba20290da",
         "type": "tabs",
         "children": [
           {
-            "id": "e61bc92632d0039e",
+            "id": "48b907829c3c05db",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "The Symposium/Scribble.md",
+                "file": "Chapter 4.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Scribble"
-            }
-          },
-          {
-            "id": "04d81ea488d21a21",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "The Symposium/Scribble.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Scribble"
+              "title": "Chapter 4"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -194,44 +179,44 @@
       "card-board:CardBoard": false
     }
   },
-  "active": "04d81ea488d21a21",
+  "active": "48b907829c3c05db",
   "lastOpenFiles": [
+    "Chapter 4.md",
+    "Phase Script Error.md",
+    "Terminal States.md",
+    "Game Dev/C++/Materials/Building Material Graph with C++.md",
+    "Game Dev/C++/Materials",
+    "Game Dev/C++",
+    "Game Dev",
     "Station Mode.md",
-    "The Symposium/Scribble.md",
-    "The Symposium",
+    "Report.md",
+    "Philosophy/Plato/The Symposium/Scribble.md",
+    "Philosophy/Plato/The Symposium",
     "Project Planning/Graphite/Design Doc/Design Doc.md",
-    "Project Planning/Graphite/Database/SQLite/SQLite.md",
-    "Project Planning/Keeper/Ideation & Market Research/COPPA.md",
     "Project Planning/Graphite/Design Doc",
     "Philosophy/Plato/Rule of the philosopher kings.md",
-    "Objectives/2025-02-09.md",
-    "Project Planning/Graphite/Software/Frontend/Navigation/Overview.md",
+    "Programming/Artificial Intelligence/Blind Search/Report.md",
     "Philosophy/Plato/Republic/Book ll.md",
     "Philosophy/Plato/Republic/Book l.md",
     "Philosophy/Plato/Republic/Book One.md",
-    "Objectives/2025-01-13.md",
-    "Book.md",
-    "Project Planning/Graphite/Database/TypeORM/TypeORM.md",
-    "Project Planning/Graphite/Database/TypeORM/What is an ORM.md",
-    "Project Planning/Graphite/Database/TypeORM/Setup.md",
-    "Project Planning/Graphite/Software/Frontend/Conventions/Example.md",
-    "Project Planning/Graphite/Software/Frontend/Scribble.md",
+    "Programming/Design Patterns/Creational Pattern/Creational Patterns.md",
+    "Project Planning/Graphite/Streaming/Type Definitions.md",
+    "Project Planning/Graphite/Streaming/Overview.md",
+    "Project Planning/Graphite/System Design/Abstract.md",
+    "Project Planning/Graphite/System Design/Functional Requirements.md",
+    "Project Planning/Graphite/System Design/Non-Functional Requirements.md",
+    "Project Planning/Graphite/System Design/Meta Data.md",
+    "Project Planning/Graphite/Software/Meta Data.md",
+    "Project Planning/Graphite/Software/Database Schema/Metadata.md",
+    "Programming/Design Patterns/Creational Pattern/Abstract Factory.md",
+    "Programming/Design Patterns/Introduction/Concrete Classes.md",
+    "Programming/Design Patterns/Introduction/Design Patterns in Smalltalk.md",
+    "Objectives/2025-02-09.md",
     "Project Planning/Graphite/Software/Frontend/Navigation",
-    "Project Planning/Graphite/Software/Frontend/Component Type Definition.md",
     "Project Planning/Graphite/Software/Frontend/Conventions",
     "Project Planning/Graphite/Software/Frontend",
-    "Project Planning/Graphite/Database/TypeORM/ORM Datamodels.md",
-    "Project Planning/Graphite/Database/TypeORM/Why use TypeORM.md",
-    "Transport Stream File.md",
-    "Book Two.md",
-    "Project Planning/Graphite/FFmpeg/FFmpeg Kit.md",
     "Project Planning/Graphite/Database/SQLite",
     "Project Planning/Graphite/Database/TypeORM",
-    "Project Planning/Graphite/Database",
-    "Adnan assignment.md",
-    "Video Streaming.md",
-    "Programming/Mobile Development/react-native/react-navigation",
-    "Programming/Mobile Development/react-native/Example",
     "Project Planning/Graphite/Wi-Fi setup.canvas",
     "Project Planning/Graphite/FTP Setup.canvas",
     "Untitled.canvas",
