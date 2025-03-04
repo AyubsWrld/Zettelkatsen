@@ -1,13 +1,13 @@
-- [ ] Create react-native project
-- [ ] Implement Navigation && Error understanding 
-- [ ] Implement File Parsing 
-- [ ] Implement File Parsing 
-- [ ] Finish HLS encoding 
+<del>- [ ] Create react-native project</del>
+<del>- [ ] Implement Navigation && Error understanding </del>
+<del>- [ ] Implement File Parsing </del>
+<del>- [ ] Implement File Parsing </del>
+<del>- [ ] Finish HLS encoding </del>
 	- [ ] Finish Image Handler
 	- [ ] Finish Video Handler
 	- [ ] Finish Document Handler
 	
-- [ ] Finish HLS Streaming
-- [ ] Program Media Page
+<del>- [ ] Finish HLS Streaming</del>
+<del>- [ ] Program Media Page</del>
 ____
 Tags : #programming #computer-architecture #graphite

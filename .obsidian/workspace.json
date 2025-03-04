@@ -8,35 +8,87 @@
         "type": "tabs",
         "children": [
           {
-            "id": "48b907829c3c05db",
+            "id": "f97b65f4fc54b65b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Game Dev/Basic Actor Setup.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Basic Actor Setup"
+              "type": "card-board-view",
+              "state": {},
+              "icon": "card-board",
+              "title": "CardBoard"
             }
           },
           {
-            "id": "d861113787897997",
+            "id": "7c58f58d9118a05c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C++ Primer/Functions & Files/Why functions are useful.md",
+                "file": "Kanban Boards/PHIL303.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Why functions are useful"
+              "title": "PHIL303"
+            }
+          },
+          {
+            "id": "1d12e298a74cc16b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Kanban Boards/PHIL330.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "PHIL330"
+            }
+          },
+          {
+            "id": "5f414b3f7e05cc9d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Kanban Boards/CMPT355.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "CMPT355"
+            }
+          },
+          {
+            "id": "31d2d0f349b3e787",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Kanban Boards/CMPT496.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "CMPT496"
+            }
+          },
+          {
+            "id": "554e315f0b41d6c5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Kanban Boards/CMPT496.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "CMPT496"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -162,7 +214,7 @@
             }
           },
           {
-            "id": "0ef5534c4a397791",
+            "id": "cd8bf4430811d23e",
             "type": "leaf",
             "state": {
               "type": "side-panel-control-view",
@@ -176,7 +228,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 215.5,
+    "width": 200,
     "collapsed": true
   },
   "left-ribbon": {
@@ -194,44 +246,44 @@
       "card-board:CardBoard": false
     }
   },
-  "active": "d861113787897997",
+  "active": "554e315f0b41d6c5",
   "lastOpenFiles": [
+    "Kanban Boards/CMPT355.md",
+    "Kanban Boards/CMPT496.md",
+    "Kanban Boards/PHIL303.md",
+    "Kanban Boards/PHIL330.md",
+    "Table of Content.md",
+    "Programming/Artificial Intelligence/Chapter 4.md",
+    "Kanban Boards",
+    "C++ Primer/Functions & Files/Designing first programs.md",
+    "Hill-climbing.md",
+    "Local Search.md",
+    "Kanban.md",
+    "Game Dev/Basic Actor Setup.md",
+    "Dates/PHIL330.md",
+    "Project Planning/Graphite/Timeline/Week of January 19.md",
+    "Dates/CMPT310.md",
+    "Objectives/2025-01-26.md",
+    "Project Planning/Graphite/Timeline/Week of January 26.md",
+    "Learning System/12 Day Plan.md",
+    "Programming/Artificial Intelligence/Chapter 4",
+    "C++ Primer/Functions & Files/Why functions are useful.md",
     "C++ Primer/Functions & Files/Preprocessor.md",
     "C++ Primer/Functions & Files/Table of Contents.md",
     "C++ Primer/Functions & Files/Void functions.md",
-    "C++ Primer/Functions & Files/Why functions are useful.md",
     "C++ Primer/Functions & Files/Forward declarations and definitions.md",
-    "C++ Primer/Functions & Files/Designing first programs.md",
     "C++ Primer/Functions & Files/Summary and Quiz.md",
     "C++ Primer/Functions & Files/Header guards.md",
     "C++ Primer/Functions & Files/Naming collisions and namespaces.md",
     "C++ Primer/Functions & Files/Multiple code files.md",
-    "C++ Primer/Functions & Files/Introduction to functions.md",
-    "C++ Primer/Functions & Files/Local scope.md",
-    "C++ Primer/Functions & Files/Function parameters and arguments.md",
-    "C++ Primer/Functions & Files/Function return values.md",
-    "Game Dev/Basic Actor Setup.md",
     "C++ Primer/Functions & Files",
     "C++ Primer",
-    "Programming/Artificial Intelligence/Chapter 4.md",
-    "Game Dev/Getting Mesh and Changing it.md",
-    "Game Dev/C++/Materials/UMaterialInterface.md",
-    "Game Dev/C++/Materials/Getting Mesh Component From Actor.md",
-    "Game Dev/C++/Materials/Building Material Graph with C++.md",
-    "Game Dev/Logging.md",
-    "Philosophy/Plato/Republic/Essay.md",
-    "Objectives/Week of March 3rd/Overview.md",
-    "Objectives/Week of March 3rd/2025-03-03.md",
     "Objectives/Week of March 3rd",
-    "Phase Script Error.md",
-    "Terminal States.md",
     "Game Dev/C++/Materials",
     "Game Dev/C++",
     "Game Dev",
     "Philosophy/Plato/The Symposium",
     "Project Planning/Graphite/Design Doc",
-    "Project Planning/Graphite/Software/Frontend/Navigation",
-    "Project Planning/Graphite/Software/Frontend/Conventions",
     "Project Planning/Graphite/Wi-Fi setup.canvas",
     "Project Planning/Graphite/FTP Setup.canvas",
     "Untitled.canvas",

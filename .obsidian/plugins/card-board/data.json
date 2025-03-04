@@ -5,25 +5,83 @@
       {
         "columns": [
           {
-            "tag": "untagged",
+            "tag": "namedTag",
             "data": {
               "collapsed": false,
-              "name": "Objective-C"
+              "name": "Exam",
+              "tag": "exam"
             }
           },
           {
-            "tag": "otherTags",
+            "tag": "namedTag",
             "data": {
               "collapsed": false,
-              "name": "Entry Points"
+              "name": "Theory",
+              "tag": "theory"
+            }
+          },
+          {
+            "tag": "namedTag",
+            "data": {
+              "collapsed": false,
+              "name": "Assignments",
+              "tag": "assignments"
             }
           },
           {
             "tag": "completed",
             "data": {
               "collapsed": false,
-              "index": 2,
+              "index": 3,
               "limit": 10,
+              "name": "Completed"
+            }
+          }
+        ],
+        "filters": [
+          {
+            "tag": "fileFilter",
+            "data": "Kanban Boards/CMPT355.md"
+          }
+        ],
+        "filterPolarity": "Allow",
+        "filterScope": "Both",
+        "name": "CMPT355",
+        "showColumnTags": true,
+        "showFilteredTags": true
+      },
+      {
+        "columns": [
+          {
+            "tag": "namedTag",
+            "data": {
+              "collapsed": false,
+              "name": "UI",
+              "tag": "#ui"
+            }
+          },
+          {
+            "tag": "namedTag",
+            "data": {
+              "collapsed": false,
+              "name": "App",
+              "tag": "#app"
+            }
+          },
+          {
+            "tag": "namedTag",
+            "data": {
+              "collapsed": false,
+              "name": "Hardware",
+              "tag": "#hardware"
+            }
+          },
+          {
+            "tag": "completed",
+            "data": {
+              "collapsed": false,
+              "index": 3,
+              "limit": 999,
               "name": "Completed"
             }
           }
@@ -31,7 +89,7 @@
         "filters": [],
         "filterPolarity": "Allow",
         "filterScope": "Both",
-        "name": "Keepur",
+        "name": "CMPT496",
         "showColumnTags": true,
         "showFilteredTags": true
       }

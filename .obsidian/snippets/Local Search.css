@@ -1,0 +1,37 @@
+/* Easy - Green Text with Semi-Transparent Green Background */
+.tag[href*="easy"] {
+    color: #4CAF50; /* Normal Green Text */
+    background-color: rgba(76, 175, 80, 0.2); /* Green Background with 20% Opacity */
+    border-radius: 20px;
+    padding: 4px 6px;
+}
+
+/* Medium - Orange Text with Semi-Transparent Orange Background */
+.tag[href*="medium"] {
+    color: #FF9800; /* Normal Orange Text */
+    background-color: rgba(255, 152, 0, 0.2); /* Orange Background with 20% Opacity */
+    border-radius: 20px;
+    padding: 4px 6px;
+}
+
+/* Hard - Red Text with Semi-Transparent Red Background */
+.tag[href*="hard"] {
+    color: #F44336; /* Normal Red Text */
+    background-color: rgba(244, 67, 54, 0.2); /* Red Background with 20% Opacity */
+    border-radius: 20px;
+    padding: 4px 6px;
+}
+
+.tag[href*="inprogress"] {
+    color: #a256f8 ; /* Strong Purple Text */
+    background-color: rgba(155, 70, 176, 0.1); /* Strong Purple Background with 30% Opacity */
+    border-radius: 20px;
+    padding: 4px 6px;
+}
+
+.tag[href*="hardware"] {
+    color: white ; /* Normal Red Text */
+    background-color: rgba(255, 255, 255, 0.2); /* Red Background with 20% Opacity */
+    border-radius: 20px;
+    padding: 4px 6px;
+}

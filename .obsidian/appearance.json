@@ -1,5 +1,8 @@
 {
   "accentColor": "#57beff",
   "cssTheme": "",
-  "translucency": true
+  "translucency": true,
+  "enabledCssSnippets": [
+    "Local Search"
+  ]
 }
