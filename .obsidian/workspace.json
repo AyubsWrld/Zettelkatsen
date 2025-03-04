@@ -13,49 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming/Artificial Intelligence/Chapter 4.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Chapter 4"
-            }
-          },
-          {
-            "id": "5fd413c6f2eeddcd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Objectives/Week of March 3rd/Overview.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Overview"
-            }
-          },
-          {
-            "id": "567dfb166b8a6072",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Philosophy/Plato/Republic/Essay.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Essay"
-            }
-          },
-          {
-            "id": "1dd3831cb778c531",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Basic Actor Setup.md",
+                "file": "Game Dev/Basic Actor Setup.md",
                 "mode": "source",
                 "source": false
               },
@@ -64,63 +22,21 @@
             }
           },
           {
-            "id": "74211a57642860df",
+            "id": "d861113787897997",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Game Dev/C++/Materials/Getting Mesh Component From Actor.md",
+                "file": "C++ Primer/Functions & Files/Why functions are useful.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Getting Mesh Component From Actor"
-            }
-          },
-          {
-            "id": "63e14feee06c1376",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Game Dev/C++/Materials/Getting Mesh Component From Actor.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Getting Mesh Component From Actor"
-            }
-          },
-          {
-            "id": "cd632d35dfef8a36",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Game Dev/C++/Materials/UMaterialInterface.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "UMaterialInterface"
-            }
-          },
-          {
-            "id": "d1c60e7aefaa4538",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Getting Mesh and Changing it.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Getting Mesh and Changing it"
+              "title": "Why functions are useful"
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -246,7 +162,7 @@
             }
           },
           {
-            "id": "32f6e7040af8a94a",
+            "id": "0ef5534c4a397791",
             "type": "leaf",
             "state": {
               "type": "side-panel-control-view",
@@ -260,7 +176,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
+    "width": 215.5,
     "collapsed": true
   },
   "left-ribbon": {
@@ -278,44 +194,44 @@
       "card-board:CardBoard": false
     }
   },
-  "active": "d1c60e7aefaa4538",
+  "active": "d861113787897997",
   "lastOpenFiles": [
+    "C++ Primer/Functions & Files/Preprocessor.md",
+    "C++ Primer/Functions & Files/Table of Contents.md",
+    "C++ Primer/Functions & Files/Void functions.md",
+    "C++ Primer/Functions & Files/Why functions are useful.md",
+    "C++ Primer/Functions & Files/Forward declarations and definitions.md",
+    "C++ Primer/Functions & Files/Designing first programs.md",
+    "C++ Primer/Functions & Files/Summary and Quiz.md",
+    "C++ Primer/Functions & Files/Header guards.md",
+    "C++ Primer/Functions & Files/Naming collisions and namespaces.md",
+    "C++ Primer/Functions & Files/Multiple code files.md",
+    "C++ Primer/Functions & Files/Introduction to functions.md",
+    "C++ Primer/Functions & Files/Local scope.md",
+    "C++ Primer/Functions & Files/Function parameters and arguments.md",
+    "C++ Primer/Functions & Files/Function return values.md",
+    "Game Dev/Basic Actor Setup.md",
+    "C++ Primer/Functions & Files",
+    "C++ Primer",
+    "Programming/Artificial Intelligence/Chapter 4.md",
+    "Game Dev/Getting Mesh and Changing it.md",
     "Game Dev/C++/Materials/UMaterialInterface.md",
-    "Getting Mesh and Changing it.md",
     "Game Dev/C++/Materials/Getting Mesh Component From Actor.md",
     "Game Dev/C++/Materials/Building Material Graph with C++.md",
-    "Basic Actor Setup.md",
-    "Logging.md",
+    "Game Dev/Logging.md",
     "Philosophy/Plato/Republic/Essay.md",
     "Objectives/Week of March 3rd/Overview.md",
     "Objectives/Week of March 3rd/2025-03-03.md",
     "Objectives/Week of March 3rd",
-    "Programming/Artificial Intelligence/Chapter 4.md",
     "Phase Script Error.md",
     "Terminal States.md",
     "Game Dev/C++/Materials",
     "Game Dev/C++",
     "Game Dev",
-    "Station Mode.md",
-    "Report.md",
-    "Philosophy/Plato/The Symposium/Scribble.md",
     "Philosophy/Plato/The Symposium",
-    "Project Planning/Graphite/Design Doc/Design Doc.md",
     "Project Planning/Graphite/Design Doc",
-    "Philosophy/Plato/Rule of the philosopher kings.md",
-    "Programming/Artificial Intelligence/Blind Search/Report.md",
-    "Philosophy/Plato/Republic/Book ll.md",
-    "Philosophy/Plato/Republic/Book l.md",
-    "Philosophy/Plato/Republic/Book One.md",
-    "Programming/Design Patterns/Creational Pattern/Creational Patterns.md",
-    "Project Planning/Graphite/Streaming/Type Definitions.md",
-    "Project Planning/Graphite/Streaming/Overview.md",
-    "Project Planning/Graphite/System Design/Abstract.md",
-    "Project Planning/Graphite/System Design/Functional Requirements.md",
     "Project Planning/Graphite/Software/Frontend/Navigation",
     "Project Planning/Graphite/Software/Frontend/Conventions",
-    "Project Planning/Graphite/Software/Frontend",
-    "Project Planning/Graphite/Database/SQLite",
     "Project Planning/Graphite/Wi-Fi setup.canvas",
     "Project Planning/Graphite/FTP Setup.canvas",
     "Untitled.canvas",
