@@ -3,8 +3,8 @@
   "cssTheme": "Vanilla AMOLED",
   "translucency": true,
   "enabledCssSnippets": [
-    "Local Search",
-    "Colored Sidebar Items"
+    "Colored Sidebar Items",
+    "Local Search"
   ],
   "interfaceFontFamily": "JetBrainsMono Nerd Font,JetBrains Mono",
   "textFontFamily": "JetBrainsMono Nerd Font,JetBrains Mono",

@@ -10,5 +10,7 @@
   "obsidian-icon-folder",
   "calendar",
   "omnisearch",
-  "heatmap-calendar"
+  "heatmap-calendar",
+  "contribution-graph",
+  "dataview"
 ]

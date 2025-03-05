@@ -4,63 +4,63 @@
     "type": "split",
     "children": [
       {
-        "id": "f0c18d64ee72e7bc",
-        "type": "tabs",
+        "id": "c646c913b01ca5fc",
+        "type": "split",
         "children": [
           {
-            "id": "416e996626003594",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "06 - Daily/Initial.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Initial"
-            }
+            "id": "3e5086dd3900e381",
+            "type": "tabs",
+            "dimension": 72.01447527141134,
+            "children": [
+              {
+                "id": "766ff816cd01fd77",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "00 - Flashcards/Artificial Intelligence/Adversarial/Adversarial Search.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Adversarial Search"
+                }
+              }
+            ]
           },
           {
-            "id": "d7bef85e087611fd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "05 - Fleeting/Initial.md",
-                "mode": "source",
-                "source": false
+            "id": "30290b36a6ab2811",
+            "type": "tabs",
+            "dimension": 27.98552472858866,
+            "children": [
+              {
+                "id": "a27fbeed49246329",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "06 - Daily/Heatmaps/Heatmaps.md",
+                    "mode": "preview",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Heatmaps"
+                }
               },
-              "icon": "lucide-file",
-              "title": "Initial"
-            }
-          },
-          {
-            "id": "bce3835989a0bf80",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "99 - Kanban Boards/C++.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "C++"
-            }
-          },
-          {
-            "id": "59d15891d6e1fb70",
-            "type": "leaf",
-            "state": {
-              "type": "card-board-view",
-              "state": {},
-              "icon": "card-board",
-              "title": "CardBoard"
-            }
+              {
+                "id": "571eeeb8a74e0598",
+                "type": "leaf",
+                "state": {
+                  "type": "empty",
+                  "state": {},
+                  "icon": "lucide-file",
+                  "title": "New tab"
+                }
+              }
+            ]
           }
         ],
-        "currentTab": 3
+        "direction": "vertical"
       }
     ],
     "direction": "vertical"
@@ -117,7 +117,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 366.5
+    "width": 218.5
   },
   "right": {
     "id": "817588c37efe10fd",
@@ -249,62 +249,62 @@
       "card-board:CardBoard": false
     }
   },
-  "active": "bdf7cad2e300c825",
+  "active": "766ff816cd01fd77",
   "lastOpenFiles": [
-    "04 - Permanent/Initial.md",
-    "05 - Fleeting/Initial.md",
-    "06 - Daily/Initial.md",
-    "Untitled.canvas",
-    "07 - Archives",
-    "06 - Daily",
-    "05 - Fleeting",
-    "04 - Permanent",
-    "03 - Resources",
-    "02 - Areas",
-    "01 - Projects",
-    "01 - Projects/C++ Primer/Functions & Files/Introduction to function parameters and arguments.md",
-    "03 - Resources/Excalidraw/Drawing 2025-03-04 17.57.22.excalidraw.md",
-    "C++ Primer/Functions & Files/Introduction to functions.md",
-    "01 - Projects/C++ Primer/Functions & Files/Void functions (non-value returning functions).md",
-    "01 - Projects/C++ Primer/Functions & Files/Why functions are useful, and how to use them effectively.md",
-    "2025-03-04.md",
-    "07 - Archives/Images/Pasted image 20250304175028.png",
-    "99 - Kanban Boards/C++.md",
-    "02 - Areas/Programming/Artificial Intelligence/Chapter 4/Hill-climbing.md",
-    "02 - Areas/Programming/Artificial Intelligence/Chapter 4/Table of Content.md",
-    "C++ Primer/Functions & Files/Designing first programs.md",
-    "99 - Kanban Boards/CMPT496.md",
-    "99 - Kanban Boards/CMPT355.md",
-    "99 - Kanban Boards/PHIL330.md",
-    "99 - Kanban Boards/PHIL303.md",
-    "02 - Areas/Programming/Artificial Intelligence/Chapter 4/Local Search.md",
-    "02 - Areas/Programming/Artificial Intelligence/Chapter 4/Chapter 4.md",
-    "99 - Kanban Boards",
-    "Kanban.md",
-    "02 - Areas/Game Dev/Basic Actor Setup.md",
-    "01 - Projects/Dates/PHIL330.md",
-    "01 - Projects/Graphite/Timeline/Week of January 19.md",
-    "01 - Projects/Dates/CMPT310.md",
-    "Objectives/2025-01-26.md",
-    "01 - Projects/Graphite/Timeline/Week of January 26.md",
-    "02 - Areas/Programming/Artificial Intelligence/Chapter 4",
-    "01 - Projects/C++ Primer/Functions & Files",
+    "Images/Pasted image 20250304211518.png",
+    "Images",
+    "06 - Daily/Heatmaps/Heatmaps.md",
+    "00 - Flashcards/Artificial Intelligence/Adversarial/Adversarial Search.md",
+    "06 - Daily/Heatmaps",
+    "00 - Flashcards/Artificial Intelligence/Search within Complex Environments",
+    "00 - Flashcards/Artificial Intelligence/Adversarial",
+    "00 - Flashcards/Artificial Intelligence/Search within Complex Environments/Search within Complex Environments.md",
+    "00 - Flashcards/Artificial Intelligence",
+    "00 - Flashcards",
+    "99 - Kanban Boards/Flashcards",
+    "01 - Projects/Keeper/Native APIs/ios/Counter.swift/Counter.swift.md",
+    "01 - Projects/Keeper/Native APIs/ios/Counter.swift/Class Declaration.md",
+    "01 - Projects/Keeper/Native APIs/ios/ScreenTimeBridge/setupMonitoring().md",
+    "01 - Projects/Keeper/Native APIs/ios/ScreenTimeBridge/selectApps.swift.md",
+    "01 - Projects/Keeper/Native APIs/ios/ScreenTimeBridge/ScreenTimeBridge.md",
+    "01 - Projects/Keeper/Native APIs/ios/ScreenTimeBridge/requiresMainSetup().md",
+    "01 - Projects/Keeper/Native APIs/ios/ScreenTimeBridge/removeShields.swift.md",
+    "01 - Projects/Keeper/Native APIs/ios/ScreenTimeBridge/DeviceActivityName.md",
+    "01 - Projects/Keeper/Native APIs/ios/ScreenTimeBridge/appPickerView.md",
+    "01 - Projects/Keeper/Native APIs/ios/ScreenTimeBridge/applyShields.swift.md",
+    "01 - Projects/Keeper/Native APIs/ios/Counter.m/RCT_EXTERN_METHOD.md",
+    "01 - Projects/Keeper/Native APIs/ios/Counter.m/RCT_EXTERN_MODULE.md",
+    "01 - Projects/Keeper/Native APIs/ios/Counter.m/RCTBridgeModule.h.md",
+    "01 - Projects/Keeper/Native APIs/ios/Counter.m/Counter.m.md",
+    "01 - Projects/Keeper/Native APIs/ios/Counter.m/@end.md",
+    "01 - Projects/Keeper/Screentime API/Managed Settings/Tokens.md",
+    "01 - Projects/Keeper/Screentime API/Managed Settings/ShieldActionDelegate.md",
+    "01 - Projects/Keeper/Screentime API/Managed Settings/Managed Settings.md",
+    "01 - Projects/Keeper/Screentime API/Managed Settings/bundleIdentifier.md",
+    "01 - Projects/Keeper/Screentime API/Managed Settings/Application Token.md",
+    "01 - Projects/Keeper/System Design/Classes/User Manager.md",
+    "01 - Projects/Keeper/System Design/Classes/Sessions.md",
+    "01 - Projects/Keeper/Native APIs/ios/Counter.swift",
+    "01 - Projects/Keeper/Native APIs/ios/ScreenTimeBridge",
+    "01 - Projects/Keeper/Native APIs/ios/Counter.m",
+    "01 - Projects/Keeper/System Design/Flow.canvas",
+    "01 - Projects/Keeper/Miscellanous/Keepr Outline.canvas",
+    "01 - Projects/Keeper/Native APIs/File Interactions.canvas",
+    "01 - Projects/Keeper/Flowchart.canvas",
+    "01 - Projects/Graphite/Hardware/ESP-IDF Notes/Bluetooth Low Energy/Generic Attribute Server Setup/Node Representation.canvas",
+    "01 - Projects/Graphite/Primitives/Primitives.canvas",
     "01 - Projects/Graphite/Wi-Fi setup.canvas",
     "01 - Projects/Graphite/FTP Setup.canvas",
-    "01 - Projects/Graphite/Primitives/Primitives.canvas",
-    "01 - Projects/Graphite/Hardware/ESP-IDF Notes/Bluetooth Low Energy/Generic Attribute Server Setup/Node Representation.canvas",
-    "02 - Areas/Programming/Algorithms/Final Outline.canvas",
-    "01 - Projects/Keeper/Flowchart.canvas",
+    "Untitled.canvas",
+    "07 - Archives/Images/Pasted image 20250304175028.png",
+    "01 - Projects/Project Planning/Graphite/Wi-Fi setup.canvas",
     "Math/Linear Algebra/Images/Pasted image 20241208221515.png",
     "Math/Linear Algebra/Images/Pasted image 20241208214343.png",
     "Math/Linear Algebra/Images/Pasted image 20241208214038.png",
     "Math/Linear Algebra/Images/Pasted image 20241208213326.png",
     "Math/Linear Algebra/Images/Pasted image 20241208213241.png",
-    "02 - Areas/Programming/Algorithms/Dynamic Programming/Outline.canvas",
     "Math/Linear Algebra/Chapter 5 - Eigenvalues and Eigenvectors/5.5 - Complex Eigenvalues/Image one.png",
-    "01 - Projects/Keeper/System Design/Flow.canvas",
     "Pasted image 20241027180249.png",
-    "01 - Projects/Keeper/Miscellanous/Keepr Outline.canvas",
     "07 - Archives/Images/Pasted image 20241027175947.png",
     "07 - Archives/Images/Pasted image 20241027175702.png"
   ]

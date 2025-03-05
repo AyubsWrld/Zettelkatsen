@@ -35,70 +35,6 @@
     border-radius: 20px;
     padding: 4px 6px;
 }
-/* #cppbasics - Light Blue Text with Semi-Transparent Blue Background */
-.tag[href*="cppbasics"] {
-    color: #03A9F4; /* Light Blue Text */
-    background-color: rgba(3, 169, 244, 0.3); /* Blue Background with 30% Opacity */
-    border-radius: 20px;
-    padding: 2px 5px;
-}
-
-/* #cppfunctions - Green Text with Semi-Transparent Green Background */
-.tag[href*="cppfunctions"] {
-    color: #4CAF50; /* Green Text */
-    background-color: rgba(76, 175, 80, 0.3); /* Green Background with 30% Opacity */
-    border-radius: 20px;
-    padding: 2px 5px;
-}
-
-/* #cppdebugging - Red Text with Semi-Transparent Red Background */
-.tag[href*="cppdebugging"] {
-    color: #F44336; /* Red Text */
-    background-color: rgba(244, 67, 54, 0.3); /* Red Background with 30% Opacity */
-    border-radius: 20px;
-    padding: 2px 5px;
-}
-
-/* #cppdatatypes - Yellow Text with Semi-Transparent Yellow Background */
-.tag[href*="cppdatatypes"] {
-    color: #FFEB3B; /* Yellow Text */
-    background-color: rgba(255, 235, 59, 0.3); /* Yellow Background with 30% Opacity */
-    border-radius: 20px;
-    padding: 2px 5px;
-}
-
-/* #cppconstants - Purple Text with Semi-Transparent Purple Background */
-.tag[href*="cppconstants"] {
-    color: #9C27B0; /* Purple Text */
-    background-color: rgba(155, 39, 176, 0.3); /* Purple Background with 30% Opacity */
-    border-radius: 20px;
-    padding: 2px 5px;
-}
-
-/* #cppstrings - Pink Text with Semi-Transparent Pink Background */
-.tag[href*="cppstrings"] {
-    color: #E91E63; /* Pink Text */
-    background-color: rgba(233, 30, 99, 0.3); /* Pink Background with 30% Opacity */
-    border-radius: 20px;
-    padding: 2px 5px;
-}
-
-/* #operators - Orange Text with Semi-Transparent Orange Background */
-.tag[href*="operators"] {
-    color: #FF9800; /* Orange Text */
-    background-color: rgba(255, 152, 0, 0.3); /* Orange Background with 30% Opacity */
-    border-radius: 20px;
-    padding: 2px 5px;
-}
-
-/* #cpplinking - Teal Text with Semi-Transparent Teal Background */
-.tag[href*="cpplinking"] {
-    color: #009688; /* Teal Text */
-    background-color: rgba(0, 150, 136, 0.3); /* Teal Background with 30% Opacity */
-    border-radius: 20px;
-    padding: 2px 5px;
-}
-
 .cm-s-obsidian span.cm-formatting-highlight, .cm-s-obsidian span.cm-highlight {
     background-color: rgba(30, 100 , 200 , 0.4);  /* Light blue background */
     color: white;  
@@ -114,4 +50,67 @@ img {
     max-width: 100%;            /* Make sure the image is responsive */
     display: block;             /* Ensures the image doesn't have space below it */
     margin: 10px auto;          /* Centers the image with margin around it */
+}
+/* #01 - Projects */
+.tag[href*="cppbasics"] {
+    color: #28d0e9; /* Cyan/Turquoise */
+    background-color: rgba(40, 208, 233, 0.3);
+    border-radius: 20px;
+    padding: 2px 5px;
+}
+
+/* #02 - Areas */
+.tag[href*="cppfunctions"] {
+    color: #4db6f8; /* Light Blue */
+    background-color: rgba(77, 182, 248, 0.3);
+    border-radius: 20px;
+    padding: 2px 5px;
+}
+
+/* #03 - Resources */
+.tag[href*="cppdebugging"] {
+    color: #2268f3; /* Deep Blue */
+    background-color: rgba(34, 104, 243, 0.3);
+    border-radius: 20px;
+    padding: 2px 5px;
+}
+
+/* #04 - Permanent */
+.tag[href*="cppdatatypes"] {
+    color: #9446f8; /* Purple */
+    background-color: rgba(148, 70, 248, 0.3);
+    border-radius: 20px;
+    padding: 2px 5px;
+}
+
+/* #05 - Fleeting */
+.tag[href*="cppconstants"] {
+    color: #9446f8; /* Purple (duplicate of previous) */
+    background-color: rgba(148, 70, 248, 0.3);
+    border-radius: 20px;
+    padding: 2px 5px;
+}
+
+/* #06 - Daily */
+.tag[href*="cppstrings"] {
+    color: #e54f9b; /* Pink */
+    background-color: rgba(229, 79, 155, 0.3);
+    border-radius: 20px;
+    padding: 2px 5px;
+}
+
+/* #07 - Archives */
+.tag[href*="operators"] {
+    color: #e54f9b; /* Pink (duplicate of previous) */
+    background-color: rgba(229, 79, 155, 0.3);
+    border-radius: 20px;
+    padding: 2px 5px;
+}
+
+/* Additional tag */
+.tag[href*="cpplinking"] {
+    color: #28d0e9; /* Cyan/Turquoise (matching first color) */
+    background-color: rgba(40, 208, 233, 0.3);
+    border-radius: 20px;
+    padding: 2px 5px;
 }
