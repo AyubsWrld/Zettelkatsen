@@ -9,3 +9,5 @@ while(true) do
 	 return current  // peak found 
 current <- neighbor 
 ```
+
+- Stochastic Hill cl

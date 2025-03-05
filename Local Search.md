@@ -20,5 +20,3 @@ ____
 > [!question] How does it work ? 
 
 >Finds the best state according to some objective function . This is very similar to greedy searches .   
-### Examples  & Instances 
-____
