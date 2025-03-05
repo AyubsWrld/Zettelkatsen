@@ -2,9 +2,13 @@
   "obsidian-style-settings",
   "mermaid-themes",
   "obsidian-tasks-plugin",
-  "obsidian-full-calendar",
   "obsidian-excalidraw-plugin",
   "table-editor-obsidian",
   "obsidian-markdown-formatting-assistant-plugin",
-  "card-board"
+  "card-board",
+  "obsidian-spaced-repetition",
+  "obsidian-icon-folder",
+  "calendar",
+  "omnisearch",
+  "heatmap-calendar"
 ]

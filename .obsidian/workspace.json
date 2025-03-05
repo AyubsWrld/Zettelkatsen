@@ -11,54 +11,13 @@
             "id": "f812c49c1435b627",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "C++ Primer/Functions & Files/Why functions are useful, and how to use them effectively.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Why functions are useful, and how to use them effectively"
-            }
-          },
-          {
-            "id": "3b43c779cff602f3",
-            "type": "leaf",
-            "state": {
               "type": "card-board-view",
               "state": {},
               "icon": "card-board",
               "title": "CardBoard"
             }
-          },
-          {
-            "id": "3bc89a820c1e8bdd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "C++ Primer/Functions & Files/Introduction to function parameters and arguments.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Introduction to function parameters and arguments"
-            }
-          },
-          {
-            "id": "3023d1ca0d1ef721",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2025-03-04 17.57.22.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2025-03-04 17.57.22.excalidraw"
-            }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -115,7 +74,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 243.5
+    "width": 366.5
   },
   "right": {
     "id": "817588c37efe10fd",
@@ -192,9 +151,39 @@
               "icon": "viewIcon",
               "title": "Markdown-Autocomplete"
             }
+          },
+          {
+            "id": "99ce172a27b033b7",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "SpacedRepIcon",
+              "title": "Notes Review Queue"
+            }
+          },
+          {
+            "id": "e654125021e67791",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
+            }
+          },
+          {
+            "id": "298d7ffb193f2170",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -203,76 +192,75 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "omnisearch:Omnisearch": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-full-calendar:Open Full Calendar": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false,
-      "card-board:CardBoard": false
+      "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "3023d1ca0d1ef721",
+  "active": "99ce172a27b033b7",
   "lastOpenFiles": [
-    "C++ Primer/Functions & Files/Introduction to function parameters and arguments.md",
-    "Excalidraw/Drawing 2025-03-04 17.57.22.excalidraw.md",
-    "C++ Primer/Functions & Files/Introduction to functions.md",
-    "C++ Primer/Functions & Files/Void functions (non-value returning functions).md",
-    "C++ Primer/Functions & Files/Why functions are useful, and how to use them effectively.md",
-    "2025-03-04.md",
-    "Images/Pasted image 20250304175028.png",
-    "Kanban Boards/C++.md",
-    "Programming/Artificial Intelligence/Chapter 4/Hill-climbing.md",
-    "Programming/Artificial Intelligence/Chapter 4/Table of Content.md",
-    "C++ Primer/Functions & Files/Designing first programs.md",
-    "Kanban Boards/CMPT496.md",
-    "Kanban Boards/CMPT355.md",
-    "Kanban Boards/PHIL330.md",
-    "Kanban Boards/PHIL303.md",
-    "Programming/Artificial Intelligence/Chapter 4/Local Search.md",
-    "Programming/Artificial Intelligence/Chapter 4/Chapter 4.md",
-    "Kanban Boards",
-    "Kanban.md",
-    "Game Dev/Basic Actor Setup.md",
-    "Dates/PHIL330.md",
-    "Project Planning/Graphite/Timeline/Week of January 19.md",
-    "Dates/CMPT310.md",
-    "Objectives/2025-01-26.md",
-    "Project Planning/Graphite/Timeline/Week of January 26.md",
-    "Learning System/12 Day Plan.md",
-    "Programming/Artificial Intelligence/Chapter 4",
-    "C++ Primer/Functions & Files/Why functions are useful.md",
-    "C++ Primer/Functions & Files/Preprocessor.md",
-    "C++ Primer/Functions & Files",
-    "C++ Primer",
-    "Objectives/Week of March 3rd",
-    "Game Dev/C++/Materials",
-    "Game Dev/C++",
-    "Game Dev",
-    "Philosophy/Plato/The Symposium",
-    "Project Planning/Graphite/Design Doc",
-    "Project Planning/Graphite/Wi-Fi setup.canvas",
-    "Project Planning/Graphite/FTP Setup.canvas",
     "Untitled.canvas",
-    "Project Planning/Graphite/Primitives/Primitives.canvas",
-    "Project Planning/Graphite/Hardware/ESP-IDF Notes/Bluetooth Low Energy/Generic Attribute Server Setup/Node Representation.canvas",
-    "Programming/Algorithms/Final Outline.canvas",
-    "Project Planning/Keeper/Flowchart.canvas",
+    "07 - Archives",
+    "06 - Daily",
+    "05 - Fleeting",
+    "04 - Permanent",
+    "03 - Resources",
+    "02 - Areas",
+    "01 - Projects",
+    "01 - Projects/C++ Primer/Functions & Files/Introduction to function parameters and arguments.md",
+    "03 - Resources/Excalidraw/Drawing 2025-03-04 17.57.22.excalidraw.md",
+    "C++ Primer/Functions & Files/Introduction to functions.md",
+    "01 - Projects/C++ Primer/Functions & Files/Void functions (non-value returning functions).md",
+    "01 - Projects/C++ Primer/Functions & Files/Why functions are useful, and how to use them effectively.md",
+    "2025-03-04.md",
+    "07 - Archives/Images/Pasted image 20250304175028.png",
+    "99 - Kanban Boards/C++.md",
+    "02 - Areas/Programming/Artificial Intelligence/Chapter 4/Hill-climbing.md",
+    "02 - Areas/Programming/Artificial Intelligence/Chapter 4/Table of Content.md",
+    "C++ Primer/Functions & Files/Designing first programs.md",
+    "99 - Kanban Boards/CMPT496.md",
+    "99 - Kanban Boards/CMPT355.md",
+    "99 - Kanban Boards/PHIL330.md",
+    "99 - Kanban Boards/PHIL303.md",
+    "02 - Areas/Programming/Artificial Intelligence/Chapter 4/Local Search.md",
+    "02 - Areas/Programming/Artificial Intelligence/Chapter 4/Chapter 4.md",
+    "99 - Kanban Boards",
+    "Kanban.md",
+    "02 - Areas/Game Dev/Basic Actor Setup.md",
+    "01 - Projects/Dates/PHIL330.md",
+    "01 - Projects/Project Planning/Graphite/Timeline/Week of January 19.md",
+    "01 - Projects/Dates/CMPT310.md",
+    "Objectives/2025-01-26.md",
+    "01 - Projects/Project Planning/Graphite/Timeline/Week of January 26.md",
+    "Learning System/12 Day Plan.md",
+    "02 - Areas/Programming/Artificial Intelligence/Chapter 4",
+    "C++ Primer/Functions & Files/Why functions are useful.md",
+    "01 - Projects/C++ Primer/Functions & Files",
+    "01 - Projects/Project Planning/Graphite/Wi-Fi setup.canvas",
+    "01 - Projects/Project Planning/Graphite/FTP Setup.canvas",
+    "01 - Projects/Project Planning/Graphite/Primitives/Primitives.canvas",
+    "01 - Projects/Project Planning/Graphite/Hardware/ESP-IDF Notes/Bluetooth Low Energy/Generic Attribute Server Setup/Node Representation.canvas",
+    "02 - Areas/Programming/Algorithms/Final Outline.canvas",
+    "01 - Projects/Project Planning/Keeper/Flowchart.canvas",
     "Math/Linear Algebra/Images/Pasted image 20241208221515.png",
     "Math/Linear Algebra/Images/Pasted image 20241208214343.png",
     "Math/Linear Algebra/Images/Pasted image 20241208214038.png",
     "Math/Linear Algebra/Images/Pasted image 20241208213326.png",
     "Math/Linear Algebra/Images/Pasted image 20241208213241.png",
-    "Programming/Algorithms/Dynamic Programming/Outline.canvas",
+    "02 - Areas/Programming/Algorithms/Dynamic Programming/Outline.canvas",
     "Math/Linear Algebra/Chapter 5 - Eigenvalues and Eigenvectors/5.5 - Complex Eigenvalues/Image one.png",
-    "Project Planning/Keeper/System Design/Flow.canvas",
+    "01 - Projects/Project Planning/Keeper/System Design/Flow.canvas",
     "Pasted image 20241027180249.png",
-    "Project Planning/Keeper/Miscellanous/Keepr Outline.canvas",
-    "Images/Pasted image 20241027175947.png",
-    "Images/Pasted image 20241027175702.png"
+    "01 - Projects/Project Planning/Keeper/Miscellanous/Keepr Outline.canvas",
+    "07 - Archives/Images/Pasted image 20241027175947.png",
+    "07 - Archives/Images/Pasted image 20241027175702.png"
   ]
 }

@@ -1,3 +1,0 @@
-
-___
-Tags : #trigonometry #math 

@@ -1,0 +1,197 @@
+{
+  "main": {
+    "id": "258ae94951dcfe0d",
+    "type": "split",
+    "children": [
+      {
+        "id": "c62be9548983f329",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "05df00ad4ecd2460",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4053dfe5c4c000d1",
+    "type": "split",
+    "children": [
+      {
+        "id": "f7185499e22c44fb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "88c133c60264fe72",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "bf7482ff8ce1883b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "d6e173294de5eb0d",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 222
+  },
+  "right": {
+    "id": "3e1e8c190d75938f",
+    "type": "split",
+    "children": [
+      {
+        "id": "0253679178df75d1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "421ea112fc01b8ca",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "00253decc325bf53",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b9b36171abfa38ca",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "686c190ae835391e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "30ac5910c2c044c5",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-spaced-repetition:Review flashcards": false
+    }
+  },
+  "active": "88c133c60264fe72",
+  "lastOpenFiles": [
+    "Untitled.canvas",
+    "2024-08-11.md",
+    "Computer Science/Languages/C++/Datatypes.md",
+    "Computer Engineering/Computer Architecture/Assembly.md",
+    "Von Neuman Model.md",
+    "Computer Engineering/Computer Architecture/Miscellaneous.md",
+    "Computer Engineering/Outline.md",
+    "Computer Engineering/Computer Architecture/Content.md",
+    "Computer Engineering/Computer Architecture/Combinational Logic.md",
+    "Computer Engineering/HDL/Verilog.md",
+    "Computer Engineering/Computer Architecture/Sequential Logic.md",
+    "Accomplished/2024-06-24.md",
+    "Accomplished/2024-06-12.md",
+    "Pasted image 20240616184530.png",
+    "Accomplished/2024-06-13.md",
+    "Accomplished/2024-06-14.md",
+    "Computer Engineering/HDL",
+    "Computer Engineering/Computer Architecture",
+    "Computer Science/Languages/SQL/Advanced SQL.md",
+    "Final Review.md",
+    "Computer Science/Theory/RBDMS/Relational Database Design.md",
+    "Computer Engineering/Logic Design/Karnaugh Maps.md",
+    "MATH/Proofs/Proofs Involving Sets.md",
+    "MATH/Proofs/Disproof.md",
+    "MATH/Images/Pasted image 20240604144226.png",
+    "Computer Science/Languages/SQL/Windows Forms/Windows Forms.md",
+    "Computer Engineering/Logic Design",
+    "Computer Engineering",
+    "MATH/Proofs/Proof Writing.md",
+    "2024-06-12.md",
+    "Accomplished",
+    "Computer Science/Theory/RBDMS/Pasted image 20240610175142.png",
+    "Computer Science/Languages/C++/Classes.md",
+    "Computer Science/Theory/RBDMS/Pasted image 20240608211017.png",
+    "MATH/Proofs",
+    "Computer Science/Languages/SQL/Windows Forms",
+    "Computer Science/Languages/C++/Structs.md",
+    "Computer Science/Theory/RBDMS",
+    "Computer Science/Theory",
+    "Computer Science/Languages/SQL",
+    "Untitled 3.canvas",
+    "Untitled 2.canvas",
+    "Untitled 1.canvas"
+  ]
+}

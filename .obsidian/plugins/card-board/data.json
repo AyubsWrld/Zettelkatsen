@@ -41,7 +41,7 @@
         "filters": [
           {
             "tag": "fileFilter",
-            "data": "Kanban Boards/CMPT355.md"
+            "data": "99 - Kanban Boards/CMPT355.md"
           }
         ],
         "filterPolarity": "Allow",
@@ -164,7 +164,7 @@
         "filters": [
           {
             "tag": "fileFilter",
-            "data": "Kanban Boards/C++.md"
+            "data": "99 - Kanban Boards/C++.md"
           }
         ],
         "filterPolarity": "Allow",

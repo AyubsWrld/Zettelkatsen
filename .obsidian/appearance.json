@@ -1,8 +1,11 @@
 {
   "accentColor": "#57beff",
-  "cssTheme": "",
+  "cssTheme": "Vanilla AMOLED",
   "translucency": true,
   "enabledCssSnippets": [
-    "Local Search"
-  ]
+    "Local Search",
+    "Colored Sidebar Items"
+  ],
+  "interfaceFontFamily": "JetBrainsMono Nerd Font",
+  "textFontFamily": "JetBrainsMono Nerd Font"
 }
