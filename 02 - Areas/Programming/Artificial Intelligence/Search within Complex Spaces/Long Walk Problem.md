@@ -1,0 +1,1 @@
+Occurs when the agent spends time traversing areas irrelevant to the actual solution but are near the solution themselves . 

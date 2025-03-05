@@ -1,0 +1,3 @@
+**Backtracking** is a problem-solving algorithmic technique used to find solutions by exploring possible options step by step, and when a potential solution path leads to a dead end or an invalid state, it **reverses** (backtracks) to the previous step and tries a different option. It’s commonly used in solving **combinatorial problems** like puzzles, constraint satisfaction, and pathfinding.
+___
+Tags : #ai #programming 

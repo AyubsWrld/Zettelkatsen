@@ -1,5 +1,5 @@
 - [ ] #theory Chapter 4 #inprogress
-	- [ ]   [[02 - Areas/Programming/Artificial Intelligence/Chapter 4/Local Search]] #medium
+	- [ ]   [[02 - Areas/Programming/Artificial Intelligence/Search within Complex Spaces/Local Search]] #medium
 	- [ ]  Search with non-deterministic actions #hard
 	- [ ] Search with partial observations #hard
 	- [ ] Exploration problems and on-line search #hard

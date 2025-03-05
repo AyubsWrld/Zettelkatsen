@@ -6,12 +6,12 @@ ___
 ## Functions 
 ____
 - [ ] [[Introduction to functions]] #cppfunctions
-- [ ] [[Function return values (value-returning functions)]] #cppfunctions
+- [x] [[Function return values (value-returning functions)]] #cppfunctions @completed(2025-03-05T14:52:35-07:00)
 - [ ] [[Void functions (non-value returning functions)]] #cppfunctions
 - [ ] [[Introduction to function parameters and arguments]] #cppfunctions
 - [ ] [[Introduction to local scope]] #cppfunctions
 - [ ] [[Why functions are useful, and how to use them effectively]] #cppfunctions #easy
-- [ ] [[Forward declarations and definitions]] #cppfunctions
+- [x] [[Forward declarations and definitions]] #cppfunctions @completed(2025-03-05T14:52:39-07:00)
 - [ ] [[Programs with multiple code files]] #cppfunctions
 - [ ] [[Naming collisions and an introduction to namespaces]] #cppfunctions
 - [ ] [[Introduction to the preprocessor]] #cppfunctions

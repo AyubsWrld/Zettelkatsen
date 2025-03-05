@@ -1,4 +1,4 @@
-- [[02 - Areas/Programming/Artificial Intelligence/Chapter 4/Local Search]]
+- [[02 - Areas/Programming/Artificial Intelligence/Search within Complex Spaces/Local Search]]
 	- [[Hill-climbing]]
 - [[Search with non-deterministic actions]]
 - [[Search with partial observations]]

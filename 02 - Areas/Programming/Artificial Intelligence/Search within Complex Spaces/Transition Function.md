@@ -1,0 +1,1 @@
+Determines how an agent moves from one state to the next given a specific input . This can occur either deterministically ( One to One mapping of Action to output ) or Non-deterministically ( Mapping to a set or probability distribution of possible next states ) . 

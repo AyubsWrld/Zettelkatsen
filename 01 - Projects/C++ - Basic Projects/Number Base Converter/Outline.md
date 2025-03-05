@@ -1,0 +1,4 @@
+- Converts numbers between decimal, binary, and hexadecimal
+- Allows user to input numbers in different bases
+- Displays conversions with explanatory text
+- Includes error handling for invalid inputs
