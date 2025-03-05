@@ -35,3 +35,83 @@
     border-radius: 20px;
     padding: 4px 6px;
 }
+/* #cppbasics - Light Blue Text with Semi-Transparent Blue Background */
+.tag[href*="cppbasics"] {
+    color: #03A9F4; /* Light Blue Text */
+    background-color: rgba(3, 169, 244, 0.3); /* Blue Background with 30% Opacity */
+    border-radius: 20px;
+    padding: 2px 5px;
+}
+
+/* #cppfunctions - Green Text with Semi-Transparent Green Background */
+.tag[href*="cppfunctions"] {
+    color: #4CAF50; /* Green Text */
+    background-color: rgba(76, 175, 80, 0.3); /* Green Background with 30% Opacity */
+    border-radius: 20px;
+    padding: 2px 5px;
+}
+
+/* #cppdebugging - Red Text with Semi-Transparent Red Background */
+.tag[href*="cppdebugging"] {
+    color: #F44336; /* Red Text */
+    background-color: rgba(244, 67, 54, 0.3); /* Red Background with 30% Opacity */
+    border-radius: 20px;
+    padding: 2px 5px;
+}
+
+/* #cppdatatypes - Yellow Text with Semi-Transparent Yellow Background */
+.tag[href*="cppdatatypes"] {
+    color: #FFEB3B; /* Yellow Text */
+    background-color: rgba(255, 235, 59, 0.3); /* Yellow Background with 30% Opacity */
+    border-radius: 20px;
+    padding: 2px 5px;
+}
+
+/* #cppconstants - Purple Text with Semi-Transparent Purple Background */
+.tag[href*="cppconstants"] {
+    color: #9C27B0; /* Purple Text */
+    background-color: rgba(155, 39, 176, 0.3); /* Purple Background with 30% Opacity */
+    border-radius: 20px;
+    padding: 2px 5px;
+}
+
+/* #cppstrings - Pink Text with Semi-Transparent Pink Background */
+.tag[href*="cppstrings"] {
+    color: #E91E63; /* Pink Text */
+    background-color: rgba(233, 30, 99, 0.3); /* Pink Background with 30% Opacity */
+    border-radius: 20px;
+    padding: 2px 5px;
+}
+
+/* #operators - Orange Text with Semi-Transparent Orange Background */
+.tag[href*="operators"] {
+    color: #FF9800; /* Orange Text */
+    background-color: rgba(255, 152, 0, 0.3); /* Orange Background with 30% Opacity */
+    border-radius: 20px;
+    padding: 2px 5px;
+}
+
+/* #cpplinking - Teal Text with Semi-Transparent Teal Background */
+.tag[href*="cpplinking"] {
+    color: #009688; /* Teal Text */
+    background-color: rgba(0, 150, 136, 0.3); /* Teal Background with 30% Opacity */
+    border-radius: 20px;
+    padding: 2px 5px;
+}
+
+.cm-s-obsidian span.cm-formatting-highlight, .cm-s-obsidian span.cm-highlight {
+    background-color: rgba(30, 100 , 200 , 0.4);  /* Light blue background */
+    color: white;  
+    border-radius: 5px;  
+    padding :2px 5px ;
+}
+
+img {
+    border: 5px solid #add8e6;  /* Light blue border */
+    border-radius: 10px;        /* Rounded corners */
+    padding: 5px;               /* Space between image and border */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Soft shadow around the image */
+    max-width: 100%;            /* Make sure the image is responsive */
+    display: block;             /* Ensures the image doesn't have space below it */
+    margin: 10px auto;          /* Centers the image with margin around it */
+}

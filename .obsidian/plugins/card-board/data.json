@@ -92,6 +92,86 @@
         "name": "CMPT496",
         "showColumnTags": true,
         "showFilteredTags": true
+      },
+      {
+        "columns": [
+          {
+            "tag": "namedTag",
+            "data": {
+              "collapsed": false,
+              "name": "Basics",
+              "tag": "#cppbasics"
+            }
+          },
+          {
+            "tag": "namedTag",
+            "data": {
+              "collapsed": false,
+              "name": "Functions & Files",
+              "tag": "#cppfunctions"
+            }
+          },
+          {
+            "tag": "namedTag",
+            "data": {
+              "collapsed": false,
+              "name": "Debugging",
+              "tag": "#cppdebugging"
+            }
+          },
+          {
+            "tag": "namedTag",
+            "data": {
+              "collapsed": false,
+              "name": "Fundamental Data Types",
+              "tag": "#cppdatatypes"
+            }
+          },
+          {
+            "tag": "namedTag",
+            "data": {
+              "collapsed": false,
+              "name": "Constants",
+              "tag": "#cppconstants"
+            }
+          },
+          {
+            "tag": "namedTag",
+            "data": {
+              "collapsed": false,
+              "name": "Strings",
+              "tag": "#cppstrings"
+            }
+          },
+          {
+            "tag": "namedTag",
+            "data": {
+              "collapsed": false,
+              "name": "Operators",
+              "tag": "#cppoperators"
+            }
+          },
+          {
+            "tag": "completed",
+            "data": {
+              "collapsed": false,
+              "index": 7,
+              "limit": 999,
+              "name": "Completed"
+            }
+          }
+        ],
+        "filters": [
+          {
+            "tag": "fileFilter",
+            "data": "Kanban Boards/C++.md"
+          }
+        ],
+        "filterPolarity": "Allow",
+        "filterScope": "Both",
+        "name": "C++",
+        "showColumnTags": true,
+        "showFilteredTags": true
       }
     ],
     "globalSettings": {
