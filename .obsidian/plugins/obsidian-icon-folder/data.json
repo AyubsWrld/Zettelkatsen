@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiNotepadTextDashed",
+      "LiHeater",
+      "LiImages",
       "🪧",
-      "LiSchool",
-      "LiCpu",
-      "LiCalendar",
-      "LiMove3d"
+      "LiSchool"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -47,5 +47,8 @@
   "01 - Projects/Graphite": "LiCpu",
   "01 - Projects/Keeper": "LiSchool",
   "00 - Flashcards": "🪧",
-  "03 - Resources/C++ Primer": "LiCode"
+  "03 - Resources/C++ Primer": "LiCode",
+  "Images": "LiImages",
+  "06 - Daily/Heatmaps": "LiHeater",
+  "06 - Daily/Notes": "LiNotepadTextDashed"
 }

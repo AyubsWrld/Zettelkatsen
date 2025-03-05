@@ -12,5 +12,7 @@
   "omnisearch",
   "heatmap-calendar",
   "contribution-graph",
-  "dataview"
+  "dataview",
+  "journals",
+  "templater-obsidian"
 ]

@@ -1,0 +1,210 @@
+{
+  "version": 2,
+  "ui": {
+    "calendarShelf": null
+  },
+  "pendingMigrations": [],
+  "useShelves": true,
+  "showReloadHint": false,
+  "openOnStartup": "School",
+  "journals": {
+    "School": {
+      "name": "School",
+      "shelves": [],
+      "write": {
+        "type": "day"
+      },
+      "confirmCreation": false,
+      "nameTemplate": "{{date}}",
+      "dateFormat": "YYYY-MM-DD",
+      "folder": "",
+      "templates": [],
+      "start": "",
+      "end": {
+        "type": "never"
+      },
+      "index": {
+        "enabled": false,
+        "anchorDate": "",
+        "anchorIndex": 1,
+        "allowBefore": false,
+        "type": "increment",
+        "resetAfter": 2
+      },
+      "autoCreate": false,
+      "commands": [],
+      "decorations": [
+        {
+          "mode": "and",
+          "conditions": [
+            {
+              "type": "has-note"
+            }
+          ],
+          "styles": [
+            {
+              "type": "shape",
+              "shape": "circle",
+              "color": {
+                "type": "theme",
+                "name": "interactive-accent"
+              },
+              "placement_x": "center",
+              "placement_y": "bottom"
+            }
+          ]
+        }
+      ],
+      "navBlock": {
+        "type": "create",
+        "decorateWholeBlock": false,
+        "rows": [
+          {
+            "template": "{{date:ddd}}",
+            "fontSize": 1,
+            "bold": false,
+            "italic": false,
+            "link": "none",
+            "journal": "",
+            "color": {
+              "type": "theme",
+              "name": "text-normal"
+            },
+            "background": {
+              "type": "transparent"
+            },
+            "addDecorations": false
+          },
+          {
+            "template": "{{date:D}}",
+            "fontSize": 3,
+            "bold": true,
+            "italic": false,
+            "link": "self",
+            "journal": "",
+            "color": {
+              "type": "theme",
+              "name": "text-normal"
+            },
+            "background": {
+              "type": "transparent"
+            },
+            "addDecorations": true
+          },
+          {
+            "template": "{{relative_date}}",
+            "fontSize": 0.7,
+            "bold": false,
+            "italic": false,
+            "link": "none",
+            "journal": "",
+            "color": {
+              "type": "theme",
+              "name": "text-normal"
+            },
+            "background": {
+              "type": "transparent"
+            },
+            "addDecorations": false
+          },
+          {
+            "template": "{{date:[W]w}}",
+            "fontSize": 1,
+            "bold": false,
+            "italic": false,
+            "link": "week",
+            "journal": "",
+            "color": {
+              "type": "theme",
+              "name": "text-normal"
+            },
+            "background": {
+              "type": "transparent"
+            },
+            "addDecorations": false
+          },
+          {
+            "template": "{{date:MMMM}}",
+            "fontSize": 1,
+            "bold": false,
+            "italic": false,
+            "link": "month",
+            "journal": "",
+            "color": {
+              "type": "theme",
+              "name": "text-normal"
+            },
+            "background": {
+              "type": "transparent"
+            },
+            "addDecorations": false
+          },
+          {
+            "template": "{{date:YYYY}}",
+            "fontSize": 1,
+            "bold": false,
+            "italic": false,
+            "link": "year",
+            "journal": "",
+            "color": {
+              "type": "theme",
+              "name": "text-normal"
+            },
+            "background": {
+              "type": "transparent"
+            },
+            "addDecorations": false
+          }
+        ]
+      },
+      "calendarViewBlock": {
+        "rows": [],
+        "decorateWholeBlock": false
+      },
+      "frontmatter": {
+        "dateField": "",
+        "addStartDate": false,
+        "startDateField": "",
+        "addEndDate": false,
+        "endDateField": "",
+        "indexField": ""
+      }
+    }
+  },
+  "shelves": {
+    "School": {
+      "name": "School",
+      "journals": []
+    }
+  },
+  "calendar": {
+    "dow": -1,
+    "doy": 1
+  },
+  "calendarView": {
+    "display": "month",
+    "leaf": "left",
+    "weeks": "left",
+    "todayMode": "navigate",
+    "pickMode": "create",
+    "todayStyle": {
+      "color": {
+        "type": "theme",
+        "name": "text-accent"
+      },
+      "background": {
+        "type": "transparent"
+      }
+    },
+    "activeStyle": {
+      "color": {
+        "type": "theme",
+        "name": "text-on-accent"
+      },
+      "background": {
+        "type": "theme",
+        "name": "interactive-accent"
+      }
+    }
+  }
+}

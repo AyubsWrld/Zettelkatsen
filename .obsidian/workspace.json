@@ -4,63 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "c646c913b01ca5fc",
-        "type": "split",
+        "id": "3e5086dd3900e381",
+        "type": "tabs",
         "children": [
           {
-            "id": "3e5086dd3900e381",
-            "type": "tabs",
-            "dimension": 72.01447527141134,
-            "children": [
-              {
-                "id": "766ff816cd01fd77",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "00 - Flashcards/Artificial Intelligence/Adversarial/Adversarial Search.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Adversarial Search"
-                }
-              }
-            ]
-          },
-          {
-            "id": "30290b36a6ab2811",
-            "type": "tabs",
-            "dimension": 27.98552472858866,
-            "children": [
-              {
-                "id": "a27fbeed49246329",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "06 - Daily/Heatmaps/Heatmaps.md",
-                    "mode": "preview",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Heatmaps"
-                }
+            "id": "766ff816cd01fd77",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "06 - Daily/Notes/2025-03-04.md",
+                "mode": "source",
+                "source": false
               },
-              {
-                "id": "571eeeb8a74e0598",
-                "type": "leaf",
-                "state": {
-                  "type": "empty",
-                  "state": {},
-                  "icon": "lucide-file",
-                  "title": "New tab"
-                }
-              }
-            ]
+              "icon": "lucide-file",
+              "title": "2025-03-04"
+            }
           }
-        ],
-        "direction": "vertical"
+        ]
       }
     ],
     "direction": "vertical"
@@ -72,6 +33,7 @@
       {
         "id": "6b35dedd5c907a59",
         "type": "tabs",
+        "dimension": 35.36,
         "children": [
           {
             "id": "bdf7cad2e300c825",
@@ -114,10 +76,27 @@
             }
           }
         ]
+      },
+      {
+        "id": "1f2170a804b8a8ea",
+        "type": "tabs",
+        "dimension": 64.64,
+        "children": [
+          {
+            "id": "d16c422955a971be",
+            "type": "leaf",
+            "state": {
+              "type": "journal-calendar",
+              "state": {},
+              "icon": "calendar-days",
+              "title": "Calendar"
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 218.5
+    "width": 318.5
   },
   "right": {
     "id": "817588c37efe10fd",
@@ -226,7 +205,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 7
       }
     ],
     "direction": "horizontal",
@@ -235,6 +214,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "card-board:CardBoard": false,
       "omnisearch:Omnisearch": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
@@ -246,15 +226,21 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false,
       "obsidian-spaced-repetition:Review flashcards": false,
-      "card-board:CardBoard": false
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "766ff816cd01fd77",
+  "active": "bdf7cad2e300c825",
   "lastOpenFiles": [
+    "06 - Daily/Notes/2025-03-04.md",
+    "06 - Daily/Notes",
+    "2025-03-12.md",
+    "2025-03-10.md",
+    "2025-03-11.md",
+    "00 - Flashcards/Artificial Intelligence/Adversarial/Adversarial Search.md",
+    "06 - Daily/Heatmaps/Heatmaps.md",
+    "Calendar.md",
     "Images/Pasted image 20250304211518.png",
     "Images",
-    "06 - Daily/Heatmaps/Heatmaps.md",
-    "00 - Flashcards/Artificial Intelligence/Adversarial/Adversarial Search.md",
     "06 - Daily/Heatmaps",
     "00 - Flashcards/Artificial Intelligence/Search within Complex Environments",
     "00 - Flashcards/Artificial Intelligence/Adversarial",
@@ -279,14 +265,8 @@
     "01 - Projects/Keeper/Native APIs/ios/Counter.m/@end.md",
     "01 - Projects/Keeper/Screentime API/Managed Settings/Tokens.md",
     "01 - Projects/Keeper/Screentime API/Managed Settings/ShieldActionDelegate.md",
-    "01 - Projects/Keeper/Screentime API/Managed Settings/Managed Settings.md",
-    "01 - Projects/Keeper/Screentime API/Managed Settings/bundleIdentifier.md",
-    "01 - Projects/Keeper/Screentime API/Managed Settings/Application Token.md",
-    "01 - Projects/Keeper/System Design/Classes/User Manager.md",
-    "01 - Projects/Keeper/System Design/Classes/Sessions.md",
     "01 - Projects/Keeper/Native APIs/ios/Counter.swift",
     "01 - Projects/Keeper/Native APIs/ios/ScreenTimeBridge",
-    "01 - Projects/Keeper/Native APIs/ios/Counter.m",
     "01 - Projects/Keeper/System Design/Flow.canvas",
     "01 - Projects/Keeper/Miscellanous/Keepr Outline.canvas",
     "01 - Projects/Keeper/Native APIs/File Interactions.canvas",
@@ -305,7 +285,6 @@
     "Math/Linear Algebra/Images/Pasted image 20241208213241.png",
     "Math/Linear Algebra/Chapter 5 - Eigenvalues and Eigenvectors/5.5 - Complex Eigenvalues/Image one.png",
     "Pasted image 20241027180249.png",
-    "07 - Archives/Images/Pasted image 20241027175947.png",
-    "07 - Archives/Images/Pasted image 20241027175702.png"
+    "07 - Archives/Images/Pasted image 20241027175947.png"
   ]
 }
