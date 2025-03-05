@@ -6,6 +6,7 @@
     "Local Search",
     "Colored Sidebar Items"
   ],
-  "interfaceFontFamily": "JetBrainsMono Nerd Font",
-  "textFontFamily": "JetBrainsMono Nerd Font"
+  "interfaceFontFamily": "JetBrainsMono Nerd Font,JetBrains Mono",
+  "textFontFamily": "JetBrainsMono Nerd Font,JetBrains Mono",
+  "monospaceFontFamily": "JetBrains Mono"
 }

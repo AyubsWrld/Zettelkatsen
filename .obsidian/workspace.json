@@ -8,16 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "f812c49c1435b627",
-            "type": "leaf",
-            "state": {
-              "type": "card-board-view",
-              "state": {},
-              "icon": "card-board",
-              "title": "CardBoard"
-            }
-          },
-          {
             "id": "416e996626003594",
             "type": "leaf",
             "state": {
@@ -51,12 +41,22 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04 - Permanent/Initial.md",
+                "file": "99 - Kanban Boards/C++.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Initial"
+              "title": "C++"
+            }
+          },
+          {
+            "id": "59d15891d6e1fb70",
+            "type": "leaf",
+            "state": {
+              "type": "card-board-view",
+              "state": {},
+              "icon": "card-board",
+              "title": "CardBoard"
             }
           }
         ],
@@ -251,8 +251,8 @@
   },
   "active": "bdf7cad2e300c825",
   "lastOpenFiles": [
-    "05 - Fleeting/Initial.md",
     "04 - Permanent/Initial.md",
+    "05 - Fleeting/Initial.md",
     "06 - Daily/Initial.md",
     "Untitled.canvas",
     "07 - Archives",
@@ -283,18 +283,18 @@
     "Kanban.md",
     "02 - Areas/Game Dev/Basic Actor Setup.md",
     "01 - Projects/Dates/PHIL330.md",
-    "01 - Projects/Project Planning/Graphite/Timeline/Week of January 19.md",
+    "01 - Projects/Graphite/Timeline/Week of January 19.md",
     "01 - Projects/Dates/CMPT310.md",
     "Objectives/2025-01-26.md",
-    "01 - Projects/Project Planning/Graphite/Timeline/Week of January 26.md",
+    "01 - Projects/Graphite/Timeline/Week of January 26.md",
     "02 - Areas/Programming/Artificial Intelligence/Chapter 4",
     "01 - Projects/C++ Primer/Functions & Files",
-    "01 - Projects/Project Planning/Graphite/Wi-Fi setup.canvas",
-    "01 - Projects/Project Planning/Graphite/FTP Setup.canvas",
-    "01 - Projects/Project Planning/Graphite/Primitives/Primitives.canvas",
-    "01 - Projects/Project Planning/Graphite/Hardware/ESP-IDF Notes/Bluetooth Low Energy/Generic Attribute Server Setup/Node Representation.canvas",
+    "01 - Projects/Graphite/Wi-Fi setup.canvas",
+    "01 - Projects/Graphite/FTP Setup.canvas",
+    "01 - Projects/Graphite/Primitives/Primitives.canvas",
+    "01 - Projects/Graphite/Hardware/ESP-IDF Notes/Bluetooth Low Energy/Generic Attribute Server Setup/Node Representation.canvas",
     "02 - Areas/Programming/Algorithms/Final Outline.canvas",
-    "01 - Projects/Project Planning/Keeper/Flowchart.canvas",
+    "01 - Projects/Keeper/Flowchart.canvas",
     "Math/Linear Algebra/Images/Pasted image 20241208221515.png",
     "Math/Linear Algebra/Images/Pasted image 20241208214343.png",
     "Math/Linear Algebra/Images/Pasted image 20241208214038.png",
@@ -302,9 +302,9 @@
     "Math/Linear Algebra/Images/Pasted image 20241208213241.png",
     "02 - Areas/Programming/Algorithms/Dynamic Programming/Outline.canvas",
     "Math/Linear Algebra/Chapter 5 - Eigenvalues and Eigenvectors/5.5 - Complex Eigenvalues/Image one.png",
-    "01 - Projects/Project Planning/Keeper/System Design/Flow.canvas",
+    "01 - Projects/Keeper/System Design/Flow.canvas",
     "Pasted image 20241027180249.png",
-    "01 - Projects/Project Planning/Keeper/Miscellanous/Keepr Outline.canvas",
+    "01 - Projects/Keeper/Miscellanous/Keepr Outline.canvas",
     "07 - Archives/Images/Pasted image 20241027175947.png",
     "07 - Archives/Images/Pasted image 20241027175702.png"
   ]
