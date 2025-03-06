@@ -1,0 +1,6 @@
+[C++17 In Detail:](https://www.amazon.com/dp/1798834065?linkCode=sl2&tag=onamzcodingje-20&creativeASIN=1798834065&asc_item-id=amzn1.ideas.1UYHUKJYRQ8AT&ref_=aip_sf_list_spv_ofs_d_asin)
+[Effective Modern C++: 42 Specific Ways to Improve](https://www.amazon.com/dp/1491903996?linkCode=sl2&tag=onamzcodingje-20&creativeASIN=1491903996&asc_item-id=amzn1.ideas.1UYHUKJYRQ8AT&ref_=aip_sf_list_spv_ofs_d_asin)
+[C++ Software Design:](https://www.amazon.com/dp/1098113160?linkCode=sl2&tag=onamzcodingje-20&creativeASIN=1098113160&asc_item-id=amzn1.ideas.1UYHUKJYRQ8AT&ref_=aip_sf_list_spv_ofs_d_asin)
+[Inside the Machine:](https://www.amazon.com/dp/1593276680?linkCode=sl2&tag=onamzcodingje-20&creativeASIN=1593276680&asc_item-id=amzn1.ideas.1UYHUKJYRQ8AT&ref_=aip_sf_list_spv_ofs_d_asin)
+[Operating Systems: Three Easy Pieces](https://www.amazon.com/dp/B00TPZ17O4?linkCode=sl2&tag=onamzcodingje-20&creativeASIN=B00TPZ17O4&asc_item-id=amzn1.ideas.1UYHUKJYRQ8AT&ref_=aip_sf_list_spv_ofs_d_asin)
+[Beautiful C++](https://www.amazon.com/dp/B09HTH1X38?linkCode=sl2&tag=onamzcodingje-20&creativeASIN=B09HTH1X38&asc_item-id=amzn1.ideas.1UYHUKJYRQ8AT&ref_=aip_sf_list_spv_ofs_d_asin)

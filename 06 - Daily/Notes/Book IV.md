@@ -1,0 +1,11 @@
+- Our minds are extremely malleable , the art we consume dictates how we act . If we want a strong society then we must tell stories of strength and grit .  
+- Homer -> Hell is scary -> Heroes cowering in Hell -> makes people less likely to display courage . 
+- Sacrifice realism for instilling virtues within people . 
+- Mimesis , We unconsciously absorb what we consume and become like it . Therefore art should focus on representing virtue , not vice . Careful curation , health of individual depends on health of society/art . 
+- For example theatre , they should not play parts of different social structures . 
+- Music and gymnastics . Education should shape the body and soul . both were essential  
+- Certain musical forms could be detrimental for a persons well being . 
+- Gymnastics was not just for gaining muscle but for confidence and physical well being . 
+- Ideal physician and Ideal Judge 
+- Ideal Physician : Should have experienced illness themselves . Personal experience with ailments fosters compassion and understanding . Must also be resilient to deal with this . 
+- Ideal judge : True wisdom comes from examining human nature over time ( Long time ) . 
