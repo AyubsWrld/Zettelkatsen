@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiGamepad",
       "LiNotepadTextDashed",
       "LiHeater",
       "LiImages",
-      "🪧",
-      "LiSchool"
+      "🪧"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -50,5 +50,6 @@
   "Images": "LiImages",
   "06 - Daily/Heatmaps": "LiHeater",
   "06 - Daily/Notes": "LiNotepadTextDashed",
-  "03 - Resources/C++": "LiCode"
+  "03 - Resources/C++": "LiCode",
+  "01 - Projects/Chip-8 Emulator": "LiGamepad"
 }
