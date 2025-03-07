@@ -52,3 +52,8 @@ When do Preprocessor Directives discard identifiers ? ;; When the identifiers ar
 
 What is a transitive include ? ;; When you `#include` something into one file but that file contained `#include` to another file . 
 
+
+What are header guards and how do they work ? ;; Header guards utilize Conditional Compilation directives to include class definitions so that they are not included within the same 
+
+
+What is an alternative for basic header guards ? ;; `#pragma once` 
