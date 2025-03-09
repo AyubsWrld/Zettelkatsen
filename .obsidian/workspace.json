@@ -4,95 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "4d47622cf04dc235",
+        "id": "2d5d05983739ff4c",
         "type": "tabs",
         "children": [
           {
-            "id": "316e335a44d7b313",
+            "id": "f2b41627c612077d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 - Flashcards/C++/Preprocessor/Preprocessor.md",
+                "file": "06 - Daily/Notes/2025-03-09.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Preprocessor"
-            }
-          },
-          {
-            "id": "ba98e90dff5abc51",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "03 - Resources/Programming Methodologies/Writing a program.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Writing a program"
-            }
-          },
-          {
-            "id": "d74669c2863d9f79",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00 - Flashcards/C++/Debugging/Debugging.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Debugging"
-            }
-          },
-          {
-            "id": "37f8c69f80309652",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00 - Flashcards/C++/Functions/Functions.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Functions"
-            }
-          },
-          {
-            "id": "f3242050febac192",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00 - Flashcards/C++/Linker/Linker.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Linker"
-            }
-          },
-          {
-            "id": "8b04ea375a52695f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "06 - Daily/Notes/2025-03-07.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2025-03-07"
+              "title": "2025-03-09"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -266,7 +195,7 @@
             }
           },
           {
-            "id": "e7205f6d827f8178",
+            "id": "cffa68cd84a8c608",
             "type": "leaf",
             "state": {
               "type": "side-panel-control-view",
@@ -280,8 +209,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -300,17 +228,28 @@
       "card-board:CardBoard": false
     }
   },
-  "active": "d74669c2863d9f79",
+  "active": "f2b41627c612077d",
   "lastOpenFiles": [
-    "00 - Flashcards/C++/Functions/Functions.md",
-    "00 - Flashcards/C++/Debugging/Debugging.md",
+    "06 - Daily/Notes/2025-03-08.md",
+    "06 - Daily/Notes/2025-03-07.md",
+    "02 - Areas/Philosophy/Plato/Republic/Book IV.md",
+    "03 - Resources/C++/libcurl/Example receiving data.md",
+    "03 - Resources/C++/libcurl/Setting up.md",
+    "Images/code_20250308_122027_via_10015_io.png",
     "03 - Resources/Programming Methodologies/Writing a program.md",
-    "00 - Flashcards/C++/Debugging",
+    "03 - Resources/C++/libcurl",
+    "00 - Flashcards/C++/Data Types/Data Types.md",
+    "Images/Pasted image 20250307235012.png",
+    "Images/Pasted image 20250307225343.png",
+    "00 - Flashcards/C++/Functions/Functions.md",
+    "00 - Flashcards/C++/Data Types",
+    "02 - Areas/Philosophy/Plato/Republic/Book III.md",
     "00 - Flashcards/C++/Preprocessor/Preprocessor.md",
+    "00 - Flashcards/C++/Debugging/Debugging.md",
+    "00 - Flashcards/C++/Debugging",
     "03 - Resources/Programming Methodologies",
     "03 - Resources/C++/Functions & Files/Introduction to function parameters and arguments.md",
     "00 - Flashcards/C++/Linker/Linker.md",
-    "06 - Daily/Notes/2025-03-07.md",
     "06 - Daily/Notes/2025-03-05.md",
     "Images/Pasted image 20250306165736.png",
     "Images/Pasted image 20250306165404.png",
@@ -332,20 +271,11 @@
     "00 - Flashcards/C++/Regex/Regex.md",
     "00 - Flashcards/C++/Regex",
     "00 - Flashcards/C++/Preprocessor",
-    "00 - Flashcards/C++/Namespaces",
-    "00 - Flashcards/C++/Linker",
     "00 - Flashcards/C++/Namespaces/Namespaces.md",
     "03 - Resources/C++/Functions & Files/Forward declarations and definitions.md",
     "99 - Kanban Boards/C++.md",
     "Boolean values.md",
     "06 - Daily/Notes/Untitled.md",
-    "06 - Daily/Notes/2025-03-06.md",
-    "06 - Daily/Notes/2025-03-08.md",
-    "06 - Daily/Notes/2025-03-10.md",
-    "00 - Flashcards/Artificial Intelligence/Search within Complex Environments/Search within Complex Environments.md",
-    "02 - Areas/Programming/Artificial Intelligence/Search within Complex Spaces/Long Walk Problem.md",
-    "02 - Areas/Programming/Artificial Intelligence/Search within Complex Spaces/Belief state space.md",
-    "Images/Pasted image 20250304211518.png",
     "01 - Projects/Keeper/System Design/Flow.canvas",
     "01 - Projects/Keeper/Miscellanous/Keepr Outline.canvas",
     "01 - Projects/Keeper/Native APIs/File Interactions.canvas",
@@ -355,8 +285,6 @@
     "01 - Projects/Graphite/Wi-Fi setup.canvas",
     "01 - Projects/Graphite/FTP Setup.canvas",
     "Untitled.canvas",
-    "07 - Archives/Images/Pasted image 20250304175028.png",
-    "01 - Projects/Project Planning/Graphite/Wi-Fi setup.canvas",
-    "Math/Linear Algebra/Images/Pasted image 20241208221515.png"
+    "01 - Projects/Project Planning/Graphite/Wi-Fi setup.canvas"
   ]
 }
