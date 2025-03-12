@@ -1,0 +1,39 @@
+{
+	"nodes":[
+		{"id":"b42def952ddb64db","type":"text","text":"[[Wumpus World]]","x":-890,"y":40,"width":199,"height":60,"color":"1"},
+		{"id":"e1660afc634689b3","type":"text","text":"[[Knowledge-based agent]]","x":-300,"y":-180,"width":250,"height":60,"color":"1"},
+		{"id":"c243f0f4f6420eab","type":"text","text":"[[00 - Flashcards/Artificial Intelligence/Logical Agents/Logical Agents|Logical Agents]]","x":-790,"y":-180,"width":218,"height":60,"color":"1"},
+		{"id":"58f0c15bdc53e83e","type":"text","text":"[[Knowledge-Bases]]","x":-284,"y":-400,"width":218,"height":60,"color":"2"},
+		{"id":"f18d708877e12afb","type":"text","text":"[[Declarative Approach]]","x":-306,"y":75,"width":256,"height":60,"color":"2"},
+		{"id":"211ed7891bf77d25","type":"text","text":"[[Implementation Level]]","x":40,"y":420,"width":260,"height":60,"color":"2"},
+		{"id":"ec167a17ffee2b2c","type":"text","text":"Levels","x":-248,"y":260,"width":140,"height":50,"color":"2"},
+		{"id":"15e7196f17135b70","type":"text","text":"[[Knowledge Level]]","x":-600,"y":420,"width":218,"height":60,"color":"2"},
+		{"id":"915d91f93a418823","type":"text","text":"[[Fully Observable]]","x":-1211,"y":380,"width":231,"height":60,"color":"1"},
+		{"id":"d604b4cc8d1447e3","type":"text","text":"[[Episodic]]","x":-1410,"y":260,"width":160,"height":60,"color":"1"},
+		{"id":"750e14e842d84624","type":"text","text":"[[Deterministic]]","x":-1500,"y":70,"width":250,"height":60,"color":"1"},
+		{"id":"fcf9fce36a79247f","type":"text","text":"[[Static]]","x":-861,"y":380,"width":141,"height":60,"color":"1"},
+		{"id":"2945cc7f031bf9f6","type":"text","text":"[[Discrete]]","x":-1485,"y":460,"width":150,"height":60,"color":"1"},
+		{"id":"def03ef41479c016","type":"text","text":"[[Logical Statements]]","x":-1340,"y":-180,"width":330,"height":60,"color":"2"},
+		{"id":"13d3c440642a14e9","type":"text","text":"[[Entailments]]","x":-1720,"y":-320,"width":170,"height":60,"color":"1"},
+		{"id":"7d0a51b7a8325e6a","type":"text","text":"[[Models]]","x":-1237,"y":-460,"width":125,"height":60,"color":"2"},
+		{"id":"a4c2c4b09f7b48fc","x":-1860,"y":-541,"width":250,"height":60,"color":"1","type":"text","text":"[[Inference]]"}
+	],
+	"edges":[
+		{"id":"f0e70018f801e507","fromNode":"c243f0f4f6420eab","fromSide":"bottom","toNode":"b42def952ddb64db","toSide":"top","label":"Test efficacy using"},
+		{"id":"9c0f8d45c75eb332","fromNode":"c243f0f4f6420eab","fromSide":"right","toNode":"e1660afc634689b3","toSide":"left","label":"are"},
+		{"id":"0aea8eef1f17d33d","fromNode":"e1660afc634689b3","fromSide":"top","toNode":"58f0c15bdc53e83e","toSide":"bottom","label":"That use"},
+		{"id":"6bdd8c7c06217831","fromNode":"e1660afc634689b3","fromSide":"bottom","toNode":"f18d708877e12afb","toSide":"top","label":"Implemented using"},
+		{"id":"d055166544b3b6d9","fromNode":"f18d708877e12afb","fromSide":"bottom","toNode":"ec167a17ffee2b2c","toSide":"top","label":"Has 2"},
+		{"id":"80d843e541085e22","fromNode":"ec167a17ffee2b2c","fromSide":"left","toNode":"15e7196f17135b70","toSide":"right"},
+		{"id":"cb77fe9ae05ea628","fromNode":"ec167a17ffee2b2c","fromSide":"right","toNode":"211ed7891bf77d25","toSide":"left"},
+		{"id":"2ccbe2fa2e4be15d","fromNode":"b42def952ddb64db","fromSide":"left","toNode":"750e14e842d84624","toSide":"right","label":"Is"},
+		{"id":"c19b5ff78bc4c2aa","fromNode":"b42def952ddb64db","fromSide":"bottom","toNode":"915d91f93a418823","toSide":"top","label":"Is not"},
+		{"id":"c873b5efcc03cd5f","fromNode":"b42def952ddb64db","fromSide":"left","toNode":"d604b4cc8d1447e3","toSide":"right","label":"Is not"},
+		{"id":"12c16195c4673f84","fromNode":"b42def952ddb64db","fromSide":"bottom","toNode":"fcf9fce36a79247f","toSide":"top","label":"Is"},
+		{"id":"8c32184329f4d986","fromNode":"b42def952ddb64db","fromSide":"bottom","toNode":"2945cc7f031bf9f6","toSide":"top","label":"Is"},
+		{"id":"86cc70aa11a0032b","fromNode":"c243f0f4f6420eab","fromSide":"left","toNode":"def03ef41479c016","toSide":"right"},
+		{"id":"7a64c8a89229d834","fromNode":"13d3c440642a14e9","fromSide":"right","toNode":"def03ef41479c016","toSide":"left","label":"Are"},
+		{"id":"82ac1d9b054155ff","fromNode":"def03ef41479c016","fromSide":"top","toNode":"7d0a51b7a8325e6a","toSide":"bottom","label":"make up"},
+		{"id":"6b93f251a3a9459d","fromNode":"13d3c440642a14e9","fromSide":"top","toNode":"a4c2c4b09f7b48fc","toSide":"bottom"}
+	]
+}
