@@ -1,0 +1,2 @@
+- Must be in Conjunctional Normal Form ( Product of sums )
+- 

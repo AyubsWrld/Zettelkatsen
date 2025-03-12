@@ -56,3 +56,4 @@ Why should we refrain from utilizing unsigned integers ? ;; We should refrain fr
 
 What does this code snippet output ![[Pasted image 20250307235012.png]] ;; 3 
 
+What are integral types ?? ;; Integer types : `bool` , `short` , `long` , etc. 
