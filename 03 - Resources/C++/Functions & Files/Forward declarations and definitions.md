@@ -31,3 +31,6 @@ A **definition** is a declaration that actually implements (for functions and 
 - **Types, templates, inline functions, and inline variables**: These can have duplicate definitions across different files, as long as each definition is identical.
 
 Violating part 1 of the ODR will cause the compiler to issue a redefinition error. Violating ODR part 2 will cause the linker to issue a redefinition error. Violating ODR part 3 will cause undefined behavior.
+
+___
+Tags :  #cppfunctions 

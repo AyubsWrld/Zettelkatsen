@@ -2,4 +2,4 @@ The `const` keyword does not always guarantee that a variable can be used in a c
 Both b , a are non-const whereas c is . 
 
 ___
-Tags : #progarmming #cpp 
+Tags : #programming #cpp 

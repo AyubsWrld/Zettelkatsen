@@ -63,4 +63,4 @@ int main(void)
 ```
 
 ___
-Tags : #progarmming #cpp
+Tags : #programming #cpp

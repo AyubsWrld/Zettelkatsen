@@ -16,7 +16,13 @@
 		{"id":"def03ef41479c016","type":"text","text":"[[Logical Statements]]","x":-1340,"y":-180,"width":330,"height":60,"color":"2"},
 		{"id":"13d3c440642a14e9","type":"text","text":"[[Entailments]]","x":-1720,"y":-320,"width":170,"height":60,"color":"1"},
 		{"id":"7d0a51b7a8325e6a","type":"text","text":"[[Models]]","x":-1237,"y":-460,"width":125,"height":60,"color":"2"},
-		{"id":"a4c2c4b09f7b48fc","x":-1860,"y":-541,"width":250,"height":60,"color":"1","type":"text","text":"[[Inference]]"}
+		{"id":"a4c2c4b09f7b48fc","type":"text","text":"[[Inference]]","x":-1860,"y":-541,"width":250,"height":60,"color":"1"},
+		{"id":"9fbb4992ce62da75","type":"text","text":"[[Adversarial Search]]","x":-911,"y":-1407,"width":250,"height":60,"color":"1"},
+		{"id":"5cc103dd8a1309a0","type":"text","text":"[[Alpha Beta Prunning]]","x":-915,"y":-1680,"width":254,"height":60,"color":"1"},
+		{"id":"7a06749c2073c851","type":"text","text":"[[Limitations of Alpha-beta pruning]]","x":-1240,"y":-1920,"width":394,"height":60,"color":"1"},
+		{"id":"4b8fee4ad41a8040","type":"text","text":"[[Monte Carlo Search]]","x":-540,"y":-1920,"width":250,"height":60,"color":"1"},
+		{"id":"4fbbf0b6512c0506","type":"text","text":"[[Minimax]] ","x":-1360,"y":-1566,"width":146,"height":60,"color":"1"},
+		{"id":"d4c3857e6b5add05","x":-555,"y":-1680,"width":281,"height":60,"color":"1","type":"text","text":"[[Upper Confidence Bound]]"}
 	],
 	"edges":[
 		{"id":"f0e70018f801e507","fromNode":"c243f0f4f6420eab","fromSide":"bottom","toNode":"b42def952ddb64db","toSide":"top","label":"Test efficacy using"},
@@ -34,6 +40,12 @@
 		{"id":"86cc70aa11a0032b","fromNode":"c243f0f4f6420eab","fromSide":"left","toNode":"def03ef41479c016","toSide":"right"},
 		{"id":"7a64c8a89229d834","fromNode":"13d3c440642a14e9","fromSide":"right","toNode":"def03ef41479c016","toSide":"left","label":"Are"},
 		{"id":"82ac1d9b054155ff","fromNode":"def03ef41479c016","fromSide":"top","toNode":"7d0a51b7a8325e6a","toSide":"bottom","label":"make up"},
-		{"id":"6b93f251a3a9459d","fromNode":"13d3c440642a14e9","fromSide":"top","toNode":"a4c2c4b09f7b48fc","toSide":"bottom"}
+		{"id":"6b93f251a3a9459d","fromNode":"13d3c440642a14e9","fromSide":"top","toNode":"a4c2c4b09f7b48fc","toSide":"bottom"},
+		{"id":"b879e8c4d57715f7","fromNode":"9fbb4992ce62da75","fromSide":"top","toNode":"5cc103dd8a1309a0","toSide":"bottom"},
+		{"id":"21c2d7de2fdcb2f3","fromNode":"5cc103dd8a1309a0","fromSide":"top","toNode":"7a06749c2073c851","toSide":"bottom","label":"Limited by"},
+		{"id":"6e43822fd95f4143","fromNode":"7a06749c2073c851","fromSide":"right","toNode":"4b8fee4ad41a8040","toSide":"left","label":"Solved by"},
+		{"id":"48483482cc1f11e5","fromNode":"9fbb4992ce62da75","fromSide":"left","toNode":"4fbbf0b6512c0506","toSide":"right"},
+		{"id":"38353fcc7694733b","fromNode":"4fbbf0b6512c0506","fromSide":"top","toNode":"5cc103dd8a1309a0","toSide":"left","label":"Utilizes"},
+		{"id":"a91db595c4c4deed","fromNode":"4b8fee4ad41a8040","fromSide":"bottom","toNode":"d4c3857e6b5add05","toSide":"top","label":"Utilizes"}
 	]
 }

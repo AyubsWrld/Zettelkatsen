@@ -1,5 +1,5 @@
 ___
-Tags: #cpp #progarmming 
+Tags: #cpp #programming
 ___
 
 What is a regular expression ? ;;  a sequence of symbols and characters expressing a string or pattern to be searched for within a longer piece of text.

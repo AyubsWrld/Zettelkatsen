@@ -35,18 +35,18 @@ ___
 
 ## Datatypes
 ___
-- [ ] [[Introduction to fundamental data types]] #cppdatatypes
-- [ ] [[Void]] #cppdatatypes
-- [ ] [[Object sizes and the sizeof operator]] #cppdatatypes
-- [ ] [[Signed integers]] #cppdatatypes
-- [ ] [[Unsigned integers, and why to avoid them]] #cppdatatypes
-- [ ] [[Fixed-width integers and size_t]] #cppdatatypes
-- [ ] [[Introduction to scientific notation]] #cppdatatypes
-- [ ] [[Floating point numbers]] #cppdatatypes
-- [ ] [[Boolean values]] #cppdatatypes
-- [ ] [[Introduction to if statements]] #cppdatatypes
-- [ ] [[Chars]] #cppdatatypes
-- [ ] [[Introduction to type conversion and static_cast]] #cppdatatypes
+- [x] [[Introduction to fundamental data types]] #cppdatatypes @completed(2025-03-14T19:05:13-06:00)
+- [x] [[Void]] #cppdatatypes @completed(2025-03-14T19:05:18-06:00)
+- [x] [[Object sizes and the sizeof operator]] #cppdatatypes @completed(2025-03-14T19:05:16-06:00)
+- [x] [[Signed integers]] #cppdatatypes @completed(2025-03-14T19:05:17-06:00)
+- [x] [[Unsigned integers, and why to avoid them]] #cppdatatypes @completed(2025-03-14T19:05:17-06:00)
+- [x] [[Fixed-width integers and size_t]] #cppdatatypes @completed(2025-03-14T19:05:10-06:00)
+- [x] [[Introduction to scientific notation]] #cppdatatypes @completed(2025-03-14T19:05:14-06:00)
+- [x] [[Floating point numbers]] #cppdatatypes @completed(2025-03-14T19:05:12-06:00)
+- [x] [[Boolean values]] #cppdatatypes @completed(2025-03-14T19:05:07-06:00)
+- [x] [[Introduction to if statements]] #cppdatatypes @completed(2025-03-14T19:05:14-06:00)
+- [x] [[Chars]] #cppdatatypes @completed(2025-03-14T19:05:08-06:00)
+- [x] [[Introduction to type conversion and static_cast]] #cppdatatypes @completed(2025-03-14T19:05:15-06:00)
 
 ## Constants
 ___
@@ -72,3 +72,4 @@ ___
 - [ ] [[The conditional operator]] #cppoperators
 - [ ] [[Relational operators and floating point comparisons]] #cppoperators
 - [ ] [[Logical operators]] #cppoperators
+

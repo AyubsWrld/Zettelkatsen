@@ -17,4 +17,4 @@ return 0 ;
 ```
 
 ___
-Tags : #progarmming #cpp 
+Tags : #programming #cpp 

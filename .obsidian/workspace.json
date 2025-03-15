@@ -6,74 +6,36 @@
       {
         "id": "ab1cb7daf7533ef3",
         "type": "tabs",
-        "dimension": 51.48594377510041,
         "children": [
           {
-            "id": "5d823661c7e8d1af",
+            "id": "21eb9b49bc72e179",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 - Resources/C++/Constants & Strings/Constants & Strings.md",
+                "file": "06 - Daily/Notes/2025-03-15.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Constants & Strings"
+              "title": "2025-03-15"
             }
           },
           {
-            "id": "8455624c37da2f6c",
+            "id": "9672ff0435b673d9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 - Resources/C++/Constants & Strings/Challenges with const variables.md",
+                "file": "03 - Resources/C++/libcurl/Example receiving data.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Challenges with const variables"
+              "title": "Example receiving data"
             }
           }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "c0c62fc34dc6a4ee",
-        "type": "tabs",
-        "dimension": 48.5140562248996,
-        "children": [
-          {
-            "id": "2a8507f99553e001",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00 - Flashcards/Artificial Intelligence/Logical Agents/Logical Agents.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Logical Agents"
-            }
-          },
-          {
-            "id": "648bcfa195a6ca16",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00 - Flashcards/C++/Constants/Constants.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Constants"
-            }
-          }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -213,13 +175,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00 - Flashcards/C++/Constants/Constants.md",
+                "file": "06 - Daily/Notes/2025-03-11.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Constants"
+              "title": "Outline of 2025-03-11"
             }
           },
           {
@@ -253,7 +215,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 4
       },
       {
         "id": "19047413448ed7a3",
@@ -274,7 +236,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 320.5
+    "width": 320.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -289,58 +252,58 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false,
       "obsidian-spaced-repetition:Review flashcards": false,
-      "templater-obsidian:Templater": false,
-      "card-board:CardBoard": false
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "648bcfa195a6ca16",
+  "active": "21eb9b49bc72e179",
   "lastOpenFiles": [
-    "00 - Flashcards/C++/Data Types/Data Types.md",
-    "00 - Flashcards/C++/Constants/Constants.md",
+    "Symposium/Symposium.md",
+    "03 - Resources/C++/libcurl/Example receiving data.md",
+    "03 - Resources/C++/Bit Manipulation/Converting bitset to int.md",
+    "03 - Resources/C++/Bit Manipulation/Bit Shift Left.md",
+    "Symposium/Pausanias on Love.md",
+    "Symposium/Phaedrus on Love.md",
+    "Symposium/Main Philosophical Question.md",
+    "Symposium/Introduction and context.md",
+    "Symposium",
+    "06 - Daily/Notes/2025-03-15.md",
+    "03 - Resources/CMake/Variables/Accessing Environment Variables.md",
+    "03 - Resources/CMake/Variables/Declaring Variables.md",
+    "03 - Resources/CMake/Variables/Using Variables.md",
+    "03 - Resources/CMake/Language/Language.md",
+    "03 - Resources/CMake/Language",
+    "03 - Resources/CMake/Variables",
+    "03 - Resources/Javascript/Async-Await/async-await.md",
+    "06 - Daily/Notes/2025-03-14.md",
+    "03 - Resources/CMake",
+    "03 - Resources/C++/Function Overloading and Function Templates/Deleting Functions.md",
+    "02 - Areas/Programming/Artificial Intelligence/Logical Agents/Boolean Satisfiability.md",
+    "03 - Resources/libuv/asynchronous IO.md",
+    "03 - Resources/libuv/Thread.md",
+    "00 - Flashcards/Artificial Intelligence/Adversarial/Adversarial Search.md",
+    "03 - Resources/C++/Function Overloading and Function Templates/Function overload resolution and ambiguous matches.md",
+    "00 - Flashcards/C++/Function Overloading and Function Templates/Function Overloading and Function Templates.md",
+    "Images/Pasted image 20250314193145.png",
+    "03 - Resources/C++/Function Overloading and Function Templates/Default Arguments.md",
+    "Images/Pasted image 20250314192245.png",
+    "99 - Kanban Boards/C++.md",
+    "03 - Resources/C++/Function Overloading and Function Templates/Summary.md",
+    "03 - Resources/C++/Functions & Files/Forward declarations and definitions.md",
+    "03 - Resources/C++/Function Overloading and Function Templates",
+    "Images/Pasted image 20250314180459.png",
+    "Images/Pasted image 20250314180300.png",
+    "00 - Flashcards/C++/Function Overloading and Function Templates",
+    "00 - Flashcards/C++/Scope, Duration, and Linkage",
+    "03 - Resources/C++/libraries",
+    "03 - Resources/C++/libraries/stdchrono",
+    "asynchronous I",
+    "02 - Areas/Programming/Artificial Intelligence/Outline.canvas",
     "Images/Pasted image 20250311224929.png",
     "Images/Pasted image 20250311224820.png",
-    "03 - Resources/C++/Constants & Strings/Challenges with const variables.md",
-    "03 - Resources/C++/Constants & Strings/Constants & Strings.md",
     "Images/code_20250311_224339_via_10015_io 1.png",
     "Images/code_20250311_224339_via_10015_io.png",
-    "00 - Flashcards/C++/Constants",
-    "02 - Areas/Programming/Artificial Intelligence/Logical Agents/Resolution Refutation Algorithm.md",
-    "02 - Areas/Programming/Artificial Intelligence/Logical Agents/Models.md",
-    "00 - Flashcards/Artificial Intelligence/Logical Agents/Logical Agents.md",
-    "02 - Areas/Programming/Artificial Intelligence/Logical Agents/Inference.md",
-    "02 - Areas/Programming/Artificial Intelligence/Logical Agents/Grand Analogy.md",
-    "02 - Areas/Programming/Artificial Intelligence/Logical Agents/Forward and Backward Chaining.md",
-    "02 - Areas/Programming/Artificial Intelligence/Logical Agents/Wumpus World.md",
-    "02 - Areas/Programming/Artificial Intelligence/Outline.canvas",
-    "02 - Areas/Programming/Artificial Intelligence/Logical Agents/Entailments.md",
-    "02 - Areas/Programming/Artificial Intelligence/Logical Agents/DPLL Algorithm.md",
-    "02 - Areas/Programming/Artificial Intelligence/Logical Agents/Conjunctive Disjunctive Normal Forms.md",
-    "02 - Areas/Programming/Artificial Intelligence/Logical Agents/Declarative Approach.md",
-    "02 - Areas/Programming/Algorithms/Analysis Framework/Analysis Framework.md",
-    "02 - Areas/Programming/Artificial Intelligence/Logical Agents/Implementation Level.md",
-    "02 - Areas/Programming/Artificial Intelligence/Logical Agents/Satisfiability and Theorem Proving.md",
-    "02 - Areas/Programming/Artificial Intelligence/Logical Agents/Propositional Logic.md",
-    "02 - Areas/Programming/Artificial Intelligence/Logical Agents/Proof Methods.md",
-    "02 - Areas/Programming/Artificial Intelligence/Logical Agents/Methods for Inference.md",
-    "02 - Areas/Programming/Artificial Intelligence/Logical Agents/Logical Reasoning in the Wumpus World.md",
-    "02 - Areas/Programming/Artificial Intelligence/Logical Agents/Logical Inference and Algorithms.md",
-    "02 - Areas/Programming/Artificial Intelligence/Logical Agents/Logical Agents.md",
-    "02 - Areas/Programming/Artificial Intelligence/Logical Agents/Knowledge-Bases.md",
-    "00 - Flashcards/Artificial Intelligence/Logical Agents",
-    "02 - Areas/Programming/Artificial Intelligence/Logical Agents",
-    "03 - Resources/C++/Bit Manipulation",
-    "03 - Resources/C++/Constants & Strings",
     "Images/code_20250308_122027_via_10015_io.png",
-    "03 - Resources/C++/libcurl",
     "Images/Pasted image 20250307235012.png",
-    "Images/Pasted image 20250307225343.png",
-    "00 - Flashcards/C++/Data Types",
-    "00 - Flashcards/C++/Debugging",
-    "03 - Resources/Programming Methodologies",
-    "Images/Pasted image 20250306165736.png",
-    "Images/Pasted image 20250306165404.png",
-    "Images/Pasted image 20250306165213.png",
-    "03 - Resources/C++/Leetcode",
     "01 - Projects/Keeper/System Design/Flow.canvas",
     "01 - Projects/Keeper/Miscellanous/Keepr Outline.canvas",
     "01 - Projects/Keeper/Native APIs/File Interactions.canvas",

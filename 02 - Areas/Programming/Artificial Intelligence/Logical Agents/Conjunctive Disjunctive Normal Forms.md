@@ -11,7 +11,7 @@
 $$
 \begin{array}{|c|c|c|c|}
 \hline
-A & B & C & ((A \leftrightarrow B) \to C) \\
+A & B & C & ((A \leftrightarrow B) \leftrightarrow C) \\
 \hline
 F & F & F & F \\
 \hline
@@ -36,6 +36,6 @@ $$
 #### ===**Step 2)**=== : Express the Disjunctive Normal Forms ( Sum of Products ) of the max terms ( 0 ).
 ### $$(\bar{A}\bar{B}\bar{C}) + (\bar{A}BC) + (A\bar{B}C) + (ABC)$$
 #### ===**Step 3)**=== : Apply *DeMorgan's Law* to derive the Conjunctive Normal Form ( Product of Sums ) 
-### $$(A + B + C)(A + \bar{B} + \bar{C})  (\bar{A}+ B+ \bar{C})  (\bar{A} + \bar{B} + \bar{C})$$
+ $$(A + B + C)(A + \bar{B} + \bar{C})  (\bar{A}+ B+ \bar{C})  (\bar{A} + \bar{B} + \bar{C})$$
 ___
 Tags : #programming #artificial-intelligence

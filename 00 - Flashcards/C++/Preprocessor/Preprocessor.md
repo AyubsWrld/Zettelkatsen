@@ -1,5 +1,5 @@
 ___
-Tags: #cpp #progarmming 
+Tags: #cpp #programming
 ___
 What is the ===Preprocessor=== Phase ? ;; 
 
@@ -11,7 +11,8 @@ Give an example of what the ===Preprocessor=== does ;; Strips comments , replace
 
 What is the file called after it is been processed by the ===Preprocessor=== ? ;; It is called a translation unit and it is then ran through the compiler . 
 
-What is ===Translation=== ? The entire process of Preprocessing , Compiling , Linking . 
+What is ===Translation=== ? The entire process of Preprocessing , Compiling , Linking .
+<!--SR:!2025-03-15,1,230--> 
 
 What is a ===Preprocessor=== Directive ? ;; 
 
@@ -21,20 +22,24 @@ Why is `#include` recursive ? ;; Because once it includes the listed file , the 
 
 What does the preprocessor do when it encounters `#include<iostream>` ? ;; It replaces the preprocessor directive with the contents of the iostream.c file . 
 
-What do ===Preprocessor Directives=== end with ? ;; and `\n` newline . 
+What do ===Preprocessor Directives=== end with ? ;; and `\n` newline .
+<!--SR:!2025-03-15,1,230-->
 
-What is a Macro ? ;; Preprocessor directive which tells the preprocessor how to replace certain text to a value . 
+What is a Macro ? ;; Preprocessor directive which tells the preprocessor how to replace certain text to a value .
+<!--SR:!2025-03-15,1,230-->
 
 
 What is Conditional Compilation Directive ? ;; Conditional Compilation Directive allows you to specify what you want and don't want to be compiled ; 
 
 What is an Object-like macro ? ;; Object-like macro swaps the text for the value next to it . 
 
-What is an example of Conditional Compilation Directive? ;; `ifdef` , `#ifndef` , `#endif` . 
+What is an example of Conditional Compilation Directive? ;; `ifdef` , `#ifndef` , `#endif` .
+<!--SR:!2025-03-17,3,250-->
 
 What is the output of this code ![[Pasted image 20250306165101.png]] ;; `Joe`
 
-What is the output of this code ![[Pasted image 20250306165213.png]];; `Bob` , because the Object-like macro `PRINT_BOB` is not defined 
+What is the output of this code ![[Pasted image 20250306165213.png]];; `Bob` , because the Object-like macro `PRINT_BOB` is not defined
+<!--SR:!2025-03-17,3,250-->
 
 
 What is the output of this code and why ? ![[Pasted image 20250306165404.png]]
@@ -48,7 +53,8 @@ What does this code do and why ![[Pasted image 20250306165736.png]]? ;; Prints b
 
 Are directives included within other files included aswell ? ;; Yes , if I have an Object-like Preprocessor directive defined within a file and `#include` said file into the file im currently working in the preprocessor will also recognize the Object-like macro defined within the other file . 
 
-When do Preprocessor Directives discard identifiers ? ;; When the identifiers are not used anymore 
+When do Preprocessor Directives discard identifiers ? ;; When the identifiers are not used anymore
+<!--SR:!2025-03-15,1,230-->
 
 What is a transitive include ? ;; When you `#include` something into one file but that file contained `#include` to another file . 
 

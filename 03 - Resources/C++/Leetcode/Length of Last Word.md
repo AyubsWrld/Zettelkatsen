@@ -31,4 +31,4 @@ A word is a maximal substring consisting of non-space characters only.
 
 
 ___
-Tags : #progarmming #cpp #leetcode 
+Tags : #programming #cpp #leetcode 

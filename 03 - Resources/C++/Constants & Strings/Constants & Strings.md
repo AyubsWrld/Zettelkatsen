@@ -27,4 +27,4 @@
 - the **as-if rule** states that the compiler can optimize the code so long as it does not effect the programs observable behavior . 
 
 ___
-Tags : #progarmming #cpp 
+Tags : #programming #cpp 

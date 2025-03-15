@@ -106,7 +106,7 @@
           {
             "tag": "namedTag",
             "data": {
-              "collapsed": false,
+              "collapsed": true,
               "name": "Functions & Files",
               "tag": "#cppfunctions"
             }
