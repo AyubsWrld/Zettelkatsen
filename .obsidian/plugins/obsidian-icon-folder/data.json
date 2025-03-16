@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiBook",
+      "LiCheck",
       "LiWine",
       "LiLanguages",
-      "LiX",
-      "LiHammer",
-      "LiFunctionSquare"
+      "LiX"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -53,7 +53,6 @@
   "03 - Resources/C++": "LiCode",
   "01 - Projects/Chip-8 Emulator": "LiGamepad",
   "03 - Resources/C++/Bit Manipulation": "LiArrowDown01",
-  "03 - Resources/C++/Functions & Files": "LiFunctionSquare",
   "03 - Resources/C++/Leetcode": "LiGitPullRequestClosed",
   "03 - Resources/C++/libcurl": "LiNetwork",
   "03 - Resources/C++/Preprocessor": "LiCalculator",
@@ -71,5 +70,8 @@
   "03 - Resources/CMake": "LiHammer",
   "03 - Resources/CMake/Variables": "LiX",
   "03 - Resources/CMake/Language": "LiLanguages",
-  "Symposium": "LiWine"
+  "02 - Areas/Philosophy/Plato/Symposium": "LiWine",
+  "02 - Areas/Programming/Artificial Intelligence/First Order Logic": "LiCheck",
+  "00 - Flashcards/Philosophy/Symposium": "LiWine",
+  "00 - Flashcards/Philosophy/The Republic Book IV": "LiBook"
 }

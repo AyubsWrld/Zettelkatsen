@@ -1,5 +1,5 @@
 ___
-Tags: #cpp #programming
+Tags: #philosophy 
 ___
 
 What is the role of 'noble lies' in maintaining social order and guardian loyalty? ;; The role of "noble lies" in Plato's Republic is to deceive the citizens for the public good, particularly to maintain social order and the loyalty of the guardians
