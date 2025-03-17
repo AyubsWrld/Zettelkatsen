@@ -114,3 +114,34 @@ img {
     border-radius: 20px;
     padding: 2px 5px;
 }
+/* Original light blue highlight (=== text ===) */
+.cm-s-obsidian span.cm-formatting-highlight, .cm-s-obsidian span.cm-highlight {
+    background-color: rgba(30, 100, 200, 0.4);  /* Light blue background */
+    color: white;  
+    border-radius: 5px;  
+    padding: 2px 5px;
+}
+
+/* Red highlight (-- text --) */
+.cm-s-obsidian span.cm-formatting-highlight.cm-highlight-2, .cm-s-obsidian span.cm-highlight.cm-highlight-2 {
+    background-color: rgba(200, 30, 30, 0.4);  /* Red background */
+    color: white;
+    border-radius: 5px;
+    padding: 2px 5px;
+}
+
+/* Yellow highlight (++ text ++) */
+.cm-s-obsidian span.cm-formatting-highlight.cm-highlight-3, .cm-s-obsidian span.cm-highlight.cm-highlight-3 {
+    background-color: rgba(230, 200, 30, 0.4);  /* Yellow background */
+    color: black;  /* Black text for better contrast on yellow */
+    border-radius: 5px;
+    padding: 2px 5px;
+}
+
+/* Green highlight (!! text !!) */
+.cm-s-obsidian span.cm-formatting-highlight.cm-highlight-4, .cm-s-obsidian span.cm-highlight.cm-highlight-4 {
+    background-color: rgba(30, 180, 30, 0.4);  /* Green background */
+    color: white;
+    border-radius: 5px;
+    padding: 2px 5px;
+}

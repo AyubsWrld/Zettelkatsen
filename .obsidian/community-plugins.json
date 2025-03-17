@@ -14,5 +14,6 @@
   "contribution-graph",
   "dataview",
   "journals",
-  "templater-obsidian"
+  "templater-obsidian",
+  "highlightr-plugin"
 ]

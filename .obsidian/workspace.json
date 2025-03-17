@@ -8,133 +8,40 @@
         "type": "tabs",
         "children": [
           {
-            "id": "21eb9b49bc72e179",
+            "id": "80313d89d6ece843",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "06 - Daily/Notes/2025-03-15.md",
+                "file": "02 - Areas/Philosophy/Plato/Symposium/Symposium.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-03-15"
-            }
-          },
-          {
-            "id": "f1a942bce2178863",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "03 - Resources/C++/Function Overloading and Function Templates/Forward declarations and definitions.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Forward declarations and definitions"
-            }
-          },
-          {
-            "id": "e20a9b5b242b71b3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02 - Areas/Programming/Artificial Intelligence/First Order Logic/FOL.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "FOL"
-            }
-          },
-          {
-            "id": "661e962961049253",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02 - Areas/Programming/Artificial Intelligence/First Order Logic/FOL.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "FOL"
-            }
-          },
-          {
-            "id": "7ad59a2715a2cd52",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02 - Areas/Programming/Artificial Intelligence/First Order Logic/Syntax and Semantics.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Syntax and Semantics"
-            }
-          },
-          {
-            "id": "a51a29661aca6d63",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00 - Flashcards/Artificial Intelligence/Adversarial/Adversarial Search.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Adversarial Search"
-            }
-          },
-          {
-            "id": "148ca72608c0ff89",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00 - Flashcards/Artificial Intelligence/First Order (Predicate) Logic/First Order ( Predicate ) Logic.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "First Order ( Predicate ) Logic"
-            }
-          },
-          {
-            "id": "416db524297be173",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "03 - Resources/C++/Function Overloading and Function Templates/Function templates.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Function templates"
-            }
-          },
-          {
-            "id": "7cb2f0683bc628a4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "03 - Resources/C++/Function Overloading and Function Templates/Function template instantiation.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Function template instantiation"
+              "title": "Symposium"
             }
           }
-        ],
-        "currentTab": 8
+        ]
+      },
+      {
+        "id": "ff583e0e93454f99",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a18615ed2851b123",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00 - Flashcards/Philosophy/Symposium/Symposium.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Symposium"
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -209,7 +116,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 310.5
+    "width": 310.5,
+    "collapsed": true
   },
   "right": {
     "id": "817588c37efe10fd",
@@ -355,37 +263,38 @@
       "card-board:CardBoard": false
     }
   },
-  "active": "7cb2f0683bc628a4",
+  "active": "80313d89d6ece843",
   "lastOpenFiles": [
+    "00 - Flashcards/Philosophy/Symposium/Symposium.md",
+    "02 - Areas/Philosophy/Plato/Symposium/Symposium.md",
+    "06 - Daily/Notes/2025-03-15.md",
+    "02 - Areas/Programming/Artificial Intelligence/First Order Logic/Propositionalization Preserves Entailment.md",
+    "00 - Flashcards/Artificial Intelligence/First Order (Predicate) Logic/First Order ( Predicate ) Logic.md",
+    "06 - Daily/Notes/2025-03-16.md",
+    "02 - Areas/Programming/Artificial Intelligence/First Order Logic/Summary.md",
+    "02 - Areas/Programming/Artificial Intelligence/First Order Logic/Existential Instantiation.md",
+    "02 - Areas/Programming/Artificial Intelligence/First Order Logic/FOL.md",
+    "02 - Areas/Programming/Artificial Intelligence/First Order Logic/Ground sentence.md",
+    "02 - Areas/Programming/Artificial Intelligence/First Order Logic/Problems with Propositionalization.md",
+    "02 - Areas/Programming/Artificial Intelligence/First Order Logic/Syntax and Semantics.md",
+    "02 - Areas/Programming/Artificial Intelligence/First Order Logic/Universal Instantiation.md",
+    "02 - Areas/Programming/Artificial Intelligence/Outline.canvas",
+    "02 - Areas/Programming/Artificial Intelligence/First Order Logic/Difference Between UI and EI.md",
+    "02 - Areas/Programming/Artificial Intelligence/First Order Logic/Examples.md",
+    "02 - Areas/Programming/Artificial Intelligence/First Order Logic/First Order Logic.md",
+    "04 - Permanent/Initial.md",
+    "03 - Resources/C++/Function Overloading and Function Templates/Function template instantiation.md",
     "03 - Resources/C++/Function Overloading and Function Templates/Function templates.md",
     "03 - Resources/C++/Function Overloading and Function Templates/Introduction to function parameters and arguments.md",
-    "03 - Resources/C++/Function Overloading and Function Templates/Function template instantiation.md",
     "00 - Flashcards/Philosophy/The Republic Book IV/The Republic Book IV.md",
-    "02 - Areas/Philosophy/Plato/Symposium/Symposium.md",
-    "00 - Flashcards/Philosophy/Symposium/Symposium.md",
-    "00 - Flashcards/Artificial Intelligence/First Order (Predicate) Logic/First Order ( Predicate ) Logic.md",
     "00 - Flashcards/Philosophy/Symposium",
     "00 - Flashcards/Artificial Intelligence/Adversarial/Adversarial Search.md",
     "00 - Flashcards/Artificial Intelligence/Logical Agents/Logical Agents.md",
-    "02 - Areas/Programming/Artificial Intelligence/First Order Logic/Examples.md",
     "00 - Flashcards/Artificial Intelligence/First Order (Predicate) Logic",
-    "02 - Areas/Programming/Artificial Intelligence/First Order Logic/First Order Logic.md",
-    "02 - Areas/Programming/Artificial Intelligence/First Order Logic/FOL.md",
-    "02 - Areas/Programming/Artificial Intelligence/First Order Logic/Syntax and Semantics.md",
     "First Order Logic/Familiarity.md",
     "02 - Areas/Programming/Artificial Intelligence/Search within Complex Spaces/Adversary Argument.md",
     "03 - Resources/C++/libcurl/Example receiving data.md",
     "02 - Areas/Programming/Artificial Intelligence/First Order Logic",
-    "03 - Resources/C++/Function Overloading and Function Templates/Forward declarations and definitions.md",
-    "06 - Daily/Notes/Book IV.md",
-    "06 - Daily/Notes/Untitled.md",
-    "06 - Daily/Notes/2025-03-15.md",
-    "03 - Resources/C++/Bit Manipulation/Converting bitset to int.md",
-    "03 - Resources/C++/Bit Manipulation/Bit Shift Left.md",
-    "02 - Areas/Philosophy/Plato/Symposium/Pausanias on Love.md",
-    "02 - Areas/Philosophy/Plato/Symposium/Phaedrus on Love.md",
-    "02 - Areas/Philosophy/Plato/Symposium/Main Philosophical Question.md",
-    "02 - Areas/Philosophy/Plato/Symposium/Introduction and context.md",
     "02 - Areas/Philosophy/Plato/Symposium",
     "03 - Resources/CMake/Language",
     "03 - Resources/CMake/Variables",
@@ -397,7 +306,6 @@
     "Images/Pasted image 20250314180300.png",
     "00 - Flashcards/C++/Function Overloading and Function Templates",
     "00 - Flashcards/C++/Scope, Duration, and Linkage",
-    "02 - Areas/Programming/Artificial Intelligence/Outline.canvas",
     "Images/Pasted image 20250311224929.png",
     "Images/Pasted image 20250311224820.png",
     "Images/code_20250311_224339_via_10015_io 1.png",
