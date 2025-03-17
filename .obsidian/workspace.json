@@ -13,32 +13,89 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 - Areas/Philosophy/Plato/Symposium/Symposium.md",
+                "file": "03 - Resources/C++/Function Overloading and Function Templates/Function overload resolution and ambiguous matches.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Symposium"
+              "title": "Function overload resolution and ambiguous matches"
             }
-          }
-        ]
-      },
-      {
-        "id": "ff583e0e93454f99",
-        "type": "tabs",
-        "children": [
+          },
           {
-            "id": "a18615ed2851b123",
+            "id": "1ae5bb0b7b4e57c2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 - Flashcards/Philosophy/Symposium/Symposium.md",
+                "file": "03 - Resources/C++/Function Overloading and Function Templates/Function Templates with Multiple Types.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Symposium"
+              "title": "Function Templates with Multiple Types"
+            }
+          },
+          {
+            "id": "47c40a0ffcd4e79c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "03 - Resources/C++/Function Overloading and Function Templates/Abbreviated Function Templates.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Abbreviated Function Templates"
+            }
+          },
+          {
+            "id": "6c8238e89dc60c8e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "03 - Resources/C++/Function Overloading and Function Templates/Forward Declaring Template Functions.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Forward Declaring Template Functions"
+            }
+          },
+          {
+            "id": "b65e1c858cd97cc4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "03 - Resources/C++/Function Overloading and Function Templates/Non-type template parameters.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Non-type template parameters"
+            }
+          }
+        ],
+        "currentTab": 4
+      },
+      {
+        "id": "c6405ab107a4071e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "aa0b009c9fd9ab59",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00 - Flashcards/C++/Function Overloading and Function Templates/Function Overloading and Function Templates.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Function Overloading and Function Templates"
             }
           }
         ]
@@ -116,8 +173,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 310.5,
-    "collapsed": true
+    "width": 310.5
   },
   "right": {
     "id": "817588c37efe10fd",
@@ -263,10 +319,23 @@
       "card-board:CardBoard": false
     }
   },
-  "active": "80313d89d6ece843",
+  "active": "b65e1c858cd97cc4",
   "lastOpenFiles": [
-    "00 - Flashcards/Philosophy/Symposium/Symposium.md",
+    "03 - Resources/C++/Function Overloading and Function Templates/Forward Declaring Template Functions.md",
+    "03 - Resources/C++/Function Overloading and Function Templates/Non-type template parameters.md",
+    "03 - Resources/C++/Function Overloading and Function Templates/Forward declarations and definitions.md",
+    "03 - Resources/C++/Function Overloading and Function Templates/Default Arguments.md",
+    "03 - Resources/C++/Function Overloading and Function Templates/Deleting Functions.md",
+    "03 - Resources/C++/Function Overloading and Function Templates/Function template instantiation.md",
+    "03 - Resources/C++/Function Overloading and Function Templates/Function overload resolution and ambiguous matches.md",
+    "03 - Resources/C++/Function Overloading and Function Templates/Abbreviated Function Templates.md",
+    "03 - Resources/C++/Function Overloading and Function Templates/Function Templates with Multiple Types.md",
+    "03 - Resources/C++/Function Overloading and Function Templates/Function templates.md",
+    "03 - Resources/C++/Function Overloading and Function Templates/Introduction to function parameters and arguments.md",
+    "03 - Resources/C++/Function Overloading and Function Templates/Summary.md",
+    "00 - Flashcards/C++/Function Overloading and Function Templates/Function Overloading and Function Templates.md",
     "02 - Areas/Philosophy/Plato/Symposium/Symposium.md",
+    "00 - Flashcards/Philosophy/Symposium/Symposium.md",
     "06 - Daily/Notes/2025-03-15.md",
     "02 - Areas/Programming/Artificial Intelligence/First Order Logic/Propositionalization Preserves Entailment.md",
     "00 - Flashcards/Artificial Intelligence/First Order (Predicate) Logic/First Order ( Predicate ) Logic.md",
@@ -279,21 +348,8 @@
     "02 - Areas/Programming/Artificial Intelligence/First Order Logic/Syntax and Semantics.md",
     "02 - Areas/Programming/Artificial Intelligence/First Order Logic/Universal Instantiation.md",
     "02 - Areas/Programming/Artificial Intelligence/Outline.canvas",
-    "02 - Areas/Programming/Artificial Intelligence/First Order Logic/Difference Between UI and EI.md",
-    "02 - Areas/Programming/Artificial Intelligence/First Order Logic/Examples.md",
-    "02 - Areas/Programming/Artificial Intelligence/First Order Logic/First Order Logic.md",
-    "04 - Permanent/Initial.md",
-    "03 - Resources/C++/Function Overloading and Function Templates/Function template instantiation.md",
-    "03 - Resources/C++/Function Overloading and Function Templates/Function templates.md",
-    "03 - Resources/C++/Function Overloading and Function Templates/Introduction to function parameters and arguments.md",
-    "00 - Flashcards/Philosophy/The Republic Book IV/The Republic Book IV.md",
     "00 - Flashcards/Philosophy/Symposium",
-    "00 - Flashcards/Artificial Intelligence/Adversarial/Adversarial Search.md",
-    "00 - Flashcards/Artificial Intelligence/Logical Agents/Logical Agents.md",
     "00 - Flashcards/Artificial Intelligence/First Order (Predicate) Logic",
-    "First Order Logic/Familiarity.md",
-    "02 - Areas/Programming/Artificial Intelligence/Search within Complex Spaces/Adversary Argument.md",
-    "03 - Resources/C++/libcurl/Example receiving data.md",
     "02 - Areas/Programming/Artificial Intelligence/First Order Logic",
     "02 - Areas/Philosophy/Plato/Symposium",
     "03 - Resources/CMake/Language",
