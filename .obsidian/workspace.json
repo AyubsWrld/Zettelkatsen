@@ -8,119 +8,16 @@
         "type": "tabs",
         "children": [
           {
-            "id": "1d7b9a9c3d365df5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02 - Areas/Programming/Artificial Intelligence/First Order Logic/Negative Literal.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Negative Literal"
-            }
-          },
-          {
-            "id": "166273bc162321fd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02 - Areas/Programming/Artificial Intelligence/First Order Logic/Foward Chaining.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Foward Chaining"
-            }
-          },
-          {
-            "id": "641985cc939a636f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02 - Areas/Programming/Artificial Intelligence/First Order Logic/Atomic Formula.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Atomic Formula"
-            }
-          },
-          {
-            "id": "47aeff6a8a41eb91",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02 - Areas/Programming/Artificial Intelligence/First Order Logic/Resolution.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Resolution"
-            }
-          },
-          {
-            "id": "5bb6dde8994b0651",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SSH/What is SSH ?.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "What is SSH ?"
-            }
-          },
-          {
             "id": "5dd2a216fffcf6ba",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SSH/What does SSH do ?.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "What does SSH do ?"
-            }
-          },
-          {
-            "id": "c2582adbccfe4ae9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SSH/Port Forwarding.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Port Forwarding"
-            }
-          },
-          {
-            "id": "e0196d043fd4f1f8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SSH/How does SSH work?.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "How does SSH work?"
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 7
+        ]
       }
     ],
     "direction": "vertical"
@@ -341,40 +238,39 @@
       "card-board:CardBoard": false
     }
   },
-  "active": "e0196d043fd4f1f8",
+  "active": "5dd2a216fffcf6ba",
   "lastOpenFiles": [
+    "SSH/What is SSH ?.md",
+    "SSH/What does SSH do ?.md",
+    "SSH/Tunnelling.md",
     "SSH/Port Forwarding.md",
     "SSH/How does SSH work?.md",
-    "SSH/Tunnelling.md",
-    "SSH/What does SSH do ?.md",
-    "SSH/What is SSH ?.md",
-    "02 - Areas/Programming/Artificial Intelligence/First Order Logic/Resolution.md",
     "SSH",
-    "02 - Areas/Programming/Artificial Intelligence/First Order Logic/Atomic Formula.md",
-    "02 - Areas/Programming/Artificial Intelligence/First Order Logic/Foward Chaining.md",
-    "02 - Areas/Programming/Artificial Intelligence/First Order Logic/Negative Literal.md",
-    "02 - Areas/Programming/Artificial Intelligence/First Order Logic/First-Order Definite Clause.md",
+    "06 - Daily/Notes/2025-03-15 1.md",
+    "03 - Resources/Design Patterns/How to Use a Design Pattern.md",
+    "03 - Resources/Design Patterns/Creational Patterns/Creational Patterns.md",
+    "03 - Resources/Design Patterns/Creational Patterns/Abstract Factory.md",
+    "03 - Resources/Design Patterns/Creational Patterns",
+    "03 - Resources/Design Patterns/Catalog.md",
+    "03 - Resources/C++/Constants & Strings/Scribbles.md",
+    "03 - Resources/C++/Compound Types/Value types.md",
+    "03 - Resources/C++/Compound Types/Lvalue references.md",
+    "03 - Resources/C++/Compound Types",
+    "02 - Areas/Programming/Artificial Intelligence/First Order Logic/Resolution.md",
     "02 - Areas/Programming/Artificial Intelligence/First Order Logic/Positive Literal.md",
+    "02 - Areas/Programming/Artificial Intelligence/First Order Logic/Negative Literal.md",
+    "02 - Areas/Programming/Artificial Intelligence/First Order Logic/Foward Chaining.md",
+    "02 - Areas/Programming/Artificial Intelligence/First Order Logic/First-Order Definite Clause.md",
+    "02 - Areas/Programming/Artificial Intelligence/First Order Logic/Atomic Formula.md",
     "02 - Areas/Programming/Artificial Intelligence/First Order Logic/Ground sentence.md",
     "02 - Areas/Programming/Artificial Intelligence/First Order Logic/Difference Between UI and EI.md",
     "02 - Areas/Programming/Artificial Intelligence/First Order Logic/Summary.md",
     "06 - Daily/Notes/2025-03-19.md",
     "02 - Areas/MATH/Linear Algebra/Chapter 4 - Vector Spaces/4.1 - Vector Spaces/4.1 - Vector Spaces.md",
     "02 - Areas/MATH/Linear Algebra/Chapter 6 - Linear Transformations/6.1 - Linear Transformations/6.1 - LINEAR TRANSFORMATIONS..md",
-    "02 - Areas/MATH/Linear Algebra/Chapter 5 - Eigenvalues and Eigenvectors/5.1 - Eigenvectors and Eigenvalues/5.1 - Eigenvectors and Eigenvalues.md",
-    "03 - Resources/Design Patterns/Creational Patterns/Abstract Factory.md",
-    "03 - Resources/Design Patterns/Creational Patterns/Creational Patterns.md",
-    "03 - Resources/Design Patterns/Catalog.md",
-    "03 - Resources/Design Patterns/How to Use a Design Pattern.md",
     "03 - Resources/Design Patterns/Structural Patterns",
     "03 - Resources/Design Patterns/Behavioural Patterns",
-    "03 - Resources/Design Patterns/Creational Patterns",
-    "03 - Resources/Javascript/Async-Await/async-await.md",
-    "06 - Daily/Notes/2025-03-18.md",
     "03 - Resources/Design Patterns",
-    "03 - Resources/C++/Compound Types/Lvalue references.md",
-    "03 - Resources/C++/Compound Types/Value types.md",
-    "03 - Resources/C++/Compound Types",
     "Images/Pasted image 20250314193145.png",
     "Images/Pasted image 20250314192245.png",
     "Images/Pasted image 20250314180459.png",
