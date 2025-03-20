@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
-      "LiLetterText",
-      "LiCalculator",
+      "LiAirplay",
+      "LiSidebarClose",
       "LiNetwork",
-      "LiGitPullRequestClosed",
-      "LiFunctionSquare"
+      "LiChartPie",
+      "LiCodepen"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -56,5 +56,12 @@
   "03 - Resources/C++/Leetcode": "LiGitPullRequestClosed",
   "03 - Resources/C++/libcurl": "LiNetwork",
   "03 - Resources/C++/Preprocessor": "LiCalculator",
-  "03 - Resources/C++/Constants & Strings": "LiLetterText"
+  "03 - Resources/C++/Constants & Strings": "LiLetterText",
+  "03 - Resources/C++/Compound Types": "LiBlocks",
+  "03 - Resources/CMake": "LiHammer",
+  "03 - Resources/Javascript": "LiCodepen",
+  "03 - Resources/Design Patterns": "LiChartPie",
+  "03 - Resources/libuv": "LiNetwork",
+  "03 - Resources/Programming Methodologies": "LiSidebarClose",
+  "SSH": "LiAirplay"
 }

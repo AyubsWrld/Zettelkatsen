@@ -1,3 +1,4 @@
+
 - **Constants**: Represent specific objects within the domain 
 - **Variables**: stand for unspecified objects within the domain. 
 - **Predicates**: Functions which resolve to true or false. 

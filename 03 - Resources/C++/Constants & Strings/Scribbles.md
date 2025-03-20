@@ -73,6 +73,21 @@ The speaker isolates the pondering subject and confront the poor sinner and says
 
 How does climacus respond to the fact that millions have taken the objective approach? Rhetorical Shower Bath 
 
+unlike polytheism ( Superheroes like zeus ) the relationship in monotheism like Christianity it is completely inward and subjective. Your relating as an individual , your not mediating your relationship through a lot of people. Only in ones subjectivity is a relationship with the eternal found . The eternal is internal. 
+
+
+One thing is assumed , Christianity is a given. It is assumed we are all Christians. Everyone presumes to have the truth in hand ( Makes everyone speculative philosophers ). This certain certainty in an objective claim . Kierkegaard found it hard for himself to call himself a Christian ( Christianity is to surrender your will and detach yourself from the world ). 
+
+For Kierkegaard uncertainty allows for passion. You cannot be a philosopher if you know everything , to love is to desire which you do not have. Uncertainty is a beneficial task master ( Happy Passion ). 
+
+Then what could Kierkegaard be ? 
+
+What is the synthesis ? It is what the self is. your objective body takes up a certain amount of space. It only exists at this time. It exists in a space and time and time that is unique . The self and the mind is not similarly circumscribed. The self is a synthesis of the temporal and the eternal. You can think of what you are experiencing right now or tomorrow or yesterday . Our thoughts can range beyond the temporal. Something our bodies cannot do the same . 
+
+This synthesis is what your occur when you look inwards. 
+
+
+Christianity does not lend itself to objectivity, it lends itself to subjectivity to the utmost. 
 
 
 

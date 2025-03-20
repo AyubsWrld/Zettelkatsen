@@ -43,4 +43,6 @@ Explain this $∀tGlitter(t)∧¬Holding(Gold,t)⇒BestAction(Grab,t)$ ;; For ev
 What is a diagnostic rule ? ;; Diagnostic Rule goes from effect to cause $\forall s \ Breeze(s) \rightarrow \exists r adjacent(r,s) and pit(r)$
 <!--SR:!2025-03-17,1,230-->
 
-  
+Why do we use First Order Logic as opposed to Propositional logic ? ;; Propositional Logic has very limited expressive power , cannot put things into sentences. 
+
+
