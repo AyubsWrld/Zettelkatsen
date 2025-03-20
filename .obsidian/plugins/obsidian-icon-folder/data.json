@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
-      "LiBook",
-      "LiCheck",
-      "LiWine",
-      "LiLanguages",
-      "LiX"
+      "LiAirplay",
+      "LiSidebarClose",
+      "LiNetwork",
+      "LiChartPie",
+      "LiCodepen"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -57,21 +57,9 @@
   "03 - Resources/C++/libcurl": "LiNetwork",
   "03 - Resources/C++/Preprocessor": "LiCalculator",
   "03 - Resources/C++/Constants & Strings": "LiLetterText",
-  "03 - Resources/Javascript": "LiMessageSquareCode",
-  "03 - Resources/Programming Methodologies": "LiParentheses",
-  "03 - Resources/Javascript/Async-Await": "LiTimer",
-  "03 - Resources/Javascript/Promises": "LiAmpersand",
-  "03 - Resources/Javascript/Callbacks": "LiPhoneCall",
-  "03 - Resources/libuv": "LiLibrary",
-  "01 - Projects/Zephyr": "LiWind",
-  "03 - Resources/C++/libraries": "LiLibrary",
-  "03 - Resources/C++/libraries/stdchrono": "LiTimer",
-  "03 - Resources/C++/Function Overloading and Function Templates": "LiFunctionSquare",
   "03 - Resources/CMake": "LiHammer",
-  "03 - Resources/CMake/Variables": "LiX",
-  "03 - Resources/CMake/Language": "LiLanguages",
-  "02 - Areas/Philosophy/Plato/Symposium": "LiWine",
-  "02 - Areas/Programming/Artificial Intelligence/First Order Logic": "LiCheck",
-  "00 - Flashcards/Philosophy/Symposium": "LiWine",
-  "00 - Flashcards/Philosophy/The Republic Book IV": "LiBook"
+  "03 - Resources/Javascript": "LiCodepen",
+  "03 - Resources/Design Patterns": "LiChartPie",
+  "03 - Resources/libuv": "LiNetwork",
+  "03 - Resources/Programming Methodologies": "LiSidebarClose"
 }

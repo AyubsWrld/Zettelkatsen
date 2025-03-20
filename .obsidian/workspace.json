@@ -8,94 +8,13 @@
         "type": "tabs",
         "children": [
           {
-            "id": "80313d89d6ece843",
+            "id": "5dd2a216fffcf6ba",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "03 - Resources/C++/Function Overloading and Function Templates/Function overload resolution and ambiguous matches.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Function overload resolution and ambiguous matches"
-            }
-          },
-          {
-            "id": "1ae5bb0b7b4e57c2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "03 - Resources/C++/Function Overloading and Function Templates/Function Templates with Multiple Types.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Function Templates with Multiple Types"
-            }
-          },
-          {
-            "id": "47c40a0ffcd4e79c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "03 - Resources/C++/Function Overloading and Function Templates/Abbreviated Function Templates.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Abbreviated Function Templates"
-            }
-          },
-          {
-            "id": "6c8238e89dc60c8e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "03 - Resources/C++/Function Overloading and Function Templates/Forward Declaring Template Functions.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Forward Declaring Template Functions"
-            }
-          },
-          {
-            "id": "b65e1c858cd97cc4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "03 - Resources/C++/Function Overloading and Function Templates/Non-type template parameters.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Non-type template parameters"
-            }
-          }
-        ],
-        "currentTab": 4
-      },
-      {
-        "id": "c6405ab107a4071e",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "aa0b009c9fd9ab59",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00 - Flashcards/C++/Function Overloading and Function Templates/Function Overloading and Function Templates.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Function Overloading and Function Templates"
+              "title": "New tab"
             }
           }
         ]
@@ -238,13 +157,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "06 - Daily/Notes/2025-03-11.md",
+                "file": "00 - Flashcards/C++/Constants/Constants.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2025-03-11"
+              "title": "Outline of Constants"
             }
           },
           {
@@ -319,53 +238,53 @@
       "card-board:CardBoard": false
     }
   },
-  "active": "b65e1c858cd97cc4",
+  "active": "5dd2a216fffcf6ba",
   "lastOpenFiles": [
-    "03 - Resources/C++/Function Overloading and Function Templates/Forward Declaring Template Functions.md",
-    "03 - Resources/C++/Function Overloading and Function Templates/Non-type template parameters.md",
-    "03 - Resources/C++/Function Overloading and Function Templates/Forward declarations and definitions.md",
-    "03 - Resources/C++/Function Overloading and Function Templates/Default Arguments.md",
-    "03 - Resources/C++/Function Overloading and Function Templates/Deleting Functions.md",
-    "03 - Resources/C++/Function Overloading and Function Templates/Function template instantiation.md",
-    "03 - Resources/C++/Function Overloading and Function Templates/Function overload resolution and ambiguous matches.md",
-    "03 - Resources/C++/Function Overloading and Function Templates/Abbreviated Function Templates.md",
-    "03 - Resources/C++/Function Overloading and Function Templates/Function Templates with Multiple Types.md",
-    "03 - Resources/C++/Function Overloading and Function Templates/Function templates.md",
-    "03 - Resources/C++/Function Overloading and Function Templates/Introduction to function parameters and arguments.md",
-    "03 - Resources/C++/Function Overloading and Function Templates/Summary.md",
-    "00 - Flashcards/C++/Function Overloading and Function Templates/Function Overloading and Function Templates.md",
-    "02 - Areas/Philosophy/Plato/Symposium/Symposium.md",
-    "00 - Flashcards/Philosophy/Symposium/Symposium.md",
-    "06 - Daily/Notes/2025-03-15.md",
-    "02 - Areas/Programming/Artificial Intelligence/First Order Logic/Propositionalization Preserves Entailment.md",
-    "00 - Flashcards/Artificial Intelligence/First Order (Predicate) Logic/First Order ( Predicate ) Logic.md",
-    "06 - Daily/Notes/2025-03-16.md",
-    "02 - Areas/Programming/Artificial Intelligence/First Order Logic/Summary.md",
-    "02 - Areas/Programming/Artificial Intelligence/First Order Logic/Existential Instantiation.md",
-    "02 - Areas/Programming/Artificial Intelligence/First Order Logic/FOL.md",
+    "SSH/What is SSH ?.md",
+    "SSH/Port Forwarding.md",
+    "SSH/How does SSH work?.md",
+    "SSH/Tunnelling.md",
+    "SSH/What does SSH do ?.md",
+    "02 - Areas/Programming/Artificial Intelligence/First Order Logic/Resolution.md",
+    "SSH",
+    "02 - Areas/Programming/Artificial Intelligence/First Order Logic/Atomic Formula.md",
+    "02 - Areas/Programming/Artificial Intelligence/First Order Logic/Foward Chaining.md",
+    "02 - Areas/Programming/Artificial Intelligence/First Order Logic/Negative Literal.md",
+    "02 - Areas/Programming/Artificial Intelligence/First Order Logic/First-Order Definite Clause.md",
+    "02 - Areas/Programming/Artificial Intelligence/First Order Logic/Positive Literal.md",
     "02 - Areas/Programming/Artificial Intelligence/First Order Logic/Ground sentence.md",
-    "02 - Areas/Programming/Artificial Intelligence/First Order Logic/Problems with Propositionalization.md",
-    "02 - Areas/Programming/Artificial Intelligence/First Order Logic/Syntax and Semantics.md",
-    "02 - Areas/Programming/Artificial Intelligence/First Order Logic/Universal Instantiation.md",
-    "02 - Areas/Programming/Artificial Intelligence/Outline.canvas",
-    "00 - Flashcards/Philosophy/Symposium",
-    "00 - Flashcards/Artificial Intelligence/First Order (Predicate) Logic",
-    "02 - Areas/Programming/Artificial Intelligence/First Order Logic",
-    "02 - Areas/Philosophy/Plato/Symposium",
-    "03 - Resources/CMake/Language",
-    "03 - Resources/CMake/Variables",
-    "03 - Resources/CMake",
+    "02 - Areas/Programming/Artificial Intelligence/First Order Logic/Difference Between UI and EI.md",
+    "02 - Areas/Programming/Artificial Intelligence/First Order Logic/Summary.md",
+    "06 - Daily/Notes/2025-03-19.md",
+    "02 - Areas/MATH/Linear Algebra/Chapter 4 - Vector Spaces/4.1 - Vector Spaces/4.1 - Vector Spaces.md",
+    "02 - Areas/MATH/Linear Algebra/Chapter 6 - Linear Transformations/6.1 - Linear Transformations/6.1 - LINEAR TRANSFORMATIONS..md",
+    "02 - Areas/MATH/Linear Algebra/Chapter 5 - Eigenvalues and Eigenvectors/5.1 - Eigenvectors and Eigenvalues/5.1 - Eigenvectors and Eigenvalues.md",
+    "03 - Resources/Design Patterns/Creational Patterns/Abstract Factory.md",
+    "03 - Resources/Design Patterns/Creational Patterns/Creational Patterns.md",
+    "03 - Resources/Design Patterns/Catalog.md",
+    "03 - Resources/Design Patterns/How to Use a Design Pattern.md",
+    "03 - Resources/Design Patterns/Structural Patterns",
+    "03 - Resources/Design Patterns/Behavioural Patterns",
+    "03 - Resources/Design Patterns/Creational Patterns",
+    "03 - Resources/Javascript/Async-Await/async-await.md",
+    "06 - Daily/Notes/2025-03-18.md",
+    "03 - Resources/Design Patterns",
+    "03 - Resources/C++/Compound Types/Lvalue references.md",
+    "03 - Resources/C++/Compound Types/Value types.md",
+    "03 - Resources/C++/Compound Types",
     "Images/Pasted image 20250314193145.png",
     "Images/Pasted image 20250314192245.png",
-    "03 - Resources/C++/Function Overloading and Function Templates",
     "Images/Pasted image 20250314180459.png",
     "Images/Pasted image 20250314180300.png",
-    "00 - Flashcards/C++/Function Overloading and Function Templates",
-    "00 - Flashcards/C++/Scope, Duration, and Linkage",
+    "03 - Resources/libuv",
+    "03 - Resources/Javascript/Promises",
+    "03 - Resources/Javascript/Callbacks",
+    "03 - Resources/Javascript/Async-Await",
     "Images/Pasted image 20250311224929.png",
     "Images/Pasted image 20250311224820.png",
     "Images/code_20250311_224339_via_10015_io 1.png",
     "Images/code_20250311_224339_via_10015_io.png",
+    "02 - Areas/Programming/Artificial Intelligence/Outline.canvas",
     "Images/code_20250308_122027_via_10015_io.png",
     "Images/Pasted image 20250307235012.png",
     "01 - Projects/Keeper/System Design/Flow.canvas",
