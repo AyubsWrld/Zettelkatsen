@@ -4,101 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "ab1cb7daf7533ef3",
+        "id": "2bfb365f71d5a8b6",
         "type": "tabs",
         "children": [
           {
-            "id": "80313d89d6ece843",
+            "id": "516dd335b2a09493",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 - Resources/C++/Function Overloading and Function Templates/Function overload resolution and ambiguous matches.md",
+                "file": "06 - Daily/Notes/2025-03-20.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Function overload resolution and ambiguous matches"
+              "title": "2025-03-20"
             }
           },
           {
-            "id": "1ae5bb0b7b4e57c2",
+            "id": "0c06830685533538",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 - Resources/C++/Function Overloading and Function Templates/Function Templates with Multiple Types.md",
+                "file": "06 - Daily/Notes/Generating SSH key.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Function Templates with Multiple Types"
-            }
-          },
-          {
-            "id": "47c40a0ffcd4e79c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "03 - Resources/C++/Function Overloading and Function Templates/Abbreviated Function Templates.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Abbreviated Function Templates"
-            }
-          },
-          {
-            "id": "6c8238e89dc60c8e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "03 - Resources/C++/Function Overloading and Function Templates/Forward Declaring Template Functions.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Forward Declaring Template Functions"
-            }
-          },
-          {
-            "id": "b65e1c858cd97cc4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "03 - Resources/C++/Function Overloading and Function Templates/Non-type template parameters.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Non-type template parameters"
+              "title": "Generating SSH key"
             }
           }
         ],
-        "currentTab": 4
-      },
-      {
-        "id": "c6405ab107a4071e",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "aa0b009c9fd9ab59",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00 - Flashcards/C++/Function Overloading and Function Templates/Function Overloading and Function Templates.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Function Overloading and Function Templates"
-            }
-          }
-        ]
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -319,34 +257,38 @@
       "card-board:CardBoard": false
     }
   },
-  "active": "b65e1c858cd97cc4",
+  "active": "bdf7cad2e300c825",
   "lastOpenFiles": [
+    "03 - Resources/Programming Methodologies/Writing a program.md",
+    "03 - Resources/Programming Methodologies/Creating a variable.md",
+    "03 - Resources/Programming Methodologies/Constants & Strings.md",
+    "06 - Daily/Notes/2025-03-20.md",
+    "06 - Daily/Notes/Generating SSH key.md",
+    "06 - Daily/Notes/2025-03-19.md",
+    "03 - Resources/C++/Folder Structure/Folder Structure.md",
+    "03 - Resources/Programming Methodologies/Log Levels/Log Levels.md",
+    "03 - Resources/CMake/Make/Syntax.md",
+    "03 - Resources/CMake/Make/Example.md",
+    "03 - Resources/CMake/Make/Make.md",
+    "03 - Resources/CMake/Language/Language.md",
+    "03 - Resources/Programming Methodologies/Log Levels/Make.md",
+    "03 - Resources/Programming Methodologies/Log Levels/Implementing Log Levels.md",
+    "03 - Resources/CMake/Make",
+    "03 - Resources/Programming Methodologies/Log Levels/Colouring Log Levels.md",
+    "03 - Resources/Programming Methodologies/Tips/Creating a variable.md",
+    "03 - Resources/Programming Methodologies/Tips/Writing a program.md",
+    "03 - Resources/Programming Methodologies/Tips",
+    "03 - Resources/Programming Methodologies/Log Levels",
+    "06 - Daily/Notes/2025-03-16.md",
+    "03 - Resources/C++/Folder Structure",
+    "03 - Resources/C++/Function Overloading and Function Templates/Why functions are useful, and how to use them effectively.md",
+    "03 - Resources/C++/Function Overloading and Function Templates/What are non-type template parameters useful for.md",
     "03 - Resources/C++/Function Overloading and Function Templates/Forward Declaring Template Functions.md",
-    "03 - Resources/C++/Function Overloading and Function Templates/Non-type template parameters.md",
-    "03 - Resources/C++/Function Overloading and Function Templates/Forward declarations and definitions.md",
-    "03 - Resources/C++/Function Overloading and Function Templates/Default Arguments.md",
-    "03 - Resources/C++/Function Overloading and Function Templates/Deleting Functions.md",
-    "03 - Resources/C++/Function Overloading and Function Templates/Function template instantiation.md",
-    "03 - Resources/C++/Function Overloading and Function Templates/Function overload resolution and ambiguous matches.md",
     "03 - Resources/C++/Function Overloading and Function Templates/Abbreviated Function Templates.md",
     "03 - Resources/C++/Function Overloading and Function Templates/Function Templates with Multiple Types.md",
-    "03 - Resources/C++/Function Overloading and Function Templates/Function templates.md",
-    "03 - Resources/C++/Function Overloading and Function Templates/Introduction to function parameters and arguments.md",
-    "03 - Resources/C++/Function Overloading and Function Templates/Summary.md",
-    "00 - Flashcards/C++/Function Overloading and Function Templates/Function Overloading and Function Templates.md",
-    "02 - Areas/Philosophy/Plato/Symposium/Symposium.md",
-    "00 - Flashcards/Philosophy/Symposium/Symposium.md",
-    "06 - Daily/Notes/2025-03-15.md",
-    "02 - Areas/Programming/Artificial Intelligence/First Order Logic/Propositionalization Preserves Entailment.md",
-    "00 - Flashcards/Artificial Intelligence/First Order (Predicate) Logic/First Order ( Predicate ) Logic.md",
-    "06 - Daily/Notes/2025-03-16.md",
-    "02 - Areas/Programming/Artificial Intelligence/First Order Logic/Summary.md",
-    "02 - Areas/Programming/Artificial Intelligence/First Order Logic/Existential Instantiation.md",
-    "02 - Areas/Programming/Artificial Intelligence/First Order Logic/FOL.md",
-    "02 - Areas/Programming/Artificial Intelligence/First Order Logic/Ground sentence.md",
-    "02 - Areas/Programming/Artificial Intelligence/First Order Logic/Problems with Propositionalization.md",
-    "02 - Areas/Programming/Artificial Intelligence/First Order Logic/Syntax and Semantics.md",
-    "02 - Areas/Programming/Artificial Intelligence/First Order Logic/Universal Instantiation.md",
+    "03 - Resources/C++/Function Overloading and Function Templates/Function overload resolution and ambiguous matches.md",
+    "03 - Resources/C++/Function Overloading and Function Templates/Void functions (non-value returning functions).md",
+    "03 - Resources/C++/Constants & Strings/static_assert.md",
     "02 - Areas/Programming/Artificial Intelligence/Outline.canvas",
     "00 - Flashcards/Philosophy/Symposium",
     "00 - Flashcards/Artificial Intelligence/First Order (Predicate) Logic",
@@ -354,14 +296,10 @@
     "02 - Areas/Philosophy/Plato/Symposium",
     "03 - Resources/CMake/Language",
     "03 - Resources/CMake/Variables",
-    "03 - Resources/CMake",
     "Images/Pasted image 20250314193145.png",
     "Images/Pasted image 20250314192245.png",
-    "03 - Resources/C++/Function Overloading and Function Templates",
     "Images/Pasted image 20250314180459.png",
     "Images/Pasted image 20250314180300.png",
-    "00 - Flashcards/C++/Function Overloading and Function Templates",
-    "00 - Flashcards/C++/Scope, Duration, and Linkage",
     "Images/Pasted image 20250311224929.png",
     "Images/Pasted image 20250311224820.png",
     "Images/code_20250311_224339_via_10015_io 1.png",

@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
-      "LiBook",
-      "LiCheck",
-      "LiWine",
-      "LiLanguages",
-      "LiX"
+      "LiBuilding",
+      "LiNotebook",
+      "⚠",
+      "LiFolder",
+      "LiBook"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -73,5 +73,9 @@
   "02 - Areas/Philosophy/Plato/Symposium": "LiWine",
   "02 - Areas/Programming/Artificial Intelligence/First Order Logic": "LiCheck",
   "00 - Flashcards/Philosophy/Symposium": "LiWine",
-  "00 - Flashcards/Philosophy/The Republic Book IV": "LiBook"
+  "00 - Flashcards/Philosophy/The Republic Book IV": "LiBook",
+  "03 - Resources/C++/Folder Structure": "LiFolder",
+  "03 - Resources/Programming Methodologies/Log Levels": "⚠",
+  "03 - Resources/Programming Methodologies/Tips": "LiNotebook",
+  "03 - Resources/CMake/Make": "LiBuilding"
 }
