@@ -1,0 +1,1 @@
+[[Unix-like filesystem]]. Each application runs in its own [[Sandbox]]. 
