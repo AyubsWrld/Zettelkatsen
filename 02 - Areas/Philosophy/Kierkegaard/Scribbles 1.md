@@ -90,6 +90,12 @@ This synthesis is what your occur when you look inwards.
 Christianity does not lend itself to objectivity, it lends itself to subjectivity to the utmost. 
 
 
+Kierkegaard asserts that truth cannot be fully understood in an abstract, detached manner. Instead, truth demands personal appropriation by the individual, which involves subjective experience. Subjectivity, in Kierkegaard's view, is not relativism or mere personal opinion; it is the deep inwardness that shapes one’s relationship with truth. For Kierkegaard, becoming subjective means engaging with truth not just objectively, but with a passionate, inward commitment. This is especially true when it comes to faith, which, unlike objective knowledge, cannot be proven or empirically verified. Faith requires a subjective leap—an inward commitment to the eternal that transcends the logical and the objective.
+
+However, Kierkegaard’s conception of subjectivity also involves **double reflection**. This means that, while one may consider a concept objectively, they must also reflect on how that concept relates to them personally. For example, the ethical, which may be presented as an objective rule or principle, becomes truly ethical only when it is subjectively experienced, when one feels moved by it and acts in accordance with it from within. In this way, subjectivity is not just about emotional engagement or blind passion; it is a reflective and conscious inward experience that brings the individual into relationship with the eternal.
+
+In this framework, the eternal cannot be accessed solely through objective reasoning or external proof, because such reasoning would strip the individual of their inward engagement with the truth. Instead, the eternal must be encountered through subjective experience, where one is both subject and object—reflecting on their own inwardness while acknowledging the relationship with the eternal truth. Thus, subjectivity is the means by which the individual relates to the eternal, specifically through faith, and it is through the subjective appropriation of the eternal that one finds genuine meaning and relationship with the divine.
+
 
 ___
 Tags : #philosophy 

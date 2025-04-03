@@ -4,53 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "38ee2b2674870175",
+        "id": "1f7f7a0eb057ee36",
         "type": "tabs",
         "children": [
           {
-            "id": "c5070613a130c5a0",
+            "id": "7b220b4cb280eb8a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 - Areas/Philosophy/Kierkegaard/Essay.md",
+                "file": "06 - Daily/Notes/2025-04-02.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Essay"
+              "title": "2025-04-02"
             }
           },
           {
-            "id": "ac3a1812a0fd2391",
+            "id": "27691a9041b526a1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "06 - Daily/Notes/2025-03-25.md",
+                "file": "02 - Areas/Philosophy/Plato/Republic/draft one.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-03-25"
-            }
-          },
-          {
-            "id": "c0f747862d57cfe4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "03 - Resources/Javascript/Async-Await/Event-loop.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Event-loop"
+              "title": "draft one"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -190,13 +176,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00 - Flashcards/C++/Constants/Constants.md",
+                "file": "06 - Daily/Notes/2025-03-11.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Constants"
+              "title": "Outline of 2025-03-11"
             }
           },
           {
@@ -220,7 +206,7 @@
             }
           },
           {
-            "id": "2732db292d834f6b",
+            "id": "a8090be89e7b0284",
             "type": "leaf",
             "state": {
               "type": "side-panel-control-view",
@@ -271,45 +257,46 @@
       "card-board:CardBoard": false
     }
   },
-  "active": "c0f747862d57cfe4",
+  "active": "27691a9041b526a1",
   "lastOpenFiles": [
-    "03 - Resources/Javascript/Async-Await/async-await.md",
-    "03 - Resources/Javascript/Async-Await/Event-loop.md",
-    "06 - Daily/Notes/2025-03-25.md",
-    "02 - Areas/Philosophy/Kierkegaard/CMPT355 Final Study.md",
+    "02 - Areas/Philosophy/Plato/Republic/draft two.md",
+    "02 - Areas/Philosophy/Plato/Republic/Book IV.md",
+    "02 - Areas/Philosophy/Plato/Republic/draft idk anymore.md",
+    "02 - Areas/Philosophy/Plato/Republic/Book One - Copy.md",
+    "02 - Areas/Philosophy/Plato/Republic/draft one - Copy - Copy.md",
+    "02 - Areas/Philosophy/Plato/Republic/draft one - Copy.md",
+    "02 - Areas/Philosophy/Plato/Republic/draft one.md",
+    "02 - Areas/Philosophy/Plato/Republic/New Text Document.txt",
+    "02 - Areas/Philosophy/Plato/Republic/Book III.md",
+    "02 - Areas/Philosophy/Plato/Republic/Book ll.md",
+    "02 - Areas/Philosophy/Plato/Republic/Thrasymachus.md",
+    "02 - Areas/Philosophy/Plato/Republic/Rule of the philosopher kings.md",
+    "02 - Areas/Philosophy/Plato/Republic/PHIL 330 Scribble.md",
+    "05 - Fleeting/Scribbles/Scribbles 303 1.md",
+    "05 - Fleeting/Scribbles/Scribbles 303.md",
+    "02 - Areas/Philosophy/Kierkegaard/Scribbles.md",
+    "06 - Daily/Notes/Untitled 1.md",
+    "06 - Daily/Notes/2025-04-02.md",
+    "06 - Daily/Notes/Final Report.md",
+    "06 - Daily/Notes/2025-04-01.md",
+    "06 - Daily/Notes/2025-03-31.md",
+    "06 - Daily/Notes/Untitled.md",
+    "react-native-.md",
+    "06 - Daily/Notes/2025-03-30.md",
+    "06 - Daily/Notes/2025-03-29.md",
+    "06 - Daily/Notes/2025-03-28.md",
     "02 - Areas/Philosophy/Kierkegaard/Essay.md",
     "Images/Pasted image 20250325151206.png",
+    "03 - Resources/python",
+    "03 - Resources/python/venv",
     "04 - Permanent/Exams",
-    "02 - Areas/Philosophy/Kierkegaard/Scribbles 1.md",
-    "02 - Areas/Philosophy/Kierkegaard/Scribbles.md",
-    "02 - Areas/Philosophy/Kierkegaard/Scribbles 2.md",
-    "06 - Daily/Notes/2025-03-24.md",
-    "06 - Daily/Notes/async promises.md",
-    "06 - Daily/Notes/Renaming Globally.md",
-    "06 - Daily/Notes/Planning.md",
-    "03 - Resources/react-native/react-native-fs/writeFile.md",
-    "03 - Resources/react-native/react-native-fs/How does the filesystem work on iPhone.md",
-    "03 - Resources/react-native/react-native-fs/Directory picker.md",
-    "03 - Resources/react-native/react-native-fs/Bookmarking reponse.md",
-    "03 - Resources/react-native/Navigation/type Props.md",
-    "03 - Resources/react-native/Navigation/AppNavigator.md",
+    "03 - Resources/react-native/react-native-document-picker",
     "03 - Resources/react-native/react-native-fs",
     "03 - Resources/react-native/Navigation",
-    "03 - Resources/react-native",
-    "03 - Resources/SSH/OpenVPN/What is a VPN.md",
-    "03 - Resources/SSH/OpenVPN/Configuring a VPN.md",
     "03 - Resources/SSH/OpenVPN",
-    "03 - Resources/SSH/Generating SSH key.md",
-    "03 - Resources/Problems/react-native/Base64/Untitled.md",
-    "03 - Resources/Problems/react-native/Base64/Base64.md",
-    "03 - Resources/Problems/react-native/Base64/Base64 to file download.md",
-    "03 - Resources/Problems/react-native/Base64/Base64 to audio.md",
-    "03 - Resources/Problems/react-native/Base64",
-    "03 - Resources/Problems/react-native",
-    "03 - Resources/Problems",
-    "01 - Projects/Graphite/Communication between app and server.md",
-    "03 - Resources/Git",
     "03 - Resources/SSH",
+    "03 - Resources/Programming Methodologies/Tips",
+    "02 - Areas/Programming/Artificial Intelligence/Outline.canvas",
     "Images/Pasted image 20250314193145.png",
     "Images/Pasted image 20250314192245.png",
     "Images/Pasted image 20250314180459.png",
@@ -318,7 +305,6 @@
     "Images/Pasted image 20250311224820.png",
     "Images/code_20250311_224339_via_10015_io 1.png",
     "Images/code_20250311_224339_via_10015_io.png",
-    "02 - Areas/Programming/Artificial Intelligence/Outline.canvas",
     "Images/code_20250308_122027_via_10015_io.png",
     "01 - Projects/Keeper/System Design/Flow.canvas",
     "01 - Projects/Keeper/Miscellanous/Keepr Outline.canvas",
