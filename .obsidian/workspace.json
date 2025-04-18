@@ -4,191 +4,107 @@
     "type": "split",
     "children": [
       {
-        "id": "c6b5edf4e4a49b25",
+        "id": "baf0cb92c3517b33",
         "type": "tabs",
         "children": [
           {
-            "id": "41fd1ad173bae439",
+            "id": "e71294a5b4b684ce",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 - Areas/Game Dev/Unreal Engine/C++/Materials/Basic Actor Setup.md",
+                "file": "03 - Resources/C++/Variadic Functions/Variadic Debugging Example.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Basic Actor Setup"
+              "title": "Variadic Debugging Example"
             }
           },
           {
-            "id": "599b6abc5a3fa9fc",
+            "id": "7c23b6544fb5b7c7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 - Areas/Game Dev/Unreal Engine/Threads/Thread Safety.md",
+                "file": "02 - Areas/Game Dev/Unreal Engine/Constructing Convex Volume From Points/Convex Hull Problem.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Thread Safety"
+              "title": "Convex Hull Problem"
             }
           },
           {
-            "id": "6a340b943f60438d",
+            "id": "fbf1218ae16b99d0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 - Areas/Game Dev/Unreal Engine/C++/Materials/Basic Actor Setup.md",
+                "file": "02 - Areas/Game Dev/Unreal Engine/Constructing Convex Volume From Points/Point Vectors to Planes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Basic Actor Setup"
+              "title": "Point Vectors to Planes"
             }
           },
           {
-            "id": "5c5fbbdfdf83b80c",
+            "id": "25980947e64f1612",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 - Areas/Game Dev/Unreal Engine/Cameras/Frustum Calculation.md",
+                "file": "2025-04-16.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Frustum Calculation"
+              "title": "2025-04-16"
             }
           },
           {
-            "id": "64ed21784720601b",
+            "id": "6de997e0adfda4c1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 - Areas/Game Dev/Unreal Engine/Cameras/Frustum Calculation.md",
+                "file": "02 - Areas/Game Dev/Errors/Regenerating Project Files.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Frustum Calculation"
+              "title": "Regenerating Project Files"
             }
           },
           {
-            "id": "f77d8da9a1d2424c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02 - Areas/Game Dev/Unreal Engine/Cameras/Projection Matrix.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Projection Matrix"
-            }
-          },
-          {
-            "id": "4d882c2a179adf6e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02 - Areas/Game Dev/Unreal Engine/Cameras/World Space.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "World Space"
-            }
-          },
-          {
-            "id": "f64e7d1f8cd29bae",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02 - Areas/Game Dev/Unreal Engine/Cameras/Camera Space.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Camera Space"
-            }
-          },
-          {
-            "id": "763afe6c2f1d8af6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02 - Areas/Game Dev/Unreal Engine/Cameras/View Matrix.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "View Matrix"
-            }
-          },
-          {
-            "id": "6092d6c5532b5b7a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02 - Areas/Game Dev/Unreal Engine/Cameras/Projection Matrix.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Projection Matrix"
-            }
-          },
-          {
-            "id": "01fc6d603e1660d9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02 - Areas/Game Dev/Unreal Engine/Cameras/Stuff I might use.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Stuff I might use"
-            }
-          },
-          {
-            "id": "6400d51a6e070ff9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01 - Projects/Frame/Classes/Camera Class.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Camera Class"
-            }
-          },
-          {
-            "id": "298cd1e9337a6d51",
+            "id": "f1ff4bf2517bcb5b",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/Drawing 2025-04-12 13.44.10.excalidraw.md"
+                "file": "02 - Areas/Game Dev/Unreal Engine/Constructing Convex Volume From Points/Diagram.md"
               },
               "icon": "excalidraw-icon",
-              "title": "Drawing 2025-04-12 13.44.10.excalidraw"
+              "title": "Diagram"
+            }
+          },
+          {
+            "id": "68312931dd0cea74",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02 - Areas/Game Dev/Errors/Regenerating Project Files.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Regenerating Project Files"
             }
           }
         ],
-        "currentTab": 10
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -409,45 +325,45 @@
       "card-board:CardBoard": false
     }
   },
-  "active": "01fc6d603e1660d9",
+  "active": "68312931dd0cea74",
   "lastOpenFiles": [
+    "03 - Resources/C++/Pointers/Const Pointers.md",
+    "02 - Areas/Game Dev/Unreal Engine/Constructing Convex Volume From Points/Diagram.md",
+    "03 - Resources/C++/Pointers",
+    "02 - Areas/Game Dev/Errors/Regenerating Project Files.md",
+    "02 - Areas/Game Dev/Unreal Engine/Constructing Convex Volume From Points/Point Vectors to Planes.md",
+    "02 - Areas/Game Dev/Unreal Engine/Constructing Convex Volume From Points/Convex Hull Problem.md",
+    "02 - Areas/Game Dev/Unreal Engine/Cameras/Frustum Calculation Code.md",
+    "03 - Resources/C++/Variadic Functions/Variadic Debugging Example.md",
+    "2025-04-16.md",
+    "2025-04-17.md",
+    "Excalidraw",
+    "02 - Areas/Game Dev/Unreal Engine/Cameras/Actor in vision or not.md",
+    "02 - Areas/Game Dev/Unreal Engine/Constructing Convex Volume From Points",
+    "02 - Areas/Game Dev/Unreal Engine/Cameras/Teaching How to Draw Frustum.md",
+    "02 - Areas/Game Dev/Unreal Engine/Cameras/Frustum Calculation.md",
+    "02 - Areas/Game Dev/Unreal Engine/Cameras/World Space.md",
+    "03 - Resources/C++/Variadic Functions",
     "02 - Areas/Game Dev/Unreal Engine/Cameras/Projection Matrix.md",
+    "02 - Areas/Game Dev/Unreal Engine/C++/Materials/Basic Actor Setup.md",
+    "02 - Areas/Game Dev/Unreal Engine/Cameras/View Matrix.md",
+    "02 - Areas/Game Dev/Unreal Engine/Cameras/Camera Space.md",
+    "02 - Areas/Game Dev/Unreal Engine/Threads/Thread Safety.md",
+    "01 - Projects/Frame/Classes/Camera Class.md",
     "02 - Areas/Game Dev/Unreal Engine/Cameras/Stuff I might use.md",
     "02 - Areas/Math/Linear Algebra/Final Linear Algebra.md",
-    "02 - Areas/Game Dev/Unreal Engine/Cameras/World Space.md",
-    "02 - Areas/Game Dev/Unreal Engine/Cameras/Camera Space.md",
     "02 - Areas/Game Dev/Unreal Engine/Cameras/FMatrix.md",
-    "02 - Areas/Game Dev/Unreal Engine/Cameras/View Matrix.md",
     "02 - Areas/Game Dev/Unreal Engine/Location/Deriving World Location of Object.md",
     "02 - Areas/Game Dev/Unreal Engine/Location",
-    "02 - Areas/Game Dev/Errors/Regenerating Project Files.md",
     "02 - Areas/Game Dev/Errors",
     "2025-04-15.md",
     "02 - Areas/Game Dev/Unreal Engine/Cameras/ViewProjection Matrix.md",
-    "02 - Areas/Game Dev/Unreal Engine/Cameras/Frustum Calculation.md",
-    "02 - Areas/Game Dev/Unreal Engine/Cameras/Actor in vision or not.md",
-    "02 - Areas/Game Dev/Unreal Engine/C++/Materials/Basic Actor Setup.md",
-    "02 - Areas/Game Dev/Unreal Engine/Threads/Thread Safety.md",
     "02 - Areas/Game Dev/Unreal Engine/Threads/Calculating Vision of Camera.md",
     "Calculating",
     "02 - Areas/Game Dev/Unreal Engine/Cameras",
     "03 - Resources/C++/Lambdas",
     "02 - Areas/Game Dev/Unreal Engine/Threads",
-    "2025-04-12.md",
-    "02 - Areas/Game Dev/Unreal Engine",
-    "2025-04-14.md",
-    "2025-04-13.md",
-    "01 - Projects/Frame/Classes/Camera State.md",
-    "01 - Projects/Frame/Classes/Camera Class.md",
-    "99 - Excalidraw/Drawing 2025-04-12 13.44.10.excalidraw.md",
     "01 - Projects/Frame/Classes/Flow.canvas",
-    "01 - Projects/Frame/Classes/Battery Class.md",
-    "01 - Projects/Frame/Classes/PlayableCharacter.md",
-    "99 - Excalidraw",
-    "Team.md",
-    "01 - Projects/Frame/Classes",
-    "01 - Projects/Frame",
-    "Excalidraw/Drawing 2025-04-09 16.31.57.excalidraw.md",
     "Images/Pasted image 20250405131504.png",
     "Images/Pasted image 20250405131224.png",
     "02 - Areas/Programming/Artificial Intelligence/Outline.canvas",

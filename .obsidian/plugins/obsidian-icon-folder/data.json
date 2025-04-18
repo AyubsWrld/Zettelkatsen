@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiAsterisk",
+      "LiShapes",
+      "LiQuestionMarkGlyph",
       "LiPin",
-      "LiSmartphoneCharging",
-      "LiCode",
-      "LiCamera",
-      "LiPen"
+      "LiSmartphoneCharging"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -84,5 +84,8 @@
   "02 - Areas/Game Dev/Unreal Engine/Cameras": "LiCamera",
   "02 - Areas/Game Dev/Unreal Engine/C++": "LiCode",
   "02 - Areas/Game Dev/Unreal Engine/Threads": "LiSmartphoneCharging",
-  "02 - Areas/Game Dev/Unreal Engine/Location": "LiPin"
+  "02 - Areas/Game Dev/Unreal Engine/Location": "LiPin",
+  "03 - Resources/C++/Variadic Functions": "LiQuestionMarkGlyph",
+  "02 - Areas/Game Dev/Unreal Engine/Constructing Convex Volume From Points": "LiShapes",
+  "03 - Resources/C++/Pointers": "LiAsterisk"
 }
