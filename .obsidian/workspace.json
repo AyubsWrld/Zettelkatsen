@@ -22,12 +22,40 @@
             }
           },
           {
+            "id": "5ec78f5acc5a0584",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02 - Areas/Game Dev/Unreal Engine/Cameras/Actor in vision or not.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Actor in vision or not"
+            }
+          },
+          {
+            "id": "9eb920f2ba8b18fb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02 - Areas/Game Dev/Unreal Engine/Cameras/Calculating Dot Product Between Two Actors.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Calculating Dot Product Between Two Actors"
+            }
+          },
+          {
             "id": "7c23b6544fb5b7c7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 - Areas/Game Dev/Unreal Engine/Constructing Convex Volume From Points/Convex Hull Problem.md",
+                "file": "02 - Areas/Game Dev/Unreal Engine/Constructing Mesh from Points/Convex Hull Problem.md",
                 "mode": "source",
                 "source": false
               },
@@ -36,75 +64,19 @@
             }
           },
           {
-            "id": "fbf1218ae16b99d0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02 - Areas/Game Dev/Unreal Engine/Constructing Convex Volume From Points/Point Vectors to Planes.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Point Vectors to Planes"
-            }
-          },
-          {
-            "id": "25980947e64f1612",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2025-04-16.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2025-04-16"
-            }
-          },
-          {
-            "id": "6de997e0adfda4c1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02 - Areas/Game Dev/Errors/Regenerating Project Files.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Regenerating Project Files"
-            }
-          },
-          {
-            "id": "f1ff4bf2517bcb5b",
+            "id": "d1dfbade4fcb042f",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "02 - Areas/Game Dev/Unreal Engine/Constructing Convex Volume From Points/Diagram.md"
+                "file": "02 - Areas/Game Dev/Unreal Engine/Constructing Mesh from Points/Diagram.md"
               },
               "icon": "excalidraw-icon",
               "title": "Diagram"
             }
-          },
-          {
-            "id": "68312931dd0cea74",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02 - Areas/Game Dev/Errors/Regenerating Project Files.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Regenerating Project Files"
-            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -325,21 +297,29 @@
       "card-board:CardBoard": false
     }
   },
-  "active": "68312931dd0cea74",
+  "active": "9eb920f2ba8b18fb",
   "lastOpenFiles": [
-    "03 - Resources/C++/Pointers/Const Pointers.md",
-    "02 - Areas/Game Dev/Unreal Engine/Constructing Convex Volume From Points/Diagram.md",
-    "03 - Resources/C++/Pointers",
-    "02 - Areas/Game Dev/Errors/Regenerating Project Files.md",
-    "02 - Areas/Game Dev/Unreal Engine/Constructing Convex Volume From Points/Point Vectors to Planes.md",
-    "02 - Areas/Game Dev/Unreal Engine/Constructing Convex Volume From Points/Convex Hull Problem.md",
-    "02 - Areas/Game Dev/Unreal Engine/Cameras/Frustum Calculation Code.md",
+    "02 - Areas/Game Dev/Unreal Engine/Cameras/Camera Space.md",
+    "02 - Areas/Game Dev/Unreal Engine/Cameras/Calculating Dot Product Between Two Actors.md",
+    "02 - Areas/Game Dev/Unreal Engine/Cameras/Actor in vision or not.md",
+    "02 - Areas/Game Dev/Unreal Engine/Line Traces/What is a line trace.md",
+    "02 - Areas/Game Dev/Unreal Engine/Constructing Mesh from Points/Convex Hull Problem.md",
     "03 - Resources/C++/Variadic Functions/Variadic Debugging Example.md",
+    "02 - Areas/Game Dev/Unreal Engine/Line Traces",
+    "2025-04-20.md",
+    "02 - Areas/Game Dev/Unreal Engine/Constructing Mesh from Points/Diagram.md",
+    "02 - Areas/Game Dev/Unreal Engine/Collision Detection",
+    "02 - Areas/Game Dev/Unreal Engine/Constructing Mesh from Points/Winding Order.md",
+    "2025-04-19.md",
+    "02 - Areas/Game Dev/Errors/Regenerating Project Files.md",
+    "03 - Resources/C++/Pointers/Const Pointers.md",
+    "03 - Resources/C++/Pointers",
+    "02 - Areas/Game Dev/Unreal Engine/Constructing Mesh from Points/Point Vectors to Planes.md",
+    "02 - Areas/Game Dev/Unreal Engine/Cameras/Frustum Calculation Code.md",
     "2025-04-16.md",
     "2025-04-17.md",
     "Excalidraw",
-    "02 - Areas/Game Dev/Unreal Engine/Cameras/Actor in vision or not.md",
-    "02 - Areas/Game Dev/Unreal Engine/Constructing Convex Volume From Points",
+    "02 - Areas/Game Dev/Unreal Engine/Constructing Mesh from Points",
     "02 - Areas/Game Dev/Unreal Engine/Cameras/Teaching How to Draw Frustum.md",
     "02 - Areas/Game Dev/Unreal Engine/Cameras/Frustum Calculation.md",
     "02 - Areas/Game Dev/Unreal Engine/Cameras/World Space.md",
@@ -347,22 +327,14 @@
     "02 - Areas/Game Dev/Unreal Engine/Cameras/Projection Matrix.md",
     "02 - Areas/Game Dev/Unreal Engine/C++/Materials/Basic Actor Setup.md",
     "02 - Areas/Game Dev/Unreal Engine/Cameras/View Matrix.md",
-    "02 - Areas/Game Dev/Unreal Engine/Cameras/Camera Space.md",
     "02 - Areas/Game Dev/Unreal Engine/Threads/Thread Safety.md",
     "01 - Projects/Frame/Classes/Camera Class.md",
     "02 - Areas/Game Dev/Unreal Engine/Cameras/Stuff I might use.md",
     "02 - Areas/Math/Linear Algebra/Final Linear Algebra.md",
-    "02 - Areas/Game Dev/Unreal Engine/Cameras/FMatrix.md",
-    "02 - Areas/Game Dev/Unreal Engine/Location/Deriving World Location of Object.md",
     "02 - Areas/Game Dev/Unreal Engine/Location",
     "02 - Areas/Game Dev/Errors",
-    "2025-04-15.md",
-    "02 - Areas/Game Dev/Unreal Engine/Cameras/ViewProjection Matrix.md",
-    "02 - Areas/Game Dev/Unreal Engine/Threads/Calculating Vision of Camera.md",
     "Calculating",
     "02 - Areas/Game Dev/Unreal Engine/Cameras",
-    "03 - Resources/C++/Lambdas",
-    "02 - Areas/Game Dev/Unreal Engine/Threads",
     "01 - Projects/Frame/Classes/Flow.canvas",
     "Images/Pasted image 20250405131504.png",
     "Images/Pasted image 20250405131224.png",
