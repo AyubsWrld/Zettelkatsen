@@ -1,0 +1,1 @@
+Enumerators are always put into the same scope as where their Enumeration is defined. This is called an *Un-scoped Enumeration* and this is usually discouraged as it raises the possibility of naming conflictions as no two Enumerations can share the same Enumerator. Always prefer using a scoped enumeration as opposed to an un-scoped enumeration to avoid polluting the namespace. 

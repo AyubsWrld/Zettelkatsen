@@ -5,3 +5,6 @@
 | `T* const ptr`       | Pointer         | ❌ No                | ✅ Yes               |
 | `const T* const ptr` | Both            | ❌ No                | ❌ No                |
 | `const T*& ref`      | Pointee via ref | ✅ Yes               | ❌ No                |
+
+___
+Tags : #programming #cpp 

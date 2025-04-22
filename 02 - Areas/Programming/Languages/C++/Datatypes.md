@@ -1,1 +1,1 @@
-[[Structs]]
+[[02 - Areas/Programming/Languages/C++/Structs]]
