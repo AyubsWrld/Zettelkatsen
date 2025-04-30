@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
-      "LiBatteryWarning",
-      "LiCheck",
-      "LiTowerControl",
-      "LiComponent",
-      "LiQuestionMarkGlyph"
+      "LiChartNetwork",
+      "LiGitPullRequestCreateArrow",
+      "LiCheckList",
+      "LiAppWindow",
+      "🪟"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -100,5 +100,9 @@
   "03 - Resources/Problems": "LiQuestionMarkGlyph",
   "03 - Resources/C++/Compound Types": "LiComponent",
   "03 - Resources/C++/Best Practice": "LiCheck",
-  "03 - Resources/C++/Operator Overloading": "LiBatteryWarning"
+  "03 - Resources/C++/Operator Overloading": "LiBatteryWarning",
+  "01 - Projects/Portfolio Website": "LiAppWindow",
+  "01 - Projects/Portfolio Website/Tasks": "LiCheckList",
+  "03 - Resources/SSH": "LiChartNetwork",
+  "03 - Resources/Redux": "LiGitPullRequestCreateArrow"
 }

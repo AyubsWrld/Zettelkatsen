@@ -4,53 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "46487854a3f9fdac",
+        "id": "32edec1a8b557c37",
         "type": "tabs",
         "children": [
           {
-            "id": "0b46ddd5a63a5c02",
+            "id": "8d5a3ca5e4bfe0cd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 - Resources/C++/Compound Types/Enums.md",
+                "file": "03 - Resources/Redux/Create a Redux State Slice.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Enums"
-            }
-          },
-          {
-            "id": "321abdd20d9853f5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "03 - Resources/C++/Operator Overloading/overloading cout.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "overloading cout"
-            }
-          },
-          {
-            "id": "845667eba8791102",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "03 - Resources/C++/Operator Overloading/overloading cout.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "overloading cout"
+              "title": "Create a Redux State Slice"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -271,44 +242,45 @@
       "card-board:CardBoard": false
     }
   },
-  "active": "845667eba8791102",
+  "active": "8d5a3ca5e4bfe0cd",
   "lastOpenFiles": [
-    "00 - Flashcards/C++/User Defined Types/User Defined Types.md",
-    "03 - Resources/C++/Operator Overloading/Operator Overloading.md",
-    "03 - Resources/C++/Operator Overloading/overloading cout.md",
-    "03 - Resources/C++/Pointers/Const Pointers.md",
-    "03 - Resources/C++/Constants & Strings/Challenges with const variables.md",
-    "03 - Resources/C++/Folder Structure/Folder Structure.md",
-    "03 - Resources/C++/Variadic Functions/Variadic Debugging Example.md",
-    "03 - Resources/C++/libcurl/Setting up.md",
-    "03 - Resources/C++/libcurl/Example receiving data.md",
-    "03 - Resources/C++/Operator Overloading",
+    "03 - Resources/Redux/Redux Store.md",
+    "01 - Projects/Portfolio Website/State/State.md",
+    "2025-04-29.md",
+    "01 - Projects/Portfolio Website/State",
+    "03 - Resources/Redux/Create a Redux State Slice.md",
+    "03 - Resources/Redux/Interacting with Store.md",
+    "03 - Resources/Redux/Pure Functions.md",
+    "03 - Resources/Redux/Actions.md",
+    "03 - Resources/Redux/Dependencies.md",
+    "03 - Resources/Redux/State.md",
+    "03 - Resources/Redux/Subscribe.md",
+    "03 - Resources/Redux/TLDR.md",
+    "03 - Resources/Redux/Dispatch.md",
+    "03 - Resources/Redux/Reducers.md",
+    "03 - Resources/Redux/Inspiration for state.md",
+    "03 - Resources/SSH/Connecting to MacOs.md",
+    "2025-04-27.md",
+    "03 - Resources/Redux",
+    "01 - Projects/Portfolio Website/Threejs/Code Reviews.md",
+    "01 - Projects/Portfolio Website/Threejs/Responsive Design.md",
+    "01 - Projects/Portfolio Website/Threejs/Fundamental Notes.md",
+    "Images/Pasted image 20250426143201.png",
+    "01 - Projects/Portfolio Website/Threejs/Loading GLTF Models.md",
+    "01 - Projects/Portfolio Website/Threejs/Basics Example.md",
+    "01 - Projects/Portfolio Website/Threejs/EventDispatcher.md",
+    "2025-04-25.md",
+    "01 - Projects/Portfolio Website/Tasks/Normalization Problems.md",
+    "01 - Projects/Portfolio Website/Tasks/Interacting with model.md",
     "03 - Resources/C++/Compound Types/Enums.md",
-    "03 - Resources/C++/Compound Types/Lvalue references.md",
-    "03 - Resources/C++/Compound Types/Bitset with Enumerations pattern.md",
-    "03 - Resources/C++/Best Practice/Enumerations.md",
-    "03 - Resources/C++/Compound Types/Unscoped vs Scoped Enumerations.md",
+    "01 - Projects/Portfolio Website/Threejs",
+    "01 - Projects/Portfolio Website/Tasks",
+    "01 - Projects/Portfolio Website",
+    "03 - Resources/C++/Operator Overloading",
     "03 - Resources/C++/Best Practice",
-    "00 - Flashcards/C++/Scope, Duration, and Linkage/Compound Statements.md",
     "00 - Flashcards/C++/User Defined Types",
     "03 - Resources/C++/Compound Types/Structs",
-    "02 - Areas/Game Dev/Unreal Engine/Inventory System/Inventory.md",
-    "02 - Areas/Game Dev/Unreal Engine/Reflection System/Unreal Engine's Reflection System.md",
-    "02 - Areas/Game Dev/Unreal Engine/Reflection System/Generated Header Files.md",
-    "02 - Areas/Game Dev/Unreal Engine/Reflection System/Reflection Metadata.md",
-    "02 - Areas/Game Dev/Unreal Engine/Serialization/Serialization.md",
-    "2025-04-22.md",
     "02 - Areas/Game Dev/Unreal Engine/Serialization",
-    "02 - Areas/Game Dev/Unreal Engine/Networking",
-    "02 - Areas/Game Dev/Unreal Engine/Reflection System",
-    "02 - Areas/Game Dev/Unreal Engine/Untitled",
-    "02 - Areas/Game Dev/Unreal Engine/Line Traces/What is a line trace.md",
-    "02 - Areas/Game Dev/Unreal Engine/Inventory System",
-    "2025-04-21.md",
-    "02 - Areas/Game Dev/Unreal Engine/Objects/CreateDefaultSubobject.md",
-    "02 - Areas/Game Dev/Unreal Engine/Meshes/Binding Mesh From Code.md",
-    "02 - Areas/Game Dev/Unreal Engine/Objects",
-    "02 - Areas/Game Dev/Unreal Engine/Location/Deriving World Location of Object.md",
     "01 - Projects/Frame/Classes/Flow.canvas",
     "Images/Pasted image 20250405131504.png",
     "Images/Pasted image 20250405131224.png",
@@ -320,7 +292,6 @@
     "Images/Pasted image 20250314180459.png",
     "Images/Pasted image 20250314180300.png",
     "Images/Pasted image 20250311224929.png",
-    "Images/Pasted image 20250311224820.png",
     "01 - Projects/Keeper/System Design/Flow.canvas",
     "01 - Projects/Keeper/Miscellanous/Keepr Outline.canvas",
     "01 - Projects/Keeper/Native APIs/File Interactions.canvas",
