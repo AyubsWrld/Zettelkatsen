@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
-      "LiChartNetwork",
-      "LiGitPullRequestCreateArrow",
-      "LiCheckList",
-      "LiAppWindow",
-      "🪟"
+      "LiComputer",
+      "LiFile",
+      "LiLibrary",
+      "LiFastForward",
+      "LiChevronsLeftRightEllipsis"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -104,5 +104,11 @@
   "01 - Projects/Portfolio Website": "LiAppWindow",
   "01 - Projects/Portfolio Website/Tasks": "LiCheckList",
   "03 - Resources/SSH": "LiChartNetwork",
-  "03 - Resources/Redux": "LiGitPullRequestCreateArrow"
+  "03 - Resources/Redux": "LiGitPullRequestCreateArrow",
+  "03 - Resources/Go": "LiGoal",
+  "03 - Resources/Go/TLDR": "LiFastForward",
+  "03 - Resources/Go/Libraries": "LiLibrary",
+  "03 - Resources/Go/Libraries/HTTP": "LiChevronsLeftRightEllipsis",
+  "03 - Resources/Go/Libraries/io": "LiFile",
+  "03 - Resources/Go/Libraries/os": "LiComputer"
 }
