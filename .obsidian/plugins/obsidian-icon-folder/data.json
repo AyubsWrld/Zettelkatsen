@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiShapes",
+      "LiComponent",
       "LiComputer",
       "LiFile",
-      "LiLibrary",
-      "LiFastForward",
-      "LiChevronsLeftRightEllipsis"
+      "LiLibrary"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -110,5 +110,7 @@
   "03 - Resources/Go/Libraries": "LiLibrary",
   "03 - Resources/Go/Libraries/HTTP": "LiChevronsLeftRightEllipsis",
   "03 - Resources/Go/Libraries/io": "LiFile",
-  "03 - Resources/Go/Libraries/os": "LiComputer"
+  "03 - Resources/Go/Libraries/os": "LiComputer",
+  "03 - Resources/Go/Composite Types": "LiComponent",
+  "03 - Resources/Go/Composite Types/Structs.md": "LiShapes"
 }
