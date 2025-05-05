@@ -1,2 +1,0 @@
-- Truth is within us , we just need be reminded . 
-- Teacher can be pushed away 

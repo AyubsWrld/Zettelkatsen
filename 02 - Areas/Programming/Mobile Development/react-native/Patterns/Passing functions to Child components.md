@@ -1,5 +1,0 @@
-
-
-
----
-Tags : #react-native #patterns

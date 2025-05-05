@@ -1,0 +1,21 @@
+{
+  "encore-settings@@theme-dark": "encore-theme-dark-iron",
+  "encore-settings@@encore-translucency-strength": 0.8,
+  "encore-settings@@encore-translucency-blur-amount": 2,
+  "encore-settings@@encore-custom-italic@@dark": "#29B349",
+  "encore-settings@@encore-custom-bold@@dark": "#70D186",
+  "encore-settings@@encore-custom-h1@@dark": "#589B68",
+  "encore-settings@@encore-fancy-headers": true,
+  "encore-settings@@encore-mobile-oled-mode": true,
+  "encore-settings@@encore-custom-h4@@dark": "#29B349",
+  "encore-settings@@encore-custom-h5@@dark": "#29B349",
+  "encore-settings@@encore-custom-h6@@dark": "#29B349",
+  "encore-settings@@encore-translucency-background": "encore-bg-image",
+  "encore-settings@@encore-translucency": true,
+  "encore-settings@@encore-translucency-image": "url(\"https://images.squarespace-cdn.com/content/v1/54fc8146e4b02a22841f4df7/1607911330497-XMAI541HOOKCW5MUUERG/ghostintheshell.jpg\")",
+  "encore-settings@@encore-bright-accent": true,
+  "encore-settings@@encore-highlight-border": true,
+  "encore-settings@@encore-coloured-tooltip": true,
+  "encore-settings@@encore-mobile-translucency": true,
+  "encore-settings@@encore-disable-grain": false
+}

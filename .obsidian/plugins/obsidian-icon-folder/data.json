@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
-      "LiShapes",
-      "LiComponent",
-      "LiComputer",
-      "LiFile",
-      "LiLibrary"
+      "LiArrowenter",
+      "LiFlower",
+      "LiTicketX",
+      "LiMap",
+      "LiStopCircle"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -71,7 +71,6 @@
   "03 - Resources/CMake/Variables": "LiX",
   "03 - Resources/CMake/Language": "LiLanguages",
   "02 - Areas/Philosophy/Plato/Symposium": "LiWine",
-  "02 - Areas/Programming/Artificial Intelligence/First Order Logic": "LiCheck",
   "00 - Flashcards/Philosophy/Symposium": "LiWine",
   "00 - Flashcards/Philosophy/The Republic Book IV": "LiBook",
   "03 - Resources/vim": "LiVoicemail",
@@ -112,5 +111,22 @@
   "03 - Resources/Go/Libraries/io": "LiFile",
   "03 - Resources/Go/Libraries/os": "LiComputer",
   "03 - Resources/Go/Composite Types": "LiComponent",
-  "03 - Resources/Go/Composite Types/Structs.md": "LiShapes"
+  "03 - Resources/Go/Composite Types/Structs.md": "LiShapes",
+  "01 - Projects/Keeper - OS": "LiComputer",
+  "01 - Projects/Keeper - OS/Idea.md": "LiLightbulb",
+  "01 - Projects/Keeper - OS/Prereqs.md": "❕",
+  "01 - Projects/Keeper - OS/Buildroot": "LiHammer",
+  "01 - Projects/Keeper - OS/Components.md": "LiShapes",
+  "02 - Areas/Computer Science/Artificial Intelligence/First Order Logic": "LiCheck",
+  "02 - Areas/Computer Science/Operating Systems": "LiSyncSmall",
+  "02 - Areas/Computer Science/Operating Systems/Introduction": "LiFlag",
+  "02 - Areas/Computer Science/Operating Systems/Processes and Threads": "LiArrowUpRightFromCircle",
+  "02 - Areas/Computer Science/Operating Systems/Memory Management": "LiBinary",
+  "02 - Areas/Computer Science/Operating Systems/File Systems": "LiFile",
+  "02 - Areas/Computer Science/Operating Systems/IO": "🇮🇴",
+  "02 - Areas/Computer Science/Operating Systems/Multiple Processor Systems": "LiMicrochip",
+  "02 - Areas/Computer Science/Operating Systems/Security": "LiStopCircle",
+  "02 - Areas/Computer Science/Operating Systems/Instructions": "LiMap",
+  "02 - Areas/Computer Science/Operating Systems/Iceberg": "LiTicketX",
+  "01 - Projects/Keeper - OS/Project Flow.canvas": "LiArrowenter"
 }

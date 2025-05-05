@@ -1,1 +1,0 @@
-[[02 - Areas/Programming/Languages/C++/Structs]]

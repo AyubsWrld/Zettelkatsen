@@ -1,0 +1,19 @@
+{
+	"nodes":[
+		{"id":"c4f90723372c80c0","x":-200,"y":-240,"width":232,"height":60,"type":"text","text":"Dynamic Programming"},
+		{"id":"a9fed2ba1ef03d9f","x":-528,"y":43,"width":228,"height":60,"color":"4","type":"text","text":"[[Principal of Optimality]]"},
+		{"id":"c9b22e55f47c95d4","x":-1100,"y":-180,"width":250,"height":60,"color":"2","type":"text","text":"[[Floyds Algorithm]]"},
+		{"id":"d1f5336d7fedaacc","x":-1137,"y":-360,"width":325,"height":60,"color":"2","type":"text","text":"[[Warshalls Path-finding Algorithm]]"},
+		{"id":"dd70450ff41c954b","x":-720,"y":-520,"width":272,"height":60,"color":"1","type":"text","text":"[[Change Making Problem]]"},
+		{"id":"83a3c0f153d3f705","x":-199,"y":-520,"width":231,"height":60,"color":"2","type":"text","text":"[[Transitive Closure]]"},
+		{"id":"ebccc912cc1afc46","x":64,"y":37,"width":196,"height":60,"color":"1","type":"text","text":"[[Optimal BST]]"}
+	],
+	"edges":[
+		{"id":"41e4075a18bd92ff","fromNode":"c4f90723372c80c0","fromSide":"bottom","toNode":"a9fed2ba1ef03d9f","toSide":"top"},
+		{"id":"9dce0d1827d8dd20","fromNode":"c4f90723372c80c0","fromSide":"top","toNode":"dd70450ff41c954b","toSide":"bottom"},
+		{"id":"2bf8813768b7714d","fromNode":"c4f90723372c80c0","fromSide":"left","toNode":"c9b22e55f47c95d4","toSide":"right"},
+		{"id":"7e5fd59885c84a60","fromNode":"c4f90723372c80c0","fromSide":"left","toNode":"d1f5336d7fedaacc","toSide":"right"},
+		{"id":"7c5bcdae62dee73c","fromNode":"c4f90723372c80c0","fromSide":"top","toNode":"83a3c0f153d3f705","toSide":"bottom"},
+		{"id":"6e99d72a05895b43","fromNode":"c4f90723372c80c0","fromSide":"bottom","toNode":"ebccc912cc1afc46","toSide":"top"}
+	]
+}

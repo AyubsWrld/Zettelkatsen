@@ -1,0 +1,11 @@
+- ## TLDR
+	- Faults within systems which are caused by the software running into unexpected (usually edge cases) which cause unexpected behaviour , which can potentially lead to a [[Fault]] or in some cases [[Failure]].  
+	- Purposeful Disruption / [[Chaos Engineering]] can be utilized to test for these software faults . 
+	
+- ## Combatting Software faults
+	- Minimize the opportunity for faults . 
+	- Well designed abstractions for APIs, we can also aim to make the APIs more restrictive . 
+	- Decouple the places wherein people make the most mistakes from the places where failures occur most often . 
+	- Unit testing at all levels 
+	- Implement fallback services . 
+	- Set up detailed metrics for monitoring , This is referred to as [[Telemtry]] in engineering . 

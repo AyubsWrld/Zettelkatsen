@@ -1,0 +1,5 @@
+- Conversion 
+- Error to Truth 
+- The moment of understanding is pivotal , Huge. 
+- Paradox is important , Helps lead to greater passion . 
+- Teacher cannot be pushed away 

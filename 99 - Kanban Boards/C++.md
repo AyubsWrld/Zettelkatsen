@@ -15,7 +15,7 @@ ____
 - [ ] [[Programs with multiple code files]] #cppfunctions
 - [ ] [[Naming collisions and an introduction to namespaces]] #cppfunctions
 - [ ] [[Introduction to the preprocessor]] #cppfunctions
-- [ ] [[02 - Areas/Programming/Languages/C/Header Files]] #cppfunctions
+- [ ] [[Header Files]] #cppfunctions
 - [ ] [[Header guards]] #cppfunctions
 - [ ] [[How to design your first programs]] #cppfunctions
 - [ ] [[Chapter 2 summary and quiz]] #cppfunctions

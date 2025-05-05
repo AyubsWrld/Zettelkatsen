@@ -1,0 +1,15 @@
+{
+	"nodes":[
+		{"id":"92c0866470ba68e1","type":"group","x":-740,"y":-165,"width":767,"height":645,"label":"Setup"},
+		{"id":"324dfa647e26a3fd","type":"group","x":1640,"y":-165,"width":767,"height":645,"label":"Clean-up"},
+		{"id":"7a302ba17c400d01","type":"group","x":440,"y":-165,"width":760,"height":645,"label":"Running"},
+		{"id":"dc52b08ad4249cd0","x":-523,"y":80,"width":335,"height":60,"type":"text","text":"Create named partition "},
+		{"id":"2bd11dffcf205478","type":"text","text":"Generate executable","x":-509,"y":-20,"width":307,"height":51},
+		{"id":"7656244999a3bf70","type":"text","text":"Mend partitions","x":1840,"y":-129,"width":335,"height":60},
+		{"id":"76ddf59bc6e49b46","type":"text","text":"Implicitly Generate Configuration","x":-574,"y":-120,"width":438,"height":51}
+	],
+	"edges":[
+		{"id":"e97c51c788cd700d","fromNode":"92c0866470ba68e1","fromSide":"right","toNode":"7a302ba17c400d01","toSide":"left"},
+		{"id":"1dfa500ca81c2605","fromNode":"7a302ba17c400d01","fromSide":"right","toNode":"324dfa647e26a3fd","toSide":"left"}
+	]
+}
