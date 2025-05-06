@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
-      "LiArrowenter",
-      "LiFlower",
-      "LiTicketX",
-      "LiMap",
-      "LiStopCircle"
+      "🪟",
+      "LiHardDrive",
+      "LiHighlighter",
+      "LiHighlight",
+      "LiBookText"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -128,5 +128,11 @@
   "02 - Areas/Computer Science/Operating Systems/Security": "LiStopCircle",
   "02 - Areas/Computer Science/Operating Systems/Instructions": "LiMap",
   "02 - Areas/Computer Science/Operating Systems/Iceberg": "LiTicketX",
-  "01 - Projects/Keeper - OS/Project Flow.canvas": "LiArrowenter"
+  "01 - Projects/Keeper - OS/Project Flow.canvas": "LiArrowenter",
+  "00 - Flashcards/Operating Systems/Introduction": "LiFlag",
+  "01 - Projects/Keeper - OS/Boot Process": "LiBookText",
+  "01 - Projects/Keeper - OS/High-level implementation": "LiHighlighter",
+  "01 - Projects/Keeper - OS/High-level implementation/Partition Generation.md": "LiHardDrive",
+  "03 - Resources/WIN32": "🪟",
+  "01 - Projects/Keeper - OS/High-level implementation/Partition Generation.canvas": "LiHardDrive"
 }

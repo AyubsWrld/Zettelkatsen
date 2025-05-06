@@ -1,0 +1,17 @@
+{
+	"nodes":[
+		{"id":"39a1b43a0b7727a1","x":-1480,"y":-400,"width":1820,"height":800,"type":"group","label":"Partitioning.h"},
+		{"id":"dbdf8c57d88259f9","type":"group","x":-720,"y":-95,"width":340,"height":235,"label":"Partition Generation"},
+		{"id":"1cf777100b6380a0","type":"group","x":-1340,"y":-102,"width":310,"height":250,"label":"Planning Partition"},
+		{"id":"723bbc3e97e5cee3","type":"group","x":-80,"y":-36,"width":290,"height":117,"label":"Serialization"},
+		{"id":"b0925cea4fa7281b","type":"text","text":"AllocatePartition()","x":-700,"y":-60,"width":300,"height":60},
+		{"id":"34a181f7933775d4","type":"text","text":"LoadOperatingSystem()","x":-700,"y":50,"width":300,"height":60},
+		{"id":"f269782c3672d485","type":"text","text":"Enumerate()","x":-1320,"y":-52,"width":270,"height":60},
+		{"id":"47427c51eba95299","type":"text","text":"GetBestFit()","x":-1320,"y":58,"width":270,"height":60},
+		{"id":"2293bd3f6afde937","type":"text","text":"SerializeData()","x":-60,"y":-16,"width":250,"height":60}
+	],
+	"edges":[
+		{"id":"494254c00f2ba00d","fromNode":"1cf777100b6380a0","fromSide":"right","toNode":"dbdf8c57d88259f9","toSide":"left"},
+		{"id":"bf08580d7495c80e","fromNode":"dbdf8c57d88259f9","fromSide":"right","toNode":"723bbc3e97e5cee3","toSide":"left"}
+	]
+}
