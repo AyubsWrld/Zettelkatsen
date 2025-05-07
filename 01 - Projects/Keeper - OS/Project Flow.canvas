@@ -1,15 +1,21 @@
 {
 	"nodes":[
-		{"id":"92c0866470ba68e1","type":"group","x":-740,"y":-165,"width":767,"height":645,"label":"Setup"},
-		{"id":"324dfa647e26a3fd","type":"group","x":1640,"y":-165,"width":767,"height":645,"label":"Clean-up"},
-		{"id":"7a302ba17c400d01","type":"group","x":440,"y":-165,"width":760,"height":645,"label":"Running"},
-		{"id":"dc52b08ad4249cd0","x":-523,"y":80,"width":335,"height":60,"type":"text","text":"Create named partition "},
-		{"id":"2bd11dffcf205478","type":"text","text":"Generate executable","x":-509,"y":-20,"width":307,"height":51},
-		{"id":"7656244999a3bf70","type":"text","text":"Mend partitions","x":1840,"y":-129,"width":335,"height":60},
-		{"id":"76ddf59bc6e49b46","type":"text","text":"Implicitly Generate Configuration","x":-574,"y":-120,"width":438,"height":51}
+		{"id":"7a302ba17c400d01","type":"group","x":440,"y":-165,"width":760,"height":945,"label":"Running - POSIX ( Full Control )"},
+		{"id":"324dfa647e26a3fd","type":"group","x":1640,"y":-165,"width":767,"height":645,"label":"Clean-up: OS dependent"},
+		{"id":"92c0866470ba68e1","type":"group","x":-740,"y":-165,"width":767,"height":575,"label":"Setup - OS Dependent"},
+		{"id":"7656244999a3bf70","type":"text","text":"Mend partitions","x":1840,"y":-129,"width":335,"height":60,"color":"1"},
+		{"id":"87618337e5319b63","type":"text","text":"Delete Keeper files","x":1840,"y":-20,"width":335,"height":60,"color":"1"},
+		{"id":"eb2948add9758aa9","x":680,"y":-100,"width":250,"height":60,"color":"1","type":"text","text":"Track Process"},
+		{"id":"bbfba4895aade87a","type":"text","text":"Place constraints on memory ","x":615,"y":20,"width":380,"height":60,"color":"1"},
+		{"id":"b26cf4331b796089","type":"text","text":"Monitor Activity","x":680,"y":140,"width":250,"height":60,"color":"1"},
+		{"id":"95dbd69bf3bf97ec","type":"text","text":"Monitor Devices","x":665,"y":260,"width":280,"height":60,"color":"1"},
+		{"id":"c670ddda0102e360","type":"text","text":"Remove Package Managers","x":640,"y":380,"width":330,"height":60,"color":"1"},
+		{"id":"76ddf59bc6e49b46","type":"text","text":"Implicitly Generate Configuration","x":586,"y":520,"width":438,"height":51,"color":"1"},
+		{"id":"dc52b08ad4249cd0","type":"text","text":"Create named partition ","x":-522,"y":-100,"width":335,"height":60,"color":"1"},
+		{"id":"2bd11dffcf205478","type":"text","text":"Generate executable","x":-508,"y":20,"width":307,"height":51,"color":"1"}
 	],
 	"edges":[
-		{"id":"e97c51c788cd700d","fromNode":"92c0866470ba68e1","fromSide":"right","toNode":"7a302ba17c400d01","toSide":"left"},
-		{"id":"1dfa500ca81c2605","fromNode":"7a302ba17c400d01","fromSide":"right","toNode":"324dfa647e26a3fd","toSide":"left"}
+		{"id":"e97c51c788cd700d","fromNode":"92c0866470ba68e1","fromSide":"right","toNode":"7a302ba17c400d01","toSide":"left","label":"Decoupled?"},
+		{"id":"1dfa500ca81c2605","fromNode":"7a302ba17c400d01","fromSide":"right","toNode":"324dfa647e26a3fd","toSide":"left","label":"Decoupled?"}
 	]
 }

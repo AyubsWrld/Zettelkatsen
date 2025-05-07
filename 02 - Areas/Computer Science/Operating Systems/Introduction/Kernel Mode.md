@@ -1,3 +1,3 @@
-Mode of operation which allows software direct access to the immutable portion of the operating system ( the [[Kernel]] ) which interacts with the hardware. 
+**Kernel mode** is a **CPU execution mode** that grants software **full access to all hardware resources and system memory**, including the **privileged instructions and memory regions** that are off-limits in user mode. It is where the **core parts of the operating system run**, including device drivers, memory managers, schedulers, and system call handlers.
 ___
 Tags : #computer-architecture #operating-systems 

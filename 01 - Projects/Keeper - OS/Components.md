@@ -1,3 +1,4 @@
+
 | Component                   | Description                                                    | Tools/Technologies                                      |
 | --------------------------- | -------------------------------------------------------------- | ------------------------------------------------------- |
 | 🧠 **Base OS Layer**        | Minimal Linux OS that boots quickly and runs entirely from RAM | [Buildroot](https://buildroot.org/)                     |
