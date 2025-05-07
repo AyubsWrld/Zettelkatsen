@@ -13,90 +13,6 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 - Resources/Go/Composite Types/Structs.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Structs"
-            }
-          },
-          {
-            "id": "75946b780090cdfb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01 - Projects/Keeper - OS/Idea.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Idea"
-            }
-          },
-          {
-            "id": "5f41e8e25d16c159",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01 - Projects/Keeper - OS/Idea.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Idea"
-            }
-          },
-          {
-            "id": "dfd9678a7661ba98",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01 - Projects/Keeper - OS/Prereqs.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Prereqs"
-            }
-          },
-          {
-            "id": "dbccb5b56edeb374",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01 - Projects/Keeper - OS/Components.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Components"
-            }
-          },
-          {
-            "id": "c47a41b2bed9bc24",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02 - Areas/Computer Science/Operating Systems/Introduction/Scribbles.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Scribbles"
-            }
-          },
-          {
-            "id": "5e0525f2ffaa68f3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "02 - Areas/Computer Science/Operating Systems/Introduction/Computer Hardware Review.md",
                 "mode": "source",
                 "source": false
@@ -106,77 +22,47 @@
             }
           },
           {
-            "id": "c3a164615476ff88",
+            "id": "c0919b0e88a80ef9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 - Areas/Computer Science/Operating Systems/Introduction/Computer Hardware Review.md",
+                "file": "02 - Areas/Computer Science/Operating Systems/Introduction/Operating System Concepts.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Computer Hardware Review"
+              "title": "Operating System Concepts"
             }
           },
           {
-            "id": "4b0e6424e0dc695e",
+            "id": "23c5e802fc90a936",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "release-notes",
               "state": {
-                "file": "02 - Areas/Computer Science/Operating Systems/Introduction/Computer Hardware Review.md",
-                "mode": "source",
-                "source": false
+                "currentVersion": "1.8.10"
               },
-              "icon": "lucide-file",
-              "title": "Computer Hardware Review"
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.10"
             }
           },
           {
-            "id": "fb09897078c30028",
+            "id": "d59c52da61e1e19a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 - Areas/Computer Science/Operating Systems/File Systems/Partition Creation.md",
+                "file": "02 - Areas/Philosophy/Existentialism/Scribble.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Partition Creation"
-            }
-          },
-          {
-            "id": "1fc887524a6e8bec",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02 - Areas/Computer Science/Operating Systems/File Systems/Partition Table.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Partition Table"
-            }
-          },
-          {
-            "id": "7f11a8b4e7b45d84",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01 - Projects/Keeper - OS/Idea.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Idea"
+              "title": "Scribble"
             }
           }
         ],
-        "currentTab": 11
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -397,62 +283,63 @@
       "card-board:CardBoard": false
     }
   },
-  "active": "7f11a8b4e7b45d84",
+  "active": "bdf7cad2e300c825",
   "lastOpenFiles": [
-    "01 - Projects/Keeper - OS/Project Flow.canvas",
-    "01 - Projects/Keeper - OS/Prereqs.md",
-    "01 - Projects/Keeper - OS/Components.md",
-    "01 - Projects/Keeper - OS/Idea.md",
-    "01 - Projects/Keeper - OS/Project flow.md",
-    "02 - Areas/Computer Science/Operating Systems/File Systems/Partition Table.md",
-    "02 - Areas/Computer Science/Operating Systems/File Systems/Partition Creation.md",
-    "02 - Areas/Computer Science/Operating Systems/Introduction/Device Driver.md",
-    "02 - Areas/Computer Science/Operating Systems/Introduction/Computer Hardware Review.md",
-    "Untitled",
+    "2025-05-05.md",
+    "02 - Areas/Philosophy/Existentialism/Scribble.md",
+    "02 - Areas/Philosophy/Existentialism",
     "02 - Areas/Computer Science/Operating Systems/Introduction/Kernel Mode.md",
-    "02 - Areas/Computer Science/Operating Systems/Introduction/Memory.md",
+    "02 - Areas/Computer Science/Operating Systems/Introduction/Operating System Concepts.md",
+    "02 - Areas/Computer Science/Operating Systems/Introduction/Computer Hardware Review.md",
     "02 - Areas/Computer Science/Operating Systems/Introduction/What is an operating system.md",
     "02 - Areas/Computer Science/Operating Systems/Introduction/Scribbles.md",
-    "02 - Areas/Computer Science/Operating Systems/Instructions/General Purpose Registers.md",
-    "02 - Areas/Computer Science/Operating Systems/Instructions/Program Status Word.md",
-    "02 - Areas/Computer Science/Operating Systems/Instructions/Registers.md",
-    "02 - Areas/Computer Science/Operating Systems/Instructions/Special Registers.md",
-    "02 - Areas/Computer Science/Patterns/Asynchronously serving client using server-side fetching ..md",
-    "02 - Areas/Computer Science/Operating Systems/Instructions/Untitled.md",
-    "02 - Areas/Computer Science/Operating Systems/Iceberg",
-    "02 - Areas/Computer Science/Operating Systems/Instructions",
-    "02 - Areas/Computer Science/Patterns/Unary Process Decomposition.md",
-    "02 - Areas/Computer Science/Operating Systems/Security",
-    "02 - Areas/Computer Science/Operating Systems/Multiple Processor Systems",
-    "02 - Areas/Computer Science/Operating Systems/IO",
-    "02 - Areas/Computer Science/Operating Systems/File Systems",
-    "02 - Areas/Computer Science/Operating Systems/Memory Management",
-    "02 - Areas/Computer Science/Operating Systems/Processes and Threads",
-    "02 - Areas/Computer Science/Operating Systems/Introduction",
-    "01 - Projects/Keeper - OS/Buildroot/Buildroot.md",
-    "01 - Projects/Keeper/Ideation & Market Research/COPPA.md",
-    "01 - Projects/Portfolio Website/State/State.md",
-    "03 - Resources/Go/Composite Types/Structs.md",
-    "2025-05-03.md",
-    "03 - Resources/Go/Libraries/io/Copy.md",
+    "02 - Areas/Computer Science/Operating Systems/Introduction/Memory.md",
     "Images/Pasted image 20250426143201.png",
-    "01 - Projects/Frame/Classes/Flow.canvas",
     "Images/Pasted image 20250405131504.png",
     "Images/Pasted image 20250405131224.png",
-    "02 - Areas/Computer Science/Artificial Intelligence/Outline.canvas",
     "Images/Pasted image 20250403223322.png",
+    "99 - Excalidraw/Drawing 2025-04-12 13.44.10.excalidraw.md",
+    "99 - Excalidraw",
+    "06 - Daily/Notes/Untitled.md",
+    "06 - Daily/Notes/Untitled 1.md",
+    "06 - Daily/Notes/Final Report.md",
+    "03 - Resources/Redux/TLDR.md",
+    "03 - Resources/Redux/Subscribe.md",
+    "03 - Resources/Redux/State.md",
+    "03 - Resources/Redux/Redux Store.md",
+    "03 - Resources/Redux/Reducers.md",
+    "03 - Resources/Redux/Pure Functions.md",
+    "03 - Resources/Redux/Interacting with Store.md",
+    "03 - Resources/Redux/Inspiration for state.md",
+    "03 - Resources/Redux/Dispatch.md",
+    "03 - Resources/Redux/Dependencies.md",
+    "03 - Resources/Redux/Create a Redux State Slice.md",
+    "03 - Resources/Redux/Actions.md",
+    "03 - Resources/Redux",
+    "03 - Resources/Go/Libraries/io/Copy.md",
+    "03 - Resources/Go/Libraries/HTTP/Basic HTTP Example.md",
+    "03 - Resources/Go/Libraries/io",
+    "03 - Resources/Go/Libraries/HTTP",
+    "03 - Resources/Go/TLDR",
+    "03 - Resources/Go/Libraries",
+    "03 - Resources/Go/Composite Types",
+    "03 - Resources/Go",
+    "03 - Resources/C++/Variadic Functions",
+    "02 - Areas/Computer Science/Theory/RBDMS/Pasted image 20240610175142.png",
+    "02 - Areas/Computer Science/Mobile Development/expo/Native Module Structure.canvas",
+    "02 - Areas/Computer Science/Languages/Objective-C/Program Structure.canvas",
+    "02 - Areas/Computer Science/Algorithms/Images/Pasted image 20241007090357.png",
+    "02 - Areas/Computer Science/Algorithms/Dynamic Programming/Outline.canvas",
+    "02 - Areas/Computer Science/System Design/Overview.canvas",
+    "02 - Areas/Computer Science/Design Patterns/Outline.canvas",
+    "02 - Areas/Computer Science/Artificial Intelligence/Outline.canvas",
+    "02 - Areas/Computer Science/Algorithms/Final Outline.canvas",
+    "01 - Projects/Keeper - OS/Project Flow.canvas",
+    "01 - Projects/Frame/Classes/Flow.canvas",
+    "02 - Areas/Programming/Theory/RBDMS/Pasted image 20240610175142.png",
+    "02 - Areas/Programming/System Design/Overview.canvas",
+    "02 - Areas/Programming/Algorithms/Images/Pasted image 20241007090357.png",
     "Images/Pasted image 20250325151206.png",
-    "Images/Pasted image 20250314193145.png",
-    "Images/Pasted image 20250314192245.png",
-    "Images/Pasted image 20250314180459.png",
-    "Images/Pasted image 20250314180300.png",
-    "Images/Pasted image 20250311224929.png",
-    "01 - Projects/Keeper/System Design/Flow.canvas",
-    "01 - Projects/Keeper/Miscellanous/Keepr Outline.canvas",
-    "01 - Projects/Keeper/Native APIs/File Interactions.canvas",
-    "01 - Projects/Keeper/Flowchart.canvas",
-    "01 - Projects/Graphite/Hardware/ESP-IDF Notes/Bluetooth Low Energy/Generic Attribute Server Setup/Node Representation.canvas",
-    "01 - Projects/Graphite/Primitives/Primitives.canvas",
-    "01 - Projects/Graphite/Wi-Fi setup.canvas"
+    "Images/Pasted image 20250314193145.png"
   ]
 }

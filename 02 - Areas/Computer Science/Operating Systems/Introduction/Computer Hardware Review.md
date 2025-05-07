@@ -2,7 +2,7 @@ ____
 #### Processing Unit:
 
 - **Processors** : Brain of the computer, Fetches instructions from memory and executes them. 
-- **[[Registers]]**: Memory locations close to the CPU that ensure quick access and temporary storage. Registers are split into two different categories. General purpose registers and Special Registers. 
+- **[[Registers]]**: Memory locations built into the CPU that ensure quick access and temporary storage. Registers are split into two different categories. General purpose registers and Special Registers. 
 	- **[[Program Counter]]**: Contains a pointer to the location of the next instruction in memory to be fetched. 
 	- **[[Stack Pointer]]**: Points to the top of the current stack in memory. 
 	- **[[Program Status Word]]**: Program Status Word. This register contains the **Condition Code Bits**, which are set by comparison instructions, the CPU priority, the mode (user or kernel), and various other control bits. User programs may normally read the entire PSW but typically may write only some of its fields. The PSW plays an important role in system calls and I/O. A singular bit within the **PSW** delineates the mode which can either be in [[User Mode]] or [[Kernel Mode]]. 
@@ -72,8 +72,24 @@ _____
 	- the operating system can accept new drivers while running and install them on the fly without the need to reboot. ( [[Hot Pluggable Devices ]] ).
 - Input and output can be done in three different ways.
 	- **Busy Waiting**: The simplest way, a user program generates a [[System-Call]] which the User program then converts into a [[Procedure-Call]] to the appropriate driver. The driver then starts the I/O and sits in a tight loop continuously polling the device to see if it is done ( usually there is some bit that communicates whether the process is done or not ). When the I/O has completed, the driver puts the data (if any) where they are needed and returns. The operating system then re turns control to the caller. Although this ties up the CPU until the device has returned some data.   
-	- The second method is for the driver to start the device and ask it to give an in terrupt when it is finished. At that point the driver returns. The operating system then blocks the caller if need be and looks for other work to do. When the con troller detects the end of the transfer, it generates an interrupt to signal comple tion.
+	- The second method is for the driver to start the device and ask it to give an [[Interrupt]] when it is finished. At that point the driver returns. The operating system then blocks the caller if need be and looks for other work to do. When the con troller detects the end of the transfer, it generates an interrupt to signal completion.
 
+_____
+#### Buses: 
+- See [[PCIe]] for potentially listing peripherals. 
+  
+___
+#### Booting the Computer: 
+
+- **[[Basic Input Output System]] ( BIOS )** is a small program stored on the motherboard which is the first thing that boots up when you switch your computer on. The BIOS contains low level I/O software to take input from peripherals like your mouse and keyboard as well as draw to your screen. 
+	- The BIOS begins by scanning the PCIe and PCI busses to determine whether there exists any devices which have not been configured since the last time the BIOS ran. Any novel devices are then configured. 
+	- The BIOS then determines the boot device by trying a list of devices stored in the [[CMOS memory]].
+	- The [[Boot Order]] is usually configured by the user and stored within the CMOS. 
+	- The first sector from the boot device is read into memory and executed. This sector contains a program that normally examines the partition table at the end of the boot sector to determine which partition is active. Then a secondary boot loader is read in from that partition. This loader reads in the operating system from the active partition and starts it.
+	- The operating system then queries the [[BIOS]] to get the configuration information. For each device, it checks to see if it has the device driver. If it doesn't the user is prompted to install it themselves. After the operating system has all the required drivers it loads them into the [[Kernel]] and then the computer can display some GUI and prompt the user to Login. Then it initializes its tables, creates whatever background processes are needed, and starts up a login program or GUI.
+___
+
+#### Booting the computer:
 
 ___
 Tags : #computer-architecture #operating-systems
