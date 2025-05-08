@@ -1,0 +1,3 @@
+Processes can make more children forming a process hierarchy. Processes in Unix always have some parent they originated from. In contrast, Windows has no such hierarchy, Instead when a parent process creates a new process it retains special token called a handle that it can use to control the child. However it is free to pass the token to another process thus invalidating the Hierarchy. Unix cannot Disinherit their Children. 
+___
+Tags : #computer-architecture #operating-systems #processes

@@ -1,0 +1,3 @@
+With great power comes great responsibility, and this is the case with threads. Suppose I have a multithreaded program and it makes a call to fork, are all the threads within the child process duplicated within the parent process? what if a threads purpose was to allocate memory? will the memory allocation occur twice? Same goes for mutating memory. These problems can be solved with some effort, but careful thought and design are needed to make multithreaded programs work correctly.
+___
+Tags : #computer-architecture #operating-systems #processes

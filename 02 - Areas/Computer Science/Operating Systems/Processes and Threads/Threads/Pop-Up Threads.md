@@ -1,0 +1,3 @@
+Threads are frequently useful in distributed systems. For instance a messaging service that waits to receive a message from a user ( Blocking ) and then unpacks the user message, parses it, and sends it to another process ( potentially ) for further use. Instead of sequentially having the process go through and carry out its function in this matter and in turn stopping it from being able to handle any further requests until the current one has finished, we can instantiate a blank thread to carry out the procedure and go straight back to listening. Since this thread has no history, registers, or stack, its quite light-weight. 
+___
+Tags : #computer-architecture #operating-systems #processes

@@ -1,0 +1,6 @@
+The declarative approach to stopping [[Race Conditions]] is to simply make sure no two processes are in their [[Critical Region]] at the same time as another. But how does this work in practice/ 
+- **Disable Interrupts**: On a single-processor system, the simplest solution is to have each process disable all interrupts just after entering its critical region and re-enable them just before leaving it. This is unwise because what if the process forgets to re-enable interrupts? The entire system gets fucked. 
+- **Lock Variables**: A lock variable is a shared synchronization mechanism used in concurrent programming to regulate access to a critical section, ensuring that only one process or thread can modify shared resources at a time. Using a single shared lock variable in concurrent programming can lead to race conditions where multiple processes may enter their critical regions simultaneously due to improper atomicity in updating the lock.
+- **Strict Alternation**: 
+___
+Tags : #computer-architecture #operating-systems #processes

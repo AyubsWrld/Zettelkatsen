@@ -1,0 +1,4 @@
+Its important to Realize that each thread has it's own stack. Each thread’s stack contains one frame for each procedure called but not yet returned from. This frame contains the procedure’s local variables and the return address to use when the procedure call has finished. For example, if procedure X calls procedure Y and Y calls procedure Z, then while Z is executing, the frames for X, Y, and Z will all be on the stack. Each thread will generally call different procedures and thus have a different execution history. This is why each thread needs its own stack.
+![[Pasted image 20250508111155.png]]
+___
+Tags : #computer-architecture #operating-systems #processes

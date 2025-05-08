@@ -1,0 +1,3 @@
+To implement the process model, the operating system maintains a table (an array of structures), called the process table, with one entry per process. This Process table contains all the relevant information ( However what is included within the structures is implementation specific ) about each process, such as its [[Address Space]], [[Program Counter]], [[Registers]], its file states and the files it has open . All of this information is utilized when a process must be saved when it transitions from a ready state to a blocked state so that when the CPU can resume execution on it it simply loads the processes data. 
+___
+Tags : #computer-architecture #operating-systems #processes
