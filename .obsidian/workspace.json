@@ -97,16 +97,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 - Areas/Computer Science/Operating Systems/Processes and Threads/Interprocess Communication/Race Conditions.md",
+                "file": "03 - Resources/WIN32/WMI/Examples.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Race Conditions"
+              "title": "Examples"
+            }
+          },
+          {
+            "id": "20688b0792256952",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "03 - Resources/WIN32/Processes & Threads/CreateProcessA.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "CreateProcessA"
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -327,8 +341,16 @@
       "card-board:CardBoard": false
     }
   },
-  "active": "17063a9ccd8b314d",
+  "active": "20688b0792256952",
   "lastOpenFiles": [
+    "03 - Resources/WIN32/File System/Overview.md",
+    "03 - Resources/WIN32/Processes & Threads/CreateProcessA.md",
+    "03 - Resources/WIN32/WMI/Examples.md",
+    "03 - Resources/Neovim/example compile_flags.md",
+    "03 - Resources/WIN32/Processes & Threads",
+    "03 - Resources/Neovim/compile_flags.md",
+    "03 - Resources/Neovim/LSP Configuration.md",
+    "02 - Areas/Computer Science/Operating Systems/Processes and Threads/Interprocess Communication/Race Conditions.md",
     "02 - Areas/Computer Science/Operating Systems/Processes and Threads/Processes/Implementation of Processes.md",
     "02 - Areas/Computer Science/Operating Systems/Processes and Threads/Processes/Process State.md",
     "02 - Areas/Computer Science/Operating Systems/Processes and Threads/Processes/Process Hierarchies.md",
@@ -343,7 +365,6 @@
     "02 - Areas/Computer Science/Operating Systems/Processes and Threads/Interprocess Communication/Mutual Exclusion with Busy Waiting.md",
     "02 - Areas/Computer Science/Operating Systems/Processes and Threads/Interprocess Communication/Critical Region.md",
     "02 - Areas/Computer Science/Operating Systems/Processes and Threads/Interprocess Communication/Inter-process Communication.md",
-    "02 - Areas/Computer Science/Operating Systems/Processes and Threads/Interprocess Communication/Race Conditions.md",
     "02 - Areas/Computer Science/Operating Systems/Processes and Threads/Processes",
     "02 - Areas/Computer Science/Operating Systems/Processes and Threads/Interprocess Communication",
     "02 - Areas/Computer Science/Operating Systems/Processes and Threads/Threads",
@@ -352,13 +373,7 @@
     "02 - Areas/Computer Science/Operating Systems/Processes and Threads/Threads/Select System Call.md",
     "02 - Areas/Computer Science/Operating Systems/Processes and Threads/Threads/POSIX Threads.md",
     "02 - Areas/Computer Science/Operating Systems/Processes and Threads/Threads/Thread Stacks.md",
-    "02 - Areas/Computer Science/Operating Systems/Processes and Threads/Threads/Processes vs Threads.md",
-    "02 - Areas/Computer Science/Operating Systems/Processes and Threads/Threads/Thread Yield.md",
-    "02 - Areas/Computer Science/Operating Systems/Processes and Threads/Threads/Thread Wait.md",
-    "02 - Areas/Computer Science/Operating Systems/Processes and Threads/Threads/Thread Usage.md",
-    "02 - Areas/Computer Science/Operating Systems/Processes and Threads/Threads/Thread Creation and Deletion.md",
     "Images/Pasted image 20250508111155.png",
-    "02 - Areas/Computer Science/Operating Systems/Processes and Threads/Threads/Resources Shared by threads and processes.md",
     "Images/Pasted image 20250508110828.png",
     "Images/Pasted image 20250508104311.png",
     "Images/Pasted image 20250508103619.png",
@@ -368,7 +383,6 @@
     "03 - Resources/WIN32/WMI",
     "03 - Resources/WIN32",
     "03 - Resources/Neovim",
-    "01 - Projects/Keeper - OS/Misc",
     "01 - Projects/Keeper - OS/High-level implementation/Partition Generation.canvas",
     "01 - Projects/Keeper - OS/Misc/Project Flow.canvas",
     "Images/Pasted image 20250506094358.png",

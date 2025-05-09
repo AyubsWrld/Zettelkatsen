@@ -144,5 +144,6 @@
   "03 - Resources/WIN32/Component Object Model": "LiSnapToObject",
   "02 - Areas/Computer Science/Operating Systems/Processes and Threads/Threads": "LiActivity",
   "02 - Areas/Computer Science/Operating Systems/Processes and Threads/Interprocess Communication": "LiScrollText",
-  "02 - Areas/Computer Science/Operating Systems/Processes and Threads/Processes": "LiProportions"
+  "02 - Areas/Computer Science/Operating Systems/Processes and Threads/Processes": "LiProportions",
+  "03 - Resources/WIN32/Processes & Threads": "LiActivity"
 }
