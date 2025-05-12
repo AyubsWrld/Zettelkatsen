@@ -1,0 +1,3 @@
+Useful when we wish to have lightweight units of execution which share common resources. If the program has multiple interleaving parts which could potentially block the entire process even though the designer knows that there are other routines which could be executed in the meantime, it is best to allocated a job for each thread within the process to avoid the process being I/O blocked. 
+___
+Tags : #computer-architecture #operating-systems #processes

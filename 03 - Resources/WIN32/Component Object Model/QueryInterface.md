@@ -1,0 +1,8 @@
+All interfaces inherit from IUnknown and have a `QueryInterface` method.  **QueryInterface** separates the request "Do you support a given contract?" from the high-performance use of that contract once negotiations have been successful.
+
+For example, a client is interacting with **Interface A** requesting **Interface B** and **Interface C**, **Interface A** supports **Interface B** but not **Interface C**, If the client chooses to query for both unto **Interface A**, **QueryInterface** will return the [[Interface Pointer]] of **Interface B** but not **Interface C**. 
+
+
+The [**QueryInterface**](https://learn.microsoft.com/en-us/windows/desktop/api/Unknwn/nf-unknwn-iunknown-queryinterface\(q\)) method also provides a robust and reliable way for an object to indicate that it does not support a given contract. That is, if in a call to **QueryInterface** one asks an "old" object whether it supports a "new" interface (one, for example, that was invented after the old object had been shipped), the old object will reliably, without causing a crash, answer "no." The technology that supports this is the algorithm by which IIDs are allocated. While this may seem like a small point, it is extremely important to the overall architecture of the system, and the ability to inquire of legacy elements about new functionality is, surprisingly, a feature not present in most other object architectures.
+____
+Tags : #os #win32
