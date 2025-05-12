@@ -1,0 +1,5 @@
+When the result of a request to physical a memory address is not within what is loaded within memory. This causes the CPU to [[Trap]] to the operating system. The operating system picks a little-used page frame and writes its contents back to the disk (if it is not al ready there). It then fetches (also from the disk) the page that was just referenced into the page frame just freed, changes the map, and restarts the trapped instruction.
+
+For example, if the operating system decided to evict page frame 1, it would load virtual page 8 at physical address 4096 and make two changes to the MMU map. First, it would mark virtual page 1’s entry as unmapped, to trap any future ac cesses to virtual addresses between 4096 and 8191. Then it would replace the cross in virtual page 8’s entry with a 1, so that when the trapped instruction is reex ecuted, it will map virtual address 32780 to physical address 4108 (4096 + 12).
+____
+Tags : #methodologies #programming 

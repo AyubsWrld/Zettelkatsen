@@ -1,0 +1,17 @@
+#### The Dining Philosophers Problem
+___
+The _Dining Philosophers Problem_ is a classic concurrency problem used to illustrate synchronization challenges in computer science. It involves five philosophers seated around a circular table, each with a plate of spaghetti and a fork between each plate. In order to eat, a philosopher must hold both the fork on their left and the fork on their right. Philosophers alternate between two activities: thinking and eating. The primary constraint is that forks cannot be shared—only one philosopher can use a fork at a time. The problem seeks to design a concurrent algorithm that allows each philosopher to eventually eat without falling into deadlock or starvation, despite having no knowledge of the state of other philosophers.
+
+Several issues can arise in naive implementations of this problem. **Deadlock** occurs when every philosopher picks up the fork to their left and waits forever for the fork on their right, which is already held by their neighbor. **Starvation** can also occur if some philosophers are able to eat repeatedly while others wait indefinitely. **Livelock**, where all philosophers keep changing states without making progress, is another possible failure mode.
+
+One of the earliest and most well-known solutions was proposed by Edsger Dijkstra in 1965. His solution avoids deadlock by **negating the resource holding condition**. Philosophers do not pick up one fork at a time—instead, they attempt to atomically acquire both forks. Each philosopher maintains a state (`THINKING`, `HUNGRY`, or `EATING`) and a semaphore. A global mutex is used to ensure atomic access when modifying states and testing whether a philosopher can eat. A `test()` function checks whether a hungry philosopher can eat by ensuring their neighbors are not currently eating. This approach ensures that no philosopher starves and that the system remains deadlock-free, though it requires more complex synchronization primitives, such as mutexes and semaphores.
+
+An alternative is the **resource hierarchy solution**, which avoids **circular waiting** by enforcing a strict global ordering of resources (forks). Each philosopher always picks up the lower-numbered fork first and then the higher-numbered one. This prevents a cycle in the resource allocation graph, thereby eliminating the possibility of deadlock. For example, philosopher 5, who has the two highest-numbered forks, picks up fork 1 before fork 5, becoming the "left-handed" philosopher. While this method is simple and effective in avoiding deadlock, it is **not fair**—a slower philosopher might never get a chance to eat if their neighbors consistently beat them to the forks. It is also less flexible in dynamic systems where the resources needed cannot be determined beforehand.
+
+In summary, Dijkstra’s solution ensures both deadlock and starvation freedom using more sophisticated synchronization, whereas the resource hierarchy solution avoids deadlock through ordering but does not guarantee fairness or flexibility. Each approach has trade-offs in complexity, fairness, and suitability for real-world systems.
+
+#### The Dining Philosophers Problem
+___
+
+___
+Tags : #computer-architecture #operating-systems #processes

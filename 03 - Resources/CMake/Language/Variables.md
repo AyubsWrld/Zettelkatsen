@@ -1,0 +1,7 @@
+We utilize the set function to set variables.
+- `set( NAME "value")`: with the variables name being set to all caps and its value encapsulated within a string. 
+We can then retrieve the corresponding value through the use of `${}` syntax similar to how it is done within bash. 
+
+When a variable is expanded using `${}` syntax, all the same rules about spaces apply. Be especially careful with paths; paths may contain a space at any time and should always be quoted when they are a variable (never write `${MY_PATH}`, always should be `"${MY_PATH}"`).
+___
+Tags : #programming #cmake
