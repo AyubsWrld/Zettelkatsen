@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiPlugZap2",
+      "LiPlug",
       "LiMicrochip",
       "LiSmartphoneCharging",
-      "LiArrowenter",
-      "LiFlower",
-      "LiTicketX"
+      "LiArrowenter"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -126,5 +126,6 @@
   "02 - Areas/Computer Science/Operating Systems/Instructions": "LiMap",
   "02 - Areas/Computer Science/Operating Systems/Iceberg": "LiTicketX",
   "02 - Areas/Computer Science/Operating Systems/Threads and Processes": "LiSmartphoneCharging",
-  "02 - Areas/Computer Science/Operating Systems/Registers": "LiMicrochip"
+  "02 - Areas/Computer Science/Operating Systems/Registers": "LiMicrochip",
+  "02 - Areas/Computer Science/Networking/Sockets": "LiPlugZap2"
 }

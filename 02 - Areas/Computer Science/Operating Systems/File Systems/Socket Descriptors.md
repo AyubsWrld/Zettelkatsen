@@ -1,0 +1,3 @@
+Sockets follow the same premise of other files. When we issue [[System Calls]] to open a socket what is going on underneath the hood is we are receiving a file descriptor which is an index into the local File Table of our process which maps into an index into the kernel wide [[Open File Table]]. However, instead of it mapping into an INode entry, it maps to a location of memory allocated by the kernel which exists in [[Kernel Space]] which stores a buffer. 
+___
+Tags : #computer-architecture #operating-systems #networking
