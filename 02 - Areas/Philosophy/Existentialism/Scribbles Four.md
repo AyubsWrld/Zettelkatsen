@@ -1,0 +1,24 @@
+- **Corsair Affair**: Satirical magazine. Couldn't walk around the town without being made fun of. 
+- **Attack on the Danish Lutheran Church**: 
+- **The self between Finitude and the Infinite**: Self if a synthesis of the finite ( necessity ) and the infinite ( possibility ). 
+	- Lose oneself in finite - comfortable social norms
+	- lose oneself in the infinite nothing but a seires of experiments no commitment
+	- to form a oneself one must balance these two poles. 
+- People settle for a level of despair and call it happiness
+- The deepest form of despair is to choose to be not who one is. 
+	- Need for hope needed in Christianity, leave ourselves within gods grace. Considered a vice. If you despair you doubt god. 
+- Either or The First Part: The aesthetic life. A lot of talk of misery, yet there isn't much tragedy. 
+- **The Aesthetic**: Wants to satisfy as many desires and sensations as possible. Aesthetic Life is rooted in the immediate the world of sensation. Important distinction between the aesthete and the hedonist. 
+	- Immediate Aesthete ( Don Juan ) : Wants to satisfy as many desires and sensations as possible. 
+	- Reflective Aesthete: More refined, takes a certain distance to the world of sensation. 
+- *The Ecstatic Discourse*. 
+- Someone Delighting in their own cleverness. 
+- The Rotation of Crops. 
+	- Chief Evil is Boredom. Two ways to do this 
+		- Variety - simply search for something new -> becomes coring eventually 
+		- Intensity - Requires a kind of disengagement from the external world so what one experiences becomes raw material for imaginitive recreation. 
+- For Kierkegaard, the aesthete is in a constant state of chasing experience in hopes of escaping boredom .
+- Boredom = Inexistence. 
+- The Seducers DIary: require some form of investment, some form of commitment.
+___
+Tags: #philosophy #existentialism

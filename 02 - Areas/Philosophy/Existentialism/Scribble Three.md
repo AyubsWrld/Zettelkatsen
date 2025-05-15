@@ -1,0 +1,32 @@
+- **The Schopenhauer Paradox**: critical of his mothers affairs even though he was quite promiscuous himself. 
+- **Trying to master what you cannot command**. 
+- The principle of sufficient reason states that everything has a sufficient cause ( Fourfold root ). 
+- Schopenhauer also wrote The World as Will and Representation. 
+- **Why was Schopenhauer so against Hegel?**: Schopenhauer was the consummate literary stylist and found Hegel's prose and thought dense, clumsy, and lifeless. 
+- **Parerga and Paralipomena**: Schopenhauer's first and perhaps only taste of commercial and popular success. This is where he gained widespread academic acclaim. 
+- **Escaping the Will** through philosophic and aesthetic contemplation. 
+- **Schopenhauer** on the suffering of the world. 
+- **What is Theodicy** ? Attributing purpose to suffering 
+- Schopenhauer's Anti-theodicy: I know of no greater absurdity than that propounded... 
+- Are Pleasure and Pain two distinctive sensations? 
+	- Pleasure as just the absence of pain 
+- Evil is the Privation of the Good  ( Augustine sin is the absence of the good ).  The contemplation of God is the Ultimate pleasure .
+- Schopenhauer believes that pain is the base-line ( Contrary to Augustine ). 
+- Pain more real than pleasure. 
+- Does pleasure outweigh suffering? 
+- The butchers gaze : WE are like lambs in the field 
+- Schopenhauer thinks we shouldn't have kids 
+- **Vanity of Existence**: Vanity of Vanities, says the preacher. 
+- The thing in itself signifies that which is ... 
+- Intellect in service of the will and intellect active for its own sake. - Schopenhauer 
+- Most of our suffering comes from sacrificing intellect for service of the will. 
+- Quiting the will three ways: 
+	- Greek philosophy the possibility of leading a good and happy life 
+	- to liberate and redeem oneself from life altogether ( removing oneself from that maelstrom ) 
+	- Ancient Greeks : affirmation of the will to life 
+	- The Christians: the denial of the will to life. 
+- One way to achieve a more tranquil state of consciousness according to schopenhauer is through aesthetic  ( way of the aesthete ) 
+- Way of the saint compassion for all fellow sufferers. 
+- The ways of the ascetic : remove oneself from the daily world. deadens desire within themselves. 
+___
+Tags: #philosophy #existentialism

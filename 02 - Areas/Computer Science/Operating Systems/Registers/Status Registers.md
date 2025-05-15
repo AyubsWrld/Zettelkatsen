@@ -1,0 +1,12 @@
+Holds information about the state of the CPU during execution usually in the form of raised bits. 
+
+| Flag      | Name                      | Description                                                                                                                                                                                                                                                                                                                  |
+| --------- | ------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Z         | Zero flag                 | Indicates that the result of an arithmetic or logical operation (or, sometimes, a load) was zero.                                                                                                                                                                                                                            |
+| C         | Carry flag                | Enables numbers larger than a single word to be added/subtracted by carrying a binary digit from a less significant word to the least significant bit of a more significant word as needed. It is also used to extend bit shifts and rotates in a similar manner on many processors (sometimes done via a dedicated X flag). |
+| S / N     | Sign flag / Negative flag | Indicates that the result of a mathematical operation is negative. In some processors, the N and S flags are distinct with different meanings and usage: One indicates whether the last result was negative whereas the other indicates whether a subtraction or addition has taken place.                                   |
+| V / O / W | Overflow flag             | Indicates that the signed result of an operation is too large to fit in the register width using two's complement representation.                                                                                                                                                                                            |
+
+
+____
+Tags : #methodologies #programming 
