@@ -12,3 +12,15 @@ How are physical memory addresses mapped onto private address spaces using Base 
 
 What is Virtual Memory ? ;; Memory abstraction wherein each process has its own address space is loaded into memory in chunks called pages, Each page is a contiguous range of addresses. 
 
+What is a Virtual Page ? ;; 
+
+
+What is a Page Frame ? ;; 
+
+What is RISC ? ;; 
+
+What is the difference between Hardware Managed TLB and Software Managed TLB ? ;; 
+
+What is a TLB ? ;; 
+
+

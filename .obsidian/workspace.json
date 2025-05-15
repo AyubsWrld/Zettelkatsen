@@ -8,49 +8,35 @@
         "type": "tabs",
         "children": [
           {
-            "id": "ed70bfd1e6f6e7ae",
+            "id": "472c13c8e2121353",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 - Resources/Programming Methodologies/Log Levels/Implementing Log Levels.md",
+                "file": "03 - Resources/Go/Composite Types/Structs.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Implementing Log Levels"
+              "title": "Structs"
             }
           },
           {
-            "id": "187086b9a4a5cef6",
+            "id": "187e80569636d6e5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 - Areas/Computer Science/Operating Systems/Memory Management/Memory Management.md",
+                "file": "03 - Resources/Go/Composite Types/Structs.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Memory Management"
+              "title": "Structs"
             }
           },
           {
-            "id": "a831b1c8a37eee59",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02 - Areas/Computer Science/Operating Systems/Memory Management/No Memory Abstraction.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "No Memory Abstraction"
-            }
-          },
-          {
-            "id": "44acce5fb565d7fb",
+            "id": "429ad3f9511b36eb",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -64,7 +50,21 @@
             }
           },
           {
-            "id": "d63e87bd21b3c2f1",
+            "id": "642d4731aa2e2932",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02 - Areas/Computer Science/Operating Systems/Memory Management/Memory Mapped IO.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Memory Mapped IO"
+            }
+          },
+          {
+            "id": "3a42799fe7b3aaa8",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -75,30 +75,52 @@
               },
               "icon": "lucide-file",
               "title": "Memory Abstraction Address Spaces"
+            }
+          },
+          {
+            "id": "26ecd804049f4deb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02 - Areas/Computer Science/Operating Systems/Memory Management/ISR.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "ISR"
+            }
+          },
+          {
+            "id": "1756258ff929b266",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02 - Areas/Computer Science/Operating Systems/Memory Management/Translation Lookaside Buffer.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Translation Lookaside Buffer"
+            }
+          },
+          {
+            "id": "9fb1667a26bf225e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02 - Areas/Computer Science/Operating Systems/Memory Management/Page Faults.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Page Faults"
             }
           }
         ],
-        "currentTab": 4
-      },
-      {
-        "id": "e2184587670ca587",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "92592f91c43ce147",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00 - Flashcards/Operating Systems/Memory Management/Memory Management.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Memory Management"
-            }
-          }
-        ]
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -319,18 +341,32 @@
       "card-board:CardBoard": false
     }
   },
-  "active": "d63e87bd21b3c2f1",
+  "active": "9fb1667a26bf225e",
   "lastOpenFiles": [
+    "02 - Areas/Computer Science/Operating Systems/Memory Management/Translation Lookaside Buffer.md",
+    "02 - Areas/Computer Science/Operating Systems/Memory Management/Page Faults.md",
+    "02 - Areas/Computer Science/Operating Systems/Memory Management/ISR.md",
+    "02 - Areas/Computer Science/Operating Systems/Memory Management/Memory Abstraction Address Spaces.md",
+    "02 - Areas/Computer Science/Operating Systems/Memory Management/Memory Mapped IO.md",
+    "02 - Areas/Computer Science/Operating Systems/Memory Management/Memory Management.md",
+    "02 - Areas/Computer Science/Operating Systems/Memory Management/No Memory Abstraction.md",
+    "02 - Areas/Computer Science/Operating Systems/Memory Management/Virtual Memory.md",
+    "02 - Areas/Computer Science/Operating Systems/Memory Management/Volatile When Working W MMIO.md",
+    "03 - Resources/Go/Composite Types/JSON.md",
+    "Images/Pasted image 20250514164205.png",
+    "Images/Pasted image 20250514163854.png",
+    "03 - Resources/Go/Composite Types/Structs.md",
+    "03 - Resources/Go/Composite Types/Maps.md",
+    "01 - Projects/Chatbot/Hello.md",
+    "2025-05-14.md",
+    "00 - Flashcards/Operating Systems/Memory Management/Memory Management.md",
+    "01 - Projects/Chatbot",
+    "Images/Pasted image 20250512141109.png",
     "02 - Areas/Philosophy/Existentialism/Scribble two.md",
     "02 - Areas/Computer Science/Operating Systems/Threads and Processes/Abstract.md",
     "02 - Areas/Computer Science/Operating Systems/Threads and Processes",
-    "02 - Areas/Computer Science/Operating Systems/Memory Management/Virtual Memory.md",
     "Images/Pasted image 20250511152016.png",
     "02 - Areas/Computer Science/Operating Systems/Memory Management/Page Fault.md",
-    "02 - Areas/Computer Science/Operating Systems/Memory Management/Memory Management.md",
-    "02 - Areas/Computer Science/Operating Systems/Memory Management/No Memory Abstraction.md",
-    "00 - Flashcards/Operating Systems/Memory Management/Memory Management.md",
-    "02 - Areas/Computer Science/Operating Systems/Memory Management/Memory Abstraction Address Spaces.md",
     "Images/Pasted image 20250511141139.png",
     "00 - Flashcards/Operating Systems/Memory Management",
     "03 - Resources/Programming Methodologies/Log Levels/Log Levels.md",
@@ -341,16 +377,6 @@
     "02 - Areas/Computer Science/Operating Systems/Processes and Threads/Scheduling/Compute-bound processes.md",
     "02 - Areas/Computer Science/Operating Systems/Processes and Threads/Scheduling/Thread Scheduling.md",
     "02 - Areas/Computer Science/Operating Systems/Processes and Threads/Scheduling/Context Switch.md",
-    "02 - Areas/Computer Science/Operating Systems/Processes and Threads/Scheduling/Throughput.md",
-    "02 - Areas/Computer Science/Operating Systems/Processes and Threads/Scheduling/Policy Versus Mechanism.md",
-    "02 - Areas/Computer Science/Operating Systems/Processes and Threads/Scheduling/pre-emptive scheduling.md",
-    "02 - Areas/Computer Science/Operating Systems/Processes and Threads/Scheduling/Scheduling in Real-Time Systems.md",
-    "02 - Areas/Computer Science/Operating Systems/Processes and Threads/Scheduling/Priority Scheduling.md",
-    "02 - Areas/Computer Science/Operating Systems/Processes and Threads/Scheduling/Quantum.md",
-    "02 - Areas/Computer Science/Operating Systems/Processes and Threads/Scheduling/Scheduling.md",
-    "02 - Areas/Computer Science/Operating Systems/Processes and Threads/Scheduling/Round Robin Scheduling.md",
-    "02 - Areas/Computer Science/Operating Systems/Processes and Threads/Scheduling/Turnaround time.md",
-    "02 - Areas/Computer Science/Operating Systems/Processes and Threads/Scheduling/non-preemptive scheduling.md",
     "02 - Areas/Computer Science/Operating Systems/Processes and Threads/Scheduling",
     "03 - Resources/CMake/Cache",
     "03 - Resources/CMake/Scope",
@@ -359,16 +385,12 @@
     "03 - Resources/CMake/Libraries",
     "03 - Resources/CMake/Executables",
     "Images/Pasted image 20250509130133.png",
-    "02 - Areas/Computer Science/Operating Systems/Processes and Threads/PThreads",
     "Images/Pasted image 20250509123959.png",
     "Images/Pasted image 20250509122223.png",
     "Images/Pasted image 20250508111155.png",
     "Images/Pasted image 20250508110828.png",
-    "Images/Pasted image 20250508104311.png",
-    "Images/Pasted image 20250508103619.png",
     "01 - Projects/Keeper - OS/High-level implementation/Partition Generation.canvas",
     "01 - Projects/Keeper - OS/Misc/Project Flow.canvas",
-    "Images/Pasted image 20250506094358.png",
     "01 - Projects/Frame/Classes/Flow.canvas",
     "02 - Areas/Computer Science/Artificial Intelligence/Outline.canvas",
     "01 - Projects/Keeper/System Design/Flow.canvas",

@@ -26,5 +26,28 @@ _____
 
 In Go, struct embedding allows you to include one named struct type as an **anonymous field** within another struct, enabling a kind of lightweight inheritance and **syntactic shorthand**. When you embed a struct (e.g., `type Circle struct { Point; Radius int }`), its fields are promoted to the outer struct (`Circle.X`, `Circle.Y` instead of `Circle.Point.X`, `Circle.Point.Y`). You can then embed `Circle` again in another struct like `Wheel`, allowing access to deeply nested fields with simple dot notation (`w.X` instead of `w.Circle.Point.X`). For example, with `type Wheel struct { Circle; Spokes int }`, you can write `w.Radius = 5` and `w.X = 8`, which is equivalent to `w.Circle.Point.X = 8`. However, this shorthand does **not** apply to struct literals — you must fully specify the embedded structure when initializing (`Wheel{Circle{Point{8, 8}, 5}, 20}`). While fields from embedded types are accessible as if they were part of the outer struct, if multiple embedded structs have the same field name, Go will report a conflict and require disambiguation (e.g., `w.Circle.Radius` vs `w.AnotherCircle.Radius`). Importantly, embedding also **promotes methods**, allowing the outer struct to inherit the behavior of the embedded type — a core idiom in Go for code reuse and composition.
 
+___
+###### Struct Embedding and Anonymous Fields: 
+
+If all the fields within a struct are comparable, then the structs themselves are comparable. 
+
+```go
+type Point struct {
+	X int ; 
+	Y int ; 
+}
+
+p1 := Point{ 1, 2 }
+p2 := Point{ 2, 1 }
+
+// Same effect 
+
+fmt.Println( p1.X == p2.X && p1.Y == p2.Y ) 
+fmt.Println( p1 == p2 )  
+
+```
+Comparable struct types, like other comparable types, maybe used as the key type of a map.
+
+
 ____
 Tags : #programming #golang #language #go
