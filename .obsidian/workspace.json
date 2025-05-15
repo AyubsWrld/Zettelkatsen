@@ -4,11 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "ad1d7b0bb3e3e318",
+        "id": "d1324682f871c54b",
         "type": "tabs",
         "children": [
           {
-            "id": "472c13c8e2121353",
+            "id": "d4bb8e477b962390",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02 - Areas/Philosophy/Existentialism/Scribble two.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Scribble two"
+            }
+          },
+          {
+            "id": "a5c763dc74c858dc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02 - Areas/Philosophy/Existentialism/Scribble Three.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Scribble Three"
+            }
+          },
+          {
+            "id": "97262dbdaaabcdb1",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -22,105 +50,147 @@
             }
           },
           {
-            "id": "187e80569636d6e5",
+            "id": "d9601bc2e47cce25",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 - Resources/Go/Composite Types/Structs.md",
+                "file": "02 - Areas/Computer Science/Operating Systems/Memory Management/Page Replacement Algorithms.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Structs"
+              "title": "Page Replacement Algorithms"
             }
           },
           {
-            "id": "429ad3f9511b36eb",
+            "id": "72941d9345324310",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 - Areas/Computer Science/Operating Systems/Memory Management/Memory Abstraction Address Spaces.md",
+                "file": "02 - Areas/Computer Science/Operating Systems/Memory Management/Locality Of Reference.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Memory Abstraction Address Spaces"
+              "title": "Locality Of Reference"
             }
           },
           {
-            "id": "642d4731aa2e2932",
+            "id": "309bcc38a7bb661e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 - Areas/Computer Science/Operating Systems/Memory Management/Memory Mapped IO.md",
+                "file": "02 - Areas/Computer Science/Operating Systems/Memory Management/Segmentation.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Memory Mapped IO"
+              "title": "Segmentation"
             }
           },
           {
-            "id": "3a42799fe7b3aaa8",
+            "id": "ccb4e40f266391bc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 - Areas/Computer Science/Operating Systems/Memory Management/Memory Abstraction Address Spaces.md",
+                "file": "02 - Areas/Computer Science/Networking/Misc/Creating Localhost.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Memory Abstraction Address Spaces"
+              "title": "Creating Localhost"
             }
           },
           {
-            "id": "26ecd804049f4deb",
+            "id": "095b384d6d354d4c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 - Areas/Computer Science/Operating Systems/Memory Management/ISR.md",
+                "file": "02 - Areas/Computer Science/Operating Systems/File Systems/Partition Table.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ISR"
+              "title": "Partition Table"
             }
           },
           {
-            "id": "1756258ff929b266",
+            "id": "d5dd9767da04703d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 - Areas/Computer Science/Operating Systems/Memory Management/Translation Lookaside Buffer.md",
+                "file": "02 - Areas/Computer Science/Operating Systems/File Systems/File Tables.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Translation Lookaside Buffer"
+              "title": "File Tables"
             }
           },
           {
-            "id": "9fb1667a26bf225e",
+            "id": "513d170b989e8c20",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 - Areas/Computer Science/Operating Systems/Memory Management/Page Faults.md",
+                "file": "02 - Areas/Computer Science/Networking/Sockets/What is a Socket.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Page Faults"
+              "title": "What is a Socket"
+            }
+          },
+          {
+            "id": "22e0b9277af5c07a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02 - Areas/Computer Science/Operating Systems/Registers/Special Registers.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Special Registers"
+            }
+          },
+          {
+            "id": "405e5aa1a9b9c8ea",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02 - Areas/Computer Science/Operating Systems/Registers/Status Registers.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Status Registers"
+            }
+          },
+          {
+            "id": "d75ed90f7ab3da6c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02 - Areas/Computer Science/Operating Systems/Threads and Processes/Abstract.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Abstract"
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -341,63 +411,63 @@
       "card-board:CardBoard": false
     }
   },
-  "active": "9fb1667a26bf225e",
+  "active": "bdf7cad2e300c825",
   "lastOpenFiles": [
-    "02 - Areas/Computer Science/Operating Systems/Memory Management/Translation Lookaside Buffer.md",
-    "02 - Areas/Computer Science/Operating Systems/Memory Management/Page Faults.md",
-    "02 - Areas/Computer Science/Operating Systems/Memory Management/ISR.md",
-    "02 - Areas/Computer Science/Operating Systems/Memory Management/Memory Abstraction Address Spaces.md",
-    "02 - Areas/Computer Science/Operating Systems/Memory Management/Memory Mapped IO.md",
-    "02 - Areas/Computer Science/Operating Systems/Memory Management/Memory Management.md",
-    "02 - Areas/Computer Science/Operating Systems/Memory Management/No Memory Abstraction.md",
-    "02 - Areas/Computer Science/Operating Systems/Memory Management/Virtual Memory.md",
-    "02 - Areas/Computer Science/Operating Systems/Memory Management/Volatile When Working W MMIO.md",
-    "03 - Resources/Go/Composite Types/JSON.md",
-    "Images/Pasted image 20250514164205.png",
-    "Images/Pasted image 20250514163854.png",
-    "03 - Resources/Go/Composite Types/Structs.md",
-    "03 - Resources/Go/Composite Types/Maps.md",
-    "01 - Projects/Chatbot/Hello.md",
-    "2025-05-14.md",
-    "00 - Flashcards/Operating Systems/Memory Management/Memory Management.md",
-    "01 - Projects/Chatbot",
-    "Images/Pasted image 20250512141109.png",
-    "02 - Areas/Philosophy/Existentialism/Scribble two.md",
+    "02 - Areas/Computer Science/Networking/Sockets",
+    "02 - Areas/Computer Science/Networking/Misc/Server.md",
+    "02 - Areas/Computer Science/Networking/Misc/Creating Localhost.md",
+    "02 - Areas/Computer Science/Networking/Misc/Latency.md",
+    "02 - Areas/Computer Science/Networking/Misc/Network Bandwidth.md",
+    "02 - Areas/Computer Science/Operating Systems/File Systems/Socket Descriptors.md",
+    "02 - Areas/Computer Science/Operating Systems/File Systems/Partition Table.md",
+    "02 - Areas/Computer Science/Operating Systems/File Systems/File Descriptors.md",
+    "02 - Areas/Computer Science/Operating Systems/File Systems/File Tables.md",
+    "02 - Areas/Computer Science/Operating Systems/File Systems/Partition Creation.md",
+    "02 - Areas/Computer Science/Operating Systems/Introduction/Files.md",
+    "02 - Areas/Computer Science/Networking/Sockets/What is a Socket.md",
+    "02 - Areas/Computer Science/Networking/POSIX System.md",
+    "02 - Areas/Computer Science/Operating Systems/Memory Management/Problems.md",
+    "02 - Areas/Computer Science/Operating Systems/Registers/Status Registers.md",
+    "02 - Areas/Computer Science/Operating Systems/Registers/Special Registers.md",
     "02 - Areas/Computer Science/Operating Systems/Threads and Processes/Abstract.md",
-    "02 - Areas/Computer Science/Operating Systems/Threads and Processes",
-    "Images/Pasted image 20250511152016.png",
+    "02 - Areas/Computer Science/Operating Systems/Memory Management/Segmentation.md",
+    "02 - Areas/Computer Science/Operating Systems/Memory Management/Locality Of Reference.md",
+    "03 - Resources/Go/Composite Types/Structs.md",
+    "02 - Areas/Computer Science/Operating Systems/Memory Management/Page Replacement Algorithms.md",
+    "02 - Areas/Computer Science/Operating Systems/Registers/General Purpose Registers.md",
+    "02 - Areas/Computer Science/Operating Systems/Registers/Program Status Word.md",
+    "02 - Areas/Computer Science/Operating Systems/Registers",
+    "Images/Pasted image 20250515103157.png",
     "02 - Areas/Computer Science/Operating Systems/Memory Management/Page Fault.md",
+    "Images/Pasted image 20250511152016.png",
     "Images/Pasted image 20250511141139.png",
-    "00 - Flashcards/Operating Systems/Memory Management",
-    "03 - Resources/Programming Methodologies/Log Levels/Log Levels.md",
-    "03 - Resources/Programming Methodologies/Log Levels/Make.md",
-    "03 - Resources/Programming Methodologies/Log Levels/Implementing Log Levels.md",
-    "2025-05-11.md",
-    "02 - Areas/Computer Science/Operating Systems/Processes and Threads/Scheduling/Classical IPC Problems.md",
-    "02 - Areas/Computer Science/Operating Systems/Processes and Threads/Scheduling/Compute-bound processes.md",
-    "02 - Areas/Computer Science/Operating Systems/Processes and Threads/Scheduling/Thread Scheduling.md",
-    "02 - Areas/Computer Science/Operating Systems/Processes and Threads/Scheduling/Context Switch.md",
-    "02 - Areas/Computer Science/Operating Systems/Processes and Threads/Scheduling",
-    "03 - Resources/CMake/Cache",
-    "03 - Resources/CMake/Scope",
-    "03 - Resources/CMake/Directories",
-    "03 - Resources/CMake/Targets",
-    "03 - Resources/CMake/Libraries",
-    "03 - Resources/CMake/Executables",
     "Images/Pasted image 20250509130133.png",
     "Images/Pasted image 20250509123959.png",
     "Images/Pasted image 20250509122223.png",
+    "03 - Resources/CMake/Targets/Target.md",
+    "03 - Resources/CMake/Targets",
+    "03 - Resources/CMake/Scope/Scope.md",
+    "03 - Resources/CMake/Scope",
+    "03 - Resources/CMake/Libraries",
+    "03 - Resources/CMake/Executables",
+    "03 - Resources/CMake/Directories",
+    "03 - Resources/CMake/Cache",
+    "02 - Areas/Computer Science/Operating Systems/Processes and Threads/Scheduling",
+    "02 - Areas/Computer Science/Operating Systems/Processes and Threads/PThreads",
+    "02 - Areas/Computer Science/Operating Systems/Memory Management",
     "Images/Pasted image 20250508111155.png",
     "Images/Pasted image 20250508110828.png",
-    "01 - Projects/Keeper - OS/High-level implementation/Partition Generation.canvas",
+    "Images/Pasted image 20250508104311.png",
+    "Images/Pasted image 20250508103619.png",
     "01 - Projects/Keeper - OS/Misc/Project Flow.canvas",
-    "01 - Projects/Frame/Classes/Flow.canvas",
+    "01 - Projects/Keeper - OS/High-level implementation/Partition Generation.canvas",
+    "02 - Areas/Computer Science/Mobile Development/expo/Native Module Structure.canvas",
+    "02 - Areas/Computer Science/Languages/Objective-C/Program Structure.canvas",
+    "02 - Areas/Computer Science/Algorithms/Dynamic Programming/Outline.canvas",
+    "02 - Areas/Computer Science/System Design/Overview.canvas",
+    "02 - Areas/Computer Science/Design Patterns/Outline.canvas",
     "02 - Areas/Computer Science/Artificial Intelligence/Outline.canvas",
-    "01 - Projects/Keeper/System Design/Flow.canvas",
-    "01 - Projects/Keeper/Miscellanous/Keepr Outline.canvas",
-    "01 - Projects/Keeper/Native APIs/File Interactions.canvas",
-    "01 - Projects/Keeper/Flowchart.canvas",
-    "01 - Projects/Graphite/Hardware/ESP-IDF Notes/Bluetooth Low Energy/Generic Attribute Server Setup/Node Representation.canvas",
-    "01 - Projects/Graphite/Primitives/Primitives.canvas"
+    "02 - Areas/Computer Science/Algorithms/Final Outline.canvas",
+    "01 - Projects/Keeper - OS/Project Flow.canvas"
   ]
 }
