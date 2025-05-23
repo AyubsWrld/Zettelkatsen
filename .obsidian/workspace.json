@@ -4,39 +4,109 @@
     "type": "split",
     "children": [
       {
-        "id": "5939b7f2be76e38e",
-        "type": "tabs",
+        "id": "977bb4553706508e",
+        "type": "split",
         "children": [
           {
-            "id": "8de3f0dc4324e1b2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02 - Areas/Computer Science/Operating Systems/Memory Management/Virtual Memory.md",
-                "mode": "source",
-                "source": false
+            "id": "95f29bcbcc0253fe",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "0b3f2bcce2cf9a7f",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "03 - Resources/C++/Type Punning/Aliasing.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Aliasing"
+                }
               },
-              "icon": "lucide-file",
-              "title": "Virtual Memory"
-            }
+              {
+                "id": "1a6b704254337314",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "03 - Resources/C++/Compound Types/Bitset with Enumerations pattern.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Bitset with Enumerations pattern"
+                }
+              },
+              {
+                "id": "c5f57c3294af2ba9",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "03 - Resources/C++/Compound Types/unordered_map.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "unordered_map"
+                }
+              },
+              {
+                "id": "58b338833cc80aaf",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "00 - Flashcards/C++/Classes/Classes.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Classes"
+                }
+              }
+            ],
+            "currentTab": 3
           },
           {
-            "id": "cbe8150f1c5a5b91",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02 - Areas/Computer Science/Operating Systems/Memory Management/Design Issues for Paging Systems.md",
-                "mode": "source",
-                "source": false
+            "id": "ecb9a87deb807c98",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "4c62897d053a5b06",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "03 - Resources/C++/Compound Types/Class Invariant Problem.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Class Invariant Problem"
+                }
               },
-              "icon": "lucide-file",
-              "title": "Design Issues for Paging Systems"
-            }
+              {
+                "id": "4158088df04e4d34",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "2025-05-22.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "2025-05-22"
+                }
+              }
+            ],
+            "currentTab": 1
           }
         ],
-        "currentTab": 1
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -257,54 +327,54 @@
       "card-board:CardBoard": false
     }
   },
-  "active": "cbe8150f1c5a5b91",
+  "active": "bdf7cad2e300c825",
   "lastOpenFiles": [
-    "02 - Areas/Computer Science/Operating Systems/Memory Management/ISR.md",
-    "02 - Areas/Computer Science/Operating Systems/Memory Management/Design Issues for Paging Systems.md",
-    "02 - Areas/Computer Science/Operating Systems/Memory Management/Virtual Memory.md",
-    "02 - Areas/Computer Science/Networking/Implementation/Manipulating IP Addresses.md",
-    "02 - Areas/Computer Science/Networking/POSIX/Structs/struct addrinfo.md",
-    "02 - Areas/Computer Science/Networking/POSIX/Routines/socket.md",
-    "2025-05-16.md",
-    "02 - Areas/Computer Science/Networking/POSIX/Structs/struct sockaddr.md",
-    "02 - Areas/Computer Science/Networking/POSIX/Structs/struct sockaddr_in.md",
-    "02 - Areas/Computer Science/Networking/Sample Programs/C/Get address of server.md",
-    "02 - Areas/Computer Science/Networking/Sample Programs/C/Bind.md",
-    "02 - Areas/Computer Science/Networking/Sample Programs/C/Get Socket Descriptor.md",
-    "02 - Areas/Computer Science/Networking/POSIX/Routines/accept.md",
-    "02 - Areas/Computer Science/Networking/POSIX/Routines/listen.md",
-    "02 - Areas/Computer Science/Networking/POSIX/Routines/bind.md",
-    "02 - Areas/Computer Science/Operating Systems/File Systems/Socket Descriptor.md",
-    "02 - Areas/Computer Science/Networking/POSIX/Routines",
-    "02 - Areas/Computer Science/Networking/POSIX/Structs",
-    "02 - Areas/Computer Science/Networking/POSIX/Untitled.md",
-    "02 - Areas/Computer Science/Networking/POSIX/Structs/struct in_addr.md",
-    "02 - Areas/Computer Science/Networking/POSIX/sockaddr.md",
-    "02 - Areas/Computer Science/Networking/Misc/Server.md",
-    "02 - Areas/Computer Science/Networking/Misc/Creating Localhost.md",
-    "02 - Areas/Computer Science/Networking/POSIX",
-    "03 - Resources/CMake/Libraries/Examples.md",
-    "03 - Resources/CMake/Libraries/Creating a libary.md",
-    "02 - Areas/Computer Science/Networking/Endianess/Little-endian.md",
-    "02 - Areas/Computer Science/Networking/Endianess/Endianess.md",
-    "02 - Areas/Computer Science/Networking/Endianess/Big-endian.md",
-    "02 - Areas/Computer Science/Operating Systems/Other Definitions",
-    "02 - Areas/Computer Science/Networking/Endianess",
-    "02 - Areas/Computer Science/Networking/Sample Programs/C",
-    "02 - Areas/Computer Science/Networking/Sample Programs",
-    "02 - Areas/Computer Science/Networking/Implementation",
-    "Images/Pasted image 20250515103157.png",
-    "02 - Areas/Computer Science/Operating Systems/Registers",
-    "02 - Areas/Computer Science/Networking/Sockets",
-    "Images/Pasted image 20250514164205.png",
-    "Images/Pasted image 20250514163854.png",
-    "Images/Pasted image 20250512141109.png",
-    "Images/Pasted image 20250511152016.png",
-    "Images/Pasted image 20250511141139.png",
-    "Images/Pasted image 20250509130133.png",
-    "Images/Pasted image 20250509123959.png",
-    "Images/Pasted image 20250509122223.png",
-    "Images/Pasted image 20250508111155.png",
+    "06 - Daily/2025-05-21.md",
+    "2025-05-22.md",
+    "03 - Resources/C++/Classes/Classes Abstract.md",
+    "00 - Flashcards/C++/Classes/Classes.md",
+    "Images/Pasted image 20250522224900.png",
+    "03 - Resources/C++/Classes/Virtual Functions/CPP Help text throwaways.md",
+    "03 - Resources/C++/Bit Manipulation/Converting bitset to int.md",
+    "03 - Resources/C++/Compound Types/Class Invariant Problem.md",
+    "00 - Flashcards/C++/Constants/Constants.md",
+    "00 - Flashcards/C++/Classes",
+    "03 - Resources/C++/Compound Types/unordered_map.md",
+    "03 - Resources/C++/Compound Types/Lvalue references.md",
+    "03 - Resources/C++/Compound Types/Bitset with Enumerations pattern.md",
+    "03 - Resources/C++/type_traits/is_invocable.md",
+    "03 - Resources/C++/Type Punning/Aliasing.md",
+    "00 - Flashcards/C++/User Defined Types/User Defined Types.md",
+    "03 - Resources/C++/type_traits",
+    "03 - Resources/C++/Operator Overloading/Operator Overloading.md",
+    "00 - Flashcards/Philosophy/Existentialism/Existentialism.md",
+    "00 - Flashcards/Philosophy/Symposium/Symposium.md",
+    "00 - Flashcards/Philosophy/Existentialism",
+    "03 - Resources/x86_64 Assembly/Registers/rbp.md",
+    "03 - Resources/x86_64 Assembly/Instructions/call.md",
+    "02 - Areas/Philosophy/Existentialism/Scribbles Four.md",
+    "02 - Areas/Philosophy/Existentialism/Scribble two.md",
+    "02 - Areas/Philosophy/Existentialism/Scribble Three.md",
+    "02 - Areas/Philosophy/Existentialism/Scribble.md",
+    "2025-05-20.md",
+    "03 - Resources/x86_64 Assembly/Instructions/Procedure Linking Information.md",
+    "00 - Flashcards/C++/Scope, Duration, and Linkage/Compound Statements.md",
+    "03 - Resources/x86_64 Assembly/Instructions",
+    "00 - Flashcards/C++/Theory",
+    "Images/Pasted image 20250519185430.png",
+    "03 - Resources/C++/Theory",
+    "03 - Resources/C++/Classes",
+    "03 - Resources/C++/Classes/Virtual Functions",
+    "03 - Resources/C++/Serialization/Building our own C++ Serializer",
+    "Images/Pasted image 20250519151245.png",
+    "Images/Pasted image 20250519151214.png",
+    "Images/Pasted image 20250519151145.png",
+    "Images/Pasted image 20250519151124.png",
+    "Images/Pasted image 20250519151042.png",
+    "Images/Pasted image 20250519151023.png",
+    "Images/Pasted image 20250519150958.png",
+    "Images/Pasted image 20250519150738.png",
+    "03 - Resources/C++/Serialization",
     "01 - Projects/Keeper - OS/High-level implementation/Partition Generation.canvas",
     "01 - Projects/Keeper - OS/Misc/Project Flow.canvas",
     "01 - Projects/Frame/Classes/Flow.canvas",

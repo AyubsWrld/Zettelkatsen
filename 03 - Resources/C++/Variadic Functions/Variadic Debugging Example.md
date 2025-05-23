@@ -22,5 +22,10 @@ int main(void)
 }
 ```
 
+
+std::ranges
+
+
+
 ___
 Tags : #cpp #variadic_functions
