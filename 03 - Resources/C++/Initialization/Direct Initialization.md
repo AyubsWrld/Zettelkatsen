@@ -1,0 +1,3 @@
+Direct-initialization is more permissive than copy-initialization: copy-initialization only considers non-[explicit](https://en.cppreference.com/w/cpp/language/explicit "cpp/language/explicit") constructors and non-explicit user-defined [conversion functions](https://en.cppreference.com/w/cpp/language/cast_operator "cpp/language/cast operator"), while direct-initialization considers all constructors and all user-defined conversion functions.
+___
+Tags: #cpp #programming
