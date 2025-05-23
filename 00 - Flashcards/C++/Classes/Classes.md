@@ -29,5 +29,17 @@ What are some benefits of data hiding ? ;; Helps us manage invariants better, al
 If we want good class design we should ? ;; Think about where the class invariants might occur and move all those places into private access layer. 
 
 
+True or False : Constructors create objects ? ;; No, the compiler allocates the memory needed for the class, the constructor simply initializes the memory with some value . 
+
+Does const effect an object in construction ? ;; No, If I have a const class I can still call its constructor to initialize its values. 
+
+Can the constructor ever be marked as being const ? ;; No, This is because the constructor should be able to initialize portions of the class itself. 
+
+In what order are the members of a class initialized ? ;; In the order they are defined. 
 
 
+What is wrong with the following code snippet ![[Pasted image 20250523141521.png]]? ;; This results in UB, we try to initialize m_x with the value of m_y which isn't initialized until m_x is. It follows the way the it is defined. 
+
+When a member initializer list has finished executing, the object is considered what ? Initialized.
+
+When the function body of the constructor has been executed, the object is considered what ? Constructed. Constness ensues after this. 
