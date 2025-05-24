@@ -98,3 +98,7 @@ int main()
     Employee e2{ "Dave", 42 };
 }
 ```
+
+
+___
+Tags: #cpp #programming
