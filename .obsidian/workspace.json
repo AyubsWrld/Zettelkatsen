@@ -4,179 +4,137 @@
     "type": "split",
     "children": [
       {
-        "id": "977bb4553706508e",
-        "type": "split",
+        "id": "95f29bcbcc0253fe",
+        "type": "tabs",
         "children": [
           {
-            "id": "95f29bcbcc0253fe",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "0b3f2bcce2cf9a7f",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "03 - Resources/C++/Type Punning/Aliasing.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Aliasing"
-                }
+            "id": "0b3f2bcce2cf9a7f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "03 - Resources/C++/Type Punning/Aliasing.md",
+                "mode": "source",
+                "source": false
               },
-              {
-                "id": "1a6b704254337314",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "03 - Resources/C++/Compound Types/Bitset with Enumerations pattern.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Bitset with Enumerations pattern"
-                }
-              },
-              {
-                "id": "c5f57c3294af2ba9",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "03 - Resources/C++/Compound Types/unordered_map.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "unordered_map"
-                }
-              },
-              {
-                "id": "58b338833cc80aaf",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "00 - Flashcards/C++/Classes/Classes.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Classes"
-                }
-              },
-              {
-                "id": "707a2e8b4c51ab2a",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "03 - Resources/C++/IO/ofstream.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "ofstream"
-                }
-              },
-              {
-                "id": "20b3db3808523c3e",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "03 - Resources/C++/Initialization/Copy-initialization.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Copy-initialization"
-                }
-              },
-              {
-                "id": "8f87925fe28fc247",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "03 - Resources/C++/Classes/Temporary class objects.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Temporary class objects"
-                }
-              }
-            ],
-            "currentTab": 6
+              "icon": "lucide-file",
+              "title": "Aliasing"
+            }
           },
           {
-            "id": "ecb9a87deb807c98",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "4c62897d053a5b06",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "03 - Resources/C++/Compound Types/Class Invariant Problem.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Class Invariant Problem"
-                }
+            "id": "1a6b704254337314",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "03 - Resources/C++/Compound Types/Bitset with Enumerations pattern.md",
+                "mode": "source",
+                "source": false
               },
-              {
-                "id": "4158088df04e4d34",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "03 - Resources/C++/Classes/Classes Abstract.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Classes Abstract"
-                }
+              "icon": "lucide-file",
+              "title": "Bitset with Enumerations pattern"
+            }
+          },
+          {
+            "id": "c5f57c3294af2ba9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "03 - Resources/C++/Compound Types/unordered_map.md",
+                "mode": "source",
+                "source": false
               },
-              {
-                "id": "668e29ef4ebae5fe",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "03 - Resources/C++/Classes/Default Constructors and Default Arguments.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Default Constructors and Default Arguments"
-                }
+              "icon": "lucide-file",
+              "title": "unordered_map"
+            }
+          },
+          {
+            "id": "58b338833cc80aaf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00 - Flashcards/C++/Classes/Classes.md",
+                "mode": "source",
+                "source": false
               },
-              {
-                "id": "ecb3ac979a84f46b",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "03 - Resources/C++/Classes/Temporary class objects.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Temporary class objects"
-                }
-              }
-            ],
-            "currentTab": 3
+              "icon": "lucide-file",
+              "title": "Classes"
+            }
+          },
+          {
+            "id": "707a2e8b4c51ab2a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "03 - Resources/C++/IO/ofstream.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "ofstream"
+            }
+          },
+          {
+            "id": "20b3db3808523c3e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "03 - Resources/C++/Initialization/Copy-initialization.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Copy-initialization"
+            }
+          },
+          {
+            "id": "6a344d3e315d429e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00 - Flashcards/Philosophy/Nietzche/Nietzche.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Nietzche"
+            }
+          },
+          {
+            "id": "a732da95c1fa56a8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01 - Projects/Cpp Learning.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Cpp Learning"
+            }
+          },
+          {
+            "id": "8f87925fe28fc247",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "03 - Resources/C++/Classes/Temporary class objects.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Temporary class objects"
+            }
           }
         ],
-        "direction": "horizontal"
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -397,13 +355,19 @@
       "card-board:CardBoard": false
     }
   },
-  "active": "8f87925fe28fc247",
+  "active": "bdf7cad2e300c825",
   "lastOpenFiles": [
-    "03 - Resources/C++/Classes/Classes Abstract.md",
+    "00 - Flashcards/Philosophy/Nietzche/Nietzche.md",
+    "01 - Projects/Cpp Learning.md",
+    "2025-05-26.md",
+    "00 - Flashcards/Philosophy/Symposium/Symposium.md",
+    "00 - Flashcards/Philosophy/Nietzche",
+    "Nietzsche.md",
+    "03 - Resources/C++/Initialization/Copy-initialization.md",
     "03 - Resources/C++/Classes/Temporary class objects.md",
+    "03 - Resources/C++/Classes/Classes Abstract.md",
     "03 - Resources/C++/Classes/Default Constructors and Default Arguments.md",
     "03 - Resources/C++/Initialization/Direct Initialization.md",
-    "03 - Resources/C++/Initialization/Copy-initialization.md",
     "03 - Resources/C++/IO/ofstream.md",
     "00 - Flashcards/C++/Classes/Classes Cont.md",
     "03 - Resources/C++/Initialization",
@@ -425,19 +389,13 @@
     "03 - Resources/C++/Type Punning/Aliasing.md",
     "00 - Flashcards/C++/User Defined Types/User Defined Types.md",
     "03 - Resources/C++/type_traits",
-    "03 - Resources/C++/Operator Overloading/Operator Overloading.md",
-    "00 - Flashcards/Philosophy/Existentialism/Existentialism.md",
-    "00 - Flashcards/Philosophy/Symposium/Symposium.md",
     "00 - Flashcards/Philosophy/Existentialism",
-    "03 - Resources/x86_64 Assembly/Registers/rbp.md",
-    "03 - Resources/x86_64 Assembly/Instructions/call.md",
     "03 - Resources/x86_64 Assembly/Instructions",
     "00 - Flashcards/C++/Theory",
     "Images/Pasted image 20250519185430.png",
     "03 - Resources/C++/Theory",
     "03 - Resources/C++/Classes",
     "03 - Resources/C++/Classes/Virtual Functions",
-    "03 - Resources/C++/Serialization/Building our own C++ Serializer",
     "Images/Pasted image 20250519151245.png",
     "Images/Pasted image 20250519151214.png",
     "Images/Pasted image 20250519151145.png",
