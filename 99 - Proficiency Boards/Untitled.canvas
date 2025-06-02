@@ -1,0 +1,14 @@
+{
+	"nodes":[
+		{"id":"e799fd5e3a3f8cb1","x":-420,"y":-80,"width":380,"height":60,"color":"2","type":"text","text":"### Temporary class objects"},
+		{"id":"c935e623b2aac541","x":240,"y":250,"width":280,"height":60,"color":"1","type":"text","text":" Direct Initialization"},
+		{"id":"6f9c71d1ab4bc44f","x":160,"y":-300,"width":296,"height":60,"color":"1","type":"text","text":" Static_assert"},
+		{"id":"450465c5836f40db","x":-420,"y":260,"width":300,"height":50,"color":"1","type":"text","text":"Copy Initialization "},
+		{"id":"3489fc35da8525ba","type":"text","text":"### Copy Constructor ","x":-1140,"y":-80,"width":300,"height":60,"color":"1"}
+	],
+	"edges":[
+		{"id":"9467393501ea73ce","fromNode":"e799fd5e3a3f8cb1","fromSide":"top","toNode":"6f9c71d1ab4bc44f","toSide":"bottom"},
+		{"id":"d7c9e4fa85a5c175","fromNode":"e799fd5e3a3f8cb1","fromSide":"bottom","toNode":"c935e623b2aac541","toSide":"top"},
+		{"id":"ed52f2f91220b9d8","fromNode":"e799fd5e3a3f8cb1","fromSide":"bottom","toNode":"450465c5836f40db","toSide":"top"}
+	]
+}

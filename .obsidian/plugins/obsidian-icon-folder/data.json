@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiBox",
+      "LiBringToFront",
+      "LiCircuitBoard",
       "LiFileType",
-      "LiMousePointer2",
-      "LiBrain",
-      "LiTableCellsSplit",
-      "LiBetweenVerticalStart"
+      "LiMousePointer2"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -185,5 +185,9 @@
   "00 - Flashcards/C++/Theory": "LiBrain",
   "03 - Resources/x86_64 Assembly/Instructions": "LiMousePointer2",
   "03 - Resources/C++/type_traits": "LiFileType",
-  "00 - Flashcards/C++/Classes": "LiTableCellsSplit"
+  "00 - Flashcards/C++/Classes": "LiTableCellsSplit",
+  "99 - Proficiency Boards": "LiCircuitBoard",
+  "Utilities Library": "LiBringToFront",
+  "00 - Flashcards/C++/Pack": "LiBox",
+  "03 - Resources/C++/Pack": "LiBox"
 }
