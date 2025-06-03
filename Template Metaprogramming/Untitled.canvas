@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"33ad89f387bbfed1","x":-620,"y":-140,"width":268,"height":50,"type":"text","text":"[[Value Representation]]"},
+		{"id":"6d1d23b2ad214d07","x":-632,"y":-780,"width":280,"height":50,"type":"text","text":"[[Object Representation]]"},
+		{"id":"7aae5b39c52ecb39","x":80,"y":-393,"width":144,"height":60,"type":"text","text":"[[bit_cast]]"},
+		{"id":"58551f320b1286cd","x":-198,"y":-40,"width":163,"height":50,"type":"text","text":"class From"},
+		{"id":"58f4355ccd38f856","x":-180,"y":-700,"width":145,"height":50,"type":"text","text":"class To"}
+	],
+	"edges":[
+		{"id":"1e891a70211e578b","fromNode":"58551f320b1286cd","fromSide":"top","toNode":"7aae5b39c52ecb39","toSide":"bottom","label":"Converts"},
+		{"id":"9a1604a3eb35f980","fromNode":"7aae5b39c52ecb39","fromSide":"top","toNode":"58f4355ccd38f856","toSide":"bottom","label":"into"}
+	]
+}

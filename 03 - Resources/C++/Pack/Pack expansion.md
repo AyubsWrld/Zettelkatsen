@@ -1,4 +1,4 @@
-This is the process of taking our [[Parameter Pack]] and expanding it to the individual parts it comprises of. This is done through suffixing the pattern with an ellipsis. Pack expansion is conceptually equivalent to having one copy of the pattern for each element of the parameter pack.
+The process of taking our [[Parameter Pack]] and expanding it to the individual parts it comprises of. This is done through suffixing the pattern with an ellipsis. Pack expansion is conceptually equivalent to having one copy of the pattern for each element of the parameter pack.
 
 For example: 
 

@@ -47,10 +47,25 @@ void foo( T... args )
 }
 ```
 
-
+___
 ##### Inside Function parameters and Template Parameters : 
 
 Inside function parameters and template parameters, a pack expansion behaves like a comma separated list of patterns.
+
+____
+
+##### [[Alignment Specifier]]
+
+```cpp
+
+template<typename... T>
+struct alignas(T...) storage
+{
+	char contents[std::max({sizeof(T)...})] ; 
+}
+```
+
+In an alignment specifier, the argument must be a single parameter pack and the ellipsis goes inside the alignas operator. The result is an alignment restriction compatible with all the types (if the pack expands to types) or all the powers of two (if the pack expands to integer powers of two). In the following example, the type storage would be aligned to an address compatible with both int and void*. (Note also the expansion sizeof(T)... inside braces to create a std::initializer_list argument for std::max.)
 
 ---
 Tags: #cpp #parameter-pack

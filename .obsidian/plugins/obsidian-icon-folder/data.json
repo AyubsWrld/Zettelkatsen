@@ -7,10 +7,10 @@
     "iconColor": null,
     "recentlyUsedIcons": [
       "LiBox",
-      "LiBringToFront",
-      "LiCircuitBoard",
-      "LiFileType",
-      "LiMousePointer2"
+      "LiWebcam",
+      "LiPlus",
+      "LiBookTemplate",
+      "LiToyBrick"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -187,7 +187,13 @@
   "03 - Resources/C++/type_traits": "LiFileType",
   "00 - Flashcards/C++/Classes": "LiTableCellsSplit",
   "99 - Proficiency Boards": "LiCircuitBoard",
-  "Utilities Library": "LiBringToFront",
   "00 - Flashcards/C++/Pack": "LiBox",
-  "03 - Resources/C++/Pack": "LiBox"
+  "03 - Resources/C++/Pack": "LiBox",
+  "03 - Resources/C++/Utilities Library": "LiBringToFront",
+  "03 - Resources/Linux": "LiPcCase",
+  "Idioms": "LiToyBrick",
+  "Template Metaprogramming": "LiBringToFront",
+  "Template Metaprogramming/Function Templates": "LiBookTemplate",
+  "Effective Modern C++": "LiPlus",
+  "Modules": "LiBox"
 }

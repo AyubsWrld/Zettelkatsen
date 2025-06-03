@@ -22,3 +22,4 @@ When can't function inlining occur ? ;; When the compiler does not have complete
 
 What does the `call` command do ? ;; Saves procedure linking information on the stack and branches to the called procedure specified by the target operand. 
 
+
