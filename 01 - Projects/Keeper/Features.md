@@ -1,5 +1,3 @@
-Here are some additional features you can consider adding to your app **Keepur**:
-
 1. **Time-based Restrictions**: Allow the Guardian to set specific time windows when certain apps can be accessed, such as allowing social media apps only after 5 PM or during weekends.
     
 2. **App Usage Limits**: Enable the Guardian to set time limits for specific apps. For example, the User could only use a game for 30 minutes per day, and once the limit is reached, the app would automatically lock.
