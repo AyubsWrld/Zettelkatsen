@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"83ed8c2c581ebf61","type":"text","text":"# Session Manager","x":-460,"y":-250,"width":320,"height":60},
+		{"id":"49d258b51a8d48bf","type":"text","text":"# Notis","x":-20,"y":-680,"width":160,"height":60},
+		{"id":"c8484f311937c748","type":"text","text":"# Lock Manager","x":-880,"y":-680,"width":280,"height":60},
+		{"id":"140f2467dea4ebbc","x":-460,"y":320,"width":320,"height":60,"type":"text","text":"# Authentication"}
+	],
+	"edges":[
+		{"id":"d651c73d67071d0d","fromNode":"83ed8c2c581ebf61","fromSide":"top","toNode":"c8484f311937c748","toSide":"bottom"},
+		{"id":"19e23301de886682","fromNode":"83ed8c2c581ebf61","fromSide":"top","toNode":"49d258b51a8d48bf","toSide":"bottom"},
+		{"id":"b23af4f9d92e9a7c","fromNode":"c8484f311937c748","fromSide":"right","toNode":"49d258b51a8d48bf","toSide":"left"}
+	]
+}

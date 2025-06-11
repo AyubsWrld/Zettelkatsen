@@ -1,0 +1,1 @@
+1. *Does your system make reads often? ( ie. data is read frequently yet changed infrequently*  `Yes` $\rightarrow$ **implement a Cache tier** 

@@ -1,0 +1,41 @@
+{
+	"nodes":[
+		{"id":"6342605e16cd5be9","type":"text","text":"Understanding Template Type Deduction.","x":-358,"y":-433,"width":438,"height":60},
+		{"id":"d407cfd0b41b9496","type":"text","text":"Understand auto type deduction.","x":-960,"y":-433,"width":368,"height":60},
+		{"id":"981e2815f69b57fd","type":"text","text":"Know how to view Deduced types","x":-291,"y":-927,"width":371,"height":60},
+		{"id":"3b20d50108d4c3c4","type":"text","text":"# Deducing Types","x":-593,"y":-700,"width":302,"height":60},
+		{"id":"4f670e9605c6aa02","type":"text","text":"Understand decltype.","x":-960,"y":-927,"width":316,"height":60},
+		{"id":"dfc1955d1680cb5b","type":"text","text":"# auto","x":-1838,"y":-750,"width":161,"height":50},
+		{"id":"3edf8ee7ada34557","type":"text","text":"Prefer auto to explicit type declarations.","x":-1860,"y":-940,"width":205,"height":60},
+		{"id":"5cec4eb52fce0a15","type":"text","text":"Use the explicitly typed initializer idiom when auto deduces undesired types.","x":-1920,"y":-460,"width":326,"height":98},
+		{"id":"d74f59b4f9298e73","type":"text","text":"# Moving to Modern C++.","x":-1889,"y":360,"width":265,"height":108},
+		{"id":"8a6624757ad199e5","type":"text","text":"Distinguish Between () and {} when creating objects.","x":-1900,"y":120,"width":288,"height":107},
+		{"id":"4eff4302c28954aa","x":-239,"y":-120,"width":200,"height":60,"type":"text","text":"How it works"},
+		{"id":"9f8a2630621460aa","x":-220,"y":640,"width":182,"height":50,"type":"text","text":"Three Cases"},
+		{"id":"0990f2fde8fdd161","x":-792,"y":1000,"width":401,"height":65,"type":"text","text":"Passing by Reference Pointer."},
+		{"id":"9b534792ec53dc04","x":-287,"y":1120,"width":319,"height":65,"type":"text","text":"Passing by value."},
+		{"id":"53d235602ade23cf","x":179,"y":1020,"width":339,"height":81,"type":"text","text":"Passing by Universal Reference. "},
+		{"id":"36b89fa79d1a7178","type":"text","text":"Deducing `ParamTypes`","x":228,"y":127,"width":242,"height":50},
+		{"id":"65099de6c8d0361f","x":-735,"y":120,"width":182,"height":63,"type":"text","text":"Deducing `T`"},
+		{"id":"50390f45656e13aa","x":-198,"y":127,"width":119,"height":59,"type":"text","text":"`expr`"}
+	],
+	"edges":[
+		{"id":"c6e720ede21733aa","fromNode":"3b20d50108d4c3c4","fromSide":"top","toNode":"981e2815f69b57fd","toSide":"bottom"},
+		{"id":"8669ea3fc4b3016c","fromNode":"3b20d50108d4c3c4","fromSide":"top","toNode":"4f670e9605c6aa02","toSide":"bottom"},
+		{"id":"7f18280ccb8ade56","fromNode":"3b20d50108d4c3c4","fromSide":"bottom","toNode":"d407cfd0b41b9496","toSide":"top"},
+		{"id":"1676652e09312879","fromNode":"3b20d50108d4c3c4","fromSide":"bottom","toNode":"6342605e16cd5be9","toSide":"top"},
+		{"id":"1461463e5747c622","fromNode":"dfc1955d1680cb5b","fromSide":"top","toNode":"3edf8ee7ada34557","toSide":"bottom"},
+		{"id":"8b10b70da5ff8fe4","fromNode":"dfc1955d1680cb5b","fromSide":"bottom","toNode":"5cec4eb52fce0a15","toSide":"top"},
+		{"id":"403d5a509fd47b41","fromNode":"d74f59b4f9298e73","fromSide":"top","toNode":"8a6624757ad199e5","toSide":"bottom"},
+		{"id":"21de686b3e60d8b1","fromNode":"6342605e16cd5be9","fromSide":"bottom","toNode":"4eff4302c28954aa","toSide":"top"},
+		{"id":"86a541143d088eb2","fromNode":"4eff4302c28954aa","fromSide":"bottom","toNode":"65099de6c8d0361f","toSide":"top"},
+		{"id":"d14198c0dc2409e2","fromNode":"4eff4302c28954aa","fromSide":"bottom","toNode":"36b89fa79d1a7178","toSide":"top"},
+		{"id":"24cbcddbd6e3081c","fromNode":"65099de6c8d0361f","fromSide":"bottom","toNode":"9f8a2630621460aa","toSide":"top"},
+		{"id":"ecc475342aee7d05","fromNode":"36b89fa79d1a7178","fromSide":"bottom","toNode":"9f8a2630621460aa","toSide":"top"},
+		{"id":"6b998e2ddc9142a7","fromNode":"9f8a2630621460aa","fromSide":"bottom","toNode":"0990f2fde8fdd161","toSide":"top"},
+		{"id":"dfb3ff3373219f09","fromNode":"9f8a2630621460aa","fromSide":"bottom","toNode":"9b534792ec53dc04","toSide":"top"},
+		{"id":"269d28507e282bbb","fromNode":"9f8a2630621460aa","fromSide":"bottom","toNode":"53d235602ade23cf","toSide":"top"},
+		{"id":"fb8953439789d690","fromNode":"50390f45656e13aa","fromSide":"left","toNode":"65099de6c8d0361f","toSide":"right"},
+		{"id":"82f8aa889ee72db3","fromNode":"50390f45656e13aa","fromSide":"right","toNode":"36b89fa79d1a7178","toSide":"left"}
+	]
+}

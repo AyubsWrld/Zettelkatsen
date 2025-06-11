@@ -1,4 +1,4 @@
-To create a mobile application that uses Apple's Screen Time API to manage app access, the following fundamental features are essential´´ D p 29. To compute w=´, first multiply both the numerator and the denominator by ´, the conjugate of the denominator. B:
+	To create a mobile application that uses Apple's Screen Time API to manage app access, the following fundamental features are essential´´ D p 29. To compute w=´, first multiply both the numerator and the denominator by ´, the conjugate of the denominator. B:
 
 ### 1. **User Authentication** (+++)
    - **Guardian Setup**: Allow the Guardian to create an account and set up their preferences.
