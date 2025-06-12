@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
-      "LiFile",
-      "LiHammer",
-      "LiImages",
-      "LiView",
-      "LiRectangleEllipsis"
+      "LiSquareLibrary",
+      "LiLink2",
+      "LiLink",
+      "LiMonitorUp",
+      "LiShapes"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -218,5 +218,21 @@
   "03 - Resources/Docker/View Running Containers.md": "LiView",
   "03 - Resources/Docker/Image Manipulation.md": "LiImages",
   "03 - Resources/Docker/Building Images.md": "LiHammer",
-  "03 - Resources/Docker/Docker Files.md": "LiFile"
+  "03 - Resources/Docker/Docker Files.md": "LiFile",
+  "03 - Resources/Docker/Golang Docker File Example.md": "LiFile",
+  "03 - Resources/Docker/Layer Caching.md": "LiLayers",
+  "03 - Resources/Docker/Exec Form.md": "LiTextSelect",
+  "03 - Resources/Docker/Stopping Containers.md": "LiStopCircle",
+  "03 - Resources/Docker/Postgres Image.md": "LiDatabase",
+  "03 - Resources/Go/pgx": "LiDatabaseZap",
+  "03 - Resources/Go/pgx/Installation.md": "LiDownload",
+  "03 - Resources/Go/pgx/Creating a connection.md": "LiCreateGroup",
+  "03 - Resources/Go/pgx/What is a database driver.md": "LiGitPullRequestCreateArrow",
+  "03 - Resources/Go/pgx/Establishing a Connection.md": "LiUnplug",
+  "03 - Resources/Go/pgx/Connection Pools.md": "LiActivity",
+  "03 - Resources/Go/pgx/Query Interface.md": "LiFileQuestion",
+  "03 - Resources/Go/pgx/Postgres Data Types.md": "LiShapes",
+  "03 - Resources/Go/pgx/Transactions.md": "LiMonitorUp",
+  "03 - Resources/Go/pgx/Database connection string.md": "LiLink2",
+  "03 - Resources/Postgresql": "LiSquareLibrary"
 }
