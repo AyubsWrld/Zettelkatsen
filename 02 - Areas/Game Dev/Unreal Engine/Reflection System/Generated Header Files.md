@@ -3,7 +3,7 @@ You'll often see a `yourfilename.generated.h` header file being included within 
 It contains the boilerplate for: 
 - **[[Networking]]**
 - **[[Reflection]]**
-- **[[Serialization]]**
+- **[[02 - Areas/Game Dev/Unreal Engine/Serialization/Serialization]]**
 - **[[Garbage Collection]]**
 - **[[Blueprint Collection]]**
 
