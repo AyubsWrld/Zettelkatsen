@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiCommand",
+      "LiStopCircle",
+      "LiDatabaseZap",
       "LiFile",
-      "LiHammer",
-      "LiImages",
-      "LiView",
-      "LiRectangleEllipsis"
+      "LiHammer"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -218,5 +218,8 @@
   "03 - Resources/Docker/View Running Containers.md": "LiView",
   "03 - Resources/Docker/Image Manipulation.md": "LiImages",
   "03 - Resources/Docker/Building Images.md": "LiHammer",
-  "03 - Resources/Docker/Docker Files.md": "LiFile"
+  "03 - Resources/Docker/Docker Files.md": "LiFile",
+  "03 - Resources/Docker/Postgres.md": "LiDatabaseZap",
+  "03 - Resources/Docker/Stopping Containers.md": "LiStopCircle",
+  "03 - Resources/Docker/Commands.md": "LiCommand"
 }
