@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiText",
       "LiCross",
       "LiShapes",
       "LiHash",
-      "LiDatabase",
-      "LiLink2"
+      "LiDatabase"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -136,7 +136,7 @@
   "01 - Projects/Keeper - OS/Misc/Components.md": "LiShapes",
   "01 - Projects/Keeper - OS/Misc/Idea.md": "LiLightbulb",
   "01 - Projects/Keeper - OS/Misc/Prereqs.md": "❕",
-  "03 - Resources/Neovim": "🇻🇳",
+  "03 - Resources/Neovim": "LiText",
   "03 - Resources/WIN32": "LiAppWindow",
   "03 - Resources/WIN32/WMI": "LiMessageSquareReply",
   "03 - Resources/WIN32/File System": "LiFile",
