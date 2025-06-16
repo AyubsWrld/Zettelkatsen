@@ -1,6 +1,6 @@
 ##### A basic `Objective-C` program consists of the following parts ( See [[Program Structure.canvas|Program Structure]])
 
-Essentially it is made up of [[Preprocessor Commands]] , [[Interface]] , [[Implementation]] , [[Method]] , [[02 - Areas/Computer Science/Languages/Objective-C/Variables]] , [[Statements & Expressions]] , [[Comments]] 
+Essentially it is made up of [[Preprocessor Commands]] , [[Interface]] , [[Implementation]] , [[OOP in Go]] , [[02 - Areas/Computer Science/Languages/Objective-C/Variables]] , [[Statements & Expressions]] , [[Comments]] 
 
 
 ### Example Code
