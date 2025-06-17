@@ -16,9 +16,9 @@
 - The Rotation of Crops. 
 	- Chief Evil is Boredom. Two ways to do this 
 		- Variety - simply search for something new -> becomes coring eventually 
-		- Intensity - Requires a kind of disengagement from the external world so what one experiences becomes raw material for imaginitive recreation. 
+		- Intensity - Requires a kind of disengagement from the external world so what one experiences becomes raw material for imaginative recreation. 
 - For Kierkegaard, the aesthete is in a constant state of chasing experience in hopes of escaping boredom .
 - Boredom = Inexistence. 
-- The Seducers DIary: require some form of investment, some form of commitment.
+- The Seducers Diary: require some form of investment, some form of commitment.
 ___
 Tags: #philosophy #existentialism
