@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
-      "LiSquareSplitVertical",
-      "LiNumberList",
-      "LiText",
-      "LiCross",
-      "LiShapes"
+      "LiPersonStanding",
+      "LiProjector",
+      "LiApple",
+      "LiCalendar",
+      "LiBrain"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -254,5 +254,12 @@
   "03 - Resources/Redis/Go/Reading into a Struct.md": "LiShapes",
   "03 - Resources/Go/Error Handling": "LiCross",
   "03 - Resources/Go/Literal Types": "LiSquareSplitVertical",
-  "03 - Resources/Go/Literal Types/Literal Types.md": "LiSquareSplitVertical"
+  "03 - Resources/Go/Literal Types/Literal Types.md": "LiSquareSplitVertical",
+  "02 - Areas/Philosophy/Existentialism/Heidegger": "LiHeadingGlyph",
+  "02 - Areas/Philosophy/Existentialism/Edmund Husserl": "LiDiceGlyph",
+  "02 - Areas/Philosophy/Existentialism/Edmund Husserl/Consciousness as Intentional.md": "LiBrain",
+  "02 - Areas/Philosophy/Existentialism/Edmund Husserl/Dates.md": "LiCalendar",
+  "02 - Areas/Philosophy/Existentialism/Edmund Husserl/Epoché.md": "LiApple",
+  "02 - Areas/Philosophy/Existentialism/Edmund Husserl/Husserl's Phenomenological Project.md": "LiProjector",
+  "02 - Areas/Philosophy/Existentialism/Heidegger/Dasein.md": "LiPersonStanding"
 }
