@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiSquareSplitVertical",
+      "LiNumberList",
       "LiText",
       "LiCross",
-      "LiShapes",
-      "LiHash",
-      "LiDatabase"
+      "LiShapes"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -252,5 +252,7 @@
   "03 - Resources/Redis/Theory/Database Number.md": "LiDatabase",
   "03 - Resources/Redis/Go/Storing a Hash.md": "LiHash",
   "03 - Resources/Redis/Go/Reading into a Struct.md": "LiShapes",
-  "03 - Resources/Go/Error Handling": "LiCross"
+  "03 - Resources/Go/Error Handling": "LiCross",
+  "03 - Resources/Go/Literal Types": "LiSquareSplitVertical",
+  "03 - Resources/Go/Literal Types/Literal Types.md": "LiSquareSplitVertical"
 }
