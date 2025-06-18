@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
-      "LiBraces",
-      "LiCross",
       "LiShapes",
-      "LiHash",
-      "LiDatabase"
+      "⁉",
+      "LiQuote",
+      "LiNotepadText",
+      "LiMinimize"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -253,5 +253,9 @@
   "03 - Resources/Redis/Go/Storing a Hash.md": "LiHash",
   "03 - Resources/Redis/Go/Reading into a Struct.md": "LiShapes",
   "03 - Resources/Go/Error Handling": "LiCross",
-  "03 - Resources/Go/Methods": "LiBraces"
+  "03 - Resources/Go/Methods": "LiBraces",
+  "02 - Areas/Philosophy/Existentialism/Nietchze": "LiMinimize",
+  "02 - Areas/Philosophy/Existentialism/Scribbles": "LiNotepadText",
+  "02 - Areas/Philosophy/Existentialism/Final Study": "⁉",
+  "02 - Areas/Philosophy/Existentialism/Final Study/Mind Map.canvas": "LiShapes"
 }

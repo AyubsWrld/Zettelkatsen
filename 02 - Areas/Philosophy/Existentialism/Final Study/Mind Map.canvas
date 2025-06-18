@@ -1,0 +1,25 @@
+{
+	"nodes":[
+		{"id":"ddb04d2d67ff9eb4","type":"text","text":"\"How do I know I exist?\"","x":-437,"y":-380,"width":297,"height":50},
+		{"id":"4e6d6c3e48d9ac35","type":"text","text":"[[Rene Descartes]]","x":-392,"y":-540,"width":208,"height":60},
+		{"id":"94522ce8bc626a02","type":"text","text":"Radically scrutinize everything ","x":-469,"y":-220,"width":362,"height":50},
+		{"id":"80ebca9f3edb068d","type":"text","text":"Realize I can't be sure of anything except that I am thinking and that must be evidence of a thinking agent.","x":-494,"y":-60,"width":412,"height":113},
+		{"id":"ad21dcb1f6488438","type":"text","text":"I can't however be sure of others existing. Everything apart from me is thus separate.","x":-474,"y":140,"width":372,"height":100},
+		{"id":"50691c498d33ced6","type":"text","text":"Subject/Object Distinction. ","x":-413,"y":320,"width":250,"height":60},
+		{"id":"0053fb495ada3b22","type":"text","text":"[[Res Cogitas and Extensia]]","x":-437,"y":500,"width":303,"height":60},
+		{"id":"54595722aa562367","type":"text","text":"[[Sarte]]","x":390,"y":1120,"width":129,"height":60},
+		{"id":"7f0ff7fce510440f","type":"text","text":"[[Husserl]]","x":-358,"y":1220,"width":145,"height":60},
+		{"id":"fee10186a1389c1c","type":"text","text":"[[Heidegger]]","x":552,"y":-540,"width":152,"height":50},
+		{"id":"007a0ef5ff59b054","type":"text","text":"[[Subject Object Distinction]]","x":521,"y":-240,"width":215,"height":70}
+	],
+	"edges":[
+		{"id":"8cca1210087e7ff7","fromNode":"4e6d6c3e48d9ac35","fromSide":"bottom","toNode":"ddb04d2d67ff9eb4","toSide":"top"},
+		{"id":"aa8b0a6cffce3957","fromNode":"ddb04d2d67ff9eb4","fromSide":"bottom","toNode":"94522ce8bc626a02","toSide":"top"},
+		{"id":"a0fd798bdffee7ad","fromNode":"94522ce8bc626a02","fromSide":"bottom","toNode":"80ebca9f3edb068d","toSide":"top"},
+		{"id":"72b4e6753d925cec","fromNode":"80ebca9f3edb068d","fromSide":"bottom","toNode":"ad21dcb1f6488438","toSide":"top"},
+		{"id":"cd26c2ba11d26144","fromNode":"ad21dcb1f6488438","fromSide":"bottom","toNode":"50691c498d33ced6","toSide":"top"},
+		{"id":"b7a9a66bdfc60c08","fromNode":"50691c498d33ced6","fromSide":"bottom","toNode":"0053fb495ada3b22","toSide":"top"},
+		{"id":"0cc2e361d531ac75","fromNode":"0053fb495ada3b22","fromSide":"right","toNode":"007a0ef5ff59b054","toSide":"left","label":"Cartesian Dualism"},
+		{"id":"da9cff03a34e49da","fromNode":"fee10186a1389c1c","fromSide":"bottom","toNode":"007a0ef5ff59b054","toSide":"top","label":"Objects"}
+	]
+}
