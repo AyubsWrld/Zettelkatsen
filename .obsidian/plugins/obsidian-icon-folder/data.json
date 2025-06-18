@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
-      "LiShapes",
-      "⁉",
-      "LiQuote",
-      "LiNotepadText",
-      "LiMinimize"
+      "LiPersonStanding",
+      "LiProjector",
+      "LiApple",
+      "LiCalendar",
+      "LiBrain"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -136,7 +136,7 @@
   "01 - Projects/Keeper - OS/Misc/Components.md": "LiShapes",
   "01 - Projects/Keeper - OS/Misc/Idea.md": "LiLightbulb",
   "01 - Projects/Keeper - OS/Misc/Prereqs.md": "❕",
-  "03 - Resources/Neovim": "🇻🇳",
+  "03 - Resources/Neovim": "LiText",
   "03 - Resources/WIN32": "LiAppWindow",
   "03 - Resources/WIN32/WMI": "LiMessageSquareReply",
   "03 - Resources/WIN32/File System": "LiFile",
@@ -253,9 +253,13 @@
   "03 - Resources/Redis/Go/Storing a Hash.md": "LiHash",
   "03 - Resources/Redis/Go/Reading into a Struct.md": "LiShapes",
   "03 - Resources/Go/Error Handling": "LiCross",
-  "03 - Resources/Go/Methods": "LiBraces",
-  "02 - Areas/Philosophy/Existentialism/Nietchze": "LiMinimize",
-  "02 - Areas/Philosophy/Existentialism/Scribbles": "LiNotepadText",
-  "02 - Areas/Philosophy/Existentialism/Final Study": "⁉",
-  "02 - Areas/Philosophy/Existentialism/Final Study/Mind Map.canvas": "LiShapes"
+  "03 - Resources/Go/Literal Types": "LiSquareSplitVertical",
+  "03 - Resources/Go/Literal Types/Literal Types.md": "LiSquareSplitVertical",
+  "02 - Areas/Philosophy/Existentialism/Heidegger": "LiHeadingGlyph",
+  "02 - Areas/Philosophy/Existentialism/Edmund Husserl": "LiDiceGlyph",
+  "02 - Areas/Philosophy/Existentialism/Edmund Husserl/Consciousness as Intentional.md": "LiBrain",
+  "02 - Areas/Philosophy/Existentialism/Edmund Husserl/Dates.md": "LiCalendar",
+  "02 - Areas/Philosophy/Existentialism/Edmund Husserl/Epoché.md": "LiApple",
+  "02 - Areas/Philosophy/Existentialism/Edmund Husserl/Husserl's Phenomenological Project.md": "LiProjector",
+  "02 - Areas/Philosophy/Existentialism/Heidegger/Dasein.md": "LiPersonStanding"
 }
