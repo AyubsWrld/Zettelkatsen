@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiArrowUp01",
+      "LiCurlyBraces",
       "LiPersonStanding",
       "LiProjector",
-      "LiApple",
-      "LiCalendar",
-      "LiBrain"
+      "LiApple"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -261,5 +261,7 @@
   "02 - Areas/Philosophy/Existentialism/Edmund Husserl/Dates.md": "LiCalendar",
   "02 - Areas/Philosophy/Existentialism/Edmund Husserl/Epoché.md": "LiApple",
   "02 - Areas/Philosophy/Existentialism/Edmund Husserl/Husserl's Phenomenological Project.md": "LiProjector",
-  "02 - Areas/Philosophy/Existentialism/Heidegger/Dasein.md": "LiPersonStanding"
+  "02 - Areas/Philosophy/Existentialism/Heidegger/Dasein.md": "LiPersonStanding",
+  "03 - Resources/Go/Methods": "LiCurlyBraces",
+  "03 - Resources/Go/Bytes": "LiArrowUp01"
 }
